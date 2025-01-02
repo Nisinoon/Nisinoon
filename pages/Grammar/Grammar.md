@@ -131,9 +131,9 @@ Components occur in all lexical categories, not just verbs. But the particles te
 
 In Nisinoon, our standard for hyphens is:
 
-- **Initials:** hyphen at right, e.g. {{{inex 'siso-' 'mez'}}} 'cut'; Blackfoot
-- **Medials:** hyphen on both sides, e.g. {{{inex '-askw-' 'mez'}}} 'grass'; Delaware
-- **Finals:** hyphen at left, e.g. {{{inex '-ape' 'mez'}}} 'sit'; Menominee
+- **Initials:** hyphen at right, e.g. {{{inex 'siso-' 'mez'}}} {{{tln 'cut'}}}; Blackfoot
+- **Medials:** hyphen on both sides, e.g. {{{inex '-askw-' 'mez'}}} {{{tln 'grass'}}}; Delaware
+- **Finals:** hyphen at left, e.g. {{{inex '-ape' 'mez'}}} {{{tln 'sit'}}}; Menominee
 {.bulleted .list}
 
 However, other authors don't necessarily follow this. In that case we enter the data their way but convert it to the standard above in the project orthography.
@@ -144,7 +144,7 @@ Nouns in Algonquian languages can be animate or inanimate.
 
 - This can correlate with intuitive notions of animacy, i.e. if something is living it should be animate, but if not, it should be inanimate. But this is by no means always the case. It's just like gender in European languages---there, some nouns might be masculine, some might be feminine, but there's not necessarily any correlation with the object and sex. (Tables are feminine in Spanish, but masculine in German, for example. Why?) There's a huge literature on why particular nouns are either animate or inanimate in Algonquian languages; for our purposes we'll just say it can be arbitrary.
 
-- In most of the languages the plural is different depending on animacy---e.g. in Menominee, animate plurals have the suffix {{{inex '‑ak' 'mez'}}} and inanimate plurals have the suffix {{{inex '-an' 'mez'}}} ({{{inex 'āmōw' 'mez'}}} {{{tln 'bee' 'mez'}}}, {{{inex 'āmōw**ak**' 'mez'}}} {{{tln 'bees'}}}; {{{inex 'mēn' 'mez'}}} {{{tln 'blueberry'}}}, {{{inex 'mēn**an**' 'mez'}}} {{{tln 'blueberries'}}}).
+- In most of the languages the plural is different depending on animacy---e.g. in Menominee, animate plurals have the suffix {{{inex '‑ak' 'mez'}}} and inanimate plurals have the suffix {{{inex '-an' 'mez'}}} ({{{inex 'āmōw' 'mez'}}} {{{tln 'bee'}}}, {{{inex 'āmōw**ak**' 'mez'}}} {{{tln 'bees'}}}; {{{inex 'mēn' 'mez'}}} {{{tln 'blueberry'}}}, {{{inex 'mēn**an**' 'mez'}}} {{{tln 'blueberries'}}}).
 
 - In a few of the languages, e.g. Miami-Illinois (and in the hypothetical proto-language), the singular also has different suffixes depending on animacy.
 
@@ -369,7 +369,7 @@ Although we believe that this kind of relationship is purely historical, when an
 - Macaulay, Monica. in preparation. <cite>Menominee Reference Grammar</cite>. {#MacaulayPrep}
 - Macaulay, Monica and Joseph Salmons. 2017. <cite>Synchrony and Diachrony in Menominee Derivational Morphology</cite>. Morphology 27(2):179-215. {#MacaulaySalmons2017}
 - Nichols, John D. 2015. <cite>Ojibwe People's Dictionary</cite>. [https://ojibwe.lib.umn.edu/main-entry/ozhaashisagaa-vii](https://ojibwe.lib.umn.edu/main-entry/ozhaashisagaa-vii). {#Nichols2015}
-- O'Meara, John. 1990. <cite>Delaware Stem Morphology</cite>. Montreal, Quebec: McGill University Ph.D. dissertat {#OMeara1990}
+- O'Meara, John. 1990. <cite>Delaware Stem Morphology</cite>. Montreal, Quebec: McGill University Ph.D. dissertation {#OMeara1990}
 - Oxford, Will. 2007. <cite>Towards a Grammar of Innu-Aimun Particles</cite>. M.A. thesis,  Department of Linguistics, Memorial University of Newfoundland. {#Oxford2007}
 - Wolfart, H. Christoph. 1973. <cite>Plains Cree: A Grammatical Study</cite>. Transactions of the American Philosophical Society, New Series, Vol 63(5):1-90. Philadelphia: American Philosophical Society. {#Wolfart1973}
 {.references-list}
