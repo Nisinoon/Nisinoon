@@ -13,15 +13,17 @@ export default class Stem {
     category,
     form,
     gloss,
-    orthography,
     secondary,
     stemSource,
     subcategory,
     UR,
   } = {}) {
 
+    // This has to stay in the original orthography for now,
+    // because there's no information about which orthography is used for the stem.
+    this.form = form?.normalize()
+
     if (category) this.category = category
-    this.form = orthographies.transliterate(orthography, form)
     if (gloss) this.gloss = cleanGloss(gloss)
     this.secondary = secondary === `Y`
     if (subcategory) this.subcategory = subcategory

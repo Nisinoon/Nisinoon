@@ -168,7 +168,7 @@ export default class Component {
     }
 
     // Display Form
-    this.displayForm = this.form || this.UR || form  // `form` here is in the original orthography
+    this.displayForm = this.form || this.UR || form  // `form` here is in the original orthography (the project orthography would be `this.form`)
 
   }
 
