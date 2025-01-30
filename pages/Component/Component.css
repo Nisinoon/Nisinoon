@@ -97,13 +97,18 @@ legend {
   inline-size: 100%;
 }
 
+small {
+  font-size:  small;
+  font-style: italic;
+}
+
 table {
 
   & th {
-    text-align:      center;
-    font-weight:     500;
-    text-decoration: underline;
-    vertical-align:  bottom;
+    border-bottom:  1px solid black;
+    text-align:     center;
+    font-weight:    500;
+    vertical-align: bottom;
   }
 
   :is(td, th) {

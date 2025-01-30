@@ -235,7 +235,8 @@
         <legend class=label>Stems</legend>
         <table>
           <thead>
-            <th scope=col>Form</th>
+            <th scope=col>Form<br><small>(Orig. Ortho.)</small></th>
+            <th scope=col>UR<br><small>(Orig. Ortho.)</small></th>
             <th scope=col>Category</th>
             <th scope=col>Subcategory</th>
             <th scope=col>Gloss</th>
@@ -245,7 +246,8 @@
           <tbody>
             {{#each stems }}
               <tr>
-                <td class='stem-form txn' lang='{{ ../ISO }}'>{{ form }}</td>
+                <td class='stem-form txn' lang='{{ ../ISO }}'>{{#if form }}{{ form }}{{else}}—{{/if}}</td>
+                <td class=txn lang='{{ ../ISO }}'>{{#if UR }}{{ UR }}{{else}}—{{/if}}</td>
                 <td class=stem-category>{{#if category }}{{ category }}{{else}}—{{/if}}</td>
                 <td class=stem-subcategory>{{#if subcategory }}{{ subcategory }}{{else}}—{{/if}}</td>
                 <td>{{#if gloss }}‘{{ gloss }}’{{/if}}</td>
