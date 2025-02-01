@@ -102,8 +102,10 @@ If you see an error in this bibliography, or would like to suggest any additions
 
 ## Former Team Members {{> backlink/backlink }} {#former-team-members}
 
+- Nina Chan, *High School Intern* (Madison, WI), 2024
 - Jack Crabb, *Undergraduate Research Assistant* (University of Wisconsin-Madison), 2023–2024
 - Andrea Cudworth, *Project Assistant* (University of Wisconsin-Madison), 2018-2019
+- Celeste Dailey, *Bibliographer* (University of Wisconsin-Madison), 2025
 - Thaddeus A. Dockery ("Tad"), *Developer* (Wisconsin Historical Society), 2019
 - Rachel Fedorchak, *Undergraduate Research Assistant*, *Bibliographer* (University of Wisconsin-Madison), 2020-2021
 - Eli Fox Baker, *Undergraduate Research Assistant* (University of Wisconsin-Madison), 2023–2024
@@ -121,6 +123,7 @@ If you see an error in this bibliography, or would like to suggest any additions
 - Leksi Scarr, *Undergraduate Research Assistant* (University of Wisconsin-Madison), 2022–2023
 - Savana Stauss, *Bibliographer* (University of Wisconsin-Madison), 2018-2019
 - Jennifer Stoughton, *Undergraduate Research Assistant* (University of Wisconsin-Madison), 2022–2023
+- Charlotte Ward, *Undergraduate Research Assistant* (University of Wisconsin-Madison), 2024-2025
 - Brock Wroblewski, *Developer* (University of Wisconsin-Madison), 2018-2020
 {.bulleted .list}
 
