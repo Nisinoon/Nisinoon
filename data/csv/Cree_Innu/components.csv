@@ -1,8 +1,8 @@
 ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original orthography),Orthography Key Code,Form (project orthography),UR (if given; if different),UR (project orthography),PA form (original orthography),PA form (project orthography),Translation,Tags,Component Type,Subcategory,Initial: Reduplicated,Final: concrete / abstract,Final: secondary (y/n/b),Base Category (if secondary)-A,Match AI,Match II,Match TA,Match TI,Allomorph-A,Condition-A,Allomorph-B,Condition-B,Component occurs in stem (orig. orth)-A,Component occurs in stem (proj. orth)-A,Stem UR-A,Stem category-A,Stem subcategory-A,Stem translation-A,Secondary stem-A,Stem Source-A,Component occurs in stem (orig. orth)-B,Component occurs in stem (proj. orth)-B,Stem UR-B,Stem category-B,Stem subcategory-B,Stem translation-B,Secondary stem-B,Stem Source-B,Component occurs in stem (orig. orth)-C,Component occurs in stem (proj. orth)-C,Stem UR-C,Stem category-C,Stem subcategory-C,Stem translation-C,Secondary stem-C,Stem Source-C,Component occurs in stem (orig. orth)-D,Component occurs in stem (proj. orth)-D,Stem UR-D,Stem category-D,Stem subcategory-D,Stem translation-D,Secondary stem-D,Stem Source-D,Formative/component occurs in what component(s)-A,Contains component (enter)-A,Contains formative (enter)-A,Deverbal (y/n),Deverbal from,Public Comments,Private Comments,Speaker,1st check done,2nd check done
-165,Drapeau & Lambert-Bretiere,LD_RLB2011,"0293,0296,0300,0305",moe,,mont1268,-(â)kam-,C-I:1,,,,,,enclosed liquid,liquid (enclosed),medial,CLASS
+165,Drapeau & Lambert-Bretiere,LD_RLB2011,"0293,0296,0300,0305",moe,,mont1268,-(â)kam-,C-I:1,,,,,,enclosed liquid,"liquid (enclosed), CLASSIFIER",medial,CLASS
 166,Drapeau & Lambert-Bretiere,LD_RLB2011,0318,moe,,mont1268,-(â)ssû-,C-I:1,,,,,,viscous,viscous,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"p. 318: ""Could also be considered a verbal classifier. HOwever, it is not included in our count because of its obvious phonological relation to the noun -ašassu- 'mud'"" "
 167,Drapeau & Lambert-Bretiere,LD_RLB2011,"0300,0301,0303,0305",moe,,mont1268,-(i)pê(k)-,C-I:1,,,,,,free-flowing liquid,"liquid (free-flowing), CLASSIFIER",medial,CLASS
-168,Drapeau & Lambert-Bretiere,LD_RLB2011,"0300,0304,0307,0319",moe,,mont1268,-(i)tak-,C-I:1,,,,,,dry wood,wood (dry),medial,CLASS
+168,Drapeau & Lambert-Bretiere,LD_RLB2011,"0300,0304,0307,0319",moe,,mont1268,-(i)tak-,C-I:1,,,,,,dry wood,"wood (dry), CLASSIFIER",medial,CLASS
 191,Lambert-Bretiere,RLB2020,0104,moe,,mont1268,-a,C-I:Revised,,,,,,NG,,final,,,ABSTR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
 192,Lambert-Bretiere,RLB2020,0106,moe,,mont1268,-a,C-I:Revised,,,,,,NG,,final,TI,,,,,,,,,,,,,minueńit-a,,,V,TI,to like,,RLB2020;0106,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
 193,Lambert-Bretiere,RLB2020,0107,moe,,mont1268,-a,C-I:Revised,,,,,,NG,,final,II,,,,,,,,,,,,,mish-ipe-a,,,V,II,to be a high level of liquid,,RLB2020;0107,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
@@ -233,7 +233,7 @@ trunk",medial
 113,Drapeau,LD1980,0320,moe,,mont1268,eye·sku-,C-I:2,,,,,,be tired,tired,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,In French.
 114,Drapeau,LD1980,0317,moe,,mont1268,i,C-I:2,,,,,,NG,,final,V,,ABSTR,Y,PART,,,,,,,,,kwi·šku-pal-i-,,,V,V,move straight (bouge droit),,LD1980;0317,kwi·šku-kaš-i,,,V,V,cook right (cuit droit),,LD1980;0317,kwi·šku-pats·i,,,V,V,go in toboggan (va droit en tobaganne),,LD1980;0317,kwi·šku-ap-i,,,V,V,sit straight (droit assis),,LD1980;0317,,,,,,In French.,,,MAM
 381,York,FY2010,0087,moe,,mont1268,îlin-,C-I:1,,,,,,"common, like the others","common, like (others)",initial
-382,York,FY2010,0088,moe,,mont1268,îš-,C-I:1,,,,,,this way/direction,"direction (this), way (this)",initial,RR
+382,York,FY2010,0088,moe,,mont1268,îš-,C-I:1,,,,,,this way/direction,"direction (this), way (this), RELATIVE",initial,RR
 115,Drapeau,LD2011b,0501,moe,,mont1268,išêk-,C-I:1,,,,,,cliff,cliff,medial
 116,Drapeau,LD2011b,"0493,0504",moe,,mont1268,iši-,C-I:1,,,,,,NG,,final,AI,,,,,,â-
 383,York,FY2010,"0088,0089",moe,,mont1268,išk-,C-I:1,,,,,,tired,tired,initial
@@ -341,7 +341,7 @@ trunk",medial
 262,Lambert-Bretiere,RLB2020,0108,moe,,mont1268,shishu,C-I:Revised,,,,,,cover with,cover (V),initial,,,,,,,,,,,,,,shishu-ńushkuauatsh-in,,,V,TA,to cover with flour by hand,,RLB2020;0108,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
 143,Drapeau,LD2011b,0504,moe,,mont1268,ši-,C-I:1,,,,,,NG,,final,AI
 61,Denny,JPD1974,0342,moe,,mont1268,ši·t,C-I:3,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"VMN: likely means ""tight distribution"""
-144,Drapeau,LD2011b,0504,moe,,mont1268,šiku-,C-I:1,,,,,,ice,ice,medial,INCORP
+144,Drapeau,LD2011b,0504,moe,,mont1268,šiku-,C-I:1,,,,,,ice,"ice, INCORPORATED",medial,INCORP
 437,York,FY2010,0084,moe,,mont1268,šîkun-,C-I:1,,,,,,snowmelt,snowmelt,initial
 146,Drapeau,LD1980,0317,moe,,mont1268,šin,C-I:2,,,,,,extended,extended,final,V,,CONCR,Y,PART,,,,,,,,,kwi·šku-šin,,,V,V,extend straight (droit étendu),,LD1980;0317,pisti-šin-,,,V,V,extend by mistake (étendu par erreur),,LD1980;0319,,,,,,,,,,,,,,,,,,,,,,In French.,,,MAM
 438,York,FY2010,0092,moe,,mont1268,šîšî-,C-I:1,,,,,,urinate,urinate,initial
@@ -351,7 +351,7 @@ trunk",medial
 151,Drapeau,LD1980,0317,moe,,mont1268,t,C-I:2,,,,,,walk,walk,final,V,,CONCR,Y,PART,,,,,,,,,kwi·šku-t-e·,,,V,V,walk straight (marche droit),,LD1980;0317,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,In French.,,,MAM
 152,Drapeau,LD1980,0317,moe,,mont1268,ta·,C-I:2,,,,,,NG,,final,V,,ABSTR,Y,PART,,,,,,,,,kwi·šku-ku-ta·,,,V,V,hang right (suspend qqch droit),,LD1980;0317,kwi·šku-pu-ta·,,,V,V,saw something right (scie qqch droit),,LD1980;0317,pisti-pu-ta·-,,,V,V,saw by mistake (scie par erreur),,LD1980;0319,pisti-ku-ta·-,,,V,V,hang by mistake (suspend par erreur),,LD1980;0319,,,,,,In French.,,,MAM
 153,Drapeau,LD1980,0320,moe,,mont1268,ta·ku,C-I:2,,,,,,voice,voice,final,,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,In French.
-154,Drapeau,LD2011b,0504,moe,,mont1268,tak-,C-I:1,,,,,,dry wood,wood (dry),medial,INCORP
+154,Drapeau,LD2011b,0504,moe,,mont1268,tak-,C-I:1,,,,,,dry wood,"wood (dry), INCORPORATED",medial,INCORP
 62,Denny,JPD1974,0340,moe,,mont1268,takota·wi,C-I:3,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"VMN: Likely means ""summit"""
 263,Lambert-Bretiere,RLB2020,0104,moe,,mont1268,takushi,C-I:Revised,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"used in ""'he arrives' [event]""",, 
 440,York,FY2010,0004,moe,,mont1268,taškam-,C-I:1,,,,,,from one side to the other,"edge, side",initial

@@ -1,69 +1,69 @@
 ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original orthography),Orthography Key Code,Form (project orthography),UR (if given; if different),UR (project orthography),PA form (original orthography),PA form (project orthography),Translation,Tags,Component Type,Subcategory,Initial: Reduplicated,Final: concrete / abstract,Final: secondary (y/n/b),Base Category (if secondary)-A,Match AI,Match II,Match TA,Match TI,Allomorph-A,Condition-A,Component occurs in stem (orig. orth)-A,Component occurs in stem (proj. orth)-A,Stem UR-A,Stem category-A,Stem subcategory-A,Stem translation-A,Secondary stem-A,Stem Source-A,Formative/component occurs in what component(s)-A,Contains component (enter)-A,Contains formative (enter)-A,Deverbal (y/n),Deverbal from,Public Comments,Private Comments,Speaker,1st check done,2nd check done
-17,Day,GMD1995,XXIII,abe,,west2630,-adôgwes,AB:3,,,,,,cross-cousin,"cross-cousin, DEPENDENT",initial
-72,Day,GMD1995,XXVI,abe,,west2630,-anowa,AB:3,,,,,,cheek,"cheek, DEPENDENT",initial
-177,Day,GMD1995,XXX,abe,,west2630,-beskwan,AB:3,,,,,,the back of the body,"back (N), DEPENDENT",initial
-246,Day,GMD1995,XXXIII,abe,,west2630,-Co,AB:3,,,,,,fleshy lump or muscle,"lump, muscle, DEPENDENT",initial,,,,,,,,,,,,,,,,,,,,,,,,,"not clear if the capital ""C"" is a typo or is supposed to be that way"
-250,Day,GMD1995,XXXIII,abe,,west2630,-dadan,AB:3,,,,,,father,"father, DEPENDENT",initial
-267,Day,GMD1995,XXXIV,abe,,west2630,-deb,AB:3,,,,,,head,"head, DEPENDENT",initial,,,,,,,,,,,,,,,,,,,,,,,,,cf. odeb-
-778,Day,GMD1995,LIV,abe,,west2630,odeb-,AB:3,,,,,,head,head,initial,,,,,,,,,,,,,,,,,,,,,,,,,cf. -deb
-278,Day,GMD1995,XXXIV,abe,,west2630,-deli,AB:3,,,,,,shoulder blade,"shoulder blade, DEPENDENT",initial
-280,Day,GMD1995,XXXIV,abe,,west2630,-dezi,AB:3,,,,,,gizzard,"gizzard, DEPENDENT",initial
-287,Day,GMD1995,XXXIV,abe,,west2630,-dolka,AB:3,,,,,,"stomach, chest, breast","breast, chest, stomach, DEPENDENT",initial,,,,,,,,,,,,,,,,,,,,,,,,,cf. -lagezi
-288,Day,GMD1995,XXXIV,abe,,west2630,-dollo,AB:3,,,,,,kidney,"kidney, DEPENDENT",initial
-289,Day,GMD1995,XXXIV,abe,,west2630,-don,AB:3,,,,,,mouth,"mouth, DEPENDENT",initial
-290,Day,GMD1995,XXXIV,abe,,west2630,-doz,AB:3,,,,,,daughter,"daughter, DEPENDENT",initial
-294,Day,GMD1995,XXXV,abe,,west2630,-eld-,AB:3,,,,,,hand,"hand, DEPENDENT",initial,,,,,,,,,,-elj-
-324,Day,GMD1995,XXXVI,abe,,west2630,-geji,AB:3,,,,,,"rump, buttocks","buttocks, rump, DEPENDENT",initial
-338,Day,GMD1995,XXXVI,abe,,west2630,-geskwan,AB:3,,,,,,elbow,"elbow, DEPENDENT",initial
-401,Day,GMD1995,XXXIX,abe,,west2630,-haga,AB:3,,,,,,body,"body, DEPENDENT",initial
-404,Day,GMD1995,XXXIX,abe,,west2630,-ibid,AB:3,,,,,,tooth,"tooth, DEPENDENT",initial
-405,Day,GMD1995,XXXIX,abe,,west2630,-icemiz,AB:3,,,,,,younger sibling,"sibling (younger), DEPENDENT",initial
-406,Day,GMD1995,XXXIX,abe,,west2630,-id-,AB:3,,,,,,together with,"together, DEPENDENT",initial,,,,,,,,,,,,,,,,,,,,,,,,,see wid-
-408,Day,GMD1995,XXXIX,abe,,west2630,-idokan,AB:3,,,,,,elder brother,"brother (older), DEPENDENT",initial
-409,Day,GMD1995,XXXIX,abe,,west2630,-idôpso,AB:3,,,,,,sibling of the opposite sex,"sibling (opposite sex), DEPENDENT",initial
-410,Day,GMD1995,XXXIX,abe,,west2630,-igawes,AB:3,,,,,,mother,"mother, DEPENDENT",initial
-411,Day,GMD1995,XXXIX,abe,,west2630,-ijia,AB:3,,,,,,"brother (ego male), parallel male cousin","brother (of man), cousin (male), DEPENDENT",initial
-413,Day,GMD1995,XL,abe,,west2630,-ikkwa,AB:3,,,,,,"thigh, ham, hindquarter","ham, hindquarter, thigh, DEPENDENT",initial
-416,Day,GMD1995,XL,abe,,west2630,-ilalo,AB:3,,,,,,tongue,"tongue, DEPENDENT",initial
-417,Day,GMD1995,XL,abe,,west2630,-ilem,AB:3,,,,,,sister-in-law,"sister-in-law, DEPENDENT",initial
-418,Day,GMD1995,XL,abe,,west2630,-ili,AB:3,,,,,,navel,"navel, DEPENDENT",initial
-419,Day,GMD1995,XL,abe,,west2630,-ilidebôn,AB:3,,,,,,brain,"brain, DEPENDENT",initial
-420,Day,GMD1995,XL,abe,,west2630,-itkwa,AB:3,,,,,,"thumb, (pl.) fingers","finger, thumb, DEPENDENT",initial
-421,Day,GMD1995,XL,abe,,west2630,-ito,AB:3,,,,,,"fur, beard on one side","beard, fur, DEPENDENT",initial
-427,Day,GMD1995,XL,abe,,west2630,-jat,AB:3,,,,,,"sinew, tendon","sinew, tendon, DEPENDENT",initial
-440,Day,GMD1995,XLI,abe,,west2630,-Ji,AB:3,,,,,,"turd, dung, manure","dung, manure, turd, DEPENDENT",initial
-441,Day,GMD1995,XLI,abe,,west2630,-Jo,AB:3,,,,,,container,"container, DEPENDENT",initial
-439,Day,GMD1995,XLI,abe,,west2630,-jôl,AB:3,,,,,,"nose, nostril","nose, nostril, DEPENDENT",initial
-449,Day,GMD1995,XLI,abe,,west2630,-kaz,AB:3,,,,,,"claw, nail, hoof","claw, hoof, nail, DEPENDENT",initial
-454,Day,GMD1995,XLI,abe,,west2630,-kezen,AB:3,,,,,,"shoe, moccasin","moccasin, shoe, DEPENDENT",initial
-466,Day,GMD1995,XLII,abe,,west2630,-kôd,AB:3,,,,,,leg,"leg, DEPENDENT",initial
-481,Day,GMD1995,XLII,abe,,west2630,-kwedegw,AB:3,,,,,,knee,"knee, DEPENDENT",initial,,,,,,,,,,-kedegw
-488,Day,GMD1995,XLIII,abe,,west2630,-lagezi,AB:3,,,,,,"belly, abdomen","abdomen, belly, DEPENDENT",initial,,,,,,,,,,,,,,,,,,,,,,,,,cf. -dolka
-530,Day,GMD1995,XLIV,abe,,west2630,-logan,AB:3,,,,,,hip,"hip, DEPENDENT",initial
-564,Day,GMD1995,XLVI,abe,,west2630,-mahom,AB:3,,,,,,grandfather,"grandfather, DEPENDENT",initial
-613,Day,GMD1995,XLVIII,abe,,west2630,-messiz,AB:3,,,,,,elder sister,"sister (older), DEPENDENT",initial
-641,Day,GMD1995,XLIX,abe,,west2630,-mosom,AB:3,,,,,,remote male ancestor,"ancestor (male), DEPENDENT",initial
-721,Day,GMD1995,LII,abe,,west2630,-nijôn,AB:3,,,,,,child,"child, DEPENDENT",initial,,,,,,,,,,-ijôn
-756,Day,GMD1995,LIV,abe,,west2630,-nôgskwa,AB:3,,,,,,girl,"girl, DEPENDENT",initial
-843,Day,GMD1995,LVII,abe,,west2630,-ôjikw,AB:3,,,,,,"uncle, stepfather","stepfather, uncle, DEPENDENT",initial
-787,Day,GMD1995,LV,abe,,west2630,-okem,AB:3,,,,,,"aunt (father's sister, mother's brother's wife)","aunt, DEPENDENT",initial
-793,Day,GMD1995,LV,abe,,west2630,-olegwi,AB:3,,,,,,armpit,"armpit, DEPENDENT",initial
-795,Day,GMD1995,LV,abe,,west2630,-olhaga,AB:3,,,,,,waist,"waist, DEPENDENT",initial
-804,Day,GMD1995,LV,abe,,west2630,-oses,AB:3,,,,,,grandchild,"grandchild, DEPENDENT",initial
-871,Day,GMD1995,LVIII,abe,,west2630,-ôwigan,AB:3,,,,,,"spine, backbone","backbone, spine, DEPENDENT",initial
-878,Day,GMD1995,LVIII,abe,,west2630,-pan,AB:3,,,,,,lung,"lung, DEPENDENT",initial
-882,Day,GMD1995,LVIII,abe,,west2630,-pedin,AB:3,,,,,,arm,"arm, DEPENDENT",initial
-890,Day,GMD1995,LIX,abe,,west2630,-pigasen,AB:3,,,,,,a rib,"rib, DEPENDENT",initial
-926,Day,GMD1995,LX,abe,,west2630,-sem,AB:3,,,,,,"daughter-in-law, son's wife","daughter-in-law, DEPENDENT",initial
-941,Day,GMD1995,LXI,abe,,west2630,-sizegw,AB:3,,,,,,eye,"eye, DEPENDENT",initial
-951,Day,GMD1995,LXI,abe,,west2630,-skwen,AB:3,,,,,,liver,"liver, DEPENDENT",initial
-952,Day,GMD1995,LXI,abe,,west2630,"-sôboan, -sôboôn",AB:3,,,,,,eyelashes,"eyelash, DEPENDENT",initial
-965,Day,GMD1995,LXII,abe,,west2630,-tôgan,AB:3,,,,,,Adam's apple,"Adam's apple, DEPENDENT",initial
-1071,Day,GMD1995,LXVI,abe,,west2630,-zasiz,AB:3,,,,,,mother's brother,"uncle, DEPENDENT",initial
-1081,Day,GMD1995,LXVI,abe,,west2630,-zegwes,AB:3,,,,,,mother-in-law,"mother-in-law, DEPENDENT",initial
-1089,Day,GMD1995,LXVII,abe,,west2630,-zid,AB:3,,,,,,foot (of animal or person),"foot, DEPENDENT",initial
-1092,Day,GMD1995,LXVII,abe,,west2630,-zihlos,AB:3,,,,,,father-in-law,"father-in-law, DEPENDENT",initial
-1105,Day,GMD1995,LXVII,abe,,west2630,-zoskwigan,AB:3,,,,,,lower leg,"leg, DEPENDENT",initial
+17,Day,GMD1995,XXIII,abe,,west2630,-adôgwes,AB:3,,,,,,cross-cousin,"cross-cousin, DEPENDENT",initial,Dep
+72,Day,GMD1995,XXVI,abe,,west2630,-anowa,AB:3,,,,,,cheek,"cheek, DEPENDENT",initial,Dep
+177,Day,GMD1995,XXX,abe,,west2630,-beskwan,AB:3,,,,,,the back of the body,"back (N), DEPENDENT",initial,Dep
+246,Day,GMD1995,XXXIII,abe,,west2630,-Co,AB:3,,,,,,fleshy lump or muscle,"lump, muscle, DEPENDENT",initial,Dep,,,,,,,,,,,,,,,,,,,,,,,,"not clear if the capital ""C"" is a typo or is supposed to be that way"
+250,Day,GMD1995,XXXIII,abe,,west2630,-dadan,AB:3,,,,,,father,"father, DEPENDENT",initial,Dep
+267,Day,GMD1995,XXXIV,abe,,west2630,-deb,AB:3,,,,,,head,"head, DEPENDENT",initial,Dep,,,,,,,,,,,,,,,,,,,,,,,,cf. odeb-
+778,Day,GMD1995,LIV,abe,,west2630,odeb-,AB:3,,,,,,head,head,initial,Dep,,,,,,,,,,,,,,,,,,,,,,,,cf. -deb
+278,Day,GMD1995,XXXIV,abe,,west2630,-deli,AB:3,,,,,,shoulder blade,"shoulder blade, DEPENDENT",initial,Dep
+280,Day,GMD1995,XXXIV,abe,,west2630,-dezi,AB:3,,,,,,gizzard,"gizzard, DEPENDENT",initial,Dep
+287,Day,GMD1995,XXXIV,abe,,west2630,-dolka,AB:3,,,,,,"stomach, chest, breast","breast, chest, stomach, DEPENDENT",initial,Dep,,,,,,,,,,,,,,,,,,,,,,,,cf. -lagezi
+288,Day,GMD1995,XXXIV,abe,,west2630,-dollo,AB:3,,,,,,kidney,"kidney, DEPENDENT",initial,Dep
+289,Day,GMD1995,XXXIV,abe,,west2630,-don,AB:3,,,,,,mouth,"mouth, DEPENDENT",initial,Dep
+290,Day,GMD1995,XXXIV,abe,,west2630,-doz,AB:3,,,,,,daughter,"daughter, DEPENDENT",initial,Dep
+294,Day,GMD1995,XXXV,abe,,west2630,-eld-,AB:3,,,,,,hand,"hand, DEPENDENT",initial,Dep,,,,,,,,,-elj-
+324,Day,GMD1995,XXXVI,abe,,west2630,-geji,AB:3,,,,,,"rump, buttocks","buttocks, rump, DEPENDENT",initial,Dep
+338,Day,GMD1995,XXXVI,abe,,west2630,-geskwan,AB:3,,,,,,elbow,"elbow, DEPENDENT",initial,Dep
+401,Day,GMD1995,XXXIX,abe,,west2630,-haga,AB:3,,,,,,body,"body, DEPENDENT",initial,Dep
+404,Day,GMD1995,XXXIX,abe,,west2630,-ibid,AB:3,,,,,,tooth,"tooth, DEPENDENT",initial,Dep
+405,Day,GMD1995,XXXIX,abe,,west2630,-icemiz,AB:3,,,,,,younger sibling,"sibling (younger), DEPENDENT",initial,Dep
+406,Day,GMD1995,XXXIX,abe,,west2630,-id-,AB:3,,,,,,together with,"together, DEPENDENT",initial,Dep,,,,,,,,,,,,,,,,,,,,,,,,see wid-
+408,Day,GMD1995,XXXIX,abe,,west2630,-idokan,AB:3,,,,,,elder brother,"brother (older), DEPENDENT",initial,Dep
+409,Day,GMD1995,XXXIX,abe,,west2630,-idôpso,AB:3,,,,,,sibling of the opposite sex,"sibling (opposite sex), DEPENDENT",initial,Dep
+410,Day,GMD1995,XXXIX,abe,,west2630,-igawes,AB:3,,,,,,mother,"mother, DEPENDENT",initial,Dep
+411,Day,GMD1995,XXXIX,abe,,west2630,-ijia,AB:3,,,,,,"brother (ego male), parallel male cousin","brother (of man), cousin (male), DEPENDENT",initial,Dep
+413,Day,GMD1995,XL,abe,,west2630,-ikkwa,AB:3,,,,,,"thigh, ham, hindquarter","ham, hindquarter, thigh, DEPENDENT",initial,Dep
+416,Day,GMD1995,XL,abe,,west2630,-ilalo,AB:3,,,,,,tongue,"tongue, DEPENDENT",initial,Dep
+417,Day,GMD1995,XL,abe,,west2630,-ilem,AB:3,,,,,,sister-in-law,"sister-in-law, DEPENDENT",initial,Dep
+418,Day,GMD1995,XL,abe,,west2630,-ili,AB:3,,,,,,navel,"navel, DEPENDENT",initial,Dep
+419,Day,GMD1995,XL,abe,,west2630,-ilidebôn,AB:3,,,,,,brain,"brain, DEPENDENT",initial,Dep
+420,Day,GMD1995,XL,abe,,west2630,-itkwa,AB:3,,,,,,"thumb, (pl.) fingers","finger, thumb, DEPENDENT",initial,Dep
+421,Day,GMD1995,XL,abe,,west2630,-ito,AB:3,,,,,,"fur, beard on one side","beard, fur, DEPENDENT",initial,Dep
+427,Day,GMD1995,XL,abe,,west2630,-jat,AB:3,,,,,,"sinew, tendon","sinew, tendon, DEPENDENT",initial,Dep
+440,Day,GMD1995,XLI,abe,,west2630,-Ji,AB:3,,,,,,"turd, dung, manure","dung, manure, turd, DEPENDENT",initial,Dep
+441,Day,GMD1995,XLI,abe,,west2630,-Jo,AB:3,,,,,,container,"container, DEPENDENT",initial,Dep
+439,Day,GMD1995,XLI,abe,,west2630,-jôl,AB:3,,,,,,"nose, nostril","nose, nostril, DEPENDENT",initial,Dep
+449,Day,GMD1995,XLI,abe,,west2630,-kaz,AB:3,,,,,,"claw, nail, hoof","claw, hoof, nail, DEPENDENT",initial,Dep
+454,Day,GMD1995,XLI,abe,,west2630,-kezen,AB:3,,,,,,"shoe, moccasin","moccasin, shoe, DEPENDENT",initial,Dep
+466,Day,GMD1995,XLII,abe,,west2630,-kôd,AB:3,,,,,,leg,"leg, DEPENDENT",initial,Dep
+481,Day,GMD1995,XLII,abe,,west2630,-kwedegw,AB:3,,,,,,knee,"knee, DEPENDENT",initial,Dep,,,,,,,,,-kedegw
+488,Day,GMD1995,XLIII,abe,,west2630,-lagezi,AB:3,,,,,,"belly, abdomen","abdomen, belly, DEPENDENT",initial,Dep,,,,,,,,,,,,,,,,,,,,,,,,cf. -dolka
+530,Day,GMD1995,XLIV,abe,,west2630,-logan,AB:3,,,,,,hip,"hip, DEPENDENT",initial,Dep
+564,Day,GMD1995,XLVI,abe,,west2630,-mahom,AB:3,,,,,,grandfather,"grandfather, DEPENDENT",initial,Dep
+613,Day,GMD1995,XLVIII,abe,,west2630,-messiz,AB:3,,,,,,elder sister,"sister (older), DEPENDENT",initial,Dep
+641,Day,GMD1995,XLIX,abe,,west2630,-mosom,AB:3,,,,,,remote male ancestor,"ancestor (male), DEPENDENT",initial,Dep
+721,Day,GMD1995,LII,abe,,west2630,-nijôn,AB:3,,,,,,child,"child, DEPENDENT",initial,Dep,,,,,,,,,-ijôn
+756,Day,GMD1995,LIV,abe,,west2630,-nôgskwa,AB:3,,,,,,girl,"girl, DEPENDENT",initial,Dep
+843,Day,GMD1995,LVII,abe,,west2630,-ôjikw,AB:3,,,,,,"uncle, stepfather","stepfather, uncle, DEPENDENT",initial,Dep
+787,Day,GMD1995,LV,abe,,west2630,-okem,AB:3,,,,,,"aunt (father's sister, mother's brother's wife)","aunt, DEPENDENT",initial,Dep
+793,Day,GMD1995,LV,abe,,west2630,-olegwi,AB:3,,,,,,armpit,"armpit, DEPENDENT",initial,Dep
+795,Day,GMD1995,LV,abe,,west2630,-olhaga,AB:3,,,,,,waist,"waist, DEPENDENT",initial,Dep
+804,Day,GMD1995,LV,abe,,west2630,-oses,AB:3,,,,,,grandchild,"grandchild, DEPENDENT",initial,Dep
+871,Day,GMD1995,LVIII,abe,,west2630,-ôwigan,AB:3,,,,,,"spine, backbone","backbone, spine, DEPENDENT",initial,Dep
+878,Day,GMD1995,LVIII,abe,,west2630,-pan,AB:3,,,,,,lung,"lung, DEPENDENT",initial,Dep
+882,Day,GMD1995,LVIII,abe,,west2630,-pedin,AB:3,,,,,,arm,"arm, DEPENDENT",initial,Dep
+890,Day,GMD1995,LIX,abe,,west2630,-pigasen,AB:3,,,,,,a rib,"rib, DEPENDENT",initial,Dep
+926,Day,GMD1995,LX,abe,,west2630,-sem,AB:3,,,,,,"daughter-in-law, son's wife","daughter-in-law, DEPENDENT",initial,Dep
+941,Day,GMD1995,LXI,abe,,west2630,-sizegw,AB:3,,,,,,eye,"eye, DEPENDENT",initial,Dep
+951,Day,GMD1995,LXI,abe,,west2630,-skwen,AB:3,,,,,,liver,"liver, DEPENDENT",initial,Dep
+952,Day,GMD1995,LXI,abe,,west2630,"-sôboan, -sôboôn",AB:3,,,,,,eyelashes,"eyelash, DEPENDENT",initial,Dep
+965,Day,GMD1995,LXII,abe,,west2630,-tôgan,AB:3,,,,,,Adam's apple,"Adam's apple, DEPENDENT",initial,Dep
+1071,Day,GMD1995,LXVI,abe,,west2630,-zasiz,AB:3,,,,,,mother's brother,"uncle, DEPENDENT",initial,Dep
+1081,Day,GMD1995,LXVI,abe,,west2630,-zegwes,AB:3,,,,,,mother-in-law,"mother-in-law, DEPENDENT",initial,Dep
+1089,Day,GMD1995,LXVII,abe,,west2630,-zid,AB:3,,,,,,foot (of animal or person),"foot, DEPENDENT",initial,Dep
+1092,Day,GMD1995,LXVII,abe,,west2630,-zihlos,AB:3,,,,,,father-in-law,"father-in-law, DEPENDENT",initial,Dep
+1105,Day,GMD1995,LXVII,abe,,west2630,-zoskwigan,AB:3,,,,,,lower leg,"leg, DEPENDENT",initial,Dep
 2,Day,GMD1995,XXIII,abe,,west2630,aaza-,AB:3,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,see ahaza-
 3,Day,GMD1995,XXIII,abe,,west2630,abab-,AB:3,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,untranslated root known only in abaskweda
 4,Day,GMD1995,XXIII,abe,,west2630,abag-,AB:3,,,,,,flat,flat,initial

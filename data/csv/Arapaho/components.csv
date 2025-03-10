@@ -7,131 +7,120 @@ ID,Component ID,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original or
 31,Cowell & Moss,AC_AM2003,0358,arp,,arap1274,-iini',AR:2,,,,,,NG,,final,II,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 46,Cowell & Moss,AC_AM2003,0351,arp,,arap1274,-oo',AR:2,,,,,,NG,,final,II,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 57,Cowell & Moss,AC_AM2008,0020,arp,,arap1274,-ooti-,AR:1,,,,,,NG,,final,II,,CONCR
-69,Cowell & Moss,AC_AM2005,0457,arp,,arap1274,-tii-,AR:1,,,,,,pseudotransitive with inan. objects,,final,AI+O,,,N
+69,Cowell & Moss,AC_AM2005,0457,arp,,arap1274,-tii-,AR:1,,,,,,pseudotransitive with inan. objects,AI+O,final,AI+O,,,N
 70,Cowell & Moss,AC_AM2008,0020,arp,,arap1274,-tii-,AR:1,,,,,,NG,,final,AI,,ABSTR
 73,Cowell & Moss,AC_AM2003,0351,arp,,arap1274,-u',AR:2,,,,,,NG,,final,II,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 74,Cowell & Moss,AC_AM2003,0358,arp,,arap1274,-uuni',AR:2,,,,,,NG,,final,II,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-80,Cowell & Moss,AC_AM2003,0368,arp,,arap1274,-θo'ohcoo,AR:2,,,,,,pounded dried meat,,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-124,Cowell & Moss,AC_AM2008,0178,arp,,arap1274,,AR:1,,/-(y)oto-/,,,,mountain,,medial,CLASS
-134,Cowell & Moss,AC_AM2008,0178,arp,,arap1274,,AR:1,,/-ceciniw-/,,,,"winters, years",,medial,CLASS
-140,Cowell & Moss,AC_AM2008,0186,arp,,arap1274,,AR:1,,/-co'oowu-/,,,,pool,,medial,INCORP,,,,,,,,,,,,,,,,/nees-i-co'oowu-see-/,V,AI,to leave behind pools [of blood] as one walks,,AC_AM2008;0186,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM: Stem A is [R:Blood Clot Boy]
-145,Cowell & Moss,AC_AM2008,0187,arp,,arap1274,,AR:1,,/-e'ei-/,,,,head,,medial,INCORP,,,,,,,,,,,,,,,,/nehyoni-bix-e'ei-koohu-/,V,AI,to rapidly stick one's head up to check on s.t. ,,AC_AM2008;0187,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Stem A is [O: Enemy Trail, 46]"
+80,Cowell & Moss,AC_AM2003,0368,arp,,arap1274,-θo'ohcoo,AR:2,,,,,,pounded dried meat,meat,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+124,Cowell & Moss,AC_AM2008,0178,arp,,arap1274,,AR:1,,/-(y)oto-/,,,,mountain,mountain,medial,CLASS
+134,Cowell & Moss,AC_AM2008,0178,arp,,arap1274,,AR:1,,/-ceciniw-/,,,,"winters, years","winter, year",medial,CLASS
+140,Cowell & Moss,AC_AM2008,0186,arp,,arap1274,,AR:1,,/-co'oowu-/,,,,pool,pool,medial,INCORP,,,,,,,,,,,,,,,,/nees-i-co'oowu-see-/,V,AI,to leave behind pools [of blood] as one walks,,AC_AM2008;0186,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM: Stem A is [R:Blood Clot Boy]
+145,Cowell & Moss,AC_AM2008,0187,arp,,arap1274,,AR:1,,/-e'ei-/,,,,head,head,medial,INCORP,,,,,,,,,,,,,,,,/nehyoni-bix-e'ei-koohu-/,V,AI,to rapidly stick one's head up to check on s.t. ,,AC_AM2008;0187,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Stem A is [O: Enemy Trail, 46]"
 148,Cowell & Moss,AC_AM2008,0109,arp,,arap1274,,AR:1,,/-e/,,,,NG,,final
-150,Cowell & Moss,AC_AM2008,0178,arp,,arap1274,,AR:1,,/-ecei'-/,,,,"liquid, water",,medial,CLASS
-195,Cowell & Moss,AC_AM2008,0178,arp,,arap1274,,AR:1,,/-et-/,,,,"fire, heat, flame",,medial,CLASS
+150,Cowell & Moss,AC_AM2008,0178,arp,,arap1274,,AR:1,,/-ecei'-/,,,,"liquid, water","liquid, water",medial,CLASS
+195,Cowell & Moss,AC_AM2008,0178,arp,,arap1274,,AR:1,,/-et-/,,,,"fire, heat, flame","fire, flame, heat",medial,CLASS
 173,Cowell & Moss,AC_AM2008,"0190,0191,0200",arp,,arap1274,,AR:1,,/-ei-/,,,,NG,,final,AI
-174,Cowell & Moss,AC_AM2008,0178,arp,,arap1274,,AR:1,,/-ei-/,,,,"body shape, size",,medial,CLASS
-183,Cowell & Moss,AC_AM2008,0178,arp,,arap1274,,AR:1,,/-eino-/,,,,body condition,,medial,CLASS
-189,Cowell & Moss,AC_AM2008,0178,arp,,arap1274,,AR:1,,/-es-/,,,,"grass, plants",,medial,CLASS
-201,Cowell & Moss,AC_AM2008,0178,arp,,arap1274,,AR:1,,/-ex-/,,,,"wood, timber",,medial,CLASS
+174,Cowell & Moss,AC_AM2008,0178,arp,,arap1274,,AR:1,,/-ei-/,,,,"body shape, size","body shape, size",medial,CLASS
+183,Cowell & Moss,AC_AM2008,0178,arp,,arap1274,,AR:1,,/-eino-/,,,,body condition,body condition,medial,CLASS
+189,Cowell & Moss,AC_AM2008,0178,arp,,arap1274,,AR:1,,/-es-/,,,,"grass, plants","grass, plant (N)",medial,CLASS
+201,Cowell & Moss,AC_AM2008,0178,arp,,arap1274,,AR:1,,/-ex-/,,,,"wood, timber","timber, wood",medial,CLASS
 219,Cowell & Moss,AC_AM2008,0109,arp,,arap1274,,AR:1,,/-i/,,,,NG,,final
-225,Cowell & Moss,AC_AM2008,0178,arp,,arap1274,,AR:1,,/-ic-/,,,,"wood, timber",,medial,CLASS
 240,Cowell & Moss,AC_AM2008,0109,arp,,arap1274,,AR:1,,/-ii/,,,,NG,,final
-250,Cowell & Moss,AC_AM2008,0178,arp,,arap1274,,AR:1,,/-iis-/,,,,voice,,medial,CLASS
-253,Cowell & Moss,AC_AM2008,0178,arp,,arap1274,,AR:1,,/-iiso-/,,,,weather,,medial,CLASS
-263,Cowell & Moss,AC_AM2008,0186,arp,,arap1274,,AR:1,,/-ixono-/,,,,bone,,medial,INCORP,,,,,,,,,,,,,,,,/wotein-ixono-ise-/,V,II,bones clatter to the ground,,AC_AM2008;0186,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM: Stem A is [R:Strong Bear and the Ghost]
-266,Cowell & Moss,AC_AM2008,"0178,0326",arp,,arap1274,,AR:1,,/-ko-/,,,,"foliage, leaves",,medial,CLASS
-268,Cowell & Moss,AC_AM2008,0175,arp,,arap1274,,AR:1,,/-kobee/,,,,"acting like X noun, to act like..",,final,AI,,CONCR,,,,,/-kowooɜ/,/-kowoot/,,,,,,,,/no'oɜikobee-/,V,AI,to act tough,,AC_AM2008;0175,,,/neceekobee-/,V,AI,to act bossy,,AC_AM2008;0175
-277,Cowell & Moss,AC_AM2008,0187,arp,,arap1274,,AR:1,,/-kosein-/,,,,hoof,,medial,INCORP,,,,,,,,,,,,,,,,/no'oɜi-nohku-kosein-einoo-koohu-/,V,AI,to run such that the hooves make a lot of noise (horses),,AC_AM2008;0187,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM: Stem A is [Q:7]
+250,Cowell & Moss,AC_AM2008,0178,arp,,arap1274,,AR:1,,/-iis-/,,,,voice,voice,medial,CLASS
+253,Cowell & Moss,AC_AM2008,0178,arp,,arap1274,,AR:1,,/-iiso-/,,,,weather,weather,medial,CLASS
+263,Cowell & Moss,AC_AM2008,0186,arp,,arap1274,,AR:1,,/-ixono-/,,,,bone,bone,medial,INCORP,,,,,,,,,,,,,,,,/wotein-ixono-ise-/,V,II,bones clatter to the ground,,AC_AM2008;0186,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM: Stem A is [R:Strong Bear and the Ghost]
+266,Cowell & Moss,AC_AM2008,"0178,0326",arp,,arap1274,,AR:1,,/-ko-/,,,,"foliage, leaves","foliage, leaf",medial,CLASS
+268,Cowell & Moss,AC_AM2008,0175,arp,,arap1274,,AR:1,,/-kobee/,,,,"acting like X noun, to act like..",act like,final,AI,,CONCR,,,,,/-kowooɜ/,/-kowoot/,,,,,,,,/no'oɜikobee-/,V,AI,to act tough,,AC_AM2008;0175,,,/neceekobee-/,V,AI,to act bossy,,AC_AM2008;0175
+277,Cowell & Moss,AC_AM2008,0187,arp,,arap1274,,AR:1,,/-kosein-/,,,,hoof,hoof,medial,INCORP,,,,,,,,,,,,,,,,/no'oɜi-nohku-kosein-einoo-koohu-/,V,AI,to run such that the hooves make a lot of noise (horses),,AC_AM2008;0187,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM: Stem A is [Q:7]
 285,Cowell & Moss,AC_AM2008,0161,arp,,arap1274,,AR:1,,/-kuuh-/,,,,NG,,final,AI
-287,Cowell & Moss,AC_AM2008,0186,arp,,arap1274,,AR:1,,/-neb-/,,,,fish,,medial,INCORP
+287,Cowell & Moss,AC_AM2008,0186,arp,,arap1274,,AR:1,,/-neb-/,,,,fish,fish,medial,INCORP
 293,Cowell & Moss,AC_AM2008,0194,arp,,arap1274,,AR:1,,/-noo-/,,,,NG,,final,II
-302,Cowell & Moss,AC_AM2008,0178,arp,,arap1274,,AR:1,,/-o'et/,,,,clouds,,medial,CLASS
-304,Cowell & Moss,AC_AM2008,0178,arp,,arap1274,,AR:1,,/-o'ob-/,,,,"ground, earth, land",,medial,CLASS
-321,Cowell & Moss,AC_AM2008,0187,arp,,arap1274,,AR:1,,/-ohoe-/,,,,hand,,medial,INCORP,,,,,,,,,,,,,,,,/xooku-bix-ohoe-koohuut-/,V,TI,to make one's hand go through s.t. and appear again on the other side,,AC_AM2008;0187,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Stem A is [O: Bad Dreamers, 63]"
-336,Cowell & Moss,AC_AM2008,0178,arp,,arap1274,,AR:1,,/-oocei-/,,,,rope-like objects,,medial,CLASS
-345,Cowell & Moss,AC_AM2008,0178,arp,,arap1274,,AR:1,,/-ookee-/,,,,rope-like objects,,medial,CLASS
-340,Cowell & Moss,AC_AM2008,0178,arp,,arap1274,,AR:1,,/-ooɜoo-/,,,,action with quality of...,,final,II,,CONCR,,,/-ooteihi/
-357,Cowell & Moss,AC_AM2008,0187,arp,,arap1274,,AR:1,,/-ookuun-/,,,,plume,,medial,INCORP,,,,,,,,,,,,,,,,/iisiit-oox-ookuun-ee-/,V,AI,to earn a feather through a brave deed,,AC_AM2008;0187,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Stem A is [O:Scouts, 52]"
-361,Cowell & Moss,AC_AM2008,0187,arp,,arap1274,,AR:1,,/-ooo-/,,,,make,,final,,,,,,,,,,,,,,,,,/wo'ohn-ooo-n-/,V,TA,to supply someone with moccasins or shoes,,AC_AM2008;0187,,,/nehyoni-bix-e'ei-koohu-/,V,AI,to rapidly stick one's head up to check on s.t. ,,AC_AM2008;0187,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Stem A is [O:Apache Captive, 3]; stem B is [O: Enemy Trail, 46]"
-362,Cowell & Moss,AC_AM2008,0178,arp,,arap1274,,AR:1,,/-ooo-/,,,,rocks,,medial,CLASS
-364,Cowell & Moss,AC_AM2008,0178,arp,,arap1274,,AR:1,,/-oos-/,,,,rain,,medial,CLASS
-366,Cowell & Moss,AC_AM2008,0178,arp,,arap1274,,AR:1,,/-oot-/,,,,action with quality of...,,medial,CLASS
-367,Cowell & Moss,AC_AM2008,0178,arp,,arap1274,,AR:1,,/-oot-/,,,,"placement, arrangement",,medial,CLASS
-369,Cowell & Moss,AC_AM2008,0178,arp,,arap1274,,AR:1,,/-oot/,,,,cloth,,medial,CLASS
-372,Cowell & Moss,AC_AM2008,0178,arp,,arap1274,,AR:1,,/-ooteihi/,,,,action with quality of...,,final,AI,,CONCR,,,,/-ooɜoo/
-374,Cowell & Moss,AC_AM2008,0104,arp,,arap1274,,AR:1,,/-ooton/,,,,song,,final,N
-378,Cowell & Moss,AC_AM2008,"0178,0219",arp,,arap1274,,AR:1,,/-oowu/,,,,water,,medial,CLASS
+302,Cowell & Moss,AC_AM2008,0178,arp,,arap1274,,AR:1,,/-o'et/,,,,clouds,cloud,medial,CLASS
+304,Cowell & Moss,AC_AM2008,0178,arp,,arap1274,,AR:1,,/-o'ob-/,,,,"ground, earth, land","earth, ground, land",medial,CLASS
+321,Cowell & Moss,AC_AM2008,0187,arp,,arap1274,,AR:1,,/-ohoe-/,,,,hand,hand,medial,INCORP,,,,,,,,,,,,,,,,/xooku-bix-ohoe-koohuut-/,V,TI,to make one's hand go through s.t. and appear again on the other side,,AC_AM2008;0187,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Stem A is [O: Bad Dreamers, 63]"
+336,Cowell & Moss,AC_AM2008,0178,arp,,arap1274,,AR:1,,/-oocei-/,,,,rope-like objects,rope,medial,CLASS
+340,Cowell & Moss,AC_AM2008,0178,arp,,arap1274,,AR:1,,/-ooɜoo-/,,,,action with quality of...,action,final,II,,CONCR,,,/-ooteihi/
+357,Cowell & Moss,AC_AM2008,0187,arp,,arap1274,,AR:1,,/-ookuun-/,,,,plume,plume,medial,INCORP,,,,,,,,,,,,,,,,/iisiit-oox-ookuun-ee-/,V,AI,to earn a feather through a brave deed,,AC_AM2008;0187,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Stem A is [O:Scouts, 52]"
+361,Cowell & Moss,AC_AM2008,0187,arp,,arap1274,,AR:1,,/-ooo-/,,,,make,make,final,,,,,,,,,,,,,,,,,/wo'ohn-ooo-n-/,V,TA,to supply someone with moccasins or shoes,,AC_AM2008;0187,,,/nehyoni-bix-e'ei-koohu-/,V,AI,to rapidly stick one's head up to check on s.t. ,,AC_AM2008;0187,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Stem A is [O:Apache Captive, 3]; stem B is [O: Enemy Trail, 46]"
+362,Cowell & Moss,AC_AM2008,0178,arp,,arap1274,,AR:1,,/-ooo-/,,,,rocks,rock (N),medial,CLASS
+364,Cowell & Moss,AC_AM2008,0178,arp,,arap1274,,AR:1,,/-oos-/,,,,rain,rain,medial,CLASS
+366,Cowell & Moss,AC_AM2008,0178,arp,,arap1274,,AR:1,,/-oot-/,,,,action with quality of...,action,medial,CLASS
+367,Cowell & Moss,AC_AM2008,0178,arp,,arap1274,,AR:1,,/-oot-/,,,,"placement, arrangement","arrangement, placement",medial,CLASS
+369,Cowell & Moss,AC_AM2008,0178,arp,,arap1274,,AR:1,,/-oot/,,,,cloth,cloth,medial,CLASS
+372,Cowell & Moss,AC_AM2008,0178,arp,,arap1274,,AR:1,,/-ooteihi/,,,,action with quality of...,action,final,AI,,CONCR,,,,/-ooɜoo/
+374,Cowell & Moss,AC_AM2008,0104,arp,,arap1274,,AR:1,,/-ooton/,,,,song,song,final,N
+378,Cowell & Moss,AC_AM2008,"0178,0219",arp,,arap1274,,AR:1,,/-oowu/,,,,water,water,medial,CLASS
 382,Cowell & Moss,AC_AM2008,0187,arp,,arap1274,,AR:1,,/-oox-/,,,,NG,,,,,,,,,,,,,,,,,,,/iisiit-oox-ookuun-ee-/,V,AI,to earn a feather through a brave deed,,AC_AM2008;0187,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Stem A is [O:Scouts, 52]"
-384,Cowell & Moss,AC_AM2008,0183,arp,,arap1274,,AR:1,,/-ooxoh-/,,,,knife,,medial,INCORP,,,,,,,,,,,,,,,,/toxu'-ooxoh-ee/,V,AI,"to sharpen one's knife, get's one knife ready, get a sharp knife",,AC_AM2008;0186,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Stem A is [O:Forks, 5] [sic]"
-392,Cowell & Moss,AC_AM2008,0178,arp,,arap1274,,AR:1,,/-ou-/,,,,"value, price",,medial,CLASS
-406,Cowell & Moss,AC_AM2008,0187,arp,,arap1274,,AR:1,,/-ouw-/,,,,blanket,,medial,INCORP,,,,,,,,,,,,,,,,/oox-ouw-ee-/,V,AI,to cover oneself with a blanket,,AC_AM2008;0187,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Stem A is [O:Buffalo Wheel, 3]"
+384,Cowell & Moss,AC_AM2008,0183,arp,,arap1274,,AR:1,,/-ooxoh-/,,,,knife,knife,medial,INCORP,,,,,,,,,,,,,,,,/toxu'-ooxoh-ee/,V,AI,"to sharpen one's knife, get's one knife ready, get a sharp knife",,AC_AM2008;0186,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Stem A is [O:Forks, 5] [sic]"
+392,Cowell & Moss,AC_AM2008,0178,arp,,arap1274,,AR:1,,/-ou-/,,,,"value, price","price, value",medial,CLASS
+406,Cowell & Moss,AC_AM2008,0187,arp,,arap1274,,AR:1,,/-ouw-/,,,,blanket,blanket,medial,INCORP,,,,,,,,,,,,,,,,/oox-ouw-ee-/,V,AI,to cover oneself with a blanket,,AC_AM2008;0187,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Stem A is [O:Buffalo Wheel, 3]"
 413,Cowell & Moss,AC_AM2008,0161,arp,,arap1274,,AR:1,,/-owuun-/,,,,NG,,final,TI
-414,Cowell & Moss,AC_AM2008,0178,arp,,arap1274,,AR:1,,/-ox-/,,,,"dirt, dirtiness",,medial,CLASS
-415,Cowell & Moss,AC_AM2008,0178,arp,,arap1274,,AR:1,,/-ox-/,,,,"grass, plants",,medial,CLASS
-418,Cowell & Moss,AC_AM2008,0178,arp,,arap1274,,AR:1,,/-oxesn-/,,,,"mud, sticky objects",,medial,CLASS
+414,Cowell & Moss,AC_AM2008,0178,arp,,arap1274,,AR:1,,/-ox-/,,,,"dirt, dirtiness",dirt,medial,CLASS
+418,Cowell & Moss,AC_AM2008,0178,arp,,arap1274,,AR:1,,/-oxesn-/,,,,"mud, sticky objects","mud, sticky",medial,CLASS
 447,Cowell & Moss,AC_AM2008,0109,arp,,arap1274,,AR:1,,/-u/,,,,NG,,final
 448,Cowell & Moss,AC_AM2008,0109,arp,,arap1274,,AR:1,,/-uu/,,,,NG,,final
-455,Cowell & Moss,AC_AM2008,0178,arp,,arap1274,,AR:1,,/-xo-/,,,,bark of a tree,,medial,CLASS
-460,Cowell & Moss,AC_AM2008,0178,arp,,arap1274,,AR:1,,/-xooyei-/,,,,time passage,,medial,CLASS
+455,Cowell & Moss,AC_AM2008,0178,arp,,arap1274,,AR:1,,/-xo-/,,,,bark of a tree,bark (N),medial,CLASS
+460,Cowell & Moss,AC_AM2008,0178,arp,,arap1274,,AR:1,,/-xooyei-/,,,,time passage,time,medial,CLASS
 465,Cowell & Moss,AC_AM2008,0161,arp,,arap1274,,AR:1,,/-xoton-/,,,,NG,,final,AI
-470,Cowell & Moss,AC_AM2008,0178,arp,,arap1274,,AR:1,,/-youn-/,,,,"branch, prong",,medial,CLASS
+470,Cowell & Moss,AC_AM2008,0178,arp,,arap1274,,AR:1,,/-youn-/,,,,"branch, prong","branch, prong",medial,CLASS
 473,Cowell & Moss,AC_AM2008,"0102,0197,0209,0221",arp,,arap1274,,AR:1,,/:n/,,,,NG,,final,,,,,,,,,,/n/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM: p.197: a derivational morpheme used in reduplication
 477,Cowell & Moss,AC_AM2008,"0147,0151,0156",arp,,arap1274,,AR:1,,/(')enih/,,,,NG,,final,TA,,,Y,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Paul Moss
 478,Cowell & Moss,AC_AM2008,0147,arp,,arap1274,,AR:1,,/(')enih/,,,,NG,,final,AI,,,Y,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Paul Moss
 481,Cowell & Moss,AC_AM2008,0361,arp,,arap1274,,AR:1,,/(e)n/,,,,NG,,final,TI
-482,Cowell & Moss,AC_AM2008,"0105,0106",arp,,arap1274,,AR:1,,/(h)ihi'/,,,,diminutive,,final,,,,Y,N
+482,Cowell & Moss,AC_AM2008,"0105,0106",arp,,arap1274,,AR:1,,/(h)ihi'/,,,,diminutive,DIMINUTIVE,final,,,,Y,N
 483,Cowell & Moss,AC_AM2008,0136,arp,,arap1274,,AR:1,,/(i)bee/,,,,NG,,final,AI,,,Y,,,,,,,,,,,,,/biiɜibee-,V,AI,to be cooking [for people],Y,AC_AM2008;0136
 486,Cowell & Moss,AC_AM2008,"0161,0191,0192",arp,,arap1274,,AR:1,,/(i)iw/,,,,NG,,final,TA
 489,Cowell & Moss,AC_AM2008,0136,arp,,arap1274,,AR:1,,/(i)woo-ɜ/,,,,NG,,final,TA,,,,,,,,,,,,,,,,/biiɜiwoo-ɜ/,V,TA,to be cooking it (AN),Y,AC_AM2008;0136
 490,Cowell & Moss,AC_AM2008,0136,arp,,arap1274,,AR:1,,/(i)woo-t/,,,,NG,,final,TI,,,Y,,,,,,,,,,,,,/biiɜiwoo-t-/,V,TI,to be cooking it,Y,AC_AM2008;0136
 496,Cowell & Moss,AC_AM2008,0143,arp,,arap1274,,AR:1,,/(t)on/,,,,NG,,final,TA,,,,,,,,,,,,,,,,/owouun-on-/,V,TA,to take pity on s.o.,,AC_AM2008;0143,,,/niit-on-/,V,TA,to hear/understand s.o.,,AC_AM2008;0143,,,/woteikuu-ton-/,V,TA,to telephone s.o.,,AC_AM2008;0144,,,/niisi-ton-/,V,TA,to make s.t. for s.o.,,AC_AM2008;0144,,,,,,,,,,,,,,,,,kuuton,citon,xoton
 499,Cowell & Moss,AC_AM2008,"0134,0135",arp,,arap1274,,AR:1,,/(v)yei/,,,,NG,,final,AI,,,,,,,,,,,,,,,,/iisiit-eyei-/,V,AI,to catch things,,AC_AM2008;0127,,,/it-eyei-/,V,AI,to have taken some things,,AC_AM2008;0135
-550,Cowell & Moss,AC_AM2008,0222,arp,,arap1274,,AR:1,,/ceniikooɜ-/,,,,to pull s.o. down off s.t.,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: This is a verb stem, but it is analyzed within the text as acting as an initial."
-567,Cowell & Moss,AC_AM2008,"0171,0173",arp,,arap1274,,AR:1,,/ciit/,,,,"get into, entering, to the inside",,initial,,,,,,,,,,,,,,,,,/ciitow-/,V,TA,to blow at ceremonially,,AC_AM2008;0173,,,/ciitoot-/,V,TI,to blow at ceremonially,,,AC_AM2008;0173,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"p.171: ""used with specific items of clothing"""
-572,Cowell & Moss,AC_AM2008,0209,arp,,arap1274,,AR:1,,/coon-/,,,,"not able to do s.t., unable",,initial
+550,Cowell & Moss,AC_AM2008,0222,arp,,arap1274,,AR:1,,/ceniikooɜ-/,,,,to pull s.o. down off s.t.,pull down off,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: This is a verb stem, but it is analyzed within the text as acting as an initial."
+567,Cowell & Moss,AC_AM2008,"0171,0173",arp,,arap1274,,AR:1,,/ciit/,,,,"get into, entering, to the inside","enter, get into, inside",initial,,,,,,,,,,,,,,,,,/ciitow-/,V,TA,to blow at ceremonially,,AC_AM2008;0173,,,/ciitoot-/,V,TI,to blow at ceremonially,,,AC_AM2008;0173,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"p.171: ""used with specific items of clothing"""
+572,Cowell & Moss,AC_AM2008,0209,arp,,arap1274,,AR:1,,/coon-/,,,,"not able to do s.t., unable",unable,initial
 574,Cowell & Moss,AC_AM2008,0217,arp,,arap1274,,AR:1,,/e'ein/,,,,NG,,initial
 580,Cowell & Moss,AC_AM2008,0298,arp,,arap1274,,AR:1,,/ee/,,,,NG,,initial,RR
-584,Cowell & Moss,AC_AM2008,0385,arp,,arap1274,,AR:1,,/eecix/,,,,how long/far,,initial,RR
-587,Cowell & Moss,AC_AM2008,0384,arp,,arap1274,,AR:1,,/eeɜe'ei-/,,,,to where,,initial,RR
-589,Cowell & Moss,AC_AM2008,0385,arp,,arap1274,,AR:1,,/eeɜei'(nee)-/,,,,how much,,initial,RR
-596,Cowell & Moss,AC_AM2008,"0384,0386,0424",arp,,arap1274,,AR:1,,/eet-/,,,,from where,,initial,RR
+584,Cowell & Moss,AC_AM2008,0385,arp,,arap1274,,AR:1,,/eecix/,,,,how long/far,"far, long, RELATIVE, QUANTITY",initial,RR
+587,Cowell & Moss,AC_AM2008,0384,arp,,arap1274,,AR:1,,/eeɜe'ei-/,,,,to where,to (where),initial,RR
+589,Cowell & Moss,AC_AM2008,0385,arp,,arap1274,,AR:1,,/eeɜei'(nee)-/,,,,how much,"much, INTERROGATIVE, QUANTITY, RELATIVE",initial,RR
+596,Cowell & Moss,AC_AM2008,"0384,0386,0424",arp,,arap1274,,AR:1,,/eet-/,,,,from where,"from (where), RELATIVE",initial,RR
 599,Cowell & Moss,AC_AM2008,0142,arp,,arap1274,,AR:1,,/eet/,,,,NG,,final,TI,,,,,,,/ew/,,,,,,,,,/ni'een-eet-/,V,TI,to like s.t.,,AC_AM2008;0142,,,/esein-eet-/,V,TI,to hate s.t.,,AC_AM2008;0142
-603,Cowell & Moss,AC_AM2008,"0385,0424",arp,,arap1274,,AR:1,,/eetox-/,,,,how many,,initial,RR
-609,Cowell & Moss,AC_AM2008,"0105,0106",arp,,arap1274,,AR:1,,/ehe'/,,,,diminutive,,final,,,,Y,N
+603,Cowell & Moss,AC_AM2008,"0385,0424",arp,,arap1274,,AR:1,,/eetox-/,,,,how many,"many, INTERROGATIVE, QUANTITY, RELATIVE",initial,RR
 615,Cowell & Moss,AC_AM2008,0357,arp,,arap1274,,AR:1,,/ei/,,,,NG,,final,AI+O
-625,Cowell & Moss,AC_AM2008,0222,arp,,arap1274,,AR:1,,/es-oohow-/,,,,to watch s.o. closely,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,/nooh/ to see,"GVM: This is a verb stem, but it is analyzed within the text as acting as an initial."
+625,Cowell & Moss,AC_AM2008,0222,arp,,arap1274,,AR:1,,/es-oohow-/,,,,to watch s.o. closely,watch closely,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,/nooh/ to see,"GVM: This is a verb stem, but it is analyzed within the text as acting as an initial."
 628,Cowell & Moss,AC_AM2008,0142,arp,,arap1274,,AR:1,,/ew/,,,,NG,,final,TA,,,,,,,,/eet/,,,,,,,,/ni'een-ew-/,V,TA,to like s.o.,,AC_AM2008;0142,,,/esein-ew-/,V,TA,to hate s.o.,,AC_AM2008;0142
 630,Cowell & Moss,AC_AM2008,"0142,0151,0162",arp,,arap1274,,AR:1,,/ɜ/,,,,NG,,final,TA,,,,,,,,/t/
 631,Cowell & Moss,AC_AM2008,0175,arp,,arap1274,,AR:1,,/ɜe(y)/,,,,NG,,initial,,,,,,,,,,,,,,,,,/ɜeeyocei-/,V,AI,to roast s.t.,,AC_AM2008;0175
 655,Cowell & Moss,AC_AM2008,0454,arp,,arap1274,,AR:1,,/i'owoo/,,,,NG,,final,II,,,,,/i'owoo/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM: p.454 forms ordinal numbers
 656,Cowell & Moss,AC_AM2008,0454,arp,,arap1274,,AR:1,,/i'owoo/,,,,NG,,final,AI,,,,,,/i'owoo/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM: p.454 forms ordinal numbers
 672,Cowell & Moss,AC_AM2008,0128,arp,,arap1274,,AR:1,,/ii/,,,,NG,,final,AI,,,,,,,,,,,,,,,,/nokoon-ii-/,V,AI,to yawn,,AC_AM2008;0128,,,/nisih-ii-/,V,AI,to whistle,,AC_AM2008;0128
-680,Cowell & Moss,AC_AM2008,0078,arp,,arap1274,,AR:1,,/iii'oo/,,,,grow,,final
-694,Cowell & Moss,AC_AM2008,0223,arp,,arap1274,,AR:1,,/iix-oohow-/,,,,to watch s.o. in order to learn s.t.,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,/nooh/ to see,"GVM: This is a verb stem, but it is analyzed within the text as acting as an initial."
+680,Cowell & Moss,AC_AM2008,0078,arp,,arap1274,,AR:1,,/iii'oo/,,,,grow,grow,final
+694,Cowell & Moss,AC_AM2008,0223,arp,,arap1274,,AR:1,,/iix-oohow-/,,,,to watch s.o. in order to learn s.t.,"learn, watch",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,/nooh/ to see,"GVM: This is a verb stem, but it is analyzed within the text as acting as an initial."
 701,Cowell & Moss,AC_AM2008,0173,arp,,arap1274,,AR:1,,/ik/,,,,NG,,initial,,,,,,,,,,,,,,,,,/iɜikoow-/,V,TA,to inhale s.t.,,AC_AM2008;0173,,,/iɜikoot-/,V,TI,to inhale s.t.,,AC_AM2008;0173
 702,Cowell & Moss,AC_AM2008,0136,arp,,arap1274,,AR:1,,/in-ee/,,,,NG,,final,AI,,,Y,TA
 704,Cowell & Moss,AC_AM2008,0129,arp,,arap1274,,AR:1,,/ine/,,,,NG,,final,AI
 706,Cowell & Moss,AC_AM2008,0136,arp,,arap1274,,AR:1,,/inoo-ɜ/,,,,NG,,final,TA
 707,Cowell & Moss,AC_AM2008,0161,arp,,arap1274,,AR:1,,/inoo/,,,,NG,,final,II
-708,Cowell & Moss,AC_AM2008,0216,arp,,arap1274,,AR:1,,/inow-/,,,,"out of sight underwater or underground, out of view below a surface (ground or water)",,initial
-732,Cowell & Moss,AC_AM2008,0219,arp,,arap1274,,AR:1,,/koxo'-/,,,,"slowly, slow",,initial
-736,Cowell & Moss,AC_AM2008,0176,arp,,arap1274,,AR:1,,/koy/,,,,"away, escaping, fleeing, away from an area-- as in escaping",,initial,,,,,,,,,,,,,,,,,/koyih'ohu-/,V,AI,to escape by flying,,AC_AM2008;0176
-744,Cowell & Moss,AC_AM2008,0223,arp,,arap1274,,AR:1,,/nee-noohow-/,,,,"to watch s.o. continuously, keep them in sight",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,/nooh/ to see,"GVM: This is a verb stem, but it is analyzed within the text as acting as an initial."
-760,Cowell & Moss,AC_AM2008,0222,arp,,arap1274,,AR:1,,/nehyon-/,,,,checking up on s.t.,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: This is a verb stem, but it is analyzed within the text as acting as an initial."
-761,Cowell & Moss,AC_AM2008,0223,arp,,arap1274,,AR:1,,/nehyon-oohow-/,,,,to check up on s.o. (visually),,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,/nooh/ to see,"GVM: This is a verb stem, but it is analyzed within the text as acting as an initial."
+708,Cowell & Moss,AC_AM2008,0216,arp,,arap1274,,AR:1,,/inow-/,,,,"out of sight underwater or underground, out of view below a surface (ground or water)","out of sight, underground, underwater",initial
+732,Cowell & Moss,AC_AM2008,0219,arp,,arap1274,,AR:1,,/koxo'-/,,,,"slowly, slow","slow, slowly",initial
+736,Cowell & Moss,AC_AM2008,0176,arp,,arap1274,,AR:1,,/koy/,,,,"away, escaping, fleeing, away from an area-- as in escaping","away, escape, flee",initial,,,,,,,,,,,,,,,,,/koyih'ohu-/,V,AI,to escape by flying,,AC_AM2008;0176
+744,Cowell & Moss,AC_AM2008,0223,arp,,arap1274,,AR:1,,/nee-noohow-/,,,,"to watch s.o. continuously, keep them in sight","keep in sight, watch (continuously)",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,/nooh/ to see,"GVM: This is a verb stem, but it is analyzed within the text as acting as an initial."
+760,Cowell & Moss,AC_AM2008,0222,arp,,arap1274,,AR:1,,/nehyon-/,,,,checking up on s.t.,check up on,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: This is a verb stem, but it is analyzed within the text as acting as an initial."
 778,Cowell & Moss,AC_AM2008,"0128,0146",arp,,arap1274,,AR:1,,/ni/,,,,NG,,final,AI,,,,,,,,,,,,,,,,/oxoo-ni-/,V,AI,to laugh,,AC_AM2008;0128,,,/koon-i'ei-ni-/,V,AI,to uncover one's face,,AC_AM2008;0128,,,/ni-ni-/,V,AI,to howl (dog),,AC_AM2008;0128
-792,Cowell & Moss,AC_AM2008,0385,arp,,arap1274,,AR:1,,/niicix-/,,,,how long/far,,initial,RR
-796,Cowell & Moss,AC_AM2008,0384,arp,,arap1274,,AR:1,,/niiɜe'ei-/,,,,to where,,initial,RR
-798,Cowell & Moss,AC_AM2008,0385,arp,,arap1274,,AR:1,,/niiɜei'(nee)-/,,,,how much,,initial,RR
-801,Cowell & Moss,AC_AM2008,0223,arp,,arap1274,,AR:1,,/niihen-oohoot-/,,,,"to see s.t. by oneself, for oneself",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,/nooh/ to see,"GVM: This is a verb stem, but it is analyzed within the text as acting as an initial."
-808,Cowell & Moss,AC_AM2008,"0384,0386",arp,,arap1274,,AR:1,,/niit-/,,,,from where,,initial,RR
-815,Cowell & Moss,AC_AM2008,0385,arp,,arap1274,,AR:1,,/niitox-/,,,,how many,,initial,RR
+801,Cowell & Moss,AC_AM2008,0223,arp,,arap1274,,AR:1,,/niihen-oohoot-/,,,,"to see s.t. by oneself, for oneself",see,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,/nooh/ to see,"GVM: This is a verb stem, but it is analyzed within the text as acting as an initial."
 820,Cowell & Moss,AC_AM2008,0215,arp,,arap1274,,AR:1,,/no'-/,,,,"reach endpoint, destination, arrive, to a place, reach a goal",,initial,,,,,,,,,,,,,,,,,/no'uh'ohu-/,V,AI,to arrive by flying,,AC_AM2008;0176,,,/no'uukohei-/,V,AI,to arrive on horseback,,AC_AM2008;0176,,,/no'ukoohu-/,V,AI,to arrive by running,,AC_AM2008;0176,,,/no'usee-/,V,AI,to arrive on foot,,AC_AM2008;0177
-842,Cowell & Moss,AC_AM2008,0223,arp,,arap1274,,AR:1,,/noohowu-kuuɜ-/,,,,to catch a glimpse of s.o.,,initial
-847,Cowell & Moss,AC_AM2008,0215,arp,,arap1274,,AR:1,,/noow-/,,,,downward; south,,initial
+842,Cowell & Moss,AC_AM2008,0223,arp,,arap1274,,AR:1,,/noohowu-kuuɜ-/,,,,to catch a glimpse of s.o.,glimpse,initial
+847,Cowell & Moss,AC_AM2008,0215,arp,,arap1274,,AR:1,,/noow-/,,,,downward; south,"downward, south",initial
 852,Cowell & Moss,AC_AM2008,0172,arp,,arap1274,,AR:1,,/not/,,,,NG,,initial,,,,,,,,,,,,,,,,,/noto'oh-/,V,TI,to attach,,AC_AM2008;0172
-870,Cowell & Moss,AC_AM2008,0134,arp,,arap1274,,AR:1,,/oh/,,,,causative,,final
+870,Cowell & Moss,AC_AM2008,0134,arp,,arap1274,,AR:1,,/oh/,,,,causative,CAUSATIVE,final
 871,Cowell & Moss,AC_AM2008,0361,arp,,arap1274,,AR:1,,/oh/,,,,NG,,final,TI
 873,Cowell & Moss,AC_AM2008,0162,arp,,arap1274,,AR:1,,/on/,,,,NG,,final,AI
 876,Cowell & Moss,AC_AM2008,0135,arp,,arap1274,,AR:1,,/oo-ɜ/,,,,NG,,final,TA,,,Y,,,,,,,,,,,,,/otoon-oo-ɜ-/,V,TA,to be buying it (AN),,AC_AM2008;0135,,,/niitow-oo-ɜ-/,V,TA,to have heard about him/her,,AC_AM2008;0135
 877,Cowell & Moss,AC_AM2008,"0135,0136",arp,,arap1274,,AR:1,,/oo-n/,,,,NG,,final,TA,,,,,,,,,,,,,,,,/ceit-oo-n-/,V,TA,to be visiting [s.o.],Y,AC_AM2008;0136,,,/neeceew-oo-n-/,V,TA,to be in charge of [s.o.],Y,AC_AM2008;0136,,,/biiɜiwoo-n/,V,TA,to be cooking,Y,AC_AM2008;0136
 878,Cowell & Moss,AC_AM2008,0135,arp,,arap1274,,AR:1,,/oo-t/,,,,NG,,final,TI,,,Y,,,,,,,,,,,,,/otoon-oo-t-/,V,TI,to be buying it,,AC_AM2008;0135,,,/niitow-oo-t-/,V,TI,to hear it,,AC_AM2008;0135
 879,Cowell & Moss,AC_AM2008,"0135,0136",arp,,arap1274,,AR:1,,/oo-t/,,,,NG,,final,TI,,,,,,,,,,,,,,,,/ceit-oo-t-/,V,TI,to be visiting it,,AC_AM2008;0136,,,/neeceew-oo-t-/,V,TI,to be in charge of it,,AC_AM2008;0136
-884,Cowell & Moss,AC_AM2008,0178,arp,,arap1274,,AR:1,,/ook/,,,,"rope, ropelike object",,medial,CLASS
-885,Cowell & Moss,AC_AM2008,"0020,0027,0170",arp,,arap1274,,AR:1,,/ookut/,,,,tooth,,final,,,,,,,,,,/ookút/,,,,,,,/koh'ookutee-/,V,AI,"have a missing, pulled tooth",,AC_AM2008;0170
+885,Cowell & Moss,AC_AM2008,"0020,0027,0170",arp,,arap1274,,AR:1,,/ookut/,,,,tooth,tooth,final,,,,,,,,,,/ookút/,,,,,,,/koh'ookutee-/,V,AI,"have a missing, pulled tooth",,AC_AM2008;0170
 890,Cowell & Moss,AC_AM2008,0142,arp,,arap1274,,AR:1,,/oot/,,,,NG,,final,TI,,,,,,,/ow/,,,,,,,,,/nooh-oot-/,V,TI,to see s.t.,,AC_AM2008;0142,,,/nei'-ooh-ow/,V,TI,to be looking at s.t.,,AC_AM2008;0142
-904,Cowell & Moss,AC_AM2008,0102,arp,,arap1274,,AR:1,,/óte/,,,,(mountain) sheep,,initial
+904,Cowell & Moss,AC_AM2008,0102,arp,,arap1274,,AR:1,,/óte/,,,,(mountain) sheep,sheep,initial
 908,Cowell & Moss,AC_AM2008,0453,arp,,arap1274,,AR:1,,/ou'uhu/,,,,NG,,final,II,,,,,/ou'uhu/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: p.435 ""added for [roots] sixty through ninety"""
 909,Cowell & Moss,AC_AM2008,0453,arp,,arap1274,,AR:1,,/ou'uhu/,,,,NG,,final,AI,,,,,,/ou'uhu/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: p.435 ""added for [roots] sixty through ninety"""
 910,Cowell & Moss,AC_AM2008,0453,arp,,arap1274,,AR:1,,/ou'use/,,,,NG,,final,II,,,,,/ou'usi/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: p.435 ""added to roots twenty through fifty"""
@@ -139,17 +128,17 @@ ID,Component ID,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original or
 918,Cowell & Moss,AC_AM2008,0122,arp,,arap1274,,AR:1,,/ow/,,,,NG,,final,TA,,ABSTR,,,,,,,,,,,,,,/noohow/,V,TA,to see s.o.,,AC_AM2008;0122,,,/noohobeihi/,V,AI,to be seen,Y,AC_AM2008;0122,/nooh-ow-/,V,TA,to see s.o.,,AC_AM2008;0142,,,/nei'-ooh-ow-/,V,TA,to be looking at s.o.,,AC_AM2008;0142
 932,Cowell & Moss,AC_AM2008,0137,arp,,arap1274,,AR:1,,/seɜei/,,,,NG,,final,AI,,,,,,,,,,,,,,,,/toxu'useɜei-/,V,AI,to sharpen things,,AC_AM2008;0138,,,/ɜei-se-ɜei-/,V,AI,to put things inside s.t.,,AC_AM2008;0138,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,se,yei
 933,Cowell & Moss,AC_AM2008,0137,arp,,arap1274,,AR:1,,/seɜoo(ni)/,,,,NG,,final,II,,,,,,,,,,,,,,,,/ɜei-se-ɜooni-/,V,II,"to have been put, placed inside s.t.",,AC_AM2008;0138
-935,Cowell & Moss,AC_AM2008,0222,arp,,arap1274,,AR:1,,/sehs-ei'-oohow-/,,,,"to look at s.o. over there, from here",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,/nooh/ to see,"GVM: This is a verb stem, but it is analyzed within the text as acting as an initial."
+935,Cowell & Moss,AC_AM2008,0222,arp,,arap1274,,AR:1,,/sehs-ei'-oohow-/,,,,"to look at s.o. over there, from here",look at,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,/nooh/ to see,"GVM: This is a verb stem, but it is analyzed within the text as acting as an initial."
 947,Cowell & Moss,AC_AM2008,0142,arp,,arap1274,,AR:1,,/siw/,,,,NG,,final,TRANS
 948,Cowell & Moss,AC_AM2008,"0143,0151",arp,,arap1274,,AR:1,,/t/,,,,NG,,final,TI,,,,,,,,,,,,,,,,/ii-t-/,V,TI,to be afraid of s.t.,,AC_AM2008;0143,,,/ite-t-/,V,TI,to reach [a place],,AC_AM2008;0143
 958,Cowell & Moss,AC_AM2008,"0134,0136,0137,0138",arp,,arap1274,,AR:1,,/tii/,,,,NG,,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,/kuutii/,/citii/,/setii/,/xotii/,-t,-ii
 959,Cowell & Moss,AC_AM2008,"0355,0361,0362",arp,,arap1274,,AR:1,,/tii/,,/*-koo/,,NG,,final,AI+O
-965,Cowell & Moss,AC_AM2008,0223,arp,,arap1274,,AR:1,,/tooɜi-noohoot-/,,,,"to see s.t. up close, magnified",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,/nooh/ to see,"GVM: This is a verb stem, but it is analyzed within the text as acting as an initial."
-985,Cowell & Moss,AC_AM2008,0210,arp,,arap1274,,AR:1,,/won-/,,,,go to do s.t.,,initial
-990,Cowell & Moss,AC_AM2008,0218,arp,,arap1274,,AR:1,,/wootoo-/,,,,"early, earlier than usual",,initial
+965,Cowell & Moss,AC_AM2008,0223,arp,,arap1274,,AR:1,,/tooɜi-noohoot-/,,,,"to see s.t. up close, magnified","magnified, see (up close)",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,/nooh/ to see,"GVM: This is a verb stem, but it is analyzed within the text as acting as an initial."
+985,Cowell & Moss,AC_AM2008,0210,arp,,arap1274,,AR:1,,/won-/,,,,go to do s.t.,go to do,initial
+990,Cowell & Moss,AC_AM2008,0218,arp,,arap1274,,AR:1,,/wootoo-/,,,,"early, earlier than usual",early,initial
 998,Cowell & Moss,AC_AM2008,0143,arp,,arap1274,,AR:1,,/x/,,,,NG,,final,TA,,,,,,,,,,,,,,,,/ii-x-/,V,TA,to be afraid of s.o.,,AC_AM2008;0143,,,/ite-x-/,V,TA,"to come upon, reach s.o.",,AC_AM2008;0143
 1002,Cowell & Moss,AC_AM2008,0457,arp,,arap1274,,AR:1,,/xon/,,,,NG,,medial
-1009,Cowell & Moss,AC_AM2008,0219,arp,,arap1274,,AR:1,,/xouu-/,,,,"straightly, correctly",,initial
+1009,Cowell & Moss,AC_AM2008,0219,arp,,arap1274,,AR:1,,/xouu-/,,,,"straightly, correctly","correctly, straight",initial
 1013,Cowell & Moss,AC_AM2008,0134,arp,,arap1274,,AR:1,,/yoo-ɜ/,,,,NG,,final,TA,,,,,,,,,,,,,,,,/ok-yoo-ɜ-/,V,TA,to fry s.o.,,AC_AM2008;0134
 1014,Cowell & Moss,AC_AM2008,0134,arp,,arap1274,,AR:1,,/yoo-t/,,,,NG,,final,TI,,,,,,,,,,,,,,,,/ok-yoo-t-/,V,TI,to fry s.t.,,AC_AM2008;0134
 1016,Cowell & Moss,AC_AM2008,"0016,0017,0019,0020",arp,,arap1274,,AR:1,,/yóó/,,,,NG,,final,II,,,,,,,,,/yoo-/,,,,,heeyóó-,,,V,II,it is long,,AC_AM2008;0016,híítoyóó-,,,V,II,it is damp,,AC_AM2008;0017,nonoocóó-,,,V,,it is white,,AC_AM2008;0019,henííyooɜóó-,,,V,,it is clean,,AC_AM2008;0020
@@ -440,7 +429,7 @@ ID,Component ID,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original or
 417,Cowell & Moss,AC_AM2008,0178,arp,,arap1274,,AR:1,,/-oxeihi/,,,,"dirt, dirtiness","dirt, dirtiness",final,AI,,CONCR
 334,Cowell & Moss,AC_AM2008,0168,arp,,arap1274,,AR:1,,/-oobe'-/,,,,"dirt, earth","dirt, earth",medial,,,,,,,,,,,,,,,,,/bebiisobe'iyei-/,V,AI,decor. grave,,AC_AM2008;0168,,,/co'oobe'ei-/,V,AI,pile up dirt,,AC_AM2008;0168
 493,Cowell & Moss,AC_AM2008,0216,arp,,arap1274,,AR:1,,/(ii)yohou-/,,,,disappearing from sight,disappear,initial
-698,Cowell & Moss,AC_AM2008,0429,arp,,arap1274,,AR:1,,/iiyoo/,,,,"to disappear from sight, vanish","disappear, vanish",initial,RR
+698,Cowell & Moss,AC_AM2008,0429,arp,,arap1274,,AR:1,,/iiyoo/,,,,"to disappear from sight, vanish","disappear, vanish, RELATIVE",initial,RR
 437,Cowell & Moss,AC_AM2008,"0016,0027,0124,0146",arp,,arap1274,,AR:1,,/-tii/,,,,to do s.t.,do,final,AI
 444,Cowell & Moss,AC_AM2008,"0183,0203",arp,,arap1274,,AR:1,,/-too-/,,,,do,do,final,AI,,CONCR
 522,Cowell & Moss,AC_AM2008,0209,arp,,arap1274,,AR:1,,/ce'-/,,,,"do s.t. again, recommence doing s.t.","do again, recommence",initial
@@ -621,8 +610,8 @@ ID,Component ID,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original or
 896,Cowell & Moss,AC_AM2008,"0134,0169",arp,,arap1274,,AR:1,,/ooxew/,,,,horse,horse,medial,,,,,,,,,,,,,,,,,/ebiitooxobei-/,V,AI,steal horses,,AC_AM2008;0169,,,/benohooxobei-/,V,AI,water horses,,AC_AM2008;0169
 593,Cowell & Moss,AC_AM2008,0204,arp,,arap1274,,AR:1,,/een-iisi-/,,,,how,how,initial,,Y
 677,Cowell & Moss,AC_AM2008,0423,arp,,arap1274,,AR:1,,/iiɜ/,,,,how,how,initial,RR
-585,Cowell & Moss,AC_AM2008,"0384,0387",arp,,arap1274,,AR:1,,/eeɜ-/,,,,how/what,"how, what",initial,RR
-794,Cowell & Moss,AC_AM2008,0384,arp,,arap1274,,AR:1,,/niiɜ-/,,,,how/what,"how, what",initial,RR
+585,Cowell & Moss,AC_AM2008,"0384,0387",arp,,arap1274,,AR:1,,/eeɜ-/,,,,how/what,"how, what",initial,"how, RELATIVE"
+794,Cowell & Moss,AC_AM2008,0384,arp,,arap1274,,AR:1,,/niiɜ-/,,,,how/what,"how, what",initial,"how, what, RELATIVE"
 969,Cowell & Moss,AC_AM2008,"0018,0201",arp,,arap1274,,AR:1,,/tóúɜ/,,,,"what, how","how, what",initial,,,,,,,,,,/touɜ/
 96,Cowell & Moss,AC_AM2008,0123,arp,,arap1274,hiinóó'ei-,AR:1,,/iinoo'ei-/,,,,to hunt,hunt (V),initial,,,,,,,,,,,,,,,hiinóó'eixoh-,,/iinoo'ei-xoh-/,V,TA,to take s.o. hunting,,AC_AM2008;0123
 409,Cowell & Moss,AC_AM2008,0182,arp,,arap1274,,AR:1,,/-owobeihi/,,,,illness,illness,final,AI,,CONCR,,,,,/-owowutii/
@@ -989,18 +978,18 @@ ID,Component ID,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original or
 300,Cowell & Moss,AC_AM2008,0175,arp,,arap1274,,AR:1,,/-nouhuut/,,,,clothing (wearing),wear (clothing),final,TI,,CONCR,,,/-nouhu/
 487,Cowell & Moss,AC_AM2008,0126,arp,,arap1274,,AR:1,,/(i)nouhu/,,,,"concerning clothing, wear X type of clothes",wear (clothing),final,AI,,CONCR
 254,Cowell & Moss,AC_AM2008,0178,arp,,arap1274,,AR:1,,/-iisooo/,,,,weather,weather,final,II,,CONCR
-612,Cowell & Moss,AC_AM2008,0384,arp,,arap1274,,AR:1,,/ei'-/,,,,when,when,initial,RR
-787,Cowell & Moss,AC_AM2008,"0384,0423",arp,,arap1274,,AR:1,,/nii'-/,,,,when,when,initial,RR
-598,Cowell & Moss,AC_AM2008,0384,arp,,arap1274,,AR:1,,/eet(oh)-/,,,,where,where,initial,RR
-601,Cowell & Moss,AC_AM2008,"0295,0395",arp,,arap1274,,AR:1,,/eet/,,,,where,where,initial,RR
-651,Cowell & Moss,AC_AM2008,0384,arp,,arap1274,,AR:1,,/heetniit(oh)-/,,,,where,where,initial,RR
-689,Cowell & Moss,AC_AM2008,0424,arp,,arap1274,,AR:1,,/iitoh/,,,,where,where,initial,RR
-780,Cowell & Moss,AC_AM2008,0384,arp,,arap1274,,AR:1,,/nih'iit(oh)-/,,,,where,where,initial,RR
-809,Cowell & Moss,AC_AM2008,"0384,0424",arp,,arap1274,,AR:1,,/niit(oh)-/,,,,where,where,initial,RR
+612,Cowell & Moss,AC_AM2008,0384,arp,,arap1274,,AR:1,,/ei'-/,,,,when,"when, RELATIVE",initial,RR
+787,Cowell & Moss,AC_AM2008,"0384,0423",arp,,arap1274,,AR:1,,/nii'-/,,,,when,"when, RELATIVE",initial,RR
+598,Cowell & Moss,AC_AM2008,0384,arp,,arap1274,,AR:1,,/eet(oh)-/,,,,where,"where, RELATIVE",initial,RR
+601,Cowell & Moss,AC_AM2008,"0295,0395",arp,,arap1274,,AR:1,,/eet/,,,,where,"where, RELATIVE",initial,RR
+651,Cowell & Moss,AC_AM2008,0384,arp,,arap1274,,AR:1,,/heetniit(oh)-/,,,,where,"where, RELATIVE",initial,RR
+689,Cowell & Moss,AC_AM2008,0424,arp,,arap1274,,AR:1,,/iitoh/,,,,where,"where, RELATIVE",initial,RR
+780,Cowell & Moss,AC_AM2008,0384,arp,,arap1274,,AR:1,,/nih'iit(oh)-/,,,,where,"where, RELATIVE",initial,RR
+809,Cowell & Moss,AC_AM2008,"0384,0424",arp,,arap1274,,AR:1,,/niit(oh)-/,,,,where,"where, RELATIVE",initial,RR
 843,Cowell & Moss,AC_AM2008,"0019,0104,0175",arp,,arap1274,,AR:1,,/nook/,,,,white,white,initial,,,,,,,,,,,,,,,nonoocóó-,,,V,,it is white,,AC_AM2008;0019,,,/nookunouhu-/,V,AI,to wear white,,AC_AM2008;0175
 623,Cowell & Moss,AC_AM2008,0248,arp,,arap1274,,AR:1,,/enee'ee/,,,,who,who,initial
-588,Cowell & Moss,AC_AM2008,0384,arp,,arap1274,,AR:1,,/eeɜee-/,,,,why,why,initial,RR
-797,Cowell & Moss,AC_AM2008,0384,arp,,arap1274,,AR:1,,/niiɜee-/,,,,why,why,initial,RR
+588,Cowell & Moss,AC_AM2008,0384,arp,,arap1274,,AR:1,,/eeɜee-/,,,,why,"why, RELATIVE",initial,RR
+797,Cowell & Moss,AC_AM2008,0384,arp,,arap1274,,AR:1,,/niiɜee-/,,,,why,"why, RELATIVE",initial,RR
 94,Cowell & Moss,AC_AM2003,0352,arp,,arap1274,heeseise-,AR:2,,,,,,windy,windy,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 208,Cowell & Moss,AC_AM2008,0170,arp,,arap1274,,AR:1,,/-ɜe'en-/,,,,wing,wing,medial,,,,,,,,,,,,,,,,,/nookuɜe'enee-/,V,AI,have a white wing,,AC_AM2008;0170
 535,Cowell & Moss,AC_AM2008,0217,arp,,arap1274,,AR:1,,/cecin-/,,,,"during winter, over the course of winter",winter,initial

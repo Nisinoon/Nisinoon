@@ -203,13 +203,13 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 462,Beland,JPB1978,0174,atj,,atik1240,-sit-,C-A:1,,,,,,foot,foot,medial ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,body part,,,GVM
 464,Beland,JPB1978,0279,atj ,,atik1240,-s̀k-,C-A:1,,,,,,by foot,"foot, INSTRUMENT",prefinal ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-s̀ka:-,-s̀kaw-,-s̀k-,,,,,,,,,,,GVM
 466,Beland,JPB1978,"0145,0147,0171,0174",atj,,atik1240,-ska:t-,C-A:1,,,,,,leg,leg,medial ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ADJ: body part; used in dependent noun stems,,,GVM
-467,Beland,JPB1978,0170,atj,,atik1240,-skan-,C-A:1,,,,,,bone,bone,medial,Dep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,body part; used in dependent nouns,,,GVM
+467,Beland,JPB1978,0170,atj,,atik1240,-skan-,C-A:1,,,,,,bone,"bone, DEPENDENT",medial,Dep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,body part; used in dependent nouns,,,GVM
 477,Beland,JPB1978,0146,atj,,atik1240,-skw- ,C-A:1,,,,,,bear,bear,medial ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,,,,GVM
 478,Beland,JPB1978,"0235,0236",atj,,atik1240,-so-,C-A:1,,,,,,NG,,final,AI,,ABSTR,Y,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-ikka:so-,,,,,,,,,,*stem has category and/or subcategory but no stem - JS* final -e- is regularly replaced by -a:- before these; pairs with final -amaw- to form explicit reflexive verbs,,,GVM
-479,Beland,JPB1978,"0168,0175",atj,,atik1240,-so:-,C-A:1,,,,,,tail,tail,medial,Dep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,body part; used in dependent nouns,,,GVM
+479,Beland,JPB1978,"0168,0175",atj,,atik1240,-so:-,C-A:1,,,,,,tail,"tail, DEPENDENT",medial,Dep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,body part; used in dependent nouns,,,GVM
 481,Beland,JPB1978,0184,atj,,atik1240,-s̀o:riy-,C-A:1,,,,,,"metal, money","metal, money, CLASSIFIER",medial ,CLASS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 486,Beland,JPB1978,0279,atj ,,atik1240,-s̀s̀-,C-A:1,,,,,,"lie, fall","fall, lie (position)",prefinal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-s̀s̀in-,-s̀s̀im-,,,,,,,,,,,,GVM
-487,Beland,JPB1978,0184,atj,,atik1240,-ssa:m-,C-A:1,,,,,,snowshoe,snowshoe,medial ,CLASS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+487,Beland,JPB1978,0184,atj,,atik1240,-ssa:m-,C-A:1,,,,,,snowshoe,"snowshoe, CLASSIFIER",medial ,CLASS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 488,Beland,JPB1978,0229,atj,,atik1240,-s̀s̀i-,C-A:1,,,,,,diminutive,DIMINUTIVE,final ,AI,,,Y,AI,,,-s̀s̀in-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"*stem has category and/or subcategory but no stem - JS* called this an ""ending"", not a final; also add to the theme signs of transitive verbs; not very frequent",,,GVM
 489,Beland,JPB1978,0234,atj,,atik1240,-s̀s̀i-,C-A:1,,,,,,NG,,final,AI,,ABSTR,N,,,,-ttin-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 490,Beland,JPB1978,0165,atj,,atik1240,-s̀s̀i:m-,C-A:1,,,,,,younger brother or sister,"brother (younger), sister (younger)",medial ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,kinship ,,,GVM
@@ -573,7 +573,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 52,Beland,JPB1978,0202,atj,,atik1240,-a:row-,C-A:1,,,,,,tail,tail,final,N,,,Y,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-a:ro-,-w-,,,,,,,,,GVM
 438,Beland,JPB1978,0279,atj ,,atik1240,-pw-,C-A:1,,,,,,taste,taste,final,TA,,,N,,,,,,-s̀t-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 141,Beland,JPB1978,0209,atj,,atik1240,-askiy-,C-A:1,,,,,,territory,territory,final,N,,,Y,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-aski-,-y-,,,,,,,,,GVM
-626,Beland,JPB1978,0160,atj,,atik1240,ott-,C-A:1,,,,,,"from there, thence",thence,initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+626,Beland,JPB1978,0160,atj,,atik1240,ott-,C-A:1,,,,,,"from there, thence","thence, RELATIVE",initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 439,Beland,JPB1978,0173,atj,,atik1240,-pwa:m-,C-A:1,,,,,,thigh,thigh,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,body part,,,GVM
 202,Beland,JPB1978,0279,atj ,,atik1240,-eri-,C-A:1,,,,,,think,think,prefinal,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-erim-,-eritt-,,,,,,,,,,,,GVM
 203,Beland,JPB1978,"0261,0279",atj ,,atik1240,-erim-,C-A:1,,,,,,think,think,final,TA,,,N,,,,,,-eritt-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,prefinal -eri-,,,,,,,GVM

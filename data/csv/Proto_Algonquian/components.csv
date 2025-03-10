@@ -488,7 +488,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 414,Goddard,IG1965,0215,alg,,algo1256,*-ka·pawi-,PA:6,,,,,,stand,stand,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""suppletive AI final to *ni·pawiwa he stands"""
 116,Goddard,IG1965,0212,alg,,algo1256,*-am-,PA:6,,,,,,suffer pain,suffer (pain),prefinal
 786,Goddard,IG1965,0214,alg,,algo1256,*a·t-,PA:6,,,,,,tell,tell,initial
-436,Goddard,IG1965,0215,alg,,algo1256,*-kwenta·kani,PA:6,,,,,,throat,throat,medial,Dep
+436,Goddard,IG1965,0215,alg,,algo1256,*-kwenta·kani,PA:6,,,,,,throat,"throat, DEPENDENT",medial,Dep
 173,Goddard,IG1965,0211,alg,,algo1256,*-aθa·m-,PA:6,,,,,,underneath,underneath,initial
 330,Goddard,IG1967a,0010,alg,,algo1256,*-h,PA:6,,,,,,NG,,final,TA
 628,Goddard,IG1967a,0010,alg,,algo1256,*-θ,PA:6,,,,,,NG,,final,TA
@@ -570,8 +570,8 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 382,Goddard,IG1990a,0465,alg,,algo1256,*-i-ʔle·w-,PA:6,,,,,,bird,bird,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,*pele·w-a,,,,MAM
 375,Goddard,IG1990a,0465,alg,,algo1256,*-i-kan-,PA:6,,,,,,bone,bone,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,*-θkan- 'bone' dependent initial,,,,MAM
 377,Goddard,IG1990a,0465,alg,,algo1256,*-i-kan(e·)-,PA:6,,,,,,bone,bone,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,*-θkan- 'bone' dependent initial,,,,MAM
-643,Goddard,IG1990a,0465,alg,,algo1256,*-θkan-,PA:6,,,,,,bone,bone,initial,Dep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-552,Goddard,IG1990a,0466,alg,,algo1256,*-temp-,PA:6,,,,,,brain,brain,initial,Dep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+643,Goddard,IG1990a,0465,alg,,algo1256,*-θkan-,PA:6,,,,,,bone,"bone, DEPENDENT",initial,Dep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+552,Goddard,IG1990a,0466,alg,,algo1256,*-temp-,PA:6,,,,,,brain,"brain, DEPENDENT",initial,Dep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 199,Goddard,IG1990a,0469,alg,,algo1256,*-ečas-,PA:6,,,,,,action by heating or burning,"burn, heat, INSTRUMENT",final,TI1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 328,Goddard,IG1990a,0473,alg,,algo1256,*-h,PA:6,,,,,,causative,CAUSATIVE,final,TA,,,Y,AI,,,,,,,,,,*ni·ki·h-,,,V,TA,cause to be born,,IG1990a;0473,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 618,Goddard,IG1990a,0465,alg,,algo1256,*-ʔla·-,PA:6,,,,,,"fly, move fast","fly (V), move (fast), speed (V)",final,AI,,,,,,,*-ʔla·,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
@@ -580,7 +580,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 621,Goddard,IG1990a,0465,alg,,algo1256,*-ʔle·-,PA:6,,,,,,"fly, move fast","fly (V), move (fast), speed (V)",final,II,,,,,,*-ʔle·,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 968,Goddard,IG1990a,0461,alg,,algo1256,*awah-,PA:6,,,,,,be foggy,fog,initial,,,,,,,,,,,,,,,*awan-,,,,II,be foggy,,IG1990a;0461,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,*awan- 'be foggy',,,,MAM
 388,Goddard,IG1990a,0466,alg,,algo1256,*-i·nkeθ(e·)-,PA:6,,,,,,forehead,forehead,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,*-xkenθ- 'forehead' dependent initial,,,,MAM
-601,Goddard,IG1990a,0466,alg,,algo1256,*-xkenθ-,PA:6,,,,,,forehead,forehead,initial,Dep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+601,Goddard,IG1990a,0466,alg,,algo1256,*-xkenθ-,PA:6,,,,,,forehead,"forehead, DEPENDENT",initial,Dep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 491,Goddard,IG1990a,0466,alg,,algo1256,*-ntep-,PA:6,,,,,,head,head,medial,,,,,,,,,,,*-a·ntep-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 60,Goddard,IG1990a,"0463,0468",alg,,algo1256,*-a·θak-,PA:6,,,,,,hole (in general),hole,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 1411,Goddard,IG1990a,0463,alg,,algo1256,*ketem-,PA:6,,,,,,"pitiful; in a bad way, ruined, miserable","in a bad way, miserable, pitiful, ruined",initial,,,,,,,,,,,,,,,*ketem-we·-,,,,AI,speak pitifully,,IG1990a;0463,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
@@ -2212,8 +2212,8 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 211,Bloomfield,LB1946,0111,alg,,algo1256,*-eente,PA:1,,,,,,stay away,stay away,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 65,Bloomfield,LB1946,0106,alg,,algo1256,*-aahtekw,PA:1,,,,,,"stick, wood, tree","stick, tree, wood",final,N,,CONCR,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 1830,Bloomfield,LB1946,"0093,0120",alg,,algo1256,*nakaa-,PA:1,,,,,,stop,stop,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-2283,Bloomfield,LB1946,0120,alg,,algo1256,*taθ-,PA:1,,,,,,there,there,initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-2452,Bloomfield,LB1946,0120,alg,,algo1256,*went-,PA:1,,,,,,"from there, therefore",therefore,initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+2283,Bloomfield,LB1946,0120,alg,,algo1256,*taθ-,PA:1,,,,,,there,"there, RELATIVE",initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+2452,Bloomfield,LB1946,0120,alg,,algo1256,*went-,PA:1,,,,,,"from there, therefore","therefore, RELATIVE",initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 206,Bloomfield,LB1946,0090,alg,,algo1256,*-eele,PA:1,,,,,,think,think,final,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM: Possibly a typo for -eelem,,,MAM
 209,Bloomfield,LB1946,0109,alg,,algo1256,*-eelemo,PA:1,,,,,,think; middle reflexive,"think, MIDDLE, REFLEXIVE",final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 80,Bloomfield,LB1946,0119,alg,,algo1256,*-aapit-,PA:1,,,,,,tooth,tooth,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM

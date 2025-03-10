@@ -445,7 +445,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 1129,Siebert & Seeber,FS_PS1983,0333,ojg,,east2542,,OJ:1,,-iti-,,,,reciprocal,RECIPROCAL,final,,,,Y,,,,,,,,,,,,,,,,,-itiso,,,,,,,,,,,"Citing LB1958; S&S ""reorganization of his data""; no category given",,,MAM
 597,Bloomfield,LB1958,"0103,0126",ojg,,east2542,-yi·kk,OJ:1,,,,,,"resort to, frequent","frequent, resort to",final,TI ,,,,,,,,-yi·kkaw,,,,,,,,,,,,,,,,-ikk ,,,-yi·,,,,,,"Andrew Medler, Walpole Island",GVM
 844,Bloomfield,LB1958,0119,ojg,,east2542,-ttikwe·,OJ:1,,,,,,river,river,medial ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
-104,Bloomfield,LB1958,0071,ojg,,east2542,missat-,OJ:1,,,,,,stomach,stomach,medial,Dep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
+104,Bloomfield,LB1958,0071,ojg,,east2542,missat-,OJ:1,,,,,,stomach,"stomach, DEPENDENT",medial,Dep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
 353,Bloomfield,LB1958,0085,ojg,,east2542,-a·nakito·n,OJ:1,,,,,,talk,talk,final,AI ,,,,,,,,,,,,,,,,,,,,,,,,-∅,,,,,,,complex medial with AI final zero,,"Andrew Medler, Walpole Island",GVM
 881,Bloomfield,LB1958,"0122,0125",ojg,,east2542,-yi·yaʔi·,OJ:1,,,,,,"thing, place","place (N), thing",prefinal ,,,,,,,,,,,,,,,,,,,,,-yi·yaʔi·,,,,,,,,,,,,,"Andrew Medler, Walpole Island",GVM
 540,Bloomfield,LB1958,"0098,0103,0125",ojg,,east2542,-we·pin,OJ:1,,,,,,"throw by hand, push","hand, push, throw, INSTRUMENT",final,TA ,,,,,,,,,-we·pin,,,,,,,,,,,,,,,,,,-we·p,,Y,we·pin-,,,"Andrew Medler, Walpole Island",GVM

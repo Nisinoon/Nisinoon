@@ -427,7 +427,7 @@ ID,Author Surname,Source Code,Page # ,ISO code,Dialect,Glottocode,Form (original
 498,Cook & Muehlbauer,CC_JM2010,0037,crk,,plai1258,-sip,C-P:1,,,,,,duck,duck,medial,,,,,,,,,,,,,,,,,,sīsīp-,,,,,duck,,HCW1973a;0063,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 919,Wolfart,HCW1973a,0063,crk,,plai1258,sīsīp-,C-P:2,,,,,,duck,duck,initial,,,,,,,,,,,,,,,,,,sīsīp-,,,,,duck,,HCW1973a;0064,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 501,Wolfart,HCW1971,518,crk,,plai1258,-sip-,C-P:2,,,,,,duck,"duck, INCORPORATED",medial,INCORP
-991,Wolvengray,AW2011,"0247,0264,0265",crk,,plai1258,,C-P:3,,/(i)tahtw-/,,,,as many as; each; every; so many; so much,"each, every",initial,RR,,,,,,,,,,,,,,,,,itahtopiponē-,,,V,,be such an age; be so many winters old,,AW2011;0247,tahtotipiskwē-,,,V,AI,spend so many nights,,AW2011;0265
+991,Wolvengray,AW2011,"0247,0264,0265",crk,,plai1258,,C-P:3,,/(i)tahtw-/,,,,as many as; each; every; so many; so much,"each, every, RELATIVE",initial,RR,,,,,,,,,,,,,,,,,itahtopiponē-,,,V,,be such an age; be so many winters old,,AW2011;0247,tahtotipiskwē-,,,V,AI,spend so many nights,,AW2011;0265
 259,Cook & Muehlbauer,CC_JM2010,0013,crk,,plai1258,-htaw-,C-P:1,,,,,,do by ear; hear,"ear, hear, INSTRUMENT",final,TA,,,,,,,,,,-(i)ht-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 6,Cook & Muehlbauer,CC_JM2010,0013,crk,,plai1258,-(i)ht-,C-P:1,,,,,,do by ear,"ear, INSTRUMENT",final,TI,,,,,,,,,-htaw-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 796,Denny,JPD1981,"0004, 0005",crk,,plai1258,mō,C-P:3,,,,,,eat; to eat,eat,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
@@ -758,7 +758,7 @@ ID,Author Surname,Source Code,Page # ,ISO code,Dialect,Glottocode,Form (original
 630,Cook & Muehlbauer,CC_JM2010,0008,crk,,plai1258,ât-,C-P:1,,,,,,tell,tell,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 632,Wolfart,HCW1973a,0065,crk,,plai1258,āt-,C-P:2,,,,,,tell,tell,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HCW did not gloss; this from C&M 2010,,,GVM
 640,Cook & Muehlbauer,CC_JM2010,0008,crk,,plai1258,âtot-,C-P:1,,,,,,tell,tell,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-998,Wolvengray,AW2011,"0247,0264",crk,,plai1258,,C-P:3,,/tat-/,,,,there; for such a time,there,initial,RR,,,,,,,,,,,,,,,,,tatahkamikisi-,,,V,AI,be busy there,,AW2011;0247,tatāhpi-,,,V,AI,laugh there,,AW2011;0264,tatwēwit-,,,V,TI,make noise while others are speaking,,AW2011;0264
+998,Wolvengray,AW2011,"0247,0264",crk,,plai1258,,C-P:3,,/tat-/,,,,there; for such a time,"there, RELATIVE",initial,RR,,,,,,,,,,,,,,,,,tatahkamikisi-,,,V,AI,be busy there,,AW2011;0247,tatāhpi-,,,V,AI,laugh there,,AW2011;0264,tatwēwit-,,,V,TI,make noise while others are speaking,,AW2011;0264
 841,Wolfart,HCW1973a,"0066, 0073, 0074",crk,,plai1258,oht-,C-P:2,,,,,,"from there, therefore; thence","therefore, thence",initial,RR,,,,,,,,,,,,,,,,,ohtohtē-,,,V,,come from there,,AW2011;0247,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 474,Cook & Muehlbauer,CC_JM2010,0036,crk,,plai1258,-pwām-,C-P:1,,,,,,thigh,thigh,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 475,Wolfart,HCW1973a,0067,crk,,plai1258,-pwām-,C-P:2,,,,,,thigh,"thigh, DEPENDENT",medial,InanDep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM,MAM
@@ -798,8 +798,8 @@ ID,Author Surname,Source Code,Page # ,ISO code,Dialect,Glottocode,Form (original
 794,Wolfart,HCW1973a,0074,crk,,plai1258,miyw-,C-P:2,,,,,,well,well,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 708,Wolfart,HCW1973a,0065,crk,,plai1258,kīkw-,C-P:2,,,,,,what,what,initial,,,,,,,,,,,,,,,,,,kīkwāhtikw-,,,,,what tree,,HCE1973a;0065,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,C&M gloss as 'interrogative',,,GVM
 352,Wolfart,HCW1971,"513,517",crk,,plai1258,-iskwēw-,C-P:2,,,,,,"woman, wife","wife, woman, INCORPORATED",medial,INCORP
-992,Wolvengray,AW2011,"0248,0266,0267",crk,,plai1258,,C-P:3,,/asit-/,,,,with,with,initial,RR,,,,,,,,,,,,,,,,,asitahpit-,,,V,,tie s.t. fast (to it),,AW2011;0248
-996,Wolvengray,AW2011,"0247,0266",crk,,plai1258,,C-P:3,,/kik-/,,,,with; added,"with, added",initial,RR,,,,,,,,,,,,,,,,,kikāpohkē-,,,V,,make soup (with it),,AW2011;0247,kikisk-,,,V,TI,wear s.t.,,AW2011;0266,kikiskaw-,,,V,TA,wear s.o.,,AW2011;0266,kikamohtā-,,,V,TI,attach s.t. (to something),,AW2011;0266
+992,Wolvengray,AW2011,"0248,0266,0267",crk,,plai1258,,C-P:3,,/asit-/,,,,with,"with, RELATIVE",initial,RR,,,,,,,,,,,,,,,,,asitahpit-,,,V,,tie s.t. fast (to it),,AW2011;0248
+996,Wolvengray,AW2011,"0247,0266",crk,,plai1258,,C-P:3,,/kik-/,,,,with; added,"with, added, RELATIVE",initial,RR,,,,,,,,,,,,,,,,,kikāpohkē-,,,V,,make soup (with it),,AW2011;0247,kikisk-,,,V,TI,wear s.t.,,AW2011;0266,kikiskaw-,,,V,TA,wear s.o.,,AW2011;0266,kikamohtā-,,,V,TI,attach s.t. (to something),,AW2011;0266
 353,Wolfart,HCW1969a,0197,crk,,plai1258,-iskwēw-,C-P:2,,,,,,woman,woman,medial
 456,Wolfart,HCW1973a,0065,crk,,plai1258,-oskiskwēw-,C-P:2,,,,,,new woman,woman (new),medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 61,Cook & Muehlbauer,CC_JM2004,0008,crk,,plai1258,-ahtik,C-P:1,,,,,,wooden form of X,wooden,final,N,,,Y,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM: I'm not entirely sure about the status of this (secondary? final?),,,GVM

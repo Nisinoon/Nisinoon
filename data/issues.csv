@@ -1530,3 +1530,5 @@ MISSING_TOKEN-Kickapoo-167,MISSING_TOKEN,Kickapoo: Component 167 does not have a
 MISSING_TOKEN-Kickapoo-669,MISSING_TOKEN,Kickapoo: Component 669 does not have any tokens.
 UNMATCHED_COMPONENT-Ojibwe_Eastern-721,UNMATCHED_COMPONENT,Ojibwe_Eastern: The component ID for token undefined does not exist.
 MISSING_TOKEN-Ojibwe_Eastern-850,MISSING_TOKEN,Ojibwe_Eastern: Component 850 does not have any tokens.
+UNMATCHED_COMPONENT-Arapaho-798,UNMATCHED_COMPONENT,Arapaho: The component ID for token undefined does not exist.
+MISSING_TOKEN-Arapaho-799,MISSING_TOKEN,Arapaho: Component 799 does not have any tokens.
