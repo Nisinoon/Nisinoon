@@ -231,7 +231,7 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 222,Cowell & Moss,AC_AM2008,0175,arp,,arap1274,,AR:1,,/-ibiit/,,,,breath action (involuntary),,final,TI,,CONCR,,,/-ibi/,,/-ibiiton/
 223,Cowell & Moss,AC_AM2008,0175,arp,,arap1274,,AR:1,,/-ibiiton/,,,,breath action (involuntary),,final,TA,,CONCR,,,/-ibi/,,,/-ibiit/
 224,Cowell & Moss,AC_AM2008,0104,arp,,arap1274,,AR:1,,/-íbin/,,,,berry,,final,N
-225,Cowell & Moss,AC_AM2008,0178,arp,,arap1274,,AR:1,,/-ic-/,,,,"wood, timber",,medial,CLASS
+201,Cowell & Moss,AC_AM2008,0178,arp,,arap1274,,AR:1,,/-ic-/,,,,"wood, timber",,medial,CLASS
 226,Cowell & Moss,AC_AM2008,0178,arp,,arap1274,,AR:1,,/-icoo/,,,,"wood, timber",,final,II,,CONCR
 195,Cowell & Moss,AC_AM2008,0178,arp,,arap1274,,AR:1,,/-i3-/,,,,"fire, heat",,medial,CLASS
 228,Cowell & Moss,AC_AM2008,0170,arp,,arap1274,,AR:1,,/-i3in-/,,,,navel cord,,medial,,,,,,,,,,,,,,,,,/koxuɜinee-/,V,AI,to lose one's navel cord,,AC_AM2008;0170
@@ -355,7 +355,7 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 342,Cowell & Moss,AC_AM2008,0174,arp,,arap1274,,AR:1,,/-oohoot/,,,,vision,,final,TI,,CONCR,,,,,/-oohow/,,,,,,,,,/esoohoot-/,V,TI,to stare at,,AC_AM2008;0174,,,/nei'oohoot-/,V,TI,to look at,,AC_AM2008;0174
 343,Cowell & Moss,AC_AM2008,0174,arp,,arap1274,,AR:1,,/-oohow/,,,,vision,,final,TA,,CONCR,,,,,,/-oohoot/,,,,,,,,/esoohow-/,V,TA,to stare at,,AC_AM2008;0174,,,/nei'oohow-/,V,TA,to look at,,AC_AM2008;0174
 344,Cowell & Moss,AC_AM2008,0104,arp,,arap1274,,AR:1,,/-ook/,,,,rope or rope-like object,,final,N
-345,Cowell & Moss,AC_AM2008,0178,arp,,arap1274,,AR:1,,/-ookee-/,,,,rope-like objects,,medial,CLASS
+336,Cowell & Moss,AC_AM2008,0178,arp,,arap1274,,AR:1,,/-ookee-/,,,,rope-like objects,,medial,CLASS
 346,Cowell & Moss,AC_AM2008,0104,arp,,arap1274,,AR:1,,/-óókeen/,,,,person of authority,,final,N
 347,Cowell & Moss,AC_AM2008,0178,arp,,arap1274,,AR:1,,/-ookeeyi/,,,,rope-like objects,,final,AI,,CONCR
 348,Cowell & Moss,AC_AM2008,0178,arp,,arap1274,,AR:1,,/-ookehi/,,,,rope-like objects,,final,AI,,CONCR
@@ -427,7 +427,7 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 412,Cowell & Moss,AC_AM2008,"0104,0187",arp,,arap1274,,AR:1,,/-ówu/,,,,"land, earth",,final,N
 413,Cowell & Moss,AC_AM2008,0161,arp,,arap1274,,AR:1,,/-owuun-/,,,,NG,,final,TI
 414,Cowell & Moss,AC_AM2008,0178,arp,,arap1274,,AR:1,,/-ox-/,,,,"dirt, dirtiness",,medial,CLASS
-415,Cowell & Moss,AC_AM2008,0178,arp,,arap1274,,AR:1,,/-ox-/,,,,"grass, plants",,medial,CLASS
+189,Cowell & Moss,AC_AM2008,0178,arp,,arap1274,,AR:1,,/-ox-/,,,,"grass, plants",,medial,CLASS
 416,Cowell & Moss,AC_AM2008,0173,arp,,arap1274,,AR:1,,/-ox/,,,,foot,,final,TI,,CONCR,,,,,/-oxon/,,,,,,,,,/to'ox-/,V,TI,to kick,,AC_AM2008;0173
 417,Cowell & Moss,AC_AM2008,0178,arp,,arap1274,,AR:1,,/-oxeihi/,,,,"dirt, dirtiness",,final,AI,,CONCR
 418,Cowell & Moss,AC_AM2008,0178,arp,,arap1274,,AR:1,,/-oxesn-/,,,,"mud, sticky objects",,medial,CLASS
@@ -639,7 +639,7 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 606,Cowell & Moss,AC_AM2008,0173,arp,,arap1274,,AR:1,,/e3ei/,,,,"contact, collision",,,,,,,,,,,,,,,,,,,/ceibeɜei'on-/,V,TA,to push aside by foot,,AC_AM2008;0173,,,/ceibeɜei-/,V,TI,to push aside by foot,,AC_AM2008;0173
 607,Cowell & Moss,AC_AM2008,"0102,0104",arp,,arap1274,,AR:1,,/é3ew/,,,,dog,,initial
 608,Cowell & Moss,AC_AM2008,"0216,0223,0224,0225",arp,,arap1274,,AR:1,,/eh/,,,,"from speaker; henceforth, from this time onward",,initial
-609,Cowell & Moss,AC_AM2008,"0105,0106",arp,,arap1274,,AR:1,,/ehe'/,,,,diminutive,,final,,,,Y,N
+482,Cowell & Moss,AC_AM2008,"0105,0106",arp,,arap1274,,AR:1,,/ehe'/,,,,diminutive,,final,,,,Y,N
 610,Cowell & Moss,AC_AM2008,"0140,0171",arp,,arap1274,,AR:1,,/ehiis-/,,,,wash,,initial,,,,,,,,,,,,,,,,,/ehiis-etin-ouhu-/,V,AI,to gargle,,AC_AM2008;0140
 611,Cowell & Moss,AC_AM2008,0216,arp,,arap1274,,AR:1,,/ei'-/,,,,up to a given point or place,,initial
 612,Cowell & Moss,AC_AM2008,0384,arp,,arap1274,,AR:1,,/ei'-/,,,,when,,initial,RR
@@ -801,7 +801,7 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 758,Cowell & Moss,AC_AM2008,0174,arp,,arap1274,,AR:1,,/neet/,,,,dead,,initial,,,,,,,,,,,,,,,,,/neetookoonooɜ-/,V,TA,to drown s.o.,,AC_AM2008;0174,,,/neetebi-/,V,AI,to drown while swimming,,AC_AM2008;0177
 759,Cowell & Moss,AC_AM2008,0214,arp,,arap1274,,AR:1,,/neeyein-/,,,,"in a cluster, packed circle",,initial
 760,Cowell & Moss,AC_AM2008,0222,arp,,arap1274,,AR:1,,/nehyon-/,,,,checking up on s.t.,,initial,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: This is a verb stem, but it is analyzed within the text as acting as an initial."
-761,Cowell & Moss,AC_AM2008,0223,arp,,arap1274,,AR:1,,/nehyon-oohow-/,,,,to check up on s.o. (visually),,initial,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,/nooh/ to see,"GVM: This is a verb stem, but it is analyzed within the text as acting as an initial."
+760,Cowell & Moss,AC_AM2008,0223,arp,,arap1274,,AR:1,,/nehyon-oohow-/,,,,to check up on s.o. (visually),,initial,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,/nooh/ to see,"GVM: This is a verb stem, but it is analyzed within the text as acting as an initial."
 762,Cowell & Moss,AC_AM2008,0187,arp,,arap1274,,AR:1,,/nehyoni-/,,,,inspect,,,,,,,,,,,,,,,,,,,/nehyoni-bix-e'ei-koohu-/,V,AI,to rapidly stick one's head up to check on s.t. ,,AC_AM2008;0187,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Stem A is [O: Enemy Trail, 46]"
 763,Cowell & Moss,AC_AM2008,0219,arp,,arap1274,,AR:1,,/nei'-/,,,,"tightly, closely",,initial
 764,Cowell & Moss,AC_AM2008,0222,arp,,arap1274,,AR:1,,/nei'-oohow-/,,,,to look at s.o.,,initial,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,/nooh/ to see,"GVM: This is a verb stem, but it is analyzed within the text as acting as an initial."
@@ -834,15 +834,15 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 789,Cowell & Moss,AC_AM2008,0176,arp,,arap1274,,AR:1,,/nii(t)/,,,,"sound, hearing",,initial,,,,,,,,,,,,,,,,,/niitobee-/,V,AI,to hear s.t.,,AC_AM2008;0176
 790,Cowell & Moss,AC_AM2008,0179,arp,,arap1274,,AR:1,,/niice'/,,,,gray,,initial
 791,Cowell & Moss,AC_AM2008,"0215,0326",arp,,arap1274,,AR:1,,/niiciw-/,,,,"in back, in the rear (with respect to a center)",,initial
-792,Cowell & Moss,AC_AM2008,0385,arp,,arap1274,,AR:1,,/niicix-/,,,,how long/far,,initial,RR
+584,Cowell & Moss,AC_AM2008,0385,arp,,arap1274,,AR:1,,/niicix-/,,,,how long/far,,initial,RR
 793,Cowell & Moss,AC_AM2008,0215,arp,,arap1274,,AR:1,,/niico'-/,,,,close by,,initial
 794,Cowell & Moss,AC_AM2008,0384,arp,,arap1274,,AR:1,,/nii3-/,,,,how/what,,initial,RR
 795,Cowell & Moss,AC_AM2008,"0173,0174,0175",arp,,arap1274,,AR:1,,/nii3/,,,,to shape,,initial,,,,,,,,,,,,,,,,,/niiɜes-/,V,TA,to carve,,AC_AM2008;0173,,,/niiɜex-/,V,TI,to carve,,AC_AM2008;0173,,,/niiɜoxesnouyei-/,V,AI+O,to make dough,,AC_AM2008;0174,,,/niiɜooteeyei-/,V,TI,to braid,,AC_AM2008;0175
 794,Cowell & Moss,AC_AM2008,0183,arp,,arap1274,,AR:1,,/nii3/,,,,how/what,,initial
-796,Cowell & Moss,AC_AM2008,0384,arp,,arap1274,,AR:1,,/nii3e'ei-/,,,,to where,,initial,RR
+587,Cowell & Moss,AC_AM2008,0384,arp,,arap1274,,AR:1,,/nii3e'ei-/,,,,to where,,initial,RR
 797,Cowell & Moss,AC_AM2008,0384,arp,,arap1274,,AR:1,,/nii3ee-/,,,,why,,initial,RR
 798,Cowell & Moss,AC_AM2008,0385,arp,,arap1274,,AR:1,,/nii3ei'(nee)-/,,,,how much,,initial,RR
-799,Cowell & Moss,AC_AM2008,0215,arp,,arap1274,,AR:1,,/niih-/,,,,along; along a stream,,initial
+589,Cowell & Moss,AC_AM2008,0215,arp,,arap1274,,AR:1,,/niih-/,,,,along; along a stream,,initial
 800,Cowell & Moss,AC_AM2008,0219,arp,,arap1274,,AR:1,,/niihen-/,,,,"on one's/its own, by one-/itself",,initial
 801,Cowell & Moss,AC_AM2008,0223,arp,,arap1274,,AR:1,,/niihen-oohoot-/,,,,"to see s.t. by oneself, for oneself",,initial,TI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,/nooh/ to see,"GVM: This is a verb stem, but it is analyzed within the text as acting as an initial."
 802,Cowell & Moss,AC_AM2008,0173,arp,,arap1274,,AR:1,,/niihen/,,,,own,,initial,,,,,,,,,,,,,,,,,/niiheneheiɜiton-/,V,TA,"to own by fasting, suffering",,AC_AM2008;0173,,,/niiheneheiɜit-/,V,TI,"to own by fasting, suffering",,AC_AM2008;0173
@@ -851,14 +851,14 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 805,Cowell & Moss,AC_AM2008,0179,arp,,arap1274,,AR:1,,/niis/,,,,two,,initial
 806,Cowell & Moss,AC_AM2008,0211,arp,,arap1274,,AR:1,,/nííso'-/,,,,both,,initial
 807,Cowell & Moss,AC_AM2008,0215,arp,,arap1274,,AR:1,,/niit-/,,,,"next to, with, beside",,initial
-808,Cowell & Moss,AC_AM2008,"0384,0386",arp,,arap1274,,AR:1,,/niit-/,,,,from where,,initial,RR
+596,Cowell & Moss,AC_AM2008,"0384,0386",arp,,arap1274,,AR:1,,/niit-/,,,,from where,,initial,RR
 809,Cowell & Moss,AC_AM2008,"0384,0424",arp,,arap1274,,AR:1,,/niit(oh)-/,,,,where,,initial,RR
 810,Cowell & Moss,AC_AM2008,"0149,0151,0174",arp,,arap1274,,AR:1,,/niit/,,,,with,,initial,,,,,,,,,,,,,,,,,/niitouh'-/,V,TA,to include s.o. in an activity,,AC_AM2008;0174
 811,Cowell & Moss,AC_AM2008,0455,arp,,arap1274,,AR:1,,/niit/,,,,one,,initial
 812,Cowell & Moss,AC_AM2008,0215,arp,,arap1274,,AR:1,,/niitow-/,,,,"in front, ahead",,initial
 813,Cowell & Moss,AC_AM2008,0217,arp,,arap1274,,AR:1,,/niitow-/,,,,first (in a series),,initial
 814,Cowell & Moss,AC_AM2008,0131,arp,,arap1274,,AR:1,,/niitow/,,,,first,,initial
-815,Cowell & Moss,AC_AM2008,0385,arp,,arap1274,,AR:1,,/niitox-/,,,,how many,,initial,RR
+603,Cowell & Moss,AC_AM2008,0385,arp,,arap1274,,AR:1,,/niitox-/,,,,how many,,initial,RR
 816,Cowell & Moss,AC_AM2008,0215,arp,,arap1274,,AR:1,,/niiw-/,,,,"astray, off course",,initial
 817,Cowell & Moss,AC_AM2008,"0144,0172,0173",arp,,arap1274,,AR:1,,/niiw/,,,,"carry, hold",,initial,,,,,,,,,,,,,,,,,/niiwoho'on-/,V,TA,to carry s.o.,,AC_AM2008;0144,,,/niiwoh-/,V,TA,to hold in the mouth,,,AC_AM2008;0173,,/niiwoh-/,V,TI,to hold in the mouth,,AC_AM2008;0173
 818,Cowell & Moss,AC_AM2008,0175,arp,,arap1274,,AR:1,,/nisik/,,,,sweet,,initial,,,,,,,,,,,,,,,,,/nisicih'ehi-/,V,AI,to drink soda pop,,AC_AM2008;0175,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Stem A is spelled ""nisicih'ehi-"" on p. 175"
@@ -930,7 +930,7 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 881,Cowell & Moss,AC_AM2008,"0218,0282,0458",arp,,arap1274,,AR:1,,/oo3-/,,,,next (time),,initial
 882,Cowell & Moss,AC_AM2008,0216,arp,,arap1274,,AR:1,,/oo3i3in-/,,,,upside down,,initial
 883,Cowell & Moss,AC_AM2008,0140,arp,,arap1274,,AR:1,,/oo3on/,,,,tongue,,medial,,,,,,,,,,,,,,,,,/koo-ko'-ooɜon-ii-/,V,AI,"to stick out the tongue, be ready to strike [as a snake]",,AC_AM2008;0140
-884,Cowell & Moss,AC_AM2008,0178,arp,,arap1274,,AR:1,,/ook/,,,,"rope, ropelike object",,medial,CLASS
+336,Cowell & Moss,AC_AM2008,0178,arp,,arap1274,,AR:1,,/ook/,,,,"rope, ropelike object",,medial,CLASS
 885,Cowell & Moss,AC_AM2008,"0020,0027,0170",arp,,arap1274,,AR:1,,/ookut/,,,,tooth,,final,,,,,,,,,,/ookút/,,,,,,,/koh'ookutee-/,V,AI,"have a missing, pulled tooth",,AC_AM2008;0170
 886,Cowell & Moss,AC_AM2008,"0128,0455",arp,,arap1274,,AR:1,,/oonee/,,,,"legs, body",,medial,,,,,,,,,,,,,,,,,/wox-oonee-hi-/,V,AI,to be skinny,,AC_AM2008;0128,,,,,,,,,,,,,,,,,,,,,,,,,/ooneenoo/
 887,Cowell & Moss,AC_AM2008,0455,arp,,arap1274,,AR:1,,/ooneenoo/,,,,a group of X members,,final,II,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,/oonee/,/:noo/

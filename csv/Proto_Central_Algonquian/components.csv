@@ -278,7 +278,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 277,Bloomfield,LB1925b,0133,,,,*pōn-,PCA:1,,,,,,cease,cease,initial
 278,Bloomfield,LB1925b,0140,,,,*pōxkw-,PCA:1,,,,,,break,break,initial
 279,Bloomfield,LB1927b,0394,,,,*py-,PCA:1,,,,,,hither,hither,initial,PART,,,,,,,,,,,*pyätaw-,,,V,TI,bring an inanimate object,Y,LB1927b;0394
-280,Bloomfield,LB1927b,"0393,0396",,,,*pyät-,PCA:1,,,,,,hither,hither,initial,RR
+280,Bloomfield,LB1927b,"0393,0396",,,,*pyät-,PCA:1,,,,,,hither,"hither, RELATIVE",initial,RR
 281,Haas,MH1958b,0251,,,,*ša·k-,PCA:2,,,,,,"skin, stripped","skin, stripped",initial
 282,Haas,MH1958c,0164,,,,*ša·kw-,PCA:2,,,,,,break,break,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Marked with ""(?)"" in source"
 283,Haas,MH1958b,"0237,0253",,,,*ša·pw-,PCA:2,,,,,,through,through,initial

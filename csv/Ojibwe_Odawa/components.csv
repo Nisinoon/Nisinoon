@@ -619,7 +619,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 614,Rhodes,RR1980,0184,ojg,,ojib1241,inaw,OJ:9,,,,,,by sight,"sight, INSTRUMENT",final,TA,,,,,ināgozi,ināgwad,,inam,,,,,,,,,,,,,,,,,,,,,,,,,in-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 615,Rhodes,RR1980,0184,ojg,,ojib1241,indam,OJ:9,,,,,,by speech,"speech, INSTRUMENT",final,TI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,im-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 616,Denny,JPD1981,0005,ojg,,ojib1241,inim,OJ:5,,,,,,goes away,go away,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-617,Denny,JPD1981,0006,ojg,,ojib1241,ininc,OJ:5,,,,,,hand,hand,medial ,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+617,Denny,JPD1981,0006,ojg,,ojib1241,ininc,OJ:5,,,,,,hand,"hand, INCORPORATED",medial ,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 618,Denny,JPD1978b,0298,ojg,,ojib1241,īntam,OJ:5,,,,,,depths of water,depth (water),medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 619,Denny,JPD1981,0006,ojg,,ojib1241,ip,OJ:5,,,,,,water,"liquid, water, INCORPORATED",medial,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,allomorph of /ipy/,,,HTL
 620,Denny,JPD1981,0006,ojg,,ojib1241,ipīk,OJ:5,,,,,,water,"liquid, water, CLASSIFIER",medial,CLASS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL

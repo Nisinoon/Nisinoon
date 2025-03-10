@@ -56,7 +56,7 @@ ID,Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original orthogr
 135,Barrie & Dunham,MB_JD2008,0036,bla,,siks1238,imi,BF:1,,,,,,smell,smell,final,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM: type of final not given,,,MAM
 147,Barrie & Dunham,MB_JD2008,0036,bla,,siks1238,ipi.. [sic],BF:1,,,,,,causative,CAUSATIVE,final,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM: two dots are in original; type of final not given,,,MAM
 153,Barrie & Dunham,MB_JD2008,"0019,0037",bla,,siks1238,isttsi,BF:1,,,,,,"hurt, pain","hurt, pain",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"MAM: Defined as ""XSUBJ hit YOBJ’s ZMED""; assuming this is an initial because it precedes a medial.",,,MAM
-155,Armoskaite,SA2010,"0061, 0068",bla,,siks1238,itap-,BF:1,,,,,,toward; to,"to, toward",initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+155,Armoskaite,SA2010,"0061, 0068",bla,,siks1238,itap-,BF:1,,,,,,toward; to,"to, toward, RELATIVE",initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 165,Barrie & Dunham,MB_JD2008,0037,bla,,siks1238,o't,BF:1,,,,,,grasp by hand; take,"grasp, take",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 213,Barrie & Dunham,MB_JD2008,"0019,0037",bla,,siks1238,yáak,BF:1,,,,,,"change shape of, shape, arrange","arrange, shape",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"MAM: Defined as ""XSUBJ change shape of YOBJ as a ZMED"" and also ""XSUBJ change shape of Y’s ZMED""; assuming this is an initial because it precedes a medial.",,,MAM
 110,Armoskaite,SA2010,0065,bla,,siks1238,á'p-,BF:1,,,,,,"about, around","about, around",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
