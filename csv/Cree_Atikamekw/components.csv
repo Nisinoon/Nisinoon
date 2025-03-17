@@ -321,8 +321,8 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 406,Beland,JPB1978,0244,atj ,,atik1240,-pakit-,C-A:1,,,,,,"fall, let fall","cause, fall",final,TA,,,,,,,,,-pakit-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 539,Beland,JPB1978,0276,atj ,,atik1240,-tis̀ahw-,C-A:1,,,,,,"send, chase","chase, send",final,TA,,,B,AI,,,,,-tis̀ah-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,TA -ahw-,,,prefinal -tis̀-,,,,stem has category and/or subcategory but no stem - complex,,,GVM
 468,Beland,JPB1978,0175,atj,,atik1240,-skask-,C-A:1,,,,,,chest,chest,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,body part,,,GVM
-308,Beland,JPB1978,0276,atj ,,atik1240,-kah-,C-A:1,,,,,,chop with axe,chop,final,TI,,,N,,,,,-kahw-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-309,Beland,JPB1978,0276,atj ,,atik1240,-kahw-,C-A:1,,,,,,chop with axe,chop,final,TA,,,N,,,,,,-kah-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+308,Beland,JPB1978,0276,atj ,,atik1240,-kah-,C-A:1,,,,,,chop with axe INSTRUMENT,chop,final,TI,,,N,,,,,-kahw-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+309,Beland,JPB1978,0276,atj ,,atik1240,-kahw-,C-A:1,,,,,,chop with axe INSTRUMENT,chop,final,TA,,,N,,,,,,-kah-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 469,Beland,JPB1978,0176,atj,,atik1240,-s̀kas̀s̀y,C-A:1,,,,,,"nail, claw, hoof","claw, hoof, nail",medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,body part,,,GVM
 611,Beland,JPB1978,0158,atj,,atik1240,kip-,C-A:1,,,,,,close,close,initial,,,,,,,,,,,kipw-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 586,Beland,JPB1978,0208,atj,"Manouane, Weymontachie, Obedjiwan",atik1240,-yekinw-,C-A:1,,,,,,cloth,cloth,final,N,,,B,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-i:k-,-inw-,,,,,,"""the distinction between the two suffixes is no more in used [sic] at Manouane where -yekinw- only has been recorded; both suffixes are found at Weymontachie and at Obedjiwan.""",,,GVM
@@ -614,8 +614,8 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 268,Beland,JPB1978,0214,atj,,atik1240,-ipy-,C-A:1,,,,,,water,water,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 311,Beland,JPB1978,0248,atj ,,atik1240,-kama:-,C-A:1,,,,,,water,water,final,II,,,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,medial -kamy,II -a:-,,,,,,complex,,,GVM
 314,Beland,JPB1978,0210,atj,,atik1240,-kamy-,C-A:1,,,,,,water,water,final,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-90,Beland,JPB1978,0235,atj,,atik1240,-ah-,C-A:1,,,,,,with or by water,"water, INSTRUMENT",final,TI,,,,,,,,-aho-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""specialized meaning""",,,GVM
-94,Beland,JPB1978,0235,atj,,atik1240,-aho-,C-A:1,,,,,,with or by water,"water, INSTRUMENT",final,AI,,,,,,,-ah-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""specialized meaning""",,,GVM
+90,Beland,JPB1978,0235,atj,,atik1240,-ah-,C-A:1,,,,,,with or by water INSTRUMENT,"water, INSTRUMENT",final,TI,,,,,,,,-aho-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""specialized meaning""",,,GVM
+94,Beland,JPB1978,0235,atj,,atik1240,-aho-,C-A:1,,,,,,with or by water INSTRUMENT,"water, INSTRUMENT",final,AI,,,,,,,-ah-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""specialized meaning""",,,GVM
 57,Beland,JPB1978,0247,atj ,,atik1240,-a:s̀ka:-,C-A:1,,,,,,wave,wave,final,II,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,found in very few stems,,,GVM
 38,Beland,JPB1978,0190,atj,,atik1240,-a:pina:n-,C-A:1,,,,,,white,white,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-a:n-,,,,,Y,wa:pan 'white',,,,GVM
 455,Beland,JPB1978,0249,atj ,,atik1240,-rowe-,C-A:1,,,,,,wind,wind,final,II,,,Y,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,stem has category and/or subcategory but no stem - forms impersonal verbs,,,GVM

@@ -141,7 +141,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 521,Fisher et al.,LF2019,,chy,,chey1247,év-,CH:1,,,,*kiiw-,,"about, around (in sense of 'about', not related to 'round')","about, around",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 550,Fisher et al.,LF2019,,chy,,chey1247,he'am-,CH:1,,,,,,"up, above","above, up",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 481,Fisher et al.,LF2019,,chy,,chey1247,a's-,CH:1,,,,,,accidentally,accidentally,initial,,,,,,,,,,a't-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-942,Fisher et al.,LF2019,,chy,,chey1247,vés-,CH:1,,,,,,"with, accompany","accompany, with",initial,,,,,,,,,,vés(t)-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+942,Fisher et al.,LF2019,,chy,,chey1247,vés-,CH:1,,,,,,"with, accompany ","accompany, with COMITATIVE",initial,,,,,,,,,,vés(t)-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 547,Fisher et al.,LF2019,,chy,,chey1247,hé-,CH:1,,,,,,"accustomed to, used to","accustomed to, used to",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 607,Fisher et al.,LF2019,,chy,,chey1247,hó'x-,CH:1,,,,,,"accustomed to, used to","accustomed to, used to",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 645,Fisher et al.,LF2019,,chy,,chey1247,hótȯx,CH:1,,,,,,across,across,initial,,Y,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
@@ -501,7 +501,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 219,Fisher et al.,LF2019,,chy,,chey1247,-menoo'e,CH:1,,,,,,globular,globular,final,II,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 349,Fisher et al.,LF2019,,chy,,chey1247,-ohtsé,CH:1,,,,*-pahto,,go,go,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""Etym: *-pahto: ‘run (suffix)’.""",,,MAM
 548,Fisher et al.,LF2019,,chy,,chey1247,hé',CH:1,,,,,,"from there go, from there run, go from there, run from there","go (from there), run (from there)",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-769,Fisher et al.,LF2019,,chy,,chey1247,nóm-,CH:1,,,,,,go with the wind,go (with the wind),initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+769,Fisher et al.,LF2019,,chy,,chey1247,nóm-,CH:1,,,,,,go with the wind INSTRUMENT,go (with the wind),initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 489,Fisher et al.,LF2019,,chy,,chey1247,amėhnėhé- ,CH:1,,,,,,go along,go along,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 328,Fisher et al.,LF2019,,chy,,chey1247,-ohe,CH:1,,,,,,"move, go","go, move",final,AI,,,,,,,,,,,,,,,-tó'hoveohe,,,V,AI,go between,,LF2019,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 549,Fisher et al.,LF2019,,chy,,chey1247,he'-,CH:1,,,,,,"how go, how run, so go, so run","go, run, INSTRUMENT, RELATIVE",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM: Must be a relative root.,,,MAM

@@ -155,7 +155,7 @@ ID,Component ID,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original or
 509,Cowell & Moss,AC_AM2008,0209,arp,,arap1274,,AR:1,,/bééxucoon-/,,,,barely able to do s.t.,able (barely),initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,/bééxu-/,/coon-/
 670,Cowell & Moss,AC_AM2008,"0216,0326",arp,,arap1274,,AR:1,,/ihk-/,,,,"upward, non-surface contact; above, non-surface contact","above, upward",initial
 961,Cowell & Moss,AC_AM2008,0215,arp,,arap1274,,AR:1,,/tokooɜ-/,,,,"above, upward","above, upward",initial
-292,Cowell & Moss,AC_AM2008,0187,arp,,arap1274,,AR:1,,/-nohku-/,,,,"with, accompany","accompany, with",,,,,,,,,,,,,,,,,,/no'oɜi-nohku-kosein-einoo-koohu-/,V,AI,to run such that the hooves make a lot of noise (horses),,AC_AM2008;0187,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM: Stem A is [Q:7]
+292,Cowell & Moss,AC_AM2008,0187,arp,,arap1274,,AR:1,,/-nohku-/,,,,"with, accompany ","accompany, with COMITATIVE",,,,,,,,,,,,,,,,,,/no'oɜi-nohku-kosein-einoo-koohu-/,V,AI,to run such that the hooves make a lot of noise (horses),,AC_AM2008;0187,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM: Stem A is [Q:7]
 937,Cowell & Moss,AC_AM2008,0130,arp,,arap1274,,AR:1,,/sesiin/,,,,aching,ache,initial
 115,Cowell & Moss,AC_AM2003,0365,arp,,arap1274,tóókoox-,AR:2,,,,,,across,across,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 962,Cowell & Moss,AC_AM2008,0215,arp,,arap1274,,AR:1,,/tokooxuu-/,,,,"across, non-surface contact",across,initial
@@ -283,7 +283,7 @@ ID,Component ID,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original or
 127,Cowell & Moss,AC_AM2008,0168,arp,,arap1274,,AR:1,,/-bin-/,,,,berry,"berry, CLASSIFIER",medial,,,,,,,,,,,,,,,,,/biibinee-/,V,AI,eat berries,,AC_AM2008;0168
 454,Cowell & Moss,AC_AM2008,0168,arp,,arap1274,,AR:1,,/-wun-/,,,,berry,"berry, CLASSIFIER",medial,,,,,,,,,,,,,,,,,/ɜo'owu'uwunee-/,V,AI,crush berries,,AC_AM2008;0168
 224,Cowell & Moss,AC_AM2008,0104,arp,,arap1274,,AR:1,,/-íbin/,,,,berry,"berry, fruit, grain",final,N
-807,Cowell & Moss,AC_AM2008,0215,arp,,arap1274,,AR:1,,/niit-/,,,,"next to, with, beside","beside, next to, with",initial
+807,Cowell & Moss,AC_AM2008,0215,arp,,arap1274,,AR:1,,/niit-/,,,,"next to, with, beside ","beside, next to, with COMITATIVE",initial
 648,Cowell & Moss,AC_AM2008,0215,arp,,arap1274,,AR:1,,/ɜoun-/,,,,between,between,initial
 532,Cowell & Moss,AC_AM2008,"0211,0228,0229",arp,,arap1274,,AR:1,,/cebe'éí-/,,,,"more, farther, beyond, superior","beyond, farther, more, superior",initial,,,,,,,,,,/cebe'ei/
 93,Cowell & Moss,AC_AM2003,"0352,0367",arp,,arap1274,heebeθ-,AR:2,,,,,,big,big,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"MAM: the second part of this form appears to be a full N, implying this part is a prenoun? Not sure.",,,MAM
@@ -736,7 +736,7 @@ ID,Component ID,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original or
 453,Cowell & Moss,AC_AM2008,0191,arp,,arap1274,,AR:1,,/-woon-/,,,,new,new
 881,Cowell & Moss,AC_AM2008,"0218,0282,0458",arp,,arap1274,,AR:1,,/ooɜ-/,,,,next (time),next,initial
 899,Cowell & Moss,AC_AM2008,0216,arp,,arap1274,,AR:1,,/ooxuɜ-/,,,,right next to,next to,initial
-927,Cowell & Moss,AC_AM2008,0216,arp,,arap1274,,AR:1,,/oy-/,,,,"next to, with contact",next to,initial
+927,Cowell & Moss,AC_AM2008,0216,arp,,arap1274,,AR:1,,/oy-/,,,,"next to, with contact ",next to COMITATIVE,initial
 341,Cowell & Moss,AC_AM2008,0209,arp,,arap1274,,AR:1,,/-ooh-/,,,,no longer do s.t.,no longer,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: p.209: ""[always occurs with preceding NEG or prohibitive: hoow-ooh- etc.]"""
 181,Cowell & Moss,AC_AM2008,0176,arp,,arap1274,,AR:1,,/-einee-/,,,,"noise, making noise",noise,final,AI,,CONCR,,,,/-einooni-/,,,,,,,,,,/woxeineesi-/,V,AI,to be involved in a scandal,Y,AC_AM2008;0176
 185,Cowell & Moss,AC_AM2008,0187,arp,,arap1274,,AR:1,,/-einoo-/,,,,noise,noise,,,,,,,,,,,,,,,,,,/no'oɜi-nohku-kosein-einoo-koohu-/,V,AI,to run such that the hooves make a lot of noise (horses),,AC_AM2008;0187,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM: Stem A is [Q:7]
@@ -887,7 +887,7 @@ ID,Component ID,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original or
 851,Cowell & Moss,AC_AM2008,0209,arp,,arap1274,,AR:1,,/nosóún-/,,,,still doing s.t.,still (ADV),initial
 964,Cowell & Moss,AC_AM2008,0176,arp,,arap1274,,AR:1,,/too'/,,,,stop,stop,initial,,,,,,,,,,,,,,,,,/too'usoh'owuun-/,V,TA,to signal s.o. to stop doing s.t. ,,AC_AM2008;0176
 954,Cowell & Moss,AC_AM2008,0179,arp,,arap1274,,AR:1,,/tei'/,,,,strong,strong,initial
-420,Cowell & Moss,AC_AM2008,0174,arp,,arap1274,,AR:1,,/-oxesnouyei/,,,,with sticky substance,"substance (sticky), INSTRUMENT",final,AI+O,,CONCR,,,,,,,,,,,,,,/niiɜoxesnouyei-/,V,AI+O,to make dough,,AC_AM2008;0174,,,/okoxesnouyei-/,V,AI+O,"to plaster, plaster over",,AC_AM2008;0174
+420,Cowell & Moss,AC_AM2008,0174,arp,,arap1274,,AR:1,,/-oxesnouyei/,,,,with sticky substance ,"substance (sticky), INSTRUMENT",final,AI+O,,CONCR,,,,,,,,,,,,,,/niiɜoxesnouyei-/,V,AI+O,to make dough,,AC_AM2008;0174,,,/okoxesnouyei-/,V,AI+O,"to plaster, plaster over",,AC_AM2008;0174
 284,Cowell & Moss,AC_AM2008,0221,arp,,arap1274,,AR:1,,/-koxuuten-/,,,,suddenly,suddenly,initial
 735,Cowell & Moss,AC_AM2008,0219,arp,,arap1274,,AR:1,,/koxuuten-/,,,,suddenly,suddenly,initial
 7,Cowell & Moss,AC_AM2003,0353,arp,,arap1274,-biicei-,AR:2,,,,,,summer,summer,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM: Might be a stem - ?,,,MAM
@@ -943,7 +943,7 @@ ID,Component ID,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original or
 339,Cowell & Moss,AC_AM2008,0170,arp,,arap1274,,AR:1,,/-ooɜon-/,,,,tongue,tongue,medial,,,,,,,,,,,,,,,,,/konooko'ooɜonii-/,V,AI,stick tonge in and out,,AC_AM2008;0170
 883,Cowell & Moss,AC_AM2008,0140,arp,,arap1274,,AR:1,,/ooɜon/,,,,tongue,tongue,medial,,,,,,,,,,,,,,,,,/koo-ko'-ooɜon-ii-/,V,AI,"to stick out the tongue, be ready to strike [as a snake]",,AC_AM2008;0140
 113,Cowell & Moss,AC_AM2008,"0145,0146,0157,0172",arp,,arap1274,óh,AR:1,,/oh/,,,,by tool,"tool, INSTRUMENT",final,TI,,,,,,,,,,,,,,,,/sébey-oh-/,V,TI,to aim at s.t.,,AC_AM2008;0145,,,/cihi'-óh-/,V,TI,to chop s.t.,,AC_AM2008;0145,,,/neniiw-óh-/,V,TI,to hold s.t. in the mouth,,AC_AM2008;0146,,,/towoh-/,V,TI,"to cut off, remove",,AC_AM2008;0157
-555,Cowell & Moss,AC_AM2008,0144,arp,,arap1274,,AR:1,,/ci-ton/,,,,action with tool,"tool, INSTRUMENT",final,TA,,,,,,,,,,,,,,,,/noox-i-ci-ton-/,V,TA,to dig a hole for s.o.,Y,AC_AM2008;0144,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ci,ton
+555,Cowell & Moss,AC_AM2008,0144,arp,,arap1274,,AR:1,,/ci-ton/,,,,action with tool INSTRUMENT,"tool, INSTRUMENT",final,TA,,,,,,,,,,,,,,,,/noox-i-ci-ton-/,V,TA,to dig a hole for s.o.,Y,AC_AM2008;0144,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ci,ton
 869,Cowell & Moss,AC_AM2008,"0079,0145,0146,0157",arp,,arap1274,,AR:1,,/oh/,,/*-ahw/,,action by tool,"tool, INSTRUMENT",final,TA,,ABSTR,,,,,,,,,,,,,,/sebéy-oh-/,V,TA,to aim at s.t. (AN),,AC_AM2008;0145,,,/cíhi'-oh-/,V,TA,to chop s.t. (AN),,AC_AM2008;0145,,,/ɜéí'eiik-oh-/,V,TA,to carry s.o. on the back,,AC_AM2008;0146,,,/towoh-/,V,TA,"to cut off, remove",,AC_AM2008;0135
 916,Cowell & Moss,AC_AM2008,0216,arp,,arap1274,,AR:1,,/ouut-/,,,,"on top of, surface contact",top,initial
 849,Cowell & Moss,AC_AM2008,0019,arp,,arap1274,,AR:1,,/nóox/,,,,tracks,tracks,initial
@@ -957,7 +957,7 @@ ID,Component ID,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original or
 640,Cowell & Moss,AC_AM2008,0183,arp,,arap1274,,AR:1,,/ɜi'/,,,,upright,upright,initial
 882,Cowell & Moss,AC_AM2008,0216,arp,,arap1274,,AR:1,,/ooɜiɜin-/,,,,upside down,upside down,initial
 668,Cowell & Moss,AC_AM2008,0217,arp,,arap1274,,AR:1,,/ihciniih-/,,,,upstream,upstream,initial
-828,Cowell & Moss,AC_AM2008,0215,arp,,arap1274,,AR:1,,/noho'-/,,,,"upward, usually with surface contact",upward,initial
+828,Cowell & Moss,AC_AM2008,0215,arp,,arap1274,,AR:1,,/noho'-/,,,,action with tool ,upward INSTRUMENT,initial
 229,Cowell & Moss,AC_AM2008,0170,arp,,arap1274,,AR:1,,/-ih-/,,,,vagina,vagina,medial,,,,,,,,,,,,,,,,,/beesihee-/,V,AI,have a big vagina,,AC_AM2008;0170
 539,Cowell & Moss,AC_AM2008,0103,arp,,arap1274,,AR:1,,/cééyow/,,,,various,various,initial
 591,Cowell & Moss,AC_AM2008,0211,arp,,arap1274,,AR:1,,/ééɜinee-/,,,,very,very,initial
@@ -973,7 +973,7 @@ ID,Component ID,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original or
 353,Cowell & Moss,AC_AM2008,0174,arp,,arap1274,,AR:1,,/-ookoono(o)ɜ/,,,,water,water,final,TA,,CONCR,,,,,,,,,,,,,,/seyookoonoɜ-/,V,TA,to water s.t.,,AC_AM2008;0174,,,/neetookoonooɜ-/,V,TA,to drown s.o.,,AC_AM2008;0174
 577,Cowell & Moss,AC_AM2008,0017,arp,,arap1274,,AR:1,,/éc/,,,,water,water
 349,Cowell & Moss,AC_AM2008,0219,arp,,arap1274,,AR:1,,/-ookoon-/,,,,"by water, for water as a tool or means","water, INSTRUMENT",medial
-52,Cowell & Moss,AC_AM2003,0353,arp,,arap1274,-ookoonee-,AR:2,,,,,,with water,"water, INSTRUMENT",medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+52,Cowell & Moss,AC_AM2003,0353,arp,,arap1274,-ookoonee-,AR:2,,,,,,with water ,"water, INSTRUMENT",medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 299,Cowell & Moss,AC_AM2008,0175,arp,,arap1274,,AR:1,,/-nouhu/,,,,clothing (wearing),wear (clothing),final,AI,,CONCR,,,,,,/-nouhuut/,,,,,,,,/biisinouhu-/,V,AI,to wear fur,,AC_AM2008;0175,,,/nookunouhu-/,V,AI,to wear white,,AC_AM2008;0175
 300,Cowell & Moss,AC_AM2008,0175,arp,,arap1274,,AR:1,,/-nouhuut/,,,,clothing (wearing),wear (clothing),final,TI,,CONCR,,,/-nouhu/
 487,Cowell & Moss,AC_AM2008,0126,arp,,arap1274,,AR:1,,/(i)nouhu/,,,,"concerning clothing, wear X type of clothes",wear (clothing),final,AI,,CONCR
