@@ -142,7 +142,7 @@ ID,Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original orthogr
 201,Barrie & Dunham,MB_JD2008,0037,bla,,siks1238,ssok,BF:1,,,,,,heavy,heavy,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 202,Barrie & Dunham,MB_JD2008,0033,,,,ssp-,BF:1,,,,,,high,high,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 131,Barrie & Dunham,MB_JD2008,0037,bla,,siks1238,ikk,BF:1,,,,,,"hit, strike","hit, strike",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-144,Barrie & Dunham,MB_JD2008,"0019,0037",bla,,siks1238,ipak,BF:1,,,,,,"hit, strike with an object on a specified portion of the body","hit, strike (on body), INSTRUMENT",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"MAM: Defined as ""XSUBJ’s ZMED hurts""; assuming this is an initial because it precedes a medial.",,,MAM
+144,Barrie & Dunham,MB_JD2008,"0019,0037",bla,,siks1238,ipak,BF:1,,,,,,"hit, strike with an object on a specified portion of the body ","hit, strike (on body), INSTRUMENT",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"MAM: Defined as ""XSUBJ’s ZMED hurts""; assuming this is an initial because it precedes a medial.",,,MAM
 171,Bliss et al. ,HB_ET_AL2012,0001,bla,,siks1238,ohpop-,BF:1,,,,,,hold a child,hold (child),initial
 11,Armoskaite & Junker,SA_MOJ2017,0003,bla,,siks1238,-a'tsis,BF:1,,,,,,instrument,INSTRUMENT,final,N,,,Y,INTR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 12,Bliss et al. ,HB_ET_AL2012,0006,bla,,siks1238,-a'tsis,BF:1,,,,,,instrument,INSTRUMENT,final,N,,,Y,V
