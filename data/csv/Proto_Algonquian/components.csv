@@ -129,8 +129,8 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 1332,Aubin,GA1975b,0048,alg,,algo1256,*kayaht-,PA:4,,,,,,ahead of time,ahead of time,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ho57.254
 1405,Aubin,GA1975b,0059,alg,,algo1256,*ket-,PA:4,,,,,,all,all,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ho57.259
 1339,Aubin,GA1975b,0049,alg,,algo1256,*ke:kya:t-,PA:4,,,,,,"nearly, almost","almost, nearly",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ho57.261
-384,Aubin,GA1975b,0033,alg,,algo1256,*-i:t-,PA:4,,,,,,"along, with, fellow (pseudo-root)","along, fellow, with",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,pseudo-root' B146.119
-2495,Aubin,GA1975b,0161,alg,,algo1256,*wi:t-,PA:4,,,,,,"along, with","along, with",initial,,,,,,,,,,,*wi:x-,,,,*wi:xpe:-,,,V,AI,sleep with others,,GA1975b;0161,*wi:xpe:m-,,,V,TA,sleep with,,GA1975b;0161,,,,,,,,,,,,,,,,,,,,,,,,,,B146.91; *wi:xpe:- B146.113; *wi:xpe:m- B146.113
+384,Aubin,GA1975b,0033,alg,,algo1256,*-i:t-,PA:4,,,,,,"along, with, fellow (pseudo-root)","along, fellow, with, COMITATIVE",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,pseudo-root' B146.119
+2495,Aubin,GA1975b,0161,alg,,algo1256,*wi:t-,PA:4,,,,,,"along, with","along, with, COMITATIVE",initial,,,,,,,,,,,*wi:x-,,,,*wi:xpe:-,,,V,AI,sleep with others,,GA1975b;0161,*wi:xpe:m-,,,V,TA,sleep with,,GA1975b;0161,,,,,,,,,,,,,,,,,,,,,,,,,,B146.91; *wi:xpe:- B146.113; *wi:xpe:m- B146.113
 1855,Aubin,GA1975b,0098,alg,,algo1256,*naxkw-,PA:4,,,,,,"correspond, answer","answer, correspond",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Vo41.145
 1166,Aubin,GA1975b,0025,alg,,algo1256,*eskwi-,PA:4,,,,,,"aside, apart, differently","apart, aside, differently",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ge41.309
 475,Aubin,GA1975b,0111,alg,,algo1256,*-nexke:-,PA:4,,,,,,arm,arm,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,post-stem form' Vo41.145
@@ -266,7 +266,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 1514,Aubin,GA1975b,0076,alg,,algo1256,*kosekw-,PA:4,,,,,,heavy,heavy,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ho57.265
 1285,Aubin,GA1975b,0041,alg,,algo1256,*kaHk-,PA:4,,,,,,hide,hide,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ho57.252
 1599,Aubin,GA1975b,0083,alg,,algo1256,*lo:k-,PA:4,,,,,,"skin, hide","hide, skin (N)",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ha58.251
-1678,Aubin,GA1975b,0086,alg,,algo1256,*me-,PA:4,,,,,,to hit with a missile,hit (with a missile),initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,B146.91
+1678,Aubin,GA1975b,0086,alg,,algo1256,*me-,PA:4,,,,,,to hit with a missile,"hit (with a missile), INSTRUMENT",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,B146.91
 2172,Aubin,GA1975b,0137,alg,,algo1256,*sak-,PA:4,,,,,,"hold, seize","hold, seize",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,B146.120
 590,Aubin,GA1975b,0162,alg,,algo1256,*-wikamikw,PA:4,,,,,,house,house,final,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,B146.106
 1373,Aubin,GA1975b,0052,alg,,algo1256,*kent-,PA:4,,,,,,immerse,immerse,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ho57.256
@@ -1333,9 +1333,9 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 1308,Hewson,JH_nd-a,0069,alg,,algo1256,*kanaw-,PA:6,,,,,,"watch, tend, care, attention","attention, care, tend, watch",initial
 975,Hewson,JH_nd-a,0036,alg,,algo1256,*awe·n-,PA:6,,,,,,"who, somebody indefinite","who, INDEFINITE",initial
 2181,Hewson,JH_nd-a,0263,alg,,algo1256,*še·çk(w)-,PA:6,,,,,,"whole, alone, only","alone, only, whole",initial
-2500,Hewson,JH_nd-a,0341,alg,,algo1256,*wi·či-,PA:6,,,,,,"with, accompany","accompany, with",initial
-2502,Hewson,JH_nd-a,0341,alg,,algo1256,*wi·čye·w-,PA:6,,,,,,"with, accompany","accompany, with",initial
-2524,Hewson,JH_nd-a,0341,alg,,algo1256,*wi·t-,PA:6,,,,,,"with, accompany","accompany, with",initial
+2500,Hewson,JH_nd-a,0341,alg,,algo1256,*wi·či-,PA:6,,,,,,"with, accompany","accompany, with, COMITATIVE",initial
+2502,Hewson,JH_nd-a,0341,alg,,algo1256,*wi·čye·w-,PA:6,,,,,,"with, accompany","accompany, with, COMITATIVE",initial
+2524,Hewson,JH_nd-a,0341,alg,,algo1256,*wi·t-,PA:6,,,,,,"with, accompany","accompany, with, COMITATIVE",initial
 2376,Hewson,JH_nd-a,0303,alg,,algo1256,*wana·či-,PA:6,,,,,,"wrong, inappropriate, indecent","inappropriate, indecent, wrong",initial
 2377,Hewson,JH_nd-a,0303,alg,,algo1256,*wana·t-,PA:6,,,,,,"wrong, inappropriate, indecent","inappropriate, indecent, wrong",initial
 1484,Hewson,JH_nd-a,0106,alg,,algo1256,*ki·wa·či-,PA:6,,,,,,"wrong, lonely, confused","confused, lonely, wrong",initial
@@ -2036,8 +2036,8 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 463,Bloomfield,LB1946,0106,alg,,algo1256,*-n,PA:1,,,,,,"actions, products, instruments","action, product, INSTRUMENT",final,N,,,Y,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 861,Bloomfield,LB1946,0120,alg,,algo1256,*akw-,PA:1,,,,,,"adhere, be on; (tie) fast","adhere, be on, fast (ADV), tie",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 562,Bloomfield,LB1946,0106,alg,,algo1256,*-w,PA:1,,,,,,agent,AGENT,final,N,,,Y,II,AI,,,,,*-∅-,/ w ___,,,*ni·ki·hekw-∅-,,,N,,,,IG1990a;0473,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""freely added to intr. verb stems""",,,MAM
-1250,Bloomfield,LB1946,0119,alg,,algo1256,*iit-,PA:1,,,,,,"along, with, fellow","along, fellow, with",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"A pseudo-root: ""behaves like a root in every way except that, like medials, it never begins a word""",,,MAM
-2532,Bloomfield,LB1946,"0091,0113,0121",alg,,algo1256,*wiit-,PA:1,,,,,,"along, with, with others","along, with",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Formed ""with the third person prefix we-""",,,MAM
+1250,Bloomfield,LB1946,0119,alg,,algo1256,*iit-,PA:1,,,,,,"along, with, fellow","along, fellow, with, COMITATIVE",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"A pseudo-root: ""behaves like a root in every way except that, like medials, it never begins a word""",,,MAM
+2532,Bloomfield,LB1946,"0091,0113,0121",alg,,algo1256,*wiit-,PA:1,,,,,,"along, with, with others","along, with, COMITATIVE",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Formed ""with the third person prefix we-""",,,MAM
 935,Bloomfield,LB1946,"0093,0120",alg,,algo1256,*ašyee-,PA:1,,,,,,"reverse direction, back","back, direction (reverse)",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 2426,Bloomfield,LB1946,0120,alg,,algo1256,*weep-,PA:1,,,,,,begin,begin,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 202,Bloomfield,LB1946,"0106,0114,0117",alg,,algo1256,*-ečyee-,PA:1,,,,,,"whole body, belly","belly, whole body, CLASSIFIER",medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
