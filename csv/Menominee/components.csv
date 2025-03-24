@@ -170,8 +170,8 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 1141,Macaulay,MAM_LB2024,14.27,mez,,meno1252,-māmāw,MN:WNALP,,,,,,cheek,cheek,final,N
 993,Macaulay,MAM_LB2024,14.271,mez,,meno1252,-hpana͞ew,MN:WNALP,,,,,,chest,chest,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14.5: contains initial accretion h.
 1376,Macaulay,MAM_LB2024,"14.235,310",mez,,meno1252,-tahpaehkan,MN:WNALP,,,,,,chin,chin,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14.310: suggests that this is composed of medial and N final -an or -kan or -hkan.
-1068,Macaulay,MAM_LB2024,16.144; 21.107,mez,,meno1252,-kah,MN:WNALP,,,,,,chop with axe INSTRUMENT,chop,final,TI1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16.144: with prefinal -k
-1071,Macaulay,MAM_LB2024,16.144,mez,,meno1252,-kahw,MN:WNALP,,,,,,chop with axe INSTRUMENT,chop,final,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16.144: with prefinal -k
+1068,Macaulay,MAM_LB2024,16.144; 21.107,mez,,meno1252,-kah,MN:WNALP,,,,,,chop with axe ,chop INSTRUMENT,final,TI1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16.144: with prefinal -k
+1071,Macaulay,MAM_LB2024,16.144,mez,,meno1252,-kahw,MN:WNALP,,,,,,chop with axe,chop INSTRUMENT,final,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16.144: with prefinal -k
 174,Bloomfield,LB1962,14.129; 18.190,mez,,meno1252,-ɛskasi·w,MN:1,,,,,,"claw, nail, hoof","claw, hoof, nail",final,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"14.129: contains medial -ɛskasy- 'claw, nail' (variant of -ɛkasy-) with AI -ɛ·; + agent -w."
 177,Bloomfield,LB1962,14.129; 18.190,mez,,meno1252,-ɛkasi·w,MN:1,,,,,,"claw, nail","claw, nail",final,N,,,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"14.129: contains medial -ɛkasy- 'claw, nail' with AI -ɛ·"
 785,Macaulay,MAM_LB2024,14.389; 17.43,mez,,meno1252,-āsepaeh,MN:WNALP,,,,,,"cliff, rock","cliff, rock",final,PART
@@ -1057,10 +1057,10 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 2040,Macaulay,MAM_LB2024,21.6,mez,,meno1252,nah-,MN:WNALP,,,,,,alone,alone,initial,,,,,,,,,,naha͞eqs-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21.60: -a͞eqs as abstract postradical after nah-.
 2451,Macaulay,MAM_LB2024,,mez,,meno1252,taep-,MN:WNALP,,,,,,alone,alone,initial
 2281,Macaulay,MAM_LB2024,15.198; 21.115,mez,,meno1252,pakwānaw-,MN:WNALP,,,,,,"alone, ignorant","alone, ignorant",initial
-1698,Macaulay,MAM_LB2024,,mez,,meno1252,kaek-,MN:WNALP,,,,,,"along, with, close to COMITATIVE","along, close to, with, RELATIVE",initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,22.37: 'having along'
-1485,Macaulay,MAM_LB2024,,mez,,meno1252,ahp-,MN:WNALP,,,,,,along with COMITATIVE,"along, with",initial
-1697,Macaulay,MAM_LB2024,,mez,,meno1252,kaeht-,MN:WNALP,,,,,,along with COMTIATIVE,"along, with",initial
-2588,Macaulay,MAM_LB2024,"3.62; 7.30; 15.110,241,269; 16.14; 17.4; 21.111,113",mez,,meno1252,wēt-,MN:WNALP,,,,,,along with COMTIATIVE,"along, with",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,-ēt,3.62: deverbal from the dependent initial -ēt,,,,
+1698,Macaulay,MAM_LB2024,,mez,,meno1252,kaek-,MN:WNALP,,,,,,"along, with, close to ","along, close to, with, RELATIVE, COMITATIVE",initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,22.37: 'having along'
+1485,Macaulay,MAM_LB2024,,mez,,meno1252,ahp-,MN:WNALP,,,,,,along with ,"along, with COMITATIVE",initial
+1697,Macaulay,MAM_LB2024,,mez,,meno1252,kaeht-,MN:WNALP,,,,,,along with ,"along, with COMITATIVE",initial
+2588,Macaulay,MAM_LB2024,"3.62; 7.30; 15.110,241,269; 16.14; 17.4; 21.111,113",mez,,meno1252,wēt-,MN:WNALP,,,,,,along with ,"along, with COMITATIVE",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,-ēt,3.62: deverbal from the dependent initial -ēt,,,,
 1871,Macaulay,MAM_LB2024,,mez,,meno1252,maen-,MN:WNALP,,,,,,also,also,initial
 2438,Macaulay,MAM_LB2024,13.3; 17.5; 22.131,mez,,meno1252,taeh-,MN:WNALP,,,,,,"and, also, but, however","also, and, but, however",initial
 1482,Macaulay,MAM_LB2024,,mez,,meno1252,ahkano-,MN:WNALP,,,,,,ancient,ancient,initial

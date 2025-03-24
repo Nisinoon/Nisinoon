@@ -217,7 +217,7 @@ Component ID,Author Surname,Source Code,Page # ,ISO code,Dialect,Glottocode,Form
 682,Cook & Muehlbauer,CC_JM2010,0018,crk,,plai1258,it-,C-P:1,,,,,,location,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 694,Cook & Muehlbauer,CC_JM2010,0023,crk,,plai1258,kask-,C-P:1,,,,,,break,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 701,Cook & Muehlbauer,CC_JM2010,0023,crk,,plai1258,kêt-,C-P:1,,,,,,remove,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-703,Cook & Muehlbauer,CC_JM2010,0024,crk,,plai1258,kik-,C-P:1,,,,,,"have along, with",,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+703,Cook & Muehlbauer,CC_JM2010,0024,crk,,plai1258,kik-,C-P:1,,,,,,"have along, with",COMITATIVE,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 707,Cook & Muehlbauer,CC_JM2010,0024,crk,,plai1258,kîkw-,C-P:1,,,,,,interrogative,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 710,Cook & Muehlbauer,CC_JM2010,0024,crk,,plai1258,kimot-,C-P:1,,,,,,steal,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 713,Cook & Muehlbauer,CC_JM2004,0004,crk,,plai1258,kinw-,C-P:1,,,,,,tall,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
@@ -862,8 +862,8 @@ Component ID,Author Surname,Source Code,Page # ,ISO code,Dialect,Glottocode,Form
 697,Wolfart,HCW1973a,"0069, 0070",crk,,plai1258,kaskitē-,C-P:2,,,,,,black,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 697,Wolfart,HCW1969a,"0213,0219",crk,,plai1258,kaskitē-,C-P:2,,,,,,black,,initial
 702,Wolfart,HCW1971,"512,517",crk,,plai1258,kēt-,C-P:2,,,,,,take off,,initial
-703,Wolfart,HCW1973a,0074,crk,,plai1258,kik-,C-P:2,,,,,,have along; with,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-703,Wolfart,HCW1969a,0233,crk,,plai1258,kik-,C-P:2,,,,,,have along; with,,initial
+703,Wolfart,HCW1973a,0074,crk,,plai1258,kik-,C-P:2,,,,,,have along; with,COMITATIVE,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+703,Wolfart,HCW1969a,0233,crk,,plai1258,kik-,C-P:2,,,,,,have along; with,COMITATIVE,initial
 705,Wolfart,HCW1971,517,crk,,plai1258,kik-,C-P:2,,,,,,wear,,initial
 708,Wolfart,HCW1973a,0065,crk,,plai1258,kīkw-,C-P:2,,,,,,what,,initial,,,,,,,,,,,,,,,,,,kīkwāhtikw-,,,,,what tree,,HCE1973a;0065,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,C&M gloss as 'interrogative',,,GVM
 708,Wolfart,HCW1969a,0199,crk,,plai1258,kīkw-,C-P:2,,,,,,what,,initial,,,,,,,,,,,,,,,,,,kīkwāhtikw-,,,,,what tree,,HCW1969a;0199

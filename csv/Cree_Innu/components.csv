@@ -8,7 +8,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 193,Lambert-Bretiere,RLB2020,0107,moe,,mont1268,-a,C-I:Revised,,,,,,NG,,final,II,,,,,,,,,,,,,mish-ipe-a,,,V,II,to be a high level of liquid,,RLB2020;0107,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
 268,York,FY2010,"0011,0051,0052,0082",moe,,mont1268,-â-,C-I:1,,,,,,refers to different spatial states,state (spatial),final,,,ABSTR
 169,Drapeau & Lambert-Bretiere,LD_RLB2011,0318,moe,,mont1268,-âcikw-,C-I:1,,,,,,otter,otter,medial
-194,Lambert-Bretiere,RLB2020,0107,moe,,mont1268,-ai,C-I:Revised,,,,,,with instrument INSTRUMENT,INSTRUMENT,final,TI,,,,,,,-u,,,,,,mitshim-apishk-ai,,,V,TI,to hold in place with a mineral object,,RLB2020;0107,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+194,Lambert-Bretiere,RLB2020,0107,moe,,mont1268,-ai,C-I:Revised,,,,,,with instrument ,INSTRUMENT,final,TI,,,,,,,-u,,,,,,mitshim-apishk-ai,,,V,TI,to hold in place with a mineral object,,RLB2020;0107,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
 195,Lambert-Bretiere,RLB2020,0108,moe,,mont1268,-ai,C-I:Revised,,,,,,by foot,"foot, INSTRUMENT",final,TI,,,,,,,,,,,,,matape-ssek-ai,,,V,TI,to arrive at the marsh on foot,,RLB2020;0108,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
 65,Drapeau,LD2011b,0510,moe,,mont1268,-âkan,C-I:1,,,,,,patientive nominal,"NOMINALIZER, PATIENT",final,AI,,,,,,-kan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,"LD: ""Note that Western dialects of Cree have different forms for passives of transitives (see Dahlstrom 1991, Wolfart 1991)"""
 269,York,FY2010,0071,moe,,mont1268,-akumu-,C-I:1,,,,,,floating,float,final
@@ -39,21 +39,21 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 286,York,FY2010,"0059,0060,0083,0091",moe,,mont1268,-aštâ-,C-I:1,,,,,,by portaging,"portage, INSTRUMENT",final,AI,,,,,,,,,,,,,kušp-âšku-štâ-,,,V,AI,il entre dans la forêt en faisant du portage,,FY2010;0060,,mây-šku-štâ-,,V,AI,faire du portage vers l'aval sur la glace,,FY2010;0073
 287,York,FY2010,0071,moe,,mont1268,-aštâ-,C-I:1,,,,,,by placing the feet in such a way̹ on,"foot, place (V), INSTRUMENT",final
 178,Drapeau & Lambert-Bretiere,LD_RLB2011,0318,moe,,mont1268,-aštimw-,C-I:1,,,,,,dog,dog,medial
-288,York,FY2010,"0066,0071",moe,,mont1268,-âstin-,C-I:1,,,,,,with/by wind INSTRUMENT,"wind (N), INSTRUMENT",final,II,,,,,-âsu-,,,,,,,,pît-âkune-y-âštan-,,,V,II,la neige pénètre avec le vent,,FY2010;0071
-289,York,FY2010,0066,moe,,mont1268,-âsu-,C-I:1,,,,,,with/by wind INSTRUMENT,"wind (N), INSTRUMENT",final,AI,,,,,,-âstin-,,,,,,,pâšk-a-tâwk-âšu-,,,V,AI,être complètement déterré par le vent,,FY2010;0066,wemâ-y-âšu-,,,V,AI,être emporté au-delà d'un point par le vent,,FY2010;0066
+288,York,FY2010,"0066,0071",moe,,mont1268,-âstin-,C-I:1,,,,,,with/by wind ,"wind (N), INSTRUMENT",final,II,,,,,-âsu-,,,,,,,,pît-âkune-y-âštan-,,,V,II,la neige pénètre avec le vent,,FY2010;0071
+289,York,FY2010,0066,moe,,mont1268,-âsu-,C-I:1,,,,,,with/by wind,"wind (N), INSTRUMENT",final,AI,,,,,,-âstin-,,,,,,,pâšk-a-tâwk-âšu-,,,V,AI,être complètement déterré par le vent,,FY2010;0066,wemâ-y-âšu-,,,V,AI,être emporté au-delà d'un point par le vent,,FY2010;0066
 179,Drapeau & Lambert-Bretiere,LD_RLB2011,0314,moe,,mont1268,-atâwk-,C-I:1,,,,,,"an elevation of land, a hill","elevation, hill, land",medial,INCORP
 202,Lambert-Bretiere,RLB2020,0107,moe,,mont1268,-atshakashu,C-I:Revised,,,,,,mink,mink,medial,GENERIC,,,,,,,,,,,,,nutsh-atshakashu-e,,,V,AI,to hunt mink,,RLB2020;0107,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
 67,Drapeau,LD2011a,0061,moe,,mont1268,-aw,C-I:1,,,,,,applicative,APPLICATIVE,final,TA,,,Y,TI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,beneficiary,, 
 180,Drapeau & Lambert-Bretiere,LD_RLB2011,0300,moe,,mont1268,-âwk-,C-I:1,,,,,,granular,"granular, CLASSIFIER",medial,CLASS
 292,York,FY2010,"0075,0078",moe,,mont1268,-âwk-,C-I:1,,,,,,mountain,mountain,medial
-293,York,FY2010,"0043,0064",moe,,mont1268,-awku-,C-I:1,,,,,,with/by wave INSTRUMENT,"wave (N), INSTRUMENT",final,AI,,,,,,-âyn-
+293,York,FY2010,"0043,0064",moe,,mont1268,-awku-,C-I:1,,,,,,with/by wave ,"wave (N), INSTRUMENT",final,AI,,,,,,-âyn-
 294,York,FY2010,0045,moe,,mont1268,-âwkun-,C-I:1,,,,,,back,back,medial
-295,York,FY2010,"0013,0014,0017,0074",moe,,mont1268,-ay-,C-I:1,,,,,,"with a blow, with an instrument INSTRUMENT","blow (N), INSTRUMENT",final,TI,,CONCR,,,-ay-,,-w-
+295,York,FY2010,"0013,0014,0017,0074",moe,,mont1268,-ay-,C-I:1,,,,,,"with a blow, with an instrument ","blow (N), INSTRUMENT",final,TI,,CONCR,,,-ay-,,-w-
 296,York,FY2010,"0045,0058,0059,0063",moe,,mont1268,-ay-,C-I:1,,,,,,"in the air, on the water, in a canoe, swimming","on water, canoe, swim, in air",,AI,,,,,,,-w-,-ay-
 297,York,FY2010,"0052,0072,0078",moe,,mont1268,-ay-,C-I:1,,,,,,by crossing,"cross, INSTRUMENT",final,TI,,,,,,,,,,,,,šâk-âškw-ay-,,,V,TI,sortir du bois,,FY2010;0073,nâtakâm-essek-ay-,,,V,TI,"se diriger de la savane, de la tourbière vers la forêt",,FY2010;0073,nimitâw-ey-âwk-ay-,,,V,TI,s'éloigner de la forêt en direction du large en marchant sur le sable,,FY2010;0074
-298,York,FY2010,0063,moe,,mont1268,-ay-,C-I:1,,,,,,"with a blow, with an instrument INSTRUMENT","blow (N), INSTRUMENT",final,AI,,,,,,,-w-,-ay-
+298,York,FY2010,0063,moe,,mont1268,-ay-,C-I:1,,,,,,"with a blow, with an instrument ","blow (N), INSTRUMENT",final,AI,,,,,,,-w-,-ay-
 299,York,FY2010,0063,moe,,mont1268,-ay-,C-I:1,,,,,,"on the water (canoeing, swimming), in the air or on foot","on water, canoe, swim, in air, on foot",final,TI,,,,,-ay-,,-w-
-300,York,FY2010,"0043,0064",moe,,mont1268,-âyn-,C-I:1,,,,,,with/by wave INSTRUMENT,"wave (N), INSTRUMENT",final,II,,,,,-awku-
+300,York,FY2010,"0043,0064",moe,,mont1268,-âyn-,C-I:1,,,,,,with/by wave ,"wave (N), INSTRUMENT",final,II,,,,,-awku-
 301,York,FY2010,0064,moe,,mont1268,-ci-,C-I:1,,,,,,"by cold, frost","cold, frost, INSTRUMENT",final,AI,,,,,,-tin-
 302,York,FY2010,"0059,0060",moe,,mont1268,-cime-,C-I:1,,,,,,by traveling,"travel, INSTRUMENT",final,AI
 303,York,FY2010,0071,moe,,mont1268,-cimî-,C-I:1,,,,,,"standing, leaning","lean (V), stand",final
@@ -68,7 +68,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 207,Lambert-Bretiere,RLB2020,0104,moe,,mont1268,-i,C-I:Revised,,,,,,NG,,final,TA,,,,,,,,,,,,,nipa-i,,,V,TA,to kill,,RLB2020;0104,nipa-i-ue,,,V,II,to kill,,RLB2020;0104,,,,,,,,,,,,,,,,,,,,,,,, 
 208,Lambert-Bretiere,RLB2020,0105,moe,,mont1268,-i,C-I:Revised,,,,,,NG,,final,AI,,ABSTR,,,,,,,,,,,nipa-pic-i,,,V,AI,to travel by night dragging a sleigh,,RLB2020;0105,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
 307,York,FY2013,n/a,moe,,mont1268,-ikâpaw-,C-I:1,,,,,,standing,stand,final,,,CONCR
-209,Lambert-Bretiere,RLB2020,0105,moe,,mont1268,-ikau,C-I:Revised,,,,,,with axe INSTRUMENT,"axe, INSTRUMENT",final,TA,,CONCR,,,,,,,,,,,shakutsh-ikau,,,V,TA,to split with an ax,,RLB2020;0105,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+209,Lambert-Bretiere,RLB2020,0105,moe,,mont1268,-ikau,C-I:Revised,,,,,,with axe ,"axe, INSTRUMENT",final,TA,,CONCR,,,,,,,,,,,shakutsh-ikau,,,V,TA,to split with an ax,,RLB2020;0105,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
 69,Drapeau,LD2011a,0061,moe,,mont1268,-im,C-I:1,,,,,,applicative,APPLICATIVE,final,TA,,,Y,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,possessor,, 
 210,Lambert-Bretiere,RLB2020,0103,moe,,mont1268,-in,C-I:Revised,,,,,,NG,,final,TA,,,,,,,,,,,,,ut-in,,,V,TA,to take something (animate),,RLB2020;0103,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
 211,Lambert-Bretiere,RLB2020,0108,moe,,mont1268,-in,C-I:Revised,,,,,,by hand,"hand, INSTRUMENT",final,TA,,,,,,,,,,,,,shishu-ńushkuauatsh-in,,,V,TA,to cover with flour by hand,,RLB2020;0108,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
@@ -85,7 +85,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 10,Baraby et al,AMB_ET_AL2002,0004,moe,,mont1268,-kuei- ,C-I:Standard,,,,,,neck,"neck, INCORPORATED",medial,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,GVM,MAM
 11,Baraby et al,AMB_ET_AL2002,0004,moe,"Eastern: Lower North Shore communities (Mingan, Natashquan, La Romaine and St-Augustin) and Sheshatshiu (Labrador)",mont1268,-kut- ,C-I:Standard,,,,,,nose,"nose, INCORPORATED",medial,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,GVM,MAM
 215,Lambert-Bretiere,RLB2020,0105,moe,,mont1268,-kute,C-I:Revised,,,,,,suspended,suspended,final,AI,,CONCR,,,,,,,,,,,kuishku-kute,,,V,AI,he is suspended straight,,RLB2020;0105,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
-316,York,FY2010,0071,moe,,mont1268,-m-,C-I:1,,,,,,"by speaking, with the voice INSTRUMENT","speak, voice, INSTRUMENT",final
+316,York,FY2010,0071,moe,,mont1268,-m-,C-I:1,,,,,,"by speaking, with the voice ","speak, voice, INSTRUMENT",final
 216,Lambert-Bretiere,RLB2020,0106,moe,,mont1268,-mesh-,C-I:Revised,,,,,,fish,fish,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
 217,Lambert-Bretiere,RLB2020,0104,moe,,mont1268,-n,C-I:Revised,,,,,,NG,,final,,,ABSTR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
 317,York,FY2010,0070,moe,,mont1268,-n-,C-I:1,,,,,,"refers to an action performed using the hands or, by extension, the paws for animals in free-motion verbs","hand, paw, INSTRUMENT",final,,,,,,,,,,,,,,mwešt-na-,,,V,TI,arriver trop tard pour avoir qqch,,FY2010;0071
@@ -105,7 +105,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 222,Lambert-Bretiere,RLB2020,0106,moe,,mont1268,-pim-,C-I:Revised,,,,,,grease,grease,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
 12,Baraby et al,AMB_ET_AL2002,0004,moe,,mont1268,-pishkueun- ,C-I:Standard,,,,,,hair,"hair, INCORPORATED",medial,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,GVM,MAM
 13,Baraby et al,AMB_ET_AL2002,0005,moe,,mont1268,-pishkun- ,C-I:Standard,,,,,,back,"back, INCORPORATED",medial,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,GVM,MAM
-328,York,FY2010,0070,moe,,mont1268,-pit-,C-I:1,,,,,,"means that the action described in the initial is performed by pulling something or with sudden, rapid movements INSTRUMENT","movement (sudden, rapid), pull",final,,,,,,,,,,,,,,picite-pit-,,,V,TI,faire de la poussière en courant,,FY2010;0070
+328,York,FY2010,0070,moe,,mont1268,-pit-,C-I:1,,,,,,"means that the action described in the initial is performed by pulling something or with sudden, rapid movements ","movement (sudden, rapid), pull",final,,,,,,,,,,,,,,picite-pit-,,,V,TI,faire de la poussière en courant,,FY2010;0070
 14,Baraby et al,AMB_ET_AL2002,0004,moe,,mont1268,-pitun- ,C-I:Standard,,,,,,arm,"arm, INCORPORATED",medial,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,GVM,MAM
 183,Drapeau & Lambert-Bretiere,LD_RLB2011,0318,moe,,mont1268,-ppun-,C-I:1,,,,,,"year, winter","winter, year",medial
 72,Drapeau,LD1980,0315,moe,,mont1268,-puta·-,C-I:2,,,,,,saw something,saw,final,V,,,,,,,,,,,,,pisti-puta·-,,,V,TI,saw something by mistake (scie qque chose par erreur),,LD1980;0316,,,,V,V,,,,,,,,,,,,,,,,,,,,,,,,,"In French; marked as ""complex final""",,,MAM
@@ -118,7 +118,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 227,Lambert-Bretiere,RLB2020,0104,moe,,mont1268,-shi,C-I:Revised,,,,,,diminutive,DIMINUTIVE,final,II,,,Y,II,-sh,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
 17,Baraby et al,AMB_ET_AL2002,0005,moe,,mont1268,-shikakun- ,C-I:Standard,,,,,,back of the knee,"back (knee), INCORPORATED",medial,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,GVM,MAM
 18,Baraby et al,AMB_ET_AL2002,0005,moe,,mont1268,-shit- ,C-I:Standard,,,,,,foot,"foot, INCORPORATED",medial,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,GVM,MAM
-228,Lambert-Bretiere,RLB2020,0105,moe,,mont1268,-shk,C-I:Revised,,,,,,with feet INSTRUMENT,"foot, INSTRUMENT",final,TI,,CONCR,,,,,,,,,,,ashtue-shk,,,V,TI,to extinguish with feet,,RLB2020;0105,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
+228,Lambert-Bretiere,RLB2020,0105,moe,,mont1268,-shk,C-I:Revised,,,,,,with feet ,"foot, INSTRUMENT",final,TI,,CONCR,,,,,,,,,,,ashtue-shk,,,V,TI,to extinguish with feet,,RLB2020;0105,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
 19,Baraby et al,AMB_ET_AL2002,0004,moe,,mont1268,-shkassikan- ,C-I:Standard,,,,,,chest,"chest, INCORPORATED",medial,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,GVM,MAM
 20,Baraby et al,AMB_ET_AL2002,0004,moe,,mont1268,-shkatai- ,C-I:Standard,,,,,,belly,"belly, INCORPORATED",medial,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,GVM,MAM
 21,Baraby et al,AMB_ET_AL2002,0004,moe,,mont1268,-shkatiku- ,C-I:Standard,,,,,,forehead,"forehead, INCORPORATED",medial,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,GVM,MAM
@@ -128,14 +128,14 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 331,York,FY2010,"0075,0078",moe,,mont1268,-šiku-,C-I:1,,,,,,ice,ice,medial
 333,York,FY2013,n/a,moe,,mont1268,-šimu,C-I:1,,,,,,lying,lie (position),final,AI
 336,York,FY2010,"0063,0074,0075",moe,,mont1268,-šin-,C-I:1,,,,,,in contact with an object or surface,"contact, lie (position)",final,AI,,,,,,-tin-
-339,York,FY2010,"0017,0053,0075,0076",moe,,mont1268,-šk-,C-I:1,,,,,,with the feet INSTRUMENT,"foot, INSTRUMENT",final,TI
+339,York,FY2010,"0017,0053,0075,0076",moe,,mont1268,-šk-,C-I:1,,,,,,with the feet ,"foot, INSTRUMENT",final,TI
 342,York,FY2010,0081,moe,,mont1268,-šk-,C-I:1,,,,,,NG,,medial
 343,York,FY2010,"0059,0060",moe,,mont1268,-škâ-,C-I:1,,,,,,"canoeing, swimming","canoe, swim",final,AI,,,,,,,,,,,,,atim-i-škâ-,,,V,AI,s'éloigne en canot,,FY2010;0060
 231,Lambert-Bretiere,RLB2020,0108,moe,,mont1268,-ssek,C-I:Revised,,,,,,marsh,"marsh, GENERIC",medial,GENERIC,,,,,,,,,,,,,matape-ssek-ai,,,V,TI,to arrive at the marsh on foot,,RLB2020;0108,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
 24,Baraby et al,AMB_ET_AL2002,0004,moe,"Western: Betsiamites, Uashat (Sept-Iles)/Maliotenam and Schefferville (Matimekosh)",mont1268,-ssun- ,C-I:Standard,,,,,,nose,"nose, INCORPORATED",medial,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, ,GVM,MAM
 73,Drapeau,LD2011a,0061,moe,,mont1268,-štam,C-I:1,,,,,,applicative,APPLICATIVE,final,AI,,,Y,TI,,-štaw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,locational reference,, 
 74,Drapeau,LD2011a,0061,moe,,mont1268,-štaw,C-I:1,,,,,,applicative,APPLICATIVE,final,AI,,,Y,TA,,-štam,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,locational reference,, 
-344,York,FY2010,"0058,0071",moe,,mont1268,-t-,C-I:1,,,,,,with the feet INSTRUMENT,"mouth, INSTRUMENT",final,,,,,,,,,,,,,,pet-w-ewe-t-,,,V,TI,"se viendre, approche avec des bruîts de voix",,FY2010;0071
+344,York,FY2010,"0058,0071",moe,,mont1268,-t-,C-I:1,,,,,,with the feet ,"mouth, INSTRUMENT",final,,,,,,,,,,,,,,pet-w-ewe-t-,,,V,TI,"se viendre, approche avec des bruîts de voix",,FY2010;0071
 345,York,FY2010,"0059,0061",moe,,mont1268,-tâcimu-,C-I:1,,,,,,by dragging (reflexive),"drag, INSTRUMENT, REFLEXIVE",final,AI
 346,York,FY2010,"0043,0059,0061",moe,,mont1268,-tâpâcim-,C-I:1,,,,,,by dragging someone,"drag, haul, pull, INSTRUMENT",final,TA,,,Y
 347,York,FY2010,"0059,0060,0061",moe,,mont1268,-tâpe-,C-I:1,,,,,,by dragging,"drag, haul, pull, INSTRUMENT",final,AI
@@ -167,13 +167,13 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 235,Lambert-Bretiere,RLB2020,0103,moe,,mont1268,-u,C-I:Revised,,,,,,NG,,final,TA,,,,,,,,,,,,,pita-u,,,V,TA,to thin something (animate),,RLB2020;0103,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
 236,Lambert-Bretiere,RLB2020,0104,moe,,mont1268,-u,C-I:Revised,,,,,,be,be,final,AI,,,Y,N,,-u,,,,,,,auass-u,,,V,AI,to be young,,RLB2020;0104,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
 237,Lambert-Bretiere,RLB2020,0104,moe,,mont1268,-u,C-I:Revised,,,,,,be,be,final,II,,,Y,N,-u,,,,,,,,kun-u,,,V,II,to be snow,,RLB2020;0104,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
-238,Lambert-Bretiere,RLB2020,0106,moe,,mont1268,-u,C-I:Revised,,,,,,with instrument INSTRUMENT,INSTRUMENT,final,TA,,,,,,,,-ai,,,,,akun-u,,,V,TA,to cover with instrument,,RLB2020;0106,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"L-B treats final as portmanteau concrete+abstract""",, 
+238,Lambert-Bretiere,RLB2020,0106,moe,,mont1268,-u,C-I:Revised,,,,,,with instrument ,INSTRUMENT,final,TA,,,,,,,,-ai,,,,,akun-u,,,V,TA,to cover with instrument,,RLB2020;0106,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"L-B treats final as portmanteau concrete+abstract""",, 
 239,Lambert-Bretiere,RLB2020,0104,moe,,mont1268,-ue,C-I:Revised,,,,,,antip.,ANTIPASSIVE,final,II,,,Y,TA,-ue,,,,,,,,nipa-i-ue,,,V,II,to kill,,RLB2020;0104,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
 240,Lambert-Bretiere,RLB2020,0104,moe,,mont1268,-ue,C-I:Revised,,,,,,antip.,ANTIPASSIVE,final,AI,,,Y,TA,,-ue,,,,,,,nipa-i-ue,,,V,II,to kill,,RLB2020;0104,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,, 
 360,York,FY2010,"0006,0055,0057,0058",moe,,mont1268,-ute-,C-I:1,,,,,,on foot,on foot,final,AI
 77,Drapeau,LD2011a,0061,moe,,mont1268,-w,C-I:1,,,,,,applicative,APPLICATIVE,final,AI,,,Y,TI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,possessor,, 
 79,Drapeau,LD2011a,0061,moe,,mont1268,-w,C-I:1,,,,,,applicative,APPLICATIVE,final,TA,,,Y,TI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,possessor,, 
-362,York,FY2010,0063,moe,,mont1268,-w-,C-I:1,,,,,,with a blow or instrument INSTRUMENT,"blow (N), INSTRUMENT",final,TA,,,,,-ay-,,,-ay-
+362,York,FY2010,0063,moe,,mont1268,-w-,C-I:1,,,,,,with a blow or instrument ,"blow (N), INSTRUMENT",final,TA,,,,,-ay-,,,-ay-
 363,York,FY2010,0063,moe,,mont1268,-w-,C-I:1,,,,,,"on the water (canoeing, swimming), in the air or on foot","on water, canoe (V), swim, in air, on foot",final,TA,,,,,-ay-,,,-ay-
 81,Drapeau,LD2011a,0061,moe,,mont1268,-wâcê,C-I:1,,,,,,applicative,APPLICATIVE,final,TA,,,Y,AI+O,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,instrument,, 
 82,Drapeau,LD2011b,"0493,0502,0503,0504",moe,,mont1268,â-,C-I:1,,,,,,NG,,final,II,,,,,iši-

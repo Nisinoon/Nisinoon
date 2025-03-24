@@ -123,7 +123,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 122,Bloomfield,LB1925b,"0144, 0150",,,,*-pa-,PCA:1,,,,,,run,run,medial
 123,Bloomfield,LB1925b,0151,,,,*-pu-,PCA:1,,*-pw- plus *-u-,,,,NG,,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: seen in verb *ackipowa 'he eats raw food'
 124,Bloomfield,LB1925b,0148,,,,*-putä-,PCA:1,,,,,,affected by rapid handling,,final,II
-125,Haas,MH1958c,0166,,,,*-pw-,PCA:2,,,,,,"do with mouth, bite, eat",,final
+125,Haas,MH1958c,0166,,,,*-pw-,PCA:2,,,,,,"do with mouth, bite, eat",INSTRUMENTAL,final
 126,Haas,MH1958c,0165,,,,*-sit-,PCA:2,,,,,,foot,foot,medial
 127,Haas,MH1958b,0245,,,,*-ški·nšekw-,PCA:2,,,,,,eye,eye,medial
 128,Haas,MH1958b,0246,,,,*-šky-,PCA:2,,,,,,"hair, leaf, foliage","foliage, hair, leaf",medial
@@ -289,7 +289,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 288,Haas,MH1958b,0245,,,,*si·n-,PCA:2,,,,,,extract liquid,extract (liquid),initial
 289,Haas,MH1958b,"0237,0244",,,,*tahk-,PCA:2,,,,,,cold,cold,initial
 290,Bloomfield,LB1925b,0139,,,,*tahk-,PCA:1,,,,,,cool,cool,initial
-291,Bloomfield,LB1925b,0141,,,,*takw-,PCA:1,,,,,,with others,,initial
+291,Bloomfield,LB1925b,0141,,,,*takw-,PCA:1,,,,,,with others,COMITATIVE,initial
 292,Bloomfield,LB1925b,0137,,,,*täp-,PCA:1,,,,,,"reach all the way, suffice",,initial
 293,Bloomfield,LB1925b,0141,,,,*tātw-,PCA:1,,,,,,tear,tear,initial
 294,Haas,MH1958b,0248,,,,*taw-,PCA:2,,,,,,open,open,initial
