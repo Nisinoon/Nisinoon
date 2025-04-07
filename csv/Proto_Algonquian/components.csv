@@ -284,7 +284,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 340,Aubin,GA1975b,0031,alg,,algo1256,*-ht-,PA:4,,,,,,instrumental,INSTRUMENT,medial,TI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Mc35a.43
 354,Aubin,GA1975b,0031,alg,,algo1256,*-hθ-,PA:4,,,,,,instrumental,INSTRUMENT,medial,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Mc35a.43
 662,Aubin,GA1975b,0001,alg,,algo1256,*a:hkw-,PA:4,,,,,,intense,intense,initial,,,,,,,,,,,,,,,*a:hkw-e:lem-,,,V,TA,have an intense attitude towards,,GA1975b;0001,*a:hkw-e:lent-,,,V,TI,have an intense attitude towards,,GA1975b;0001,*a:hkw-epy-,,,N,,intense liquid,,GA1975b;0001,,,,,,,,,,,,,,,,,,Go65.212; *a:hkw-e:lem- Go65.212; *a:hkw-e:lent- Go65.212; *a:hkw-epy- Go65.212,,,MAM
-820,Aubin,GA1975b,0007,alg,,algo1256,*ahpi:ht-,PA:4,,,,,,to such intensity,"intensity, RELATIVE",initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,clusters uncertain'; B146.120
+820,Aubin,GA1975b,0007,alg,,algo1256,*ahpi:ht-,PA:4,,,,,,to such intensity,"degree, intensity, so far, so much, QUANTITY, RELATIVE  ",initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,clusters uncertain'; B146.120
 1394,Aubin,GA1975b,0057,alg,,algo1256,*keši:p-,PA:4,,,,,,"itch, scratch","itch, scratch",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,extended root' Ho57.259
 1296,Aubin,GA1975b,0043,alg,,algo1256,*kakya:(w)-,PA:4,,,,,,jealous,jealous,initial,,Y,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ho57.268
 1570,Aubin,GA1975b,0081,alg,,algo1256,*kya:-,PA:4,,,,,,jealous,jealous,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ho57.268
@@ -834,9 +834,9 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 1995,Hewson,JH_nd-a,0209,alg,,algo1256,*pank-,PA:6,,,,,,fall,fall (V),initial
 1468,Hewson,JH_nd-a,0095,alg,,algo1256,*ki·p-,PA:6,,,,,,"fall over, topple","fall over, topple",initial
 1926,Hewson,JH_nd-a,0196,alg,,algo1256,*no·n(te·)-,PA:6,,,,,,"lack, fall short","fall short, lack",initial
-993,Hewson,JH_nd-a,0040,alg,,algo1256,*axpi·hči-,PA:6,,,,,,so far,"degree, far, so far, so much, QUANTITY, RELATIVE",initial
-994,Hewson,JH_nd-a,0040,alg,,algo1256,*axpi·ht(aw)-,PA:6,,,,,,so far,"degree, far, so far, so much, QUANTITY, RELATIVE",initial
-1123,Hewson,JH_nd-a,0048,alg,,algo1256,*elekohk(w)-,PA:6,,,,,,so far,"far, so big, so far, so many, QUANTITY, RELATIVE",initial
+993,Hewson,JH_nd-a,0040,alg,,algo1256,*axpi·hči-,PA:6,,,,,,so far,"degree, far, so far, so much, QUANTITY, RELATIVE ",initial
+994,Hewson,JH_nd-a,0040,alg,,algo1256,*axpi·ht(aw)-,PA:6,,,,,,so far,"degree, far, so far, so much, QUANTITY, RELATIVE ",initial
+1123,Hewson,JH_nd-a,0048,alg,,algo1256,*elekohk(w)-,PA:6,,,,,,so far,"far, so big, so far, so many, QUANTITY, RELATIVE ",initial
 2125,Hewson,JH_nd-a,0243,alg,,algo1256,*pwe·kiči-,PA:6,,,,,,fart,fart,initial
 2126,Hewson,JH_nd-a,0243,alg,,algo1256,*pwe·kit(w)-,PA:6,,,,,,fart,fart,initial
 1691,Hewson,JH_nd-a,0146,alg,,algo1256,*mečim(w)-,PA:6,,,,,,"fast, tight","fast (ADV), tight",initial
@@ -1308,8 +1308,8 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 2261,Hewson,JH_nd-a,0270,alg,,algo1256,*tahkw(aw)-,PA:6,,,,,,"short, shallow; grasp, hold fast","grasp, hold, shallow, short",initial
 750,Hewson,JH_nd-a,0001,alg,,algo1256,*a·hkw-,PA:6,,,,,,"sick; sharp, fierce, dangerous; intense","dangerous, fierce, intense, sharp, sick",initial
 2223,Hewson,JH_nd-a,0266,alg,,algo1256,*šo·šk(w)-,PA:6,,,,,,"smooth, stretched","smooth, stretched",initial
-978,Hewson,JH_nd-a,0036,alg,,algo1256,*axk(aw)-,PA:6,,,,,,"so far, to completion","far, to completion, RELATIVE, QUANTITY",initial
-980,Hewson,JH_nd-a,0036,alg,,algo1256,*axk(w)-,PA:6,,,,,,"so far, to completion","far, to completion, RELATIVE, QUANTITY",initial
+978,Hewson,JH_nd-a,0036,alg,,algo1256,*axk(aw)-,PA:6,,,,,,"so far, to completion","extent, far, so far, so long, to completion, RELATIVE, QUANTITY   ",initial
+980,Hewson,JH_nd-a,0036,alg,,algo1256,*axk(w)-,PA:6,,,,,,"so far, to completion","extent, far, so far, so long, to completion, RELATIVE, QUANTITY  ",initial
 996,Hewson,JH_nd-a,0042,alg,,algo1256,*ay-,PA:6,,,,,,"someone, something","someone, something",initial
 2044,Hewson,JH_nd-a,0223,alg,,algo1256,*pen-,PA:6,,,,,,"spoil, ruin; blow; down","blow, down, ruin, spoil",initial
 2519,Hewson,JH_nd-a,0339,alg,,algo1256,*wi·šaw-,PA:6,,,,,,"strong, active, firm","active, firm, strong",initial
@@ -2095,7 +2095,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 336,Bloomfield,LB1946,"0104,0113",alg,,algo1256,*-hšim,PA:1,,,,,,"fall, lie","fall, lie (position)",final,TA,,,,,,*-hšine,,,*-hθetoo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,*-hθ,,,,,,,MAM
 355,Bloomfield,LB1946,"0104,0111",alg,,algo1256,*-hθen,PA:1,,,,,,"fall, lie","fall, lie (position)",final,II,,,,,,*-hšine,,,,,,,,ešihθene-,,,V,II,,,LB1946;0111,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,*-hθ,,,,"p. 111 given as -hθene, p. 104 as -hθen",,,MAM
 358,Bloomfield,LB1946,"0104,0113",alg,,algo1256,*-hθetoo,PA:1,,,,,,"fall, lie","fall, lie (position)",final,TI,,,,,,,,*-hšim,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,*-hθ,,,,pseudo-TI,,,MAM
-817,Bloomfield,LB1946,0120,alg,,algo1256,*ahkw-,PA:1,,,,,,so far,"far, QUANTITY, RELATIVE",initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""cluster uncertain""",,,MAM
+817,Bloomfield,LB1946,0120,alg,,algo1256,*ahkw-,PA:1,,,,,,"extent, so far, so long, RELATIVE","extent, far, so far, so long, QUANTITY, RELATIVE  ",initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""cluster uncertain""",,,MAM
 325,Bloomfield,LB1946,0107,alg,,algo1256,*-eθkweew,PA:1,,,,,,woman,"female, woman",final,N,,,Y,,,,,,,,,,,*eθkwe:w-,,,N,,,,GA1975b;0030,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,*eθkweew- 'woman',,,,MAM
 1825,Bloomfield,LB1946,0122,alg,,algo1256,*naa-,PA:1,,,,,,fetch,fetch,initial,,,,,,,,,,,*naat-,,,,*naaθ-,,,V,TA,,,LB1946;0122,naate-,,,V,TI,,,LB1946;0122,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 69,Bloomfield,LB1946,0107,alg,,algo1256,*-aameekw,PA:1,,,,,,fish,fish,final,N,,,Y,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,*nameekw- 'fish',,,,MAM
@@ -2131,7 +2131,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 427,Bloomfield,LB1946,0108,alg,,algo1256,*-kee,PA:1,,,,,,action on indefinite inanimate objects,INDEFINITE OBJECT,final,AI,,,Y,TI,,,,,,,,,,*paaškesikee-,,,V,AI,(he shoots),,LB1946;0108,*ešihčikee-,,,V,AI,,,LB1946;0108,,,,,,,,,,,,,,,,,,,,,,,,,,"Pseudo-tr. inan. stems in -too, -htoo drop oo.",,,MAM
 92,Bloomfield,LB1946,0114,alg,,algo1256,*-ah,PA:1,,,,,,"by tool, instrument, or medium","instrument, medium, tool, INSTRUMENT",final,TI,,,,,,,,*-ahw,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 102,Bloomfield,LB1946,"0114,0119",alg,,algo1256,*-ahw,PA:1,,,,,,"by tool, instrument, or medium","instrument, medium, tool, INSTRUMENT",final,TA,,,,,,,,,*-ah,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-821,Bloomfield,LB1946,0120,alg,,algo1256,*ahpiiht-,PA:1,,,,,,to such intensity,"intensity, RELATIVE",initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""clusters uncertain""",,,MAM
+821,Bloomfield,LB1946,0120,alg,,algo1256,*ahpiiht-,PA:1,,,,,,to such intensity,"degree,  intensity, so far, so much, QUANTITY, RELATIVE  ",initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""clusters uncertain""",,,MAM
 417,Bloomfield,LB1946,0119,alg,,algo1256,*-kaat-,PA:1,,,,,,leg,leg,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 419,Bloomfield,LB1946,0119,alg,,algo1256,*-kaatee-,PA:1,,,,,,leg,leg,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-ee,,,,,,,MAM
 597,Bloomfield,LB1946,0119,alg,,algo1256,*-xkaat-,PA:1,,,,,,leg,"leg, DEPENDENT",medial,Dep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Deduced from prose and example,,,MAM

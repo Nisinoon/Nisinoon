@@ -282,7 +282,7 @@ ID,Author Surname,Source Code,Page # ,ISO code,Dialect,Glottocode,Form (original
 472,Wolfart,HCW1973a,0064,crk,,plai1258,-piton-,C-P:2,,,,,,arm,arm,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""Non-initial alternant,"" but not explicitly called medial",,,GVM,MAM
 513,Wolfart,HCW1973a,0064,crk,,plai1258,-spiton-,C-P:2,,,,,,arm,"arm, DEPENDENT",medial,InanDep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 444,Wolfart,HCW1971,512,crk,,plai1258,-nisk-,C-P:2,,,,,,arm,"arm, INCORPORATED",medial,INCORP
-673,Cook & Muehlbauer,CC_JM2010,0018,crk,,plai1258,isko-,C-P:1,,,,,,"so far, as far as, as much as, to such an extent","as far as, as much as, extent, far, RELATIVE, QUANTITY",initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""(Elicitation)""",,,GVM
+673,Cook & Muehlbauer,CC_JM2010,0018,crk,,plai1258,isko-,C-P:1,,,,,,"so far, as far as, as much as, to such an extent","as far as, as much as, extent, far, so far, so long, RELATIVE, QUANTITY",initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""(Elicitation)""",,,GVM
 903,Cook & Muehlbauer,CC_JM2004,0004,crk,,plai1258,sâk-,C-P:1,,,,,,attach,attach,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 182,Wolfart,HCW1971,516,crk,,plai1258,-āwikan-,C-P:2,,,,,,back,"back, INCORPORATED",medial,INCORP
 773,Wolfart,HCW1973a,0070,crk,,plai1258,māyāt-,C-P:2,,,,,,bad (of character),bad,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,extended root,,,GVM
@@ -427,7 +427,7 @@ ID,Author Surname,Source Code,Page # ,ISO code,Dialect,Glottocode,Form (original
 498,Cook & Muehlbauer,CC_JM2010,0037,crk,,plai1258,-sip,C-P:1,,,,,,duck,duck,medial,,,,,,,,,,,,,,,,,,sīsīp-,,,,,duck,,HCW1973a;0063,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 919,Wolfart,HCW1973a,0063,crk,,plai1258,sīsīp-,C-P:2,,,,,,duck,duck,initial,,,,,,,,,,,,,,,,,,sīsīp-,,,,,duck,,HCW1973a;0064,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 501,Wolfart,HCW1971,518,crk,,plai1258,-sip-,C-P:2,,,,,,duck,"duck, INCORPORATED",medial,INCORP
-991,Wolvengray,AW2011,"0247,0264,0265",crk,,plai1258,,C-P:3,,/(i)tahtw-/,,,,as many as; each; every; so many; so much,"each, every, RELATIVE",initial,RR,,,,,,,,,,,,,,,,,itahtopiponē-,,,V,,be such an age; be so many winters old,,AW2011;0247,tahtotipiskwē-,,,V,AI,spend so many nights,,AW2011;0265
+991,Wolvengray,AW2011,"0247,0264,0265",crk,,plai1258,,C-P:3,,/(i)tahtw-/,,,,as many as; each; every; so many; so much,"each, every, so many, so much, RELATIVE QUANTITY",initial,RR,,,,,,,,,,,,,,,,,itahtopiponē-,,,V,,be such an age; be so many winters old,,AW2011;0247,tahtotipiskwē-,,,V,AI,spend so many nights,,AW2011;0265
 259,Cook & Muehlbauer,CC_JM2010,0013,crk,,plai1258,-htaw-,C-P:1,,,,,,do by ear; hear,"ear, hear, INSTRUMENT",final,TA,,,,,,,,,,-(i)ht-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 6,Cook & Muehlbauer,CC_JM2010,0013,crk,,plai1258,-(i)ht-,C-P:1,,,,,,do by ear,"ear, INSTRUMENT",final,TI,,,,,,,,,-htaw-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 796,Denny,JPD1981,"0004, 0005",crk,,plai1258,mō,C-P:3,,,,,,eat; to eat,eat,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
@@ -436,7 +436,7 @@ ID,Author Surname,Source Code,Page # ,ISO code,Dialect,Glottocode,Form (original
 799,Cook & Muehlbauer,CC_JM2010,0026,crk,,plai1258,môsk-,C-P:1,,,,,,emerge,emerge,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 668,Denny,JPD1981,0005,crk,,plai1258,in,C-P:3,,,,,,event,event,final,II,,ABSTR,,,,,,,,,in,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL,MAM
 463,Cook & Muehlbauer,CC_JM2010,0035,crk,,plai1258,-payi-,C-P:1,,,,,,uncontrolled event,event (uncontrolled),final,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""(Elicitation)""",,,GVM
-994,Wolvengray,AW2011,"0247,0265",crk,,plai1258,,C-P:3,,/iskw-/,,,,so far; up to; to such an extent,"extent, far, up to, RELATIVE, QUANTITY",initial,RR,,,,,,,,,,,,,,,,,iskokāpawi-,,,V,,stand to such a height,,AW2011;0247
+994,Wolvengray,AW2011,"0247,0265",crk,,plai1258,,C-P:3,,/iskw-/,,,,so far; up to; to such an extent,"extent, far, so far, so long, up to, RELATIVE, QUANTITY  ",initial,RR,,,,,,,,,,,,,,,,,iskokāpawi-,,,V,,stand to such a height,,AW2011;0247
 270,Wolvengray,AW2015,0575,crk,,plai1258,-icāp-,C-P:3,,,,,,eye,eye,medial
 572,Valentine,RV2002,0113,crk,,plai1258,-yaap-,C-P:1,,,,,,eye,eye,medial
 605,Denny,JPD1981,0005,crk,,plai1258,āp,C-P:3,,,,,,eye,"eye, INCORPORATED",medial,INCORP,,,,,,,,,,,,,,,,,tōhk-āp-(i)-,,,AI,,he opens his eyes,,JPD1981;0005,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"JPD just called it ""Cree"" - footnote says it's from Bloomfield",,,MAM

@@ -587,7 +587,7 @@ ID,Component ID,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original or
 445,Cowell & Moss,AC_AM2008,0176,arp,,arap1274,,AR:1,,/-towooɜ/,,,,"language use, speaking, hearing","hear, speak, use (language)",final,TA,,CONCR,,,/-tobee/,,,/-towoot/
 446,Cowell & Moss,AC_AM2008,0176,arp,,arap1274,,AR:1,,/-towoot/,,,,"language use, speaking, hearing","hear, speak, use (language)",final,TI,,CONCR,,,/-tobee/,,/-towooɜ/
 789,Cowell & Moss,AC_AM2008,0176,arp,,arap1274,,AR:1,,/nii(t)/,,,,"sound, hearing","hearing, sound",initial,,,,,,,,,,,,,,,,,/niitobee-/,V,AI,to hear s.t.,,AC_AM2008;0176
-627,Cowell & Moss,AC_AM2008,"0173,0174",arp,,arap1274,,AR:1,,/es/,,,,"heat, intensity","heat, intensity",initial,,,,,,,,,,,,,,,,,/esixoh'-/,V,TI,to heat up,,AC_AM2008;0173,,,/esoohow-/,V,TA,to stare at,,AC_AM2008;0174,,,/esoohoot-/,V,TI,to stare at,,AC_AM2008;0174
+627,Cowell & Moss,AC_AM2008,"0173,0174",arp,,arap1274,,AR:1,,/es/,,,,"heat, intensity","heat, intensity in that way, so, thither, thus, to there, RELATIVE",initial,,,,,,,,,,,,,,,,,/esixoh'-/,V,TI,to heat up,,AC_AM2008;0173,,,/esoohow-/,V,TA,to stare at,,AC_AM2008;0174,,,/esoohoot-/,V,TI,to stare at,,AC_AM2008;0174
 438,Cowell & Moss,AC_AM2008,0170,arp,,arap1274,,AR:1,,/-tiiteen-/,,,,heel,heel,medial,,,,,,,,,,,,,,,,,/ihcitiiteeneesee-/,V,AI,walk tiptoe/heel in air,,AC_AM2008;0170
 608,Cowell & Moss,AC_AM2008,"0216,0223,0224,0225",arp,,arap1274,,AR:1,,/eh/,,,,"from speaker; henceforth, from this time onward",henceforth,initial
 594,Cowell & Moss,AC_AM2008,0204,arp,,arap1274,,AR:1,,/een-iit-/,,,,here,here,initial,,Y
@@ -648,7 +648,7 @@ ID,Component ID,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original or
 762,Cowell & Moss,AC_AM2008,0187,arp,,arap1274,,AR:1,,/nehyoni-/,,,,inspect,inspect,,,,,,,,,,,,,,,,,,/nehyoni-bix-e'ei-koohu-/,V,AI,to rapidly stick one's head up to check on s.t. ,,AC_AM2008;0187,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Stem A is [O: Enemy Trail, 46]"
 358,Cowell & Moss,AC_AM2008,0203,arp,,arap1274,,AR:1,,/-oon-oxoni-/,,,,intense,intense,initial,,Y
 427,Cowell & Moss,AC_AM2008,0203,arp,,arap1274,,AR:1,,/-oxoni-/,,,,intense,intense,initial
-945,Cowell & Moss,AC_AM2008,0176,arp,,arap1274,,AR:1,,/sii/,,,,intensity,intensity,initial,,,,,,,,,,,,,,,,,/siiyeinooni-/,V,II,to be too noisy,,AC_AM2008;0176
+945,Cowell & Moss,AC_AM2008,0176,arp,,arap1274,,AR:1,,/sii/,,,,intensity,"degree, intensity, so far, so much, QUANTITY, RELATIVE",initial,,,,,,,,,,,,,,,,,/siiyeinooni-/,V,II,to be too noisy,,AC_AM2008;0176
 665,Cowell & Moss,AC_AM2008,"0132,0157",arp,,arap1274,,AR:1,,/ihc/,,,,"upward, into the air","into (air), upward",initial,,,,,,,,,,,,,,,,,/ihcikuutii-/,V,AI,to toss upward,,AC_AM2008;0157,,,/ihcikuuɜ-/,V,TA,to toss upward,,AC_AM2008;0157,,,/tebikuutii-/,V,AI,to break,,AC_AM2008;0157,,,/tebikuuɜ-/,V,TA,to break,,AC_AM2008;0157
 944,Cowell & Moss,AC_AM2008,"0175,0213,0215,0219",arp,,arap1274,,AR:1,,/sii'ih/,,,,into water,into (water),initial,,,,,,,,,,,,,,,,,/sii'ihwo'oyei-/,V,AI+O,to cook s.t. by boiling,,AC_AM2008;0175
 551,Cowell & Moss,AC_AM2008,0175,arp,,arap1274,,AR:1,,/cesic/,,,,itch,itch,initial,,,,,,,,,,,,,,,,,/cesiceinibi-/,V,AI,to cough,,AC_AM2008;0175

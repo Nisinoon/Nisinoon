@@ -63,7 +63,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 56,Valentine 2002,RV2002,0088,ojg,Manitoulin,ojib1241,-aabiig-,OJ:3,,,,,,stringlike,"stringlike, CLASSIFIER",medial
 57,Mathieu,EM2007,0015,ojg,,ojib1241,-aaboo,OJ:3,,,,,,liquide,liquid,final,,,CONCR
 58,Valentine 2002,RV2002,0090,ojg,"wikwemikong, often seen in stems dealing with liquids, or the irises of eyes",ojib1241,-aagam-,OJ:3,,,,,,NG,,medial
-59,Valentine 2002,RV2002,0089,ojg,,ojib1241,-aakw-,OJ:3,,,,,,"thoroughness, intensity","intensity, thoroughness",medial
+59,Valentine 2002,RV2002,0089,ojg,,ojib1241,-aakw-,OJ:3,,,,,,"thoroughness, intensity","extent, intensity, so far, so long, thoroughness, RELATIVE",medial
 60,Mathieu,EM2007,0014,ojg,,ojib1241,-aashi,OJ:3,,,,,,NG,,final
 61,Valentine 2002,RV2002,0114,ojg,"Manitoulin, Rhodes 1985",ojib1241,-aawigan-,OJ:3,,,,,,back,back,medial
 63,Denny,JPD1978b,0316,ojg,,ojib1241,-āciwan,OJ:5,,,,,,stream,stream,final,PART,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
@@ -350,7 +350,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 342,Denny,JPD1981,0003,ojg,,ojib1241,akkamik,OJ:5,,,,,,ground,"ground, INCORPORATED",medial ,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 346,Denny,JPD1978a,0297,ojg,,ojib1241,ākkawāt,OJ:5,,,,,,dangerous,danger,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 347,Denny,JPD1978a,0299,ojg,,ojib1241,akkon,OJ:5,,,,,,be lit,lit,final,unknown,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-348,Denny,JPD1978a,0295,ojg,,ojib1241,akkw,OJ:5,,,,,,so far,"far, QUANTITY, RELATIVE",initial
+348,Denny,JPD1978a,0295,ojg,,ojib1241,akkw,OJ:5,,,,,,so far,"extent, far, so far, so long, QUANTITY, RELATIVE ",initial
 349,Denny,JPD1978a,0298,ojg,,ojib1241,akkw,OJ:5,,,,,,sky,sky,medial
 351,Denny,JPD1978a,0298,ojg,,ojib1241,ākkw,OJ:5,,,,,,organic solid,"organic, solid, CLASSIFIER",medial
 350,Denny,JPD1981,0005,ojg,,ojib1241,ākkw,OJ:5,,,,,,NG,CLASSIFIER,medial,CLASS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
@@ -413,7 +413,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 408,Denny,JPD1977,0135,ojg,,ojib1241,āpōt,OJ:5,,,,,,water current,"current, water",final,unknown,,CONCR
 409,Denny,JPD1978a,0299,ojg,,ojib1241,āpōt,OJ:5,,,,,,carried by current,"carried, current, INSTRUMENT",final,unknown,,CONCR
 410,Denny,JPD1978a,0307,ojg,,ojib1241,appakat,OJ:5,,,,,,NG,,initial
-411,Denny,JPD1978b,"0296,0303",ojg,,ojib1241,appīcc,OJ:5,,,,,,so far,"far, QUANTITY, RELATIVE",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+411,Denny,JPD1978b,"0296,0303",ojg,,ojib1241,appīcc,OJ:5,,,,,,so far,"degree, far, so far, so much, QUANTITY, RELATIVE  ",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 413,Denny,JPD1977,0135,ojg,,ojib1241,appit,OJ:5,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: likely 'fly' or related
 412,Denny,JPD1978b,0297,ojg,,ojib1241,appit,OJ:5,,,,,,fly,fly,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 414,Denny,JPD1978a,0297,ojg,,ojib1241,appitt,OJ:5,,,,,,fly,fly,initial
