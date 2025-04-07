@@ -262,8 +262,8 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 584,Beland,JPB1978,0209,atj,,atik1240,-y-,C-A:1,,,,,,NG,,final,N,,ABSTR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 587,Beland,JPB1978,0209,atj,,atik1240,-yekw-,C-A:1,,,,,,NG,,final,N,,ABSTR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 590,Beland,JPB1978,0218,atj,,atik1240,a:pot-,C-A:1,,,,,,to turn inside out,inside out,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-597,Beland,JPB1978,0160,atj,,atik1240,aspi:c-,C-A:1,,,,,,"so much, so far","far, much, RELATIVE, QUANTITY",initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-596,Beland,JPB1978,0160,atj,,atik1240,askw-,C-A:1,,,,,,so long,"long, RELATIVE, QUANTITY",initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+597,Beland,JPB1978,0160,atj,,atik1240,aspi:c-,C-A:1,,,,,,"so much, so far","degree, far, much, so far, so much, RELATIVE, QUANTITY   ",initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+596,Beland,JPB1978,0160,atj,,atik1240,askw-,C-A:1,,,,,,so long,"extent, long, so far, so long, RELATIVE, QUANTITY  ",initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 601,Beland,JPB1978,"0150,0157",atj ,,atik1240,irin-,C-A:1,,,,,,"ordinary, common","common, ordinary",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 603,Beland,JPB1978,0282,atj ,,atik1240,is̀i-,C-A:1,,,,,,"thus, so","in that way, so, thither, thus, to there, RELATIVE",final ,PART,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,,"""Some particle finals are related (deverbal?) to independent particles"" ",,,GVM
 623,Beland,JPB1978,0283,atj ,,atik1240,niya:ran,C-A:1,,,,,,NG,,initial,PART,,ABSTR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Denotes decade, added to numeral roots ""Particle final shows an alternat form -itana-"" ",,,GVM

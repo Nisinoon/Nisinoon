@@ -15,10 +15,10 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 68,Valentine,RV2002,0116,,oji,ojib1241,-ngwashi,OJ:3,,,,,,sleep,sleep,final,unknown,,,,,,,,,,,,,,,,,,,,,,,,general ojibwe
 76,Valentine,RV2002,0099,,oji,ojib1241,-se,OJ:3,,,,,,NG,,final,unknown
 79,Valentine,RV2002,0099,,oji,ojib1241,-shin,OJ:3,,,,,,NG,,final,unknown
-99,Valentine,RV2002,0106,,oji,ojib1241,apiich-,OJ:3,,,,,,to such extent (distance),"distance, extent, RELATIVE",initial,RR
-100,Valentine,RV2002,0106,,oji,ojib1241,apiis-,OJ:3,,,,,,to such extent (distance along),"along, distance, extent, RELATIVE",initial,RR,,,,,,,,,,,,,,,,,,,,,,,,general ojibwe
-101,Valentine,RV2002,0106,,oji,ojib1241,apiit-,OJ:3,,,,,,to such extent (height),"extent, height, RELATIVE",initial,RR
-102,Valentine,RV2002,0106,,oji,ojib1241,apiiz-,OJ:3,,,,,,to such extent (speed),"extent, speed, RELATIVE",initial,RR
+99,Valentine,RV2002,0106,,oji,ojib1241,apiich-,OJ:3,,,,,,to such extent (distance),"degree, distance, extent, so far, so much, RELATIVE, QUANTITY ",initial,RR
+100,Valentine,RV2002,0106,,oji,ojib1241,apiis-,OJ:3,,,,,,to such extent (distance along),"along, degree, distance, extent, so far, so much, RELATIVE, QUANTITY",initial,RR,,,,,,,,,,,,,,,,,,,,,,,,general ojibwe
+101,Valentine,RV2002,0106,,oji,ojib1241,apiit-,OJ:3,,,,,,to such extent (height),"degree, extent, height, so far, so much, QUANTITY, RELATIVE ",initial,RR
+102,Valentine,RV2002,0106,,oji,ojib1241,apiiz-,OJ:3,,,,,,to such extent (speed),"degree, extent, so far, so much, speed, QUANTITY,  RELATIVE  ",initial,RR
 104,Valentine,RV2002,0099,,oji,ojib1241,azhe-,OJ:3,,,,,,backward,backward,initial
 106,Valentine,RV2002,0095,,oji,ojib1241,babaam-,OJ:3,,,,,,"around, going about","around, go about",initial
 110,Valentine,RV2002,0096,,oji,ojib1241,bed-,OJ:3,,,,,,NG,,initial

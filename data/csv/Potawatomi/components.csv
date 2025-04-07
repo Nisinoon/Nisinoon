@@ -248,8 +248,8 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 219,Lockwood,HTL2017,0079,pot,,pota1247,-myam,POT:WNALP,,,,,,smell,smell,final,TA
 196,Lockwood,HTL2017,0076,pot ,,pota1247,-agwné-,POT:WNALP,,,,,,snow,snow,medial,,,,,,,,,,-agwnég-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sometimes analyzed as prefinal,,,HTL
 197,Lockwood,HTL2017,0076,pot,,pota1247,-agwneg-,POT:WNALP,,,,,,snow,snow,medial,,,,,,,,,,-agwné-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,sometimes analyzed as prefinal,,,HTL
-243,Lockwood,HTL2017,0168,pot ,,pota1247,des-,POT:WNALP,,,,,,so much; so many,"many, much, QUANTITY, RELATIVE",initial,RR
-244,Lockwood,HTL2017,0168,pot,,pota1247,desh-,POT:WNALP,,,,,,so much; so many,"many, much, QUANTITY, RELATIVE",initial,RR
+243,Lockwood,HTL2017,0168,pot ,,pota1247,des-,POT:WNALP,,,,,,so much; so many,"many, much, so many, so much, QUANTITY, RELATIVE ",initial,RR
+244,Lockwood,HTL2017,0168,pot,,pota1247,desh-,POT:WNALP,,,,,,so much; so many,"many, much, so many, so much, QUANTITY, RELATIVE ",initial,RR
 281,Hockett,CH1939b,0045,pot,,pota1247,-wε-,POT:3,,,,,,sound,sound,medial,,,,,,,,,,-wεwε-,,-wεwεk-,,,,ɑšɑwε,,,V,AI,"say so, tell so",,CH1939b;0045,ɑnɑwεwεkɑs,,,V,AI,make a noise,,CH1939b;0045,ɑnɑwεwεkɑt,,,V,II,make a noise,,CH1939b;0045,,,,,,,,,,,,,,,,,,,,,,,,,,"Hockett says √ɑšɑwε ""may not belong here""",,,HTL
 358,Hockett,CH1948b,0064,pot,,pota1247,,POT:5,,√wek/,,,,sound,sound,medial,,,,,,,,,,√we/,,,,,,UšUwe,,,V,AI,"say so, tell so",,CH1948b;0064
 359,Hockett,CH1948b,0064,pot,,pota1247,,POT:5,,√wewek/,,,,sound,sound,medial,,Y,,,,,,,,,,,,,,UnUwewekUs,,,V,AI,make a noise,,CH1948b;0064,UnUwewekUt,,,V,II,make a noise,,CH1948b;0064,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: p.64: though listed as a medial, it is also described as reduplicated, but Hockett explains that reduplication of medials is no longer productive"
@@ -264,10 +264,10 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 357,Hockett,CH1948b,0064,pot,,pota1247,,POT:5,,√en/,,,,think,think,medial,,,,,,,,,,,,,,,,kUk·enUtUm,,,V,AI,think,,CH1948b;0064,nenUtUm,,,V,AI,remember,,CH1948b;0064,OnenUtUm,,,V,AI,forget,,CH1948b;0064
 71,Lockwood,HTL_nd,,pot,,pota1247,-ji-,POT:WNALP,,,,,,"three-dimensional, round","round, three dimensional, CLASSIFIER",medial
 195,Lockwood,HTL2017,0076,pot,,pota1247,-ji-,POT:WNALP,,,,,,"three-dimensional, round","round, three dimensional, CLASSIFIER",medial,CLASS
-24,Lockwood,HTL_nd,,pot,,pota1247,ekew-,POT:WNALP,,,,,,"to such extent, as long as","as long as, extent, RELATIVE",initial
-133,Lockwood,HTL2017,0070,pot ,,pota1247,ekew-,POT:WNALP,,,,,,"to such extent, as long as","as long as, extent, RELATIVE",initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,allomorph: eko-
-23,Lockwood,HTL_nd,,pot,,pota1247,eko-,POT:WNALP,,,,,,"to such extent, as long as","as long as, extent, RELATIVE",initial
-132,Lockwood,HTL2017,0069,pot,,pota1247,eko-,POT:WNALP,,,,,,"to such extent, as long as","as long as, extent, RELATIVE",initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,allomorph: ekew-
+24,Lockwood,HTL_nd,,pot,,pota1247,ekew-,POT:WNALP,,,,,,"to such extent, as long as","as long as, extent, so far, so long, RELATIVE ",initial
+133,Lockwood,HTL2017,0070,pot ,,pota1247,ekew-,POT:WNALP,,,,,,"to such extent, as long as","as long as, extent, so far, so long, RELATIVE ",initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,allomorph: eko-
+23,Lockwood,HTL_nd,,pot,,pota1247,eko-,POT:WNALP,,,,,,"to such extent, as long as","as long as, extent, so far, so long, RELATIVE",initial
+132,Lockwood,HTL2017,0069,pot,,pota1247,eko-,POT:WNALP,,,,,,"to such extent, as long as","as long as, extent, so far, so long, RELATIVE ",initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,allomorph: ekew-
 53,Lockwood,HTL_nd,,pot,,pota1247,wzam-,POT:WNALP,,,,,,too much,too much,initial
 176,Lockwood,HTL2017,0074,pot,,pota1247,wzam-,POT:WNALP,,,,,,too much,too much,initial
 100,Lockwood,HTL_nd,,pot ,,pota1247,-shke,POT:WNALP,,,,,,verb of addiction,VERB OF ADDICTION,final

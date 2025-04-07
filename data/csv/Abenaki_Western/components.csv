@@ -107,7 +107,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 43,Day,GMD1995,XXIV,abe,,west2630,akokw,AB:3,,,,,,kettle,kettle,initial,,,,,,,,,,kokw,,,,,,,,,,,,,,,free root
 44,Day,GMD1995,XXIV,abe,,west2630,akw-,AB:3,,,,,,"stop, cease","cease, stop",initial
 45,Day,GMD1995,XXIV,abe,,west2630,akw- ,AB:3,,,,,,"rough, bitter","bitter, rough",initial
-46,Day,GMD1995,XXV,abe,,west2630,akwôb-,AB:3,,,,,,"thus, so much, in such a time, amount, manner; according to, accordingly as","according to, amount, manner, much, thus, time, RELATIVE, QUANTITY",initial
+46,Day,GMD1995,XXV,abe,,west2630,akwôb-,AB:3,,,,,,"thus, so much, in such a time, amount, manner; according to, accordingly as","according to, amount, extent, manner, much, so far, so long, thus, time, RELATIVE, QUANTITY  ",initial
 47,Day,GMD1995,XXV,abe,,west2630,al-,AB:3,,,,,,"how, as, like, the way that, etc. ","as, how, like, way",initial
 48,Day,GMD1995,XXV,abe,,west2630,alakws,AB:3,,,,,,star,star,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
 49,Day,GMD1995,XXV,abe,,west2630,alaskana,AB:3,,,,,,wolverine,wolverine,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
@@ -340,7 +340,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 308,Day,GMD1995,XXXV,abe,,west2630,gameg-,AB:3,,,,,,"enter water, dive, sink","dive, sink",initial
 309,Day,GMD1995,XXXV,abe,,west2630,ganozas,AB:3,,,,,,willow,willow,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
 310,Day,GMD1995,XXXV,abe,,west2630,"gao-, gaw-",AB:3,,,,,,sleep,sleep,initial
-311,Day,GMD1995,XXXV,abe,,west2630,gas-,AB:3,,,,,,"so much, so many, thus (in degree or extent or number) ","many, much, thus, QUANTITY, RELATIVE",initial
+311,Day,GMD1995,XXXV,abe,,west2630,gas-,AB:3,,,,,,"so much, so many, thus (in degree or extent or number) ","many, much, so many, so much, thus, QUANTITY, RELATIVE ",initial
 312,Day,GMD1995,XXXV,abe,,west2630,gash-,AB:3,,,,,,wipe,wipe,initial
 313,Day,GMD1995,XXXV,abe,,west2630,gasko,AB:3,,,,,,heron,heron,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
 314,Day,GMD1995,XXXV,abe,,west2630,gasp-,AB:3,,,,,,"unexpectedly, unintentionally, accidentally, suddenly ","accidentally, suddenly, unexpectedly, unintentionally",initial
