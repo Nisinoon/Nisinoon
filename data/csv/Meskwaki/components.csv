@@ -316,7 +316,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 6,Goddard,IG1990a,0451,sac,,mesk1242,-ešw-,ME:2,,,,,,act on (anim.) by cutting edge (causing ...),"cutting edge, INSTRUMENT",final,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 216,Bloomfield,LB1925a,0229,sac,,mesk1242,-eguni,ME:1,,,,,,days,day,final,N
 256,Bloomfield,LB1925a,0232,sac,,mesk1242,-ihk-,ME:1,,,,,,"frequent, deal with","deal with, frequent",final
-270,Bloomfield,LB1927a,"0194,0205",sac,,mesk1242,tōt-,ME:1,,,,,,deal thus with,"deal with, RELATIVE",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LB: Irregularly used with prefix ä- (IC)
+270,Bloomfield,LB1927a,"0194,0205",sac,,mesk1242,tōt-,ME:1,,,,,,deal thus with,"deal with, there, then, RELATIVE",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LB: Irregularly used with prefix ä- (IC)
 160,Bloomfield,LB1925a,0226,sac,,mesk1242,an-,ME:1,,,,,,defeat,defeat,initial
 223,Bloomfield,LB1925a,0230,sac,,mesk1242,-īwi-,ME:1,,,,,,denominative,DENOMINAL,final
 164,Bloomfield,LB1925a,0226,sac,,mesk1242,man-,ME:1,,,,,,deprive (?),deprive,initial
@@ -574,7 +574,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 593,Thomason,LT2021,,,,,-ite*hte*kwe*-,ME:4,,-i-te*hte*kw(ay)-e*-,,,,temple (of head),temple (head),medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Work still in progress; may contain errors. Please keep in mind that Meskwaki papepipo omits both vowel lengths and the voiceless glottal fricative [h].
 182,Bloomfield,LB1925a,0227,sac,,mesk1242,metās-,ME:1,,,,,,ten,ten,initial
 558,Thomason,LT2021,,,,,-ineshiwe*-,ME:4,,-i-neshiw-e*-,,,,testicles,testicle,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Work still in progress; may contain errors. Please keep in mind that Meskwaki papepipo omits both vowel lengths and the voiceless glottal fricative [h].
-115,Bloomfield,LB1925a,0221,sac,,mesk1242,tan-,ME:1,,,,,,there,there,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LB: Irregularly used with prefix ä- (IC)
+115,Bloomfield,LB1925a,0221,sac,,mesk1242,tan-,ME:1,,,,,,there,"there, then, RELATIVE",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,LB: Irregularly used with prefix ä- (IC)
 34,Goddard,IG1990a,0457,sac,,mesk1242,-ite·he·-,ME:2,,,,,,think,think,final,AI,,,,,,,,,,,a·manow-ite·he·-,,,V,AI,think about sex,,IG1990a;0457,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 28,Goddard,IG1990a,"0456,0457,0465",sac,,mesk1242,-e·nem-,ME:2,,-e·nem-,,,,think about (anim.),think (about),final,TA,,,,,,,,,,,,,ki·ke·nowe·nem-,V,TA,think s/he is finished with a clan feast,,IG1990a;0480,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 526,Thomason,LT2021,,,,,-ikota*kane*-,ME:4,,-i-kota*kan-e*-,,,,throat,throat,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Work still in progress; may contain errors. Please keep in mind that Meskwaki papepipo omits both vowel lengths and the voiceless glottal fricative [h].
@@ -582,7 +582,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 560,Thomason,LT2021,,,,,-ine*we*-,ME:4,,-ine*w-e*-,,,,throat,throat,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Work still in progress; may contain errors. Please keep in mind that Meskwaki papepipo omits both vowel lengths and the voiceless glottal fricative [h].
 297,Goddard,IG1965,0217,sac,,mesk1242,ša·pw-,ME:2,,,,*ša·pw-,,through,through,initial
 320,Dahlstrom,AD2009,0237,sac,,mesk1242,-a·hke·-,ME:2,,,,,,throw,throw,final
-278,Bloomfield,LB1927a,0205,sac,,mesk1242,ahpīht-,ME:1,,,,,,to such degree,"to (degree), RELATIVE",initial
+278,Bloomfield,LB1927a,0205,sac,,mesk1242,ahpīht-,ME:1,,,,,,to such degree,"degree, so far, so much, to (degree), QUANTITY, RELATIVE  ",initial
 316,Dahlstrom,AD2009,"0229,0236,0237",sac,,mesk1242,takw-,ME:2,,,,,,together with ,"together, COMITATIVE",initial,,,,,,,,,,,,takwi·-,,,V,AI+O,join,,AD2009;0229,tawkisen-,,,V,AI+O,lie together with [INAN. SUBJ],,AG2009;0229
 545,Thomason,LT2021,,,,,-inaniwe*-,ME:4,,-i-naniw-e*-,,,,tongue,tongue,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Work still in progress; may contain errors. Please keep in mind that Meskwaki papepipo omits both vowel lengths and the voiceless glottal fricative [h].
 30,Goddard,IG1990a,0457,sac,,mesk1242,-ah-,ME:2,,,,,,act on (inan.) by tool,"tool, INSTRUMENT",final,TI1,,,,,,,,,,,ni·miw-ah-,,,V,TI1,sing to accompany dancing,,IG1990a;0457,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM

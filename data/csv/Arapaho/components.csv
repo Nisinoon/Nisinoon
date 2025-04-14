@@ -596,7 +596,7 @@ ID,Component ID,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original or
 441,Cowell & Moss,AC_AM2008,0201,arp,,arap1274,,AR:1,,/-to'oot-/,,,,hit,hit,final,TI
 960,Cowell & Moss,AC_AM2008,"0142,0173",arp,,arap1274,,AR:1,,/to'/,,,,"hit, strike","hit, strike",initial,,,,,,,,,,,,,,,,,/to'osi[ne]-/,V,AI,to fall and hit the ground,,AC_AM2008;0142,,,/to'osiw-/,V,TA,to knock to the ground,,,AC_AM2008;0142,,/to'osetii-/,V,TI,to knock to the ground,,AC_AM2008;0173,,,/to'oxon-/,V,TA,to kick,,AC_AM2008;0173
 546,Cowell & Moss,AC_AM2008,"0173,0176,0223",arp,,arap1274,,AR:1,,/cei(t)/,,,,to here,"hither, to here",initial,,,,,,,,,,,,,,,,,/ceixoh-/,V,TA,to bring here,,AC_AM2008;0173,,,/ceixotii-/,V,AIO,to bring here,,AC_AM2008;0173,,,/ceikoni-/,V,II,to move here as a band or group,,AC_AM2008;0176,,,/ceiɜiikohei-/,V,AI,to ride to here,,AC_AM2008;0176
-241,Cowell & Moss,AC_AM2008,"0216,0326",arp,,arap1274,,AR:1,,/-iiɜ-/,,,,toward; from there to here,"hither, to here, toward",initial
+241,Cowell & Moss,AC_AM2008,"0216,0326",arp,,arap1274,,AR:1,,/-iiɜ-/,,,,toward; from there to here,"hither, in that way, so, thither, thus, to here, toward, RELATIVE",initial
 968,Cowell & Moss,AC_AM2008,0174,arp,,arap1274,,AR:1,,/tou/,,,,hold,hold,initial,,,,,,,,,,,,,,,,,/toukuɜ-/,V,TA,to tie up,,AC_AM2008;0174,,,/toukutii-/,V,AI+O,to tie up,,AC_AM2008;0174
 848,Cowell & Moss,AC_AM2008,0174,arp,,arap1274,,AR:1,,/noox/,,,,hole in ,hole,initial,,,,,,,,,,,,,,,,,/nooxciɜ-/,V,TA,to dig a hole into s.t.,,AC_AM2008;0174,,,/nooxcitii-/,V,AI+O,to dig a hole into s.t.,,AC_AM2008;0174
 963,Cowell & Moss,AC_AM2008,"0157,0174",arp,,arap1274,,AR:1,,/ton/,,,,hole,hole,initial,,,,,,,,,,,,,,,,,/tonoxoh-/,V,TI,to make a hole in the ground,,AC_AM2008;0157,,,/tonicitii-/,V,AI,to make a hole in s.t. by tool,,,AC_AM2008;0157,,/toniciɜ-/,V,TA,to make a hole in s.t. (AN) by tool,,AC_AM2008;0157
@@ -906,8 +906,8 @@ ID,Component ID,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original or
 142,Cowell & Moss,AC_AM2008,0181,arp,,arap1274,,AR:1,,/-coo/,,,,taste,taste,final,II,,CONCR,,,/-ceihi/
 338,Cowell & Moss,AC_AM2008,0202,arp,,arap1274,,AR:1,,/-ooɜitoon-/,,,,tell story to s.o.,tell (story),final,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: This feels like a case of the ""final"" actually being a verb stem-- not confident on this one."
 163,Cowell & Moss,AC_AM2008,0170,arp,,arap1274,,AR:1,,/-eesin-/,,,,testicle,testicle,medial,,,,,,,,,,,,,,,,,/beebeeɜeesinee-/,V,AI,have big testicles,,AC_AM2008;0170
-619,Cowell & Moss,AC_AM2008,0183,arp,,arap1274,,AR:1,,/ein/,,,,there,there,initial
-638,Cowell & Moss,AC_AM2008,"0215,0216,0223",arp,,arap1274,,AR:1,,/ɜew-/,,,,"there, over there",there,initial
+619,Cowell & Moss,AC_AM2008,0183,arp,,arap1274,,AR:1,,/ein/,,,,there,"in that way, so, there, thither, thus, to there, RELATIVE",initial
+638,Cowell & Moss,AC_AM2008,"0215,0216,0223",arp,,arap1274,,AR:1,,/ɜew-/,,,,"there, over there","in that way, so, there, thither, thus, to there, RELATIVE",initial
 100,Cowell & Moss,AC_AM2003,0358,arp,,arap1274,konook-,AR:2,,,,,,thick,thick,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 527,Cowell & Moss,AC_AM2008,"0179,0180",arp,,arap1274,,AR:1,,/ce'/,,,,thick,thick,initial
 209,Cowell & Moss,AC_AM2008,0176,arp,,arap1274,,AR:1,,/-ɜecoo/,,,,thinking,think,final,AI,,CONCR,,,,,/-ɜecooton/,/-ɜecoot/,,,,,,,,/kokoh'uɜecoo-/,V,AI,to think about s.t.,AC_AM2008;0176,,,,/teeniɜecoo-/,V,AI,to feel sad,,AC_AM2008;0176

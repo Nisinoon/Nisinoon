@@ -107,7 +107,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 43,Day,GMD1995,XXIV,abe,,west2630,akokw,AB:3,,,,,,kettle,kettle,initial,,,,,,,,,,kokw,,,,,,,,,,,,,,,free root
 44,Day,GMD1995,XXIV,abe,,west2630,akw-,AB:3,,,,,,"stop, cease","cease, stop",initial
 45,Day,GMD1995,XXIV,abe,,west2630,akw- ,AB:3,,,,,,"rough, bitter","bitter, rough",initial
-46,Day,GMD1995,XXV,abe,,west2630,akwôb-,AB:3,,,,,,"thus, so much, in such a time, amount, manner; according to, accordingly as","according to, amount, extent, manner, much, so far, so long, thus, time, RELATIVE, QUANTITY  ",initial
+46,Day,GMD1995,XXV,abe,,west2630,akwôb-,AB:3,,,,,,"thus, so much, in such a time, amount, manner; according to, accordingly as","according to, amount, extent, manner, much, so far, so long, thus, time, RELATIVE, QUANTITY ",initial
 47,Day,GMD1995,XXV,abe,,west2630,al-,AB:3,,,,,,"how, as, like, the way that, etc. ","as, how, like, way",initial
 48,Day,GMD1995,XXV,abe,,west2630,alakws,AB:3,,,,,,star,star,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
 49,Day,GMD1995,XXV,abe,,west2630,alaskana,AB:3,,,,,,wolverine,wolverine,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
@@ -877,8 +877,8 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 953,Day,GMD1995,LXI,abe,,west2630,spem-,AB:3,,,,,,"above, on high","above, high",initial
 954,Day,GMD1995,LXI,abe,,west2630,spigw-,AB:3,,,,,,"upward, rising","upward, rise",initial
 955,Day,GMD1995,LXI,abe,,west2630,spôz-,AB:3,,,,,,"early, in the morning","early, morning",initial
-956,Day,GMD1995,LXI,abe,,west2630,tal-,AB:3,,,,,,"there (usually, not at a specific time) (often has the force of general action even losing any notion of there)",there,initial,,,,,,,,,,,,,,,,,,,,,,,,,cf. dal-
-260,Day,GMD1995,XXXIII,abe,,west2630,dal-,AB:3,,,,,,there (now or at a specific time),there,initial,,,,,,,,,,,,,,,,,,,,,,,,,cf. tal-
+956,Day,GMD1995,LXI,abe,,west2630,tal-,AB:3,,,,,,"there (usually, not at a specific time) (often has the force of general action even losing any notion of there)","there, then, RELATIVE",initial,,,,,,,,,,,,,,,,,,,,,,,,,cf. dal-
+260,Day,GMD1995,XXXIII,abe,,west2630,dal-,AB:3,,,,,,there (now or at a specific time),"there, then, RELATIVE",initial,,,,,,,,,,,,,,,,,,,,,,,,,cf. tal-
 957,Day,GMD1995,LXII,abe,,west2630,taza-,AB:3,,,,,,"clear of obstruction, having clear space",clear (A),initial
 958,Day,GMD1995,LXII,abe,,west2630,tego,AB:3,,,,,,a wave,wave (N),initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
 959,Day,GMD1995,LXII,abe,,west2630,tek-,AB:3,,,,,,cold,cold,initial
