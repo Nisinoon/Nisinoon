@@ -1503,7 +1503,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 2167,Macaulay,MAM_LB2024,,mez,,meno1252,om-,MN:WNALP,,,,,,frog,frog,initial
 2563,Macaulay,MAM_LB2024,,mez,,meno1252,wāwāpē-,MN:WNALP,,,,,,frog-hawk,frog-hawk,initial
 1726,Macaulay,MAM_LB2024,,mez,,meno1252,kaetā-,MN:WNALP,,,,,,from inside,from (inside),initial
-2159,Macaulay,MAM_LB2024,,mez,,meno1252,oht-,MN:WNALP,,,,,,"from there, for that reason","from there, reason, thence, RELATIVE",initial,RR,,,,,,,,,ohtāt-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"21.113: no epenthetic [e] with suffixes: AI -pwā, -pyā.
+2159,Macaulay,MAM_LB2024,,mez,,meno1252,oht-,MN:WNALP,,,,,,"from there, for that reason","from there, reason, source, thence, therefore, CAUSATIVE, RELATIVE",initial,RR,,,,,,,,,ohtāt-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"21.113: no epenthetic [e] with suffixes: AI -pwā, -pyā.
  
  21.114: irregular assibilation before medial -aecī-"
 2296,Macaulay,MAM_LB2024,,mez,,meno1252,paski-,MN:WNALP,,,,,,fry,fry,initial
@@ -2053,7 +2053,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 1483,Macaulay,MAM_LB2024,"14.298; 15.199,201; 17.12,15; 22.37;38",mez,,meno1252,ahkw-,MN:WNALP,,,,,,"so far (distance), so long (time), so much (amount)","amount, distance, extent, far, long, much, so far, so long, time, QUANTITY, RELATIVE  ",initial,RR
 1448,Macaulay,MAM_LB2024,17.4,mez,,meno1252,a͞ec-,MN:WNALP,,,,,,"so far, so long","degree, far, long, so far, so much, QUANTITY, RELATIVE  ",initial
 1463,Macaulay,MAM_LB2024,3.6,mez,,meno1252,aeNaesp-,MN:WNALP,,,,,,so high,"high, RELATIVE",initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3.60: initial aeN- with postradical accretion -aesp (homonymous with initial aesp-).
-1489,Macaulay,MAM_LB2024,17.8; 18.90; 22.37,mez,,meno1252,ahpēht-,MN:WNALP,,,,,,"so much, so far, so far in, to such a degree","degree, far, much, so far, so much, QUANTITY, RELATIVE ",initial,RR
+1489,Macaulay,MAM_LB2024,17.8; 18.90; 22.37,mez,,meno1252,ahpēht-,MN:WNALP,,,,,,"so much, so far, so far in, to such a degree","degree, far, much, so far, so much, QUANTITY, RELATIVE",initial,RR
 1563,Macaulay,MAM_LB2024,21.84,mez,,meno1252,āpow-,MN:WNALP,,,,,,soak,soak,initial,,,,,,,,,,āpoweqN-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21.84: takes postradical -qN 'wet'
 2351,Macaulay,MAM_LB2024,,mez,,meno1252,saehsa͞eqn-,MN:WNALP,,,,,,sob,sob,initial
 2118,Macaulay,MAM_LB2024,,mez,,meno1252,nōhk-,MN:WNALP,,,,,,soft,soft,initial
@@ -2148,9 +2148,9 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 2105,Macaulay,MAM_LB2024,15.81,mez,,meno1252,nī-,MN:WNALP,,,,,,tender,tender,initial
 2027,Macaulay,MAM_LB2024,18.18,mez,,meno1252,naeqN-,MN:WNALP,,,,,,testicle,"testicle, DEPENDENT",initial,Dep
 233,Bloomfield,LB1962,17.17,mez,,meno1252,wɛ·wɛ·nen-,MN:1,,,,,,thank you,thank,initial,,,,N
-2166,Macaulay,MAM_LB2024,,mez,,meno1252,om-,MN:WNALP,,,,,,that way,way (that),initial
+2166,Macaulay,MAM_LB2024,,mez,,meno1252,om-,MN:WNALP,,,,,,that way,"in that way, so, thither, thus, to there, way (that), RELATIVE",initial
 1611,Macaulay,MAM_LB2024,17.21,mez,,meno1252,ayāckw-,MN:WNALP,,,,,,the last time,last time,initial
-1458,Macaulay,MAM_LB2024,"2.89; 3.41,60; 4.7,24; 7.33; 14.1; 15.61,67,68,144,194,236,269,287,313; 16.6,61,150; 17.4,24,28,30; 21.8,28,29,58,64,103,104,105,113; 22.37,40",mez,,meno1252,aen-,MN:WNALP,,,,,,there,there,initial
+1458,Macaulay,MAM_LB2024,"2.89; 3.41,60; 4.7,24; 7.33; 14.1; 15.61,67,68,144,194,236,269,287,313; 16.6,61,150; 17.4,24,28,30; 21.8,28,29,58,64,103,104,105,113; 22.37,40",mez,,meno1252,aen-,MN:WNALP,,,,,,there,"in that way, so, there, thither, thus, to there, RELATIVE",initial
 1515,Macaulay,MAM_LB2024,"15.60,109; 16.91; 21.75,113",mez,,meno1252,aN-,MN:WNALP,,,,,,there,there,initial
 1692,Macaulay,MAM_LB2024,,mez,,meno1252,kaehpak-,MN:WNALP,,,,,,thick,thick,initial
 2231,Macaulay,MAM_LB2024,21.4,mez,,meno1252,paehn-,MN:WNALP,,,,,,thick,thick,initial,,,,,,,,,,paehnak-

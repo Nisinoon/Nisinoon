@@ -56,7 +56,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 17,Teeter,KT1971,0220,pqm,,male1292,-ewa,P-M:1,,,,,,benefactive,BENEFACTIVE,final,TA,,,Y,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 77,Bruening,BB2001a,0042,pqm,,male1292,kin-,P-M:2,,,,,,big,big,initial
 81,LeSourd,PL1995,0107,pqm,Passamaquoddy,pass1249,məkə̌sew-,P-M:3,,/məkə̌se-/,,,,black,black,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y
-96,Bruening,BB2001a,"0050,0236",pqm,,male1292,tuci-,P-M:2,,,,,,degree,"degree, RELATIVE",initial,RR
+96,Bruening,BB2001a,"0050,0236",pqm,,male1292,tuci-,P-M:2,,,,,,degree,"degree, so far, so much, QUANTITY, RELATIVE",initial,RR
 134,LeSourd,PL1995,0124,pqm,Passamaquoddy,pass1249,,P-M:3,,/-ne-/,,,,die,die,final,,,,,,,,,,,,,,,,/nə̆kĭhka-ne-/,V,AI,"die completely, all die",,PL1995;0124,,,/mehci-ne-/,V,AI,die,,PL1995;0126
 32,LeSourd,PL1995,"0103,0105,0106,0108",pqm,Passamaquoddy,pass1249,-hs,P-M:3,,,,,,diminutive,DIMINUTIVE,final,,,,Y,,,,,,,,,,,,/nə̆mi-ht-ə̆w-hs-/,V,TI,see,,PL1995;0117,,,,,,,,,,,,,,,,,,"GVM: ""Stem"" A does include a theme sign -ə̆w- but is described as a stem"
 107,LeSourd,PL1995,"0108,0116,0117,0126",pqm,Passamaquoddy,pass1249,,P-M:3,,/-hs-i-/,,,,diminutive,DIMINUTIVE,final,AI,,,,,,,,,-hs-ə̆-,unclear,-hs-o-,unclear,,,/ə̆pi-hs-i-/,V,AI,sit,,PL1995;0117,,,,,,,,,,,,,,,,,,"GVM: P. 108 ""complex final"""
@@ -115,7 +115,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 63,Bruening,BB2001a,0042,pqm,,male1292,-tokot,P-M:2,,,,,,be stringlike,stringlike,final,II
 64,Bruening,BB2001a,0042,pqm,,male1292,-toksu,P-M:2,,/toksi/,,,,be stringlike,stringlike,final,AI3
 61,Teeter,KT1971,0240,pqm,,male1292,-tehsi,P-M:1,,,,,,suddenly,suddenly,final,AI,,,,,,,,,-tehsə,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-94,Bruening,BB2001a,"0049,0147,0148",pqm,,male1292,toli-,P-M:2,,,,,,there,"there, RELATIVE",initial,RR
+94,Bruening,BB2001a,"0049,0147,0148",pqm,,male1292,toli-,P-M:2,,,,,,there,"there, then, RELATIVE",initial,RR
 72,Bruening,BB2001a,0169,pqm,,male1292,ckuwi-,P-M:2,,,,,,toward here,"toward here, RELATIVE",initial,RR
 87,Bruening,BB2001a,0169,pqm,,male1292,peci-,P-M:2,,,,,,toward,"toward, RELATIVE",initial,RR
 105,LeSourd,PL1995,0107,pqm,Passamaquoddy,pass1249,,P-M:3,,/-h-/,,,,transitivizer,TRANSITIVE,final,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,/-hta-h-/

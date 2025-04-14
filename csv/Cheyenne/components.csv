@@ -130,9 +130,9 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 469,Fisher et al.,LF2019,,chy,,chey1247,-vóoná ??,CH:1,,,,,,groin,"groin, DEPENDENT",medial,Dep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM: ?? is in-text,,,MAM
 470,Fisher et al.,LF2019,,chy,,chey1247,-xó'é,CH:1,,,,,,"genital area, crotch","crotch, genital area, DEPENDENT",medial,Dep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 473,Fisher et al.,LF2019,,chy,,chey1247,'esó,CH:1,,,,,,NG,,final,II,,,,,,,,,,,,,,,-háa'esó,,,V,II,"far, long, tall",,LF2019,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-563,Fisher et al.,LF2019,,chy,,chey1247,he'xóv-,CH:1,,,,,,"such degree, such amount","amount, degree, RELATIVE",initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+563,Fisher et al.,LF2019,,chy,,chey1247,he'xóv-,CH:1,,,,,,"such degree, such amount","amount, degree, so far, so much, QUANTITY, RELATIVE",initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 570,Fisher et al.,LF2019,,chy,,chey1247,hénóme,CH:1,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM: Appears in the entry for -nómá; lacks dash; maybe a typo?,,,MAM
-573,Fisher et al.,LF2019,,chy,,chey1247,heš- ,CH:1,,,,,,that way,"way (that), RELATIVE",initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+573,Fisher et al.,LF2019,,chy,,chey1247,heš- ,CH:1,,,,,,that way,"in that way, so, thither, thus, to there, way (that), RELATIVE",initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 724,Fisher et al.,LF2019,,chy,,chey1247,ne'evá(v)-,CH:1,,,,,,"identified, recognized","identified, recognized",,,,,,,,,,,ne'eváve-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 733,Fisher et al.,LF2019,,chy,,chey1247,ném-,CH:1,,,,,,NG,,initial,,,,,,,,,,,,,,,,-néméné,,,V,AI,crooked face,,LF2019,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 875,Fisher et al.,LF2019,,chy,,chey1247,stséá,CH:1,,,,,,head,"head, DEPENDENT",medial,Dep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
@@ -491,7 +491,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 472,Fisher et al.,LF2019,,chy,,chey1247,'(š)- ,CH:1,,,,,,free,free,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 864,Fisher et al.,LF2019,,chy,,chey1247,šé(x)- ,CH:1,,,,,,"free, loose","free, loose",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 567,Fisher et al.,LF2019,,chy,,chey1247,héhpoh-,CH:1,,,,,,frighten,frighten,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-582,Fisher et al.,LF2019,,chy,,chey1247,hést-,CH:1,,,,*went-,,"from there, there - from","from there, thence",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+582,Fisher et al.,LF2019,,chy,,chey1247,hést-,CH:1,,,,*went-,,"from there, there - from","from there, source, thence, therefore, CAUSATIVE, RELATIVE",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 792,Fisher et al.,LF2019,,chy,,chey1247,ó'otóm(e)-,CH:1,,,,,,full,full,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 899,Fisher et al.,LF2019,,chy,,chey1247,tȯhevó- ,CH:1,,,,,,gap,gap,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 617,Fisher et al.,LF2019,,chy,,chey1247,hohpo'-,CH:1,,,,,,gather,gather,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
@@ -504,7 +504,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 769,Fisher et al.,LF2019,,chy,,chey1247,nóm-,CH:1,,,,,,go with the wind INSTRUMENT,go (with the wind),initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 489,Fisher et al.,LF2019,,chy,,chey1247,amėhnėhé- ,CH:1,,,,,,go along,go along,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 328,Fisher et al.,LF2019,,chy,,chey1247,-ohe,CH:1,,,,,,"move, go","go, move",final,AI,,,,,,,,,,,,,,,-tó'hoveohe,,,V,AI,go between,,LF2019,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-549,Fisher et al.,LF2019,,chy,,chey1247,he'-,CH:1,,,,,,"how go, how run, so go, so run","go, run, INSTRUMENT, RELATIVE",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM: Must be a relative root.,,,MAM
+549,Fisher et al.,LF2019,,chy,,chey1247,he'-,CH:1,,,,,,"how go, how run, so go, so run","go, run, in that way, so, thither, thus, to there, INSTRUMENT, RELATIVE  ",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM: Must be a relative root.,,,MAM
 842,Fisher et al.,LF2019,,chy,,chey1247,pėhév-,CH:1,,,,,,"good, well","good, well",initial,,,,,,,,,,pȧháv-,,pȧháve-,,pėhéve-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""pėhév- is the newer pronunciation.""",,,MAM
 886,Fisher et al.,LF2019,,chy,,chey1247,táv-,CH:1,,,,,,"goofy, stupid, silly","goofy, silly, stupid",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 266,Fisher et al.,LF2019,,chy,,chey1247,-o'e,CH:1,,,,*-aškw,,"vegetation, plant, grass, weed","grass, plant, vegetation, weed",final,NI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""Etym: *-aškw ‘grass (medial)’""",,,MAM
@@ -534,7 +534,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 67,Fisher et al.,LF2019,,chy,,chey1247,-aho'he,CH:1,,,,,,"by heat, by sun","heat, sun, INSTRUMENT",final,AI,,,,,,-aho'tá,-aho'h(n),-aho'tá,-ho'he,,,,,,-asėtȧho'he / -asetȧho'he (?),,,V,AI,leave by car,,LF2019,-ávȧho'he,,,V,AI,lay down from heat,,LF2019,-he'konȧho'he,,,V,AI,cooked hard,,LF2019,-nėhpotómeoestȧho'he,,,V,AI,suffocate in fire,,LF2019,,,,,,,,,,MAM
 69,Fisher et al.,LF2019,,chy,,chey1247,-aho'tá,CH:1,,,,,,"by heat, by sun","heat, sun, INSTRUMENT",final,TI,,,,,-aho'he ,-aho'tá,-aho'h(n),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Listed as a TI final in entry for AI final -aho'he, but elsewhere as II final. This might be a typo.",,,MAM
 10,Fisher et al.,LF2019,,chy,,chey1247,-'ėstahe,CH:1,,,,,,"height, length, high, long","height, high, length, long",final,AI,,,,,,-'esó,,,,,,,,,-tó'ėstahe,,,V,AI,tall,,LF2019,-hehpe'ėstahe,,,V,AI,taller - be,,LF2019,,,,,,,,,,,,,,,,,,,,,,,GVM: ?? in stem A is consistent with text,,,MAM
-291,Fisher et al.,LF2019,,chy,,chey1247,-o'tá,CH:1,,,,,,"be here, be there","here, there",final,II,,,,,-oo'e,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+291,Fisher et al.,LF2019,,chy,,chey1247,-o'tá,CH:1,,,,,,"be here, be there","here, from there, source, thence, there, therefore, CAUSATIVE, RELATIVE",final,II,,,,,-oo'e,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 19,Fisher et al.,LF2019,,chy,,chey1247,-'om ??,CH:1,,,,,,hill,hill,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM: ?? is in-text,,,MAM
 388,Fisher et al.,LF2019,,chy,,chey1247,-ose,CH:1,,,,,,hill,hill,final,NI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 288,Fisher et al.,LF2019,,chy,,chey1247,-o'omenó,CH:1,,,,,,"hill, mountain","hill, mountain",final,NI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: ""may be a combination of -o'ome 'region' + -nó 'place'""",,,MAM
@@ -854,7 +854,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 795,Fisher et al.,LF2019,,chy,,chey1247,oé'tov- ,CH:1,,,,,,"stumble, uncoordinated","stumble, uncoordinated",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: Description says ""redup ??"" so unsure if this -is- a reduplicated form or if it -has- a reduplicated form",,,MAM
 688,Fisher et al.,LF2019,,chy,,chey1247,mé'tom-,CH:1,,,,,,submit ??,submit,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM: ?? is in-text,,,MAM
 546,Fisher et al.,LF2019,,chy,,chey1247,he-,CH:1,,,,,,such,such,initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""This is a relative initial.""",,,MAM
-589,Fisher et al.,LF2019,,chy,,chey1247,het-,CH:1,,,,,,"such, so, that way","such, so",initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+589,Fisher et al.,LF2019,,chy,,chey1247,het-,CH:1,,,,,,"such, so, that way","in that way, so, such, thither, thus, to there, RELATIVE",initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 859,Fisher et al.,LF2019,,chy,,chey1247,sé'hov-,CH:1,,,,,,suddenly,suddenly,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 613,Fisher et al.,LF2019,,chy,,chey1247,hóhee-,CH:1,,,,,,"swaddle, wrap","swaddle, wrap",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 616,Fisher et al.,LF2019,,chy,,chey1247,hohpé-,CH:1,,,,,,sweat,sweat,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM

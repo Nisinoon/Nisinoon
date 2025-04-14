@@ -169,7 +169,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 168,Bloomfield,LB1925b,0151,,,,*cōw-,PCA:1,,,,,,extend,extend,initial
 169,Haas,MH1958b,0252,,,,*e·le-,PCA:2,,,,,,think,,final
 170,Haas,MH1958c,0161,,,,*ehkw-,PCA:2,,,,,,louse,louse,initial
-171,Bloomfield,LB1925b,0133,,,,*eθ-,PCA:1,,,,,,"thither, thus","in that way, so, thither, thus, to there, RELATIVE",initial,RR
+171,Bloomfield,LB1925b,0133,,,,*eθ-,PCA:1,,,,,,"thither, thus","in that way, so, thither, thus, to there, RELATIVE ",initial,RR
 172,Bloomfield,LB1925b,0136,,,,*icp-,PCA:1,,,,,,high,high,initial
 173,Bloomfield,LB1927b,0395,,,,*ileni-,PCA:1,,,,,,man,"male, man",initial,,,,,,,,*-elaw-
 174,Bloomfield,LB1927b,0395,,,,*iθ-,PCA:1,,,,,,"thus, thither","in that way, so, thither, thus, to there, RELATIVE",initial,RR
@@ -298,7 +298,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 297,Haas,MH1958b,0237,,,,*tepeθk-,PCA:2,,,,,,night,night,initial
 298,Bloomfield,LB1925b,0135,,,,*ul-,PCA:1,,,,,,arrange ,arrange,initial
 299,Bloomfield,LB1925b,0154,,,,*ump-,PCA:1,,,,,,up,up,initial
-300,Bloomfield,LB1925b,0154,,,,*unt-,PCA:1,,,,,,"thence, therefore","from there, thence, therefore",initial
+300,Bloomfield,LB1925b,0154,,,,*unt-,PCA:1,,,,,,"thence, therefore","from there, source, thence, therefore, CAUSATIVE, RELATIVE",initial
 301,Bloomfield,LB1925b,0137,,,,*usām-,PCA:1,,,,,,excess ,excess,initial
 302,Haas,MH1958b,0248,,,,*wa·p-,PCA:2,,,,,,look,look,initial
 303,Bloomfield,LB1927b,"0393,0396",,,,*wäp-,PCA:1,,,,,,begin,begin,initial

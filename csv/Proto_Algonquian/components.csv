@@ -27,7 +27,9 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 1348,Pentland,DP2005,0325,alg,,algo1256,*ke·kya·t-,PA:6,,,,,,"nearly, almost","almost, nearly",initial
 2385,Pentland,DP2005,0329,alg,,algo1256,*wawe·l-,PA:6,,,,,,(properly) arranged,arranged (properly),initial,,Y
 2432,Pentland,DP2005,0329,alg,,algo1256,*wel-,PA:6,,,,,,(properly) arranged,arranged (properly),initial
-648,Pentland,DP2005,0326,alg,,algo1256,*(en)taθ-,PA:6,,,,,,"there, at that place","at (place), there",initial
+648,Pentland,DP2005,0326,alg,,algo1256,*(en)taθ-,PA:6,,,,,,"there, at that place","at (place), there, then, RELATIVE
+
+",initial
 1043,Pentland,DP2005,0326,alg,,algo1256,*aθem-,PA:6,,,,,,away from speaker,away (from speaker),initial
 1617,Pentland,DP2005,0330,alg,,algo1256,*ma·t-,PA:6,,,,,,"start, move, begin","begin, move, start",initial
 1640,Pentland,DP2005,0329,alg,,algo1256,*mama·nk-,PA:6,,,,,,(severally) big,big,initial,,Y
@@ -39,7 +41,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 2121,Pentland,DP2005,0326,alg,,algo1256,*pwa·w-,PA:6,,,,,,"fail, be unable; overload","fail, overload, unable",initial
 1199,Pentland,DP2005,0330,alg,,algo1256,*eθkʷe·w-,PA:6,,,,,,woman,"female, woman",initial
 1936,Pentland,DP2005,0330,alg,,algo1256,*nye·w-,PA:6,,,,,,four,four,initial
-2454,Pentland,DP2005,0328,alg,,algo1256,*went-,PA:6,,,,,,"from there, thence, therefore","from there, thence, therefore",initial
+2454,Pentland,DP2005,0328,alg,,algo1256,*went-,PA:6,,,,,,"from there, thence, therefore","from there, source, thence, therefore, CAUSATIVE, RELATIVE",initial
 1346,Pentland,DP2005,0334,alg,,algo1256,*ke·k-,PA:6,,,,,,having s.t.,have,initial
 2148,Pentland,DP2005,0325,alg,,algo1256,*pye·t-,PA:6,,,,,,hither,"hither, to here",initial
 995,Pentland,DP2005,0327,alg,,algo1256,*axpi·ʔt-,PA:6,,,,,,meanwhile; in a while,"in a while, meanwhile",initial
@@ -402,7 +404,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 2246,Aubin,GA1975b,0143,alg,,algo1256,*ta:tw-,PA:4,,,,,,tear,tear,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,B125.141
 719,Aubin,GA1975b,0005,alg,,algo1256,*a:t-,PA:4,,,,,,tell,tell,initial,,,,,,,,,,,,,,,*a:teʔlo:hke:-,,,unk.,,"he tells a tale, a fable",,GA1975b;0005,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Go65.214; *a:teʔlo:hke:- Mc35b.163,,,MAM
 642,Aubin,GA1975b,0148,alg,,algo1256,*-θeʔšiwe:-,PA:4,,,,,,testicle,testicle,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,B141.293
-1262,Aubin,GA1975b,0036,alg,,algo1256,*iθ-,PA:4,,,,,,"then, there","then, there",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Mc35b.144
+1262,Aubin,GA1975b,0036,alg,,algo1256,*iθ-,PA:4,,,,,,"then, there","in that way, so, then, there, thither, thus, to there, RELATIVE",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Mc35b.144
 1432,Aubin,GA1975b,0063,alg,,algo1256,*keθp-,PA:4,,,,,,thick,thick,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ho57.260
 2160,Aubin,GA1975b,0140,alg,,algo1256,*ša:pw-,PA:4,,,,,,through,through,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Go65.217
 2055,Aubin,GA1975b,0130,alg,,algo1256,*peQš-,PA:4,,,,,,to touch,touch,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ha58.253
@@ -887,8 +889,8 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 2342,Hewson,JH_nd-a,0292,alg,,algo1256,*wa·kw-,PA:6,,,,,,fox,fox,initial
 1293,Hewson,JH_nd-a,0068,alg,,algo1256,*kakwa·leʔlak-,PA:6,,,,,,frightful,fright,initial
 2182,Hewson,JH_nd-a,0257,alg,,algo1256,*se·k-,PA:6,,,,,,frighten,frighten,initial
-2444,Hewson,JH_nd-a,0323,alg,,algo1256,*wenči-,PA:6,,,,,,from there,"from there, thence",initial
-2450,Hewson,JH_nd-a,0323,alg,,algo1256,*wens(w)-,PA:6,,,,,,from there,"from there, thence",initial
+2444,Hewson,JH_nd-a,0323,alg,,algo1256,*wenči-,PA:6,,,,,,from there,"from there, source, thence, therefore, CAUSATIVE, RELATIVE",initial
+2450,Hewson,JH_nd-a,0323,alg,,algo1256,*wens(w)-,PA:6,,,,,,from there,"from there, source, thence, therefore, CAUSATIVE, RELATIVE",initial
 2252,Hewson,JH_nd-a,0269,alg,,algo1256,*ta·w(aθ)-,PA:6,,,,,,"gaping, open","gaping, open",initial
 1664,Hewson,JH_nd-a,0142,alg,,algo1256,*mawinsw-,PA:6,,,,,,gather berries,gather (berries),initial
 1642,Hewson,JH_nd-a,0133,alg,,algo1256,*man-,PA:6,,,,,,"pick, gather","gather, pick",initial
@@ -1166,8 +1168,8 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 1720,Hewson,JH_nd-a,0157,alg,,algo1256,*meta·hθw-,PA:6,,,,,,ten in number,ten,initial
 1721,Hewson,JH_nd-a,0157,alg,,algo1256,*meta·tahš-,PA:6,,,,,,ten in number,ten,initial
 1722,Hewson,JH_nd-a,0157,alg,,algo1256,*meta·tahθ(w)-,PA:6,,,,,,ten in number,ten,initial
-2275,Hewson,JH_nd-a,0274,alg,,algo1256,*taši-,PA:6,,,,,,there,there,initial
-2284,Hewson,JH_nd-a,0274,alg,,algo1256,*taθ-,PA:6,,,,,,there,there,initial
+2275,Hewson,JH_nd-a,0274,alg,,algo1256,*taši-,PA:6,,,,,,there,"there, then, RELATIVE",initial
+2284,Hewson,JH_nd-a,0274,alg,,algo1256,*taθ-,PA:6,,,,,,there,"there, then, RELATIVE",initial
 1418,Hewson,JH_nd-a,0092,alg,,algo1256,*kexpak-,PA:6,,,,,,thick,thick,initial
 2048,Hewson,JH_nd-a,0224,alg,,algo1256,*pepak-,PA:6,,,,,,thin,thin,initial
 1650,Hewson,JH_nd-a,0137,alg,,algo1256,*masa·n-,PA:6,,,,,,thistle,thistle,initial
@@ -2212,8 +2214,8 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 211,Bloomfield,LB1946,0111,alg,,algo1256,*-eente,PA:1,,,,,,stay away,stay away,final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 65,Bloomfield,LB1946,0106,alg,,algo1256,*-aahtekw,PA:1,,,,,,"stick, wood, tree","stick, tree, wood",final,N,,CONCR,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 1830,Bloomfield,LB1946,"0093,0120",alg,,algo1256,*nakaa-,PA:1,,,,,,stop,stop,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-2283,Bloomfield,LB1946,0120,alg,,algo1256,*taθ-,PA:1,,,,,,there,"there, RELATIVE",initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
-2452,Bloomfield,LB1946,0120,alg,,algo1256,*went-,PA:1,,,,,,"from there, therefore","therefore, RELATIVE",initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+2283,Bloomfield,LB1946,0120,alg,,algo1256,*taθ-,PA:1,,,,,,there,"there, then, RELATIVE",initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+2452,Bloomfield,LB1946,0120,alg,,algo1256,*went-,PA:1,,,,,,"from there, therefore","from there, source, thence, therefore, CAUSATIVE, RELATIVE",initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 206,Bloomfield,LB1946,0090,alg,,algo1256,*-eele,PA:1,,,,,,think,think,final,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM: Possibly a typo for -eelem,,,MAM
 209,Bloomfield,LB1946,0109,alg,,algo1256,*-eelemo,PA:1,,,,,,think; middle reflexive,"think, MIDDLE, REFLEXIVE",final,AI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 80,Bloomfield,LB1946,0119,alg,,algo1256,*-aapit-,PA:1,,,,,,tooth,tooth,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM

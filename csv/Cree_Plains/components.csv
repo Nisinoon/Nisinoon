@@ -465,7 +465,7 @@ ID,Author Surname,Source Code,Page # ,ISO code,Dialect,Glottocode,Form (original
 276,Cook & Muehlbauer,CC_JM2004,0007,crk,,plai1258,-ihkân,C-P:1,,,,,,fabricated form of X,form (fabricated),final,N,,,Y,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 56,Wolfart,HCW1969a,0242,crk,,plai1258,-ahkēsīs-,C-P:2,,,,,,fox,fox,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: ""non-initial alternant"" of noun"
 840,Dahlstrom,AD1986a,208,crk,,plai1258,oht-,C-P:4,,,,,,from,from,initial
-450,Cook & Muehlbauer,CC_JM2010,0031,crk,,plai1258,-oht-,C-P:1,,,,,,"from there, therefore","from there, thence, therefore",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+450,Cook & Muehlbauer,CC_JM2010,0031,crk,,plai1258,-oht-,C-P:1,,,,,,"from there, therefore","from there, source, thence, therefore, CAUSATIVE, RELATIVE",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 161,Wolfart,HCW1973a,0065,crk,,plai1258,-atāwākan-,C-P:2,,,,,,fur,fur,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,atāwākēw,,,,GVM
 282,Wolfart,HCW1973a,"0063, 0069, 0072",crk,,plai1258,-ihkē-,C-P:2,,,,,,"make, gather, produce such-and-such","gather, make, produce",final,AI,,,Y,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""particularly common with derived nouns denoting communal activities""; C&M 2010 define as 'make, create'",,,GVM
 833,Cook & Muehlbauer,CC_JM2010,0029,crk,,plai1258,nôt-,C-P:1,,,,,,go after,go after,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
@@ -758,8 +758,8 @@ ID,Author Surname,Source Code,Page # ,ISO code,Dialect,Glottocode,Form (original
 630,Cook & Muehlbauer,CC_JM2010,0008,crk,,plai1258,ât-,C-P:1,,,,,,tell,tell,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 632,Wolfart,HCW1973a,0065,crk,,plai1258,āt-,C-P:2,,,,,,tell,tell,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HCW did not gloss; this from C&M 2010,,,GVM
 640,Cook & Muehlbauer,CC_JM2010,0008,crk,,plai1258,âtot-,C-P:1,,,,,,tell,tell,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
-998,Wolvengray,AW2011,"0247,0264",crk,,plai1258,,C-P:3,,/tat-/,,,,there; for such a time,"there, RELATIVE",initial,RR,,,,,,,,,,,,,,,,,tatahkamikisi-,,,V,AI,be busy there,,AW2011;0247,tatāhpi-,,,V,AI,laugh there,,AW2011;0264,tatwēwit-,,,V,TI,make noise while others are speaking,,AW2011;0264
-841,Wolfart,HCW1973a,"0066, 0073, 0074",crk,,plai1258,oht-,C-P:2,,,,,,"from there, therefore; thence","therefore, thence",initial,RR,,,,,,,,,,,,,,,,,ohtohtē-,,,V,,come from there,,AW2011;0247,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+998,Wolvengray,AW2011,"0247,0264",crk,,plai1258,,C-P:3,,/tat-/,,,,there; for such a time,"there, then, RELATIVE",initial,RR,,,,,,,,,,,,,,,,,tatahkamikisi-,,,V,AI,be busy there,,AW2011;0247,tatāhpi-,,,V,AI,laugh there,,AW2011;0264,tatwēwit-,,,V,TI,make noise while others are speaking,,AW2011;0264
+841,Wolfart,HCW1973a,"0066, 0073, 0074",crk,,plai1258,oht-,C-P:2,,,,,,"from there, therefore; thence","from there, source, thence, therefore, CAUSATIVE, RELATIVE",initial,RR,,,,,,,,,,,,,,,,,ohtohtē-,,,V,,come from there,,AW2011;0247,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 474,Cook & Muehlbauer,CC_JM2010,0036,crk,,plai1258,-pwām-,C-P:1,,,,,,thigh,thigh,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 475,Wolfart,HCW1973a,0067,crk,,plai1258,-pwām-,C-P:2,,,,,,thigh,"thigh, DEPENDENT",medial,InanDep,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM,MAM
 225,Wolfart,HCW1973a,0073,crk,,plai1258,-ēyim-,C-P:2,,,,,,think of him,think of,final,TA,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,-ēyimo-,,,,,,,,,,,GVM
