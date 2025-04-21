@@ -427,7 +427,7 @@ ID,Author Surname,Source Code,Page # ,ISO code,Dialect,Glottocode,Form (original
 498,Cook & Muehlbauer,CC_JM2010,0037,crk,,plai1258,-sip,C-P:1,,,,,,duck,duck,medial,,,,,,,,,,,,,,,,,,sīsīp-,,,,,duck,,HCW1973a;0063,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 919,Wolfart,HCW1973a,0063,crk,,plai1258,sīsīp-,C-P:2,,,,,,duck,duck,initial,,,,,,,,,,,,,,,,,,sīsīp-,,,,,duck,,HCW1973a;0064,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 501,Wolfart,HCW1971,518,crk,,plai1258,-sip-,C-P:2,,,,,,duck,"duck, INCORPORATED",medial,INCORP
-991,Wolvengray,AW2011,"0247,0264,0265",crk,,plai1258,,C-P:3,,/(i)tahtw-/,,,,as many as; each; every; so many; so much,"each, every, so many, so much, RELATIVE QUANTITY",initial,RR,,,,,,,,,,,,,,,,,itahtopiponē-,,,V,,be such an age; be so many winters old,,AW2011;0247,tahtotipiskwē-,,,V,AI,spend so many nights,,AW2011;0265
+991,Wolvengray,AW2011,"0247,0264,0265",crk,,plai1258,,C-P:3,,/(i)tahtw-/,,,,as many as; each; every; so many; so much,"each, every, so many, so much, QUANTITY, RELATIVE ",initial,RR,,,,,,,,,,,,,,,,,itahtopiponē-,,,V,,be such an age; be so many winters old,,AW2011;0247,tahtotipiskwē-,,,V,AI,spend so many nights,,AW2011;0265
 259,Cook & Muehlbauer,CC_JM2010,0013,crk,,plai1258,-htaw-,C-P:1,,,,,,do by ear; hear,"ear, hear, INSTRUMENT",final,TA,,,,,,,,,,-(i)ht-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 6,Cook & Muehlbauer,CC_JM2010,0013,crk,,plai1258,-(i)ht-,C-P:1,,,,,,do by ear,"ear, INSTRUMENT",final,TI,,,,,,,,,-htaw-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 796,Denny,JPD1981,"0004, 0005",crk,,plai1258,mō,C-P:3,,,,,,eat; to eat,eat,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
@@ -464,7 +464,7 @@ ID,Author Surname,Source Code,Page # ,ISO code,Dialect,Glottocode,Form (original
 939,Goddard,IG1980,0145,crk,,plai1258,tastaw-,C-P:4,,,,*θaʔθaw-,*θaʔθaw-,fork(ed),"fork, forked",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"IG just called it ""Cree"" but told us it was Plains.",,,MAM
 276,Cook & Muehlbauer,CC_JM2004,0007,crk,,plai1258,-ihkân,C-P:1,,,,,,fabricated form of X,form (fabricated),final,N,,,Y,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 56,Wolfart,HCW1969a,0242,crk,,plai1258,-ahkēsīs-,C-P:2,,,,,,fox,fox,final,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"GVM: ""non-initial alternant"" of noun"
-840,Dahlstrom,AD1986a,208,crk,,plai1258,oht-,C-P:4,,,,,,from,from,initial
+840,Dahlstrom,AD1986a,208,crk,,plai1258,oht-,C-P:4,,,,,,from,"from, from there, source, thence, therefore, CAUSATIVE, RELATIVE",initial
 450,Cook & Muehlbauer,CC_JM2010,0031,crk,,plai1258,-oht-,C-P:1,,,,,,"from there, therefore","from there, source, thence, therefore, CAUSATIVE, RELATIVE",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 161,Wolfart,HCW1973a,0065,crk,,plai1258,-atāwākan-,C-P:2,,,,,,fur,fur,medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,atāwākēw,,,,GVM
 282,Wolfart,HCW1973a,"0063, 0069, 0072",crk,,plai1258,-ihkē-,C-P:2,,,,,,"make, gather, produce such-and-such","gather, make, produce",final,AI,,,Y,N,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"""particularly common with derived nouns denoting communal activities""; C&M 2010 define as 'make, create'",,,GVM
@@ -566,7 +566,7 @@ ID,Author Surname,Source Code,Page # ,ISO code,Dialect,Glottocode,Form (original
 990,Wolvengray,AW2011,0142,crk,,plai1258,,C-P:3,,/-sin/,,,,"lying, prostrate","lying (position), prostrate",final,AI,,,,,,,,,,,,,,,,,pimisin-,,,V,AI,lie down,Y,AW2011;0142
 115,Wolfart,HCW1973a,0064,crk,,plai1258,-āpēw-,C-P:2,,,,,,man,"male, man",medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,nāpēw,,,,GVM,MAM
 780,Dahlstrom,AD1986a,202,crk,,plai1258,mihce·t-,C-P:4,,,,,,many,many,initial
-933,Cook & Muehlbauer,CC_JM2010,0039,crk,,plai1258,tahto-,C-P:1,,,,,,so many,"many, QUANTITY, RELATIVE",initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
+933,Cook & Muehlbauer,CC_JM2010,0039,crk,,plai1258,tahto-,C-P:1,,,,,,so many,"many, so many, so much, QUANTITY, RELATIVE",initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 772,Cook & Muehlbauer,CC_JM2010,"0024,0025",crk,,plai1258,masin-,C-P:1,,,,,,mark,mark,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
 977,Arppe et al.,AA_ET_AL2019,0004,crk,,plai1258,,C-P:1,,-asinah-,,,,"mark, write","mark, write",medial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,/masin-/  + /-ah-/,,,,MAM
 51,Cook & Muehlbauer,CC_JM2010,0001,crk,,plai1258,-ah-,C-P:1,,,,,,"do by tool, external medium","medium (external), tool, INSTRUMENT",final,TI,,CONCR,,,,,,,-ahw-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GVM
