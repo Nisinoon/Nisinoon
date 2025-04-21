@@ -1567,8 +1567,8 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 700,Hewson,JH_nd-b,0013,alg,,algo1256,*a:panso,PA:4,,,,,,"look, see","look, see",final,AI
 701,Hewson,JH_nd-b,0013,alg,,algo1256,*a:pant,PA:4,,,,,,"look, see","look, see",final,TI
 1781,Hewson,JH_nd-b,0190,alg,,algo1256,*mwa:kw,PA:6,,,,,,loon,loon,initial
-2263,Hewson,JH_nd-b,0231,alg,,algo1256,*tahši,PA:6,,,,,,so many,"many, QUANTITY, RELATIVE",initial
-2266,Hewson,JH_nd-b,0231,alg,,algo1256,*tahθ(w),PA:6,,,,,,so many,"many, QUANTITY, RELATIVE",initial
+2263,Hewson,JH_nd-b,0231,alg,,algo1256,*tahši,PA:6,,,,,,so many,"many, so many, so much, QUANTITY, RELATIVE",initial
+2266,Hewson,JH_nd-b,0231,alg,,algo1256,*tahθ(w),PA:6,,,,,,so many,"many, so many, so much, QUANTITY, RELATIVE",initial
 706,Hewson,JH_nd-b,0015,alg,,algo1256,*a:peθk(e:),PA:4,,,,,,"stone, metal","metal, stone, CLASSIFIER",medial
 707,Hewson,JH_nd-b,0015,alg,,algo1256,*a:peθkw(e:),PA:4,,,,,,"stone, metal","metal, stone, CLASSIFIER",medial
 1215,Hewson,JH_nd-b,0137,alg,,algo1256,*ho,PA:4,,,,,,middle,MIDDLE,final,AI,,,Y,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,*hw,i
@@ -2151,7 +2151,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 74,Bloomfield,LB1946,0113,alg,,algo1256,*-aapant,PA:1,,,,,,look at,look at,final,TI,,,,,,,,*-aapam,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,*waapant- 'look at',,,,MAM
 75,Bloomfield,LB1946,0107,alg,,algo1256,*-aapeew,PA:1,,,,,,"male, man","male, man",final,N,,,Y,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,"*naapeewa 'male, man'",,,,MAM
 441,Bloomfield,LB1946,0107,alg,,algo1256,*-lenyiw,PA:1,,,,,,man,"male, man",final,N,,,Y,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Y,*elenyiw- 'man',,,,MAM
-2264,Bloomfield,LB1946,0120,alg,,algo1256,*tahθ-,PA:1,,,,,,so many,"many, QUANTITY, RELATIVE",initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
+2264,Bloomfield,LB1946,0120,alg,,algo1256,*tahθ-,PA:1,,,,,,so many,"many, so many, so much, QUANTITY, RELATIVE",initial,RR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 76,Bloomfield,LB1946,"0105,0117,0118",alg,,algo1256,*-aapeθk-,PA:1,,,,,,"stone, metal","metal, stone, CLASSIFIER",medial,CLASS,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM
 138,Bloomfield,LB1946,0109,alg,,algo1256,*-api,PA:1,,,,,,middle reflexive,"MIDDLE, REFLEXIVE",final,AI,,,,,,,*-aqtee,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,suppletive,,,MAM
 141,Bloomfield,LB1946,0109,alg,,algo1256,*-aqtee,PA:1,,,,,,middle reflexive,"MIDDLE, REFLEXIVE",final,II,,,,,,*-api,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,MAM

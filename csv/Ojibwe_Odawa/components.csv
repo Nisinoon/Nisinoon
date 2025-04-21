@@ -362,7 +362,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 357,Denny,JPD1981,"0003,0004,0005",ojg,,ojib1241,ākonak,OJ:5,,,,,,snow,"snow, INCORPORATED",medial,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 359,Denny,JPD1978a,0299,ojg,,ojib1241,akōt,OJ:5,,,,,,hang,hang,final,unknown,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 358,Denny,JPD1978a,0297,ojg,,ojib1241,akōt,OJ:5,,,,,,hang,hang,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
-360,Rhodes,RR1976,0277,ojg,,ojib1241,akw-,OJ:6,,,,,,be (so) long,"long, RELATIVE",initial
+360,Rhodes,RR1976,0277,ojg,,ojib1241,akw-,OJ:6,,,,,,be (so) long,"extent, long, so far, so long, RELATIVE",initial
 361,Denny,JPD1978a,0311,ojg,,ojib1241,akwā,OJ:5,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: likely 'ashore'
 362,Denny,JPD1978a,0299,ojg,,ojib1241,akwint,OJ:5,,,,,,immersed,immersed,final,unknown,,CONCR
 363,Denny,JPD1977,0135,ojg,,ojib1241,akwīnt,OJ:5,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: likely 'immerse' or related
@@ -378,7 +378,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 373,Rhodes,RR1980,0186,ojg,,ojib1241,anemdam,OJ:9,,,,,,in the mouth,in mouth,final,TI,,,,,,,anem,,,,,,,,,,,,,,,,,,,,,,,,,,anem-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 374,Denny,JPD1978a,0303,ojg,,ojib1241,anikāw,OJ:5,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: likely 'sad'
 375,Denny,JPD1977,0137,ojg,,ojib1241,ānikkō,OJ:5,,,,,,to join,join,initial
-376,Denny,JPD1978b,0296,ojg,,ojib1241,anikokkw,OJ:5,,,,,,so big,"big, QUANTITY, RELATIVE",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+376,Denny,JPD1978b,0296,ojg,,ojib1241,anikokkw,OJ:5,,,,,,so big,"big, so big, so far, so many, QUANTITY, RELATIVE",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 377,Denny,JPD1978a,0298,ojg,,ojib1241,anikw,OJ:5,,,,,,weigh,weigh,final,unknown,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 378,Denny,JPD1977,0133,ojg,,ojib1241,ānim,OJ:5,,,,,,wind,wind,medial,,,,,,,,,,yānim
 379,Rhodes,RR1976,0244,ojg,,ojib1241,anim-,OJ:6,,,,,,away,away,initial
@@ -417,7 +417,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 413,Denny,JPD1977,0135,ojg,,ojib1241,appit,OJ:5,,,,,,NG,,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,VMN: likely 'fly' or related
 412,Denny,JPD1978b,0297,ojg,,ojib1241,appit,OJ:5,,,,,,fly,fly,initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 414,Denny,JPD1978a,0297,ojg,,ojib1241,appitt,OJ:5,,,,,,fly,fly,initial
-415,Denny,JPD1978b,"0296,0303",ojg,,ojib1241,appītt,OJ:5,,,,,,so high,"high, QUANTITY, RELATIVE",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+415,Denny,JPD1978b,"0296,0303",ojg,,ojib1241,appītt,OJ:5,,,,,,so high,"degree, high, so far, so much, QUANTITY, RELATIVE",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 416,Denny,JPD1978b,0297,ojg,,ojib1241,āpw,OJ:5,,,,,,warm weather,weather (warm),initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 417,Denny,JPD1981,0005,ojg,,ojib1241,apy,OJ:5,,,,,,string,"string, INCORPORATED",medial ,INCORP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 418,Denny,JPD1978a,0299,ojg,,ojib1241,āpy,OJ:5,,,,,,go,go,final,unknown,,CONCR,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
@@ -612,7 +612,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 607,Rhodes,RR1980,0185,ojg,,ojib1241,inadam,OJ:9,,,,,,pursue/kill,"kill, pursue",final,TI,,,,,,,inaN,,,,,,,,,,,,,,,,,,,,,,,,,,ina-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 608,Rhodes,RR1980,0184,ojg,,ojib1241,ināgozi,OJ:9,,,,,,by sight,"sight, INSTRUMENT",final,AI,,,,,,ināgwad,inaw,inam,,,,,,,,,,,,,,,,,,,,,,,,,in-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 609,Rhodes,RR1980,0184,ojg,,ojib1241,ināgwad,OJ:9,,,,,,by sight,"sight, INSTRUMENT",final,II,,,,,ināgozi,,inaw,,,,,,,,,,,,,,,,,,,,,,,,,,in-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
-610,Denny,JPD1978b,0296,ojg,,ojib1241,inakkotē,OJ:5,,,,,,so wide,"wide, RELATIVE",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
+610,Denny,JPD1978b,0296,ojg,,ojib1241,inakkotē,OJ:5,,,,,,so wide,"degree, extent, so wide, RELATIVE",initial,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HTL
 612,Rhodes,RR1980,0184,ojg,,ojib1241,inam,OJ:9,,,,,,by hand,"hand, INSTRUMENT",final,TI,,,,,,,in,,,,,,,,,,,,,,,,,,,,,,,,,,in-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 611,Rhodes,RR1980,"0184,0187",ojg,,ojib1241,inam,OJ:9,,,,,,by sight,"sight, INSTRUMENT",final,TI,,,,,ināgozi,ināgwad,inaw,inam,,,,,,,,,,,,,,,,,,,,,,,,,in-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
 613,Rhodes,RR1980,0185,ojg,,ojib1241,inaN,OJ:9,,,,,,pursue/kill,"kill, pursue",final,TA,,,,,,,,inadam,,,,,,,,,,,,,,,,,,,,,,,,,ina-,,,,"GVM: These tables look they're presenting an initial, then a bunch of stems...but from the text, I believe it's meant to demonstrate the way a concrete final distributes to verb category finals."
