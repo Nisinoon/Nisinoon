@@ -319,7 +319,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 277,Day,GMD1995,XXXIV,abe,,west2630,deksk- ,AB:3,,,,,,"tangle, tousled, mixed up (used for hair)","tangle, tousled",initial
 279,Day,GMD1995,XXXIV,abe,,west2630,dem-,AB:3,,,,,,sever transversely (with any tool),sever INSTRUMENT,initial
 281,Day,GMD1995,XXXIV,abe,,west2630,dlap,AB:3,,,,,,"the club in playing cards, a playing card, a map","club (playing card), map",initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
-282,Day,GMD1995,XXXIV,abe,,west2630,dod-,AB:3,,,,,,"such a time, place, or manner","manner, place, time, RELATIVE",initial,,,,,,,,,,doj-,,,,,,,,,,,,,,,see doj-
+282,Day,GMD1995,XXXIV,abe,,west2630,dod-,AB:3,,,,,,"such a time, place, or manner","manner, place, there, then, time, RELATIVE",initial,,,,,,,,,,doj-,,,,,,,,,,,,,,,see doj-
 283,Day,GMD1995,XXXIV,abe,,west2630,dog-,AB:3,,,,,,"spread, split","split, spread",initial
 285,Day,GMD1995,XXXIV,abe,,west2630,dok-,AB:3,,,,,,wake,wake,initial
 286,Day,GMD1995,XXXIV,abe,,west2630,dokw-,AB:3,,,,,,rump,rump,initial
@@ -739,7 +739,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 823,Day,GMD1995,LVI,abe,,west2630,ôbanka-,AB:3,,,,,,wandering about,wander,initial
 825,Day,GMD1995,LVI,abe,,west2630,ôben-,AB:3,,,,,,"loosen, untie, free","free, loosen, untie",initial,,,,,,,,,,,,,,,,,,,,,,,,,cf. agogen-
 827,Day,GMD1995,LVI,abe,,west2630,ôbojegel-,AB:3,,,,,,"upside down, wrongside out, reversed","reversed, upside down",initial
-770,Day,GMD1995,LIV,abe,,west2630,od-,AB:3,,,,,,"from, for ","for, from",initial,,,,,,,,,,"oj-, wd-, wj-"
+770,Day,GMD1995,LIV,abe,,west2630,od-,AB:3,,,,,,"from, for ","for, from, from there, source, thence, therefore, CAUSATIVE, RELATIVE",initial,,,,,,,,,,"oj-, wd-, wj-"
 828,Day,GMD1995,LVI,abe,,west2630,ôd-,AB:3,,,,,,"increasing, becoming greater, more","increase, more, QUANTITY",initial,,,,,,,,,,ôji-
 771,Day,GMD1995,LIV,abe,,west2630,oda-,AB:3,,,,,,visit ,visit ,initial,,,,,,,,,,otsi-
 830,Day,GMD1995,LVI,abe,,west2630,ôdab-,AB:3,,,,,,"sit for a time, rest, repose","repose, rest (V), sit",initial
@@ -897,7 +897,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 974,Day,GMD1995,LXII,abe,,west2630,wag-,AB:3,,,,,,"damage, injure, destroy","damage, destroy, injure",initial
 975,Day,GMD1995,LXII,abe,,west2630,wagwan,AB:3,,,,,,a heel,heel (N),initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
 976,Day,GMD1995,LXII,abe,,west2630,"waid-, waij-",AB:3,,,,,,"always, continually, all the time","always, continually",initial,,,,,,,,,,,,,,,,,,,,,,,,,cf. majim-
-977,Day,GMD1995,LXII,abe,,west2630,waj-,AB:3,,,,,,from  ,from  ,initial,,,,,,,,,,,,,,,,,,,,,,,,,see oj-
+977,Day,GMD1995,LXII,abe,,west2630,waj-,AB:3,,,,,,from  ,"from, from there, source, thence, therefore, CAUSATIVE, RELATIVE",initial,,,,,,,,,,,,,,,,,,,,,,,,,see oj-
 978,Day,GMD1995,LXII,abe,,west2630,waja-,AB:3,,,,,,kiss,kiss,initial
 979,Day,GMD1995,LXII,abe,,west2630,wajapk-,AB:3,,,,,,a root,root,initial
 980,Day,GMD1995,LXII,abe,,west2630,wajo,AB:3,,,,,,mountain,mountain,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root

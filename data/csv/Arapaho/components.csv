@@ -82,7 +82,7 @@ ID,Component ID,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original or
 584,Cowell & Moss,AC_AM2008,0385,arp,,arap1274,,AR:1,,/eecix/,,,,how long/far,"far, long, RELATIVE, QUANTITY",initial,RR
 587,Cowell & Moss,AC_AM2008,0384,arp,,arap1274,,AR:1,,/eeɜe'ei-/,,,,to where,to (where),initial,RR
 589,Cowell & Moss,AC_AM2008,0385,arp,,arap1274,,AR:1,,/eeɜei'(nee)-/,,,,how much,"much, INTERROGATIVE, QUANTITY, RELATIVE",initial,RR
-596,Cowell & Moss,AC_AM2008,"0384,0386,0424",arp,,arap1274,,AR:1,,/eet-/,,,,from where,"from (where), RELATIVE",initial,RR
+596,Cowell & Moss,AC_AM2008,"0384,0386,0424",arp,,arap1274,,AR:1,,/eet-/,,,,"from where, there, then, RELATIVE","from (where), RELATIVE",initial,RR
 599,Cowell & Moss,AC_AM2008,0142,arp,,arap1274,,AR:1,,/eet/,,,,NG,,final,TI,,,,,,,/ew/,,,,,,,,,/ni'een-eet-/,V,TI,to like s.t.,,AC_AM2008;0142,,,/esein-eet-/,V,TI,to hate s.t.,,AC_AM2008;0142
 603,Cowell & Moss,AC_AM2008,"0385,0424",arp,,arap1274,,AR:1,,/eetox-/,,,,how many,"many, INTERROGATIVE, QUANTITY, RELATIVE",initial,RR
 615,Cowell & Moss,AC_AM2008,0357,arp,,arap1274,,AR:1,,/ei/,,,,NG,,final,AI+O
@@ -596,7 +596,7 @@ ID,Component ID,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original or
 441,Cowell & Moss,AC_AM2008,0201,arp,,arap1274,,AR:1,,/-to'oot-/,,,,hit,hit,final,TI
 960,Cowell & Moss,AC_AM2008,"0142,0173",arp,,arap1274,,AR:1,,/to'/,,,,"hit, strike","hit, strike",initial,,,,,,,,,,,,,,,,,/to'osi[ne]-/,V,AI,to fall and hit the ground,,AC_AM2008;0142,,,/to'osiw-/,V,TA,to knock to the ground,,,AC_AM2008;0142,,/to'osetii-/,V,TI,to knock to the ground,,AC_AM2008;0173,,,/to'oxon-/,V,TA,to kick,,AC_AM2008;0173
 546,Cowell & Moss,AC_AM2008,"0173,0176,0223",arp,,arap1274,,AR:1,,/cei(t)/,,,,to here,"hither, to here",initial,,,,,,,,,,,,,,,,,/ceixoh-/,V,TA,to bring here,,AC_AM2008;0173,,,/ceixotii-/,V,AIO,to bring here,,AC_AM2008;0173,,,/ceikoni-/,V,II,to move here as a band or group,,AC_AM2008;0176,,,/ceiɜiikohei-/,V,AI,to ride to here,,AC_AM2008;0176
-241,Cowell & Moss,AC_AM2008,"0216,0326",arp,,arap1274,,AR:1,,/-iiɜ-/,,,,toward; from there to here,"hither, in that way, so, thither, thus, to here, toward, RELATIVE",initial
+241,Cowell & Moss,AC_AM2008,"0216,0326",arp,,arap1274,,AR:1,,/-iiɜ-/,,,,toward; from there to here,"hither, in that way, so, thither, thus, to here, to there, toward, RELATIVE",initial
 968,Cowell & Moss,AC_AM2008,0174,arp,,arap1274,,AR:1,,/tou/,,,,hold,hold,initial,,,,,,,,,,,,,,,,,/toukuɜ-/,V,TA,to tie up,,AC_AM2008;0174,,,/toukutii-/,V,AI+O,to tie up,,AC_AM2008;0174
 848,Cowell & Moss,AC_AM2008,0174,arp,,arap1274,,AR:1,,/noox/,,,,hole in ,hole,initial,,,,,,,,,,,,,,,,,/nooxciɜ-/,V,TA,to dig a hole into s.t.,,AC_AM2008;0174,,,/nooxcitii-/,V,AI+O,to dig a hole into s.t.,,AC_AM2008;0174
 963,Cowell & Moss,AC_AM2008,"0157,0174",arp,,arap1274,,AR:1,,/ton/,,,,hole,hole,initial,,,,,,,,,,,,,,,,,/tonoxoh-/,V,TI,to make a hole in the ground,,AC_AM2008;0157,,,/tonicitii-/,V,AI,to make a hole in s.t. by tool,,,AC_AM2008;0157,,/toniciɜ-/,V,TA,to make a hole in s.t. (AN) by tool,,AC_AM2008;0157
