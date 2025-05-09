@@ -6,7 +6,6 @@
 
 # Algonquian Components Bibliography
 
-<b style='color: red;'>NOTE:</b> Due to a mysterious disappearance of files from Google Drive, many of the links below are currently broken. We are working to fix this. In the meantime, if there's something you're looking for that's listed but not available, contact Monica Macaulay at [mmacaula@wisc.edu](mailto:mmacaula@wisc.edu).
 
 This is a collection of resources used in the [Nisinoon project][website] to collect data on derivational morphemes in Algonquian languages. It was compiled by Monica Macaulay (University of Wisconsin-Madison) and [Hunter Lockwood][website-hunter] (Myaamia Center, Miami University) with the help of Savana Stauss, Anushri Kartik-Narayan, Rachel Fedorchak, and Eleanor Sand.
 
