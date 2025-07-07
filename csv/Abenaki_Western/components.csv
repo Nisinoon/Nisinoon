@@ -133,7 +133,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 67,Day,GMD1995,XXV,abe,,west2630,anak-,AB:3,,,,,,"spread on ground, cover ground","cover (ground), spread",initial
 68,Day,GMD1995,XXV,abe,,west2630,anawi-,AB:3,,,,,,"correct, repaired, in original condition","correct, repaired",initial
 70,Day,GMD1995,XXVI,abe,,west2630,anibi-,AB:3,,,,,,American elm,elm,initial
-71,Day,GMD1995,XXVI,abe,,west2630,anig-,AB:3,,,,,,"grow up, become covered with plant growth ",grow up INSTRUMENT,initial
+71,Day,GMD1995,XXVI,abe,,west2630,anig-,AB:3,,,,,,"grow up, become covered with plant growth",grow up,initial
 73,Day,GMD1995,XXVI,abe,,west2630,aodi-,AB:3,,,,,,"fight as in a battle, make war","battle, fight (V), war",initial,,,,,,,,,,awdi
 74,Day,GMD1995,XXVI,abe,,west2630,aos-,AB:3,,,,,,changing position,change (position),initial,,,,,,,,,,,,,,,,,,,,,,,,,see awes- and aws-
 76,Day,GMD1995,XXVI,abe,,west2630,apen,AB:3,,,,,,ground nut,ground nut,initial,,,,,,,,,,pen,,,,,,,,,,,,,,,free root
@@ -157,7 +157,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 94,Day,GMD1995,XXVI,abe,,west2630,atema,AB:3,,,,,,weave snowshoe,weave (snowshoe),initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
 95,Day,GMD1995,XXVII,abe,,west2630,atôbi,AB:3,,,,,,a bow (weapon),bow (N),initial,,,,,,,,,,tôbi,,,,,,,,,,,,,,,free root
 96,Day,GMD1995,XXVII,abe,,west2630,ats-,AB:3,,,,,,"dye, color","color, dye",initial
-97,Day,GMD1995,XXVII,abe,,west2630,atsakh-,AB:3,,,,,,"lock, close with a piece of metal or a key ","close, lock INSTRUMENT",initial
+97,Day,GMD1995,XXVII,abe,,west2630,atsakh-,AB:3,,,,,,"lock, close with a piece of metal or a key ","close, lock, INSTRUMENT",initial
 98,Day,GMD1995,XXVII,abe,,west2630,awa-,AB:3,,,,,,"slightly, barely","barely, slightly",initial
 99,Day,GMD1995,XXVII,abe,,west2630,awad,AB:3,,,,,,carry on back,carry (on back),initial,,,,,,,,,,awaj-,,,,,,,,,,,,,,,cf. awal-; free root
 100,Day,GMD1995,XXVII,abe,,west2630,awakôd-,AB:3,,,,,,"in small amount or degree, hardly, barely, of little importance","barely, hardly, small (amount, degree), unimportant, QUANTITY",initial,,,,,,,,,,awakôj-
@@ -190,7 +190,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 131,Day,GMD1995,XXVIII,abe,,west2630,bag-,AB:3,,,,,,"strike, hit, smash","hit, smash, strike",initial
 132,Day,GMD1995,XXVIII,abe,,west2630,bagad-,AB:3,,,,,,"returning, coming back","come back, return",initial
 133,Day,GMD1995,XXVIII,abe,,west2630,bagi-,AB:3,,,,,,"leave, abandon","abandon, leave",initial
-134,Day,GMD1995,XXVIII,abe,,west2630,bagiha-,AB:3,,,,,,"sprinkle, baptize, bless as with holy water","baptize, bless, sprinkle  INSTRUMENT",initial
+134,Day,GMD1995,XXVIII,abe,,west2630,bagiha-,AB:3,,,,,,"sprinkle, baptize, bless as with holy water","baptize, bless, sprinkle, INSTRUMENT",initial
 137,Day,GMD1995,XXVIII,abe,,west2630,baiy-,AB:3,,,,,,"come, arrive","arrive, come",initial
 138,Day,GMD1995,XXVIII,abe,,west2630,bak-,AB:3,,,,,,clean,clean,initial
 140,Day,GMD1995,XXVIII,abe,,west2630,bakal-,AB:3,,,,,,"certain, sure","certain, sure",initial
@@ -200,7 +200,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 143,Day,GMD1995,XXIX,abe,,west2630,bal-,AB:3,,,,,,"wrong, erroneous","erroneous, wrong",initial
 144,Day,GMD1995,XXIX,abe,,west2630,balôb,AB:3,,,,,,"despair, be discouraged","despair, discouraged",initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
 145,Day,GMD1995,XXIX,abe,,west2630,bam-,AB:3,,,,,,"where, when","when, where",initial
-146,Day,GMD1995,XXIX,abe,,west2630,"bao-, baw-",AB:3,,,,,,"exert personal power by wishing, wish with power ",wish INSTRUMENT,initial
+146,Day,GMD1995,XXIX,abe,,west2630,"bao-, baw-",AB:3,,,,,,"exert personal power by wishing, wish with power ","wish, INSTRUMENT",initial
 147,Day,GMD1995,XXIX,abe,,west2630,bapi,AB:3,,,,,,play,play,initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
 148,Day,GMD1995,XXIX,abe,,west2630,bas-,AB:3,,,,,,"swell, puff up","puff up, swell",initial
 149,Day,GMD1995,XXIX,abe,,west2630,bask-,AB:3,,,,,,"uncovered, open (of a field or water), bare (of a body)","bare (A), open (A), uncovered",initial,,,,,,,,,,,,,,,,,,,,,,,,,now archaic and mostly replaced by mamasag- 
@@ -237,7 +237,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 183,Day,GMD1995,XXX,abe,,west2630,bia-,AB:3,,,,,,"mealy, powdery, crumbly","crumbly, mealy, powdery",initial
 184,Day,GMD1995,XXX,abe,,west2630,bid-,AB:3,,,,,,"enter, go into","enter, go into",initial
 186,Day,GMD1995,XXX,abe,,west2630,bid-,AB:3,,,,,,"unintentional, accidental, by mistake","accidental, by mistake, unintentional",initial
-185,Day,GMD1995,XXX,abe,,west2630,bidem-,AB:3,,,,,,shoot with bow or sling ,"bow (N), shoot, sling INSTRUMENT",initial
+185,Day,GMD1995,XXX,abe,,west2630,bidem-,AB:3,,,,,,shoot with bow or sling ,"bow (N), shoot, sling, INSTRUMENT",initial
 187,Day,GMD1995,XXX,abe,,west2630,bigid-,AB:3,,,,,,"puff, spurt","puff, spurt",initial
 188,Day,GMD1995,XXX,abe,,west2630,bigwa-,AB:3,,,,,,"hollow, hollow sounding",hollow,initial
 189,Day,GMD1995,XXX,abe,,west2630,bigwed-,AB:3,,,,,,open,open,initial,,,,,,,,,,bkwed-
@@ -317,7 +317,7 @@ ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form (original 
 275,Day,GMD1995,XXXIV,abe,,west2630,degwôk-,AB:3,,,,,,uphill,uphill,initial
 276,Day,GMD1995,XXXIV,abe,,west2630,dekasm-,AB:3,,,,,,swim,swim,initial
 277,Day,GMD1995,XXXIV,abe,,west2630,deksk- ,AB:3,,,,,,"tangle, tousled, mixed up (used for hair)","tangle, tousled",initial
-279,Day,GMD1995,XXXIV,abe,,west2630,dem-,AB:3,,,,,,sever transversely (with any tool),sever INSTRUMENT,initial
+279,Day,GMD1995,XXXIV,abe,,west2630,dem-,AB:3,,,,,,sever transversely (with any tool),"sever, INSTRUMENT",initial
 281,Day,GMD1995,XXXIV,abe,,west2630,dlap,AB:3,,,,,,"the club in playing cards, a playing card, a map","club (playing card), map",initial,,,,,,,,,,,,,,,,,,,,,,,,,free root
 282,Day,GMD1995,XXXIV,abe,,west2630,dod-,AB:3,,,,,,"such a time, place, or manner","manner, place, there, then, time, RELATIVE",initial,,,,,,,,,,doj-,,,,,,,,,,,,,,,see doj-
 283,Day,GMD1995,XXXIV,abe,,west2630,dog-,AB:3,,,,,,"spread, split","split, spread",initial
