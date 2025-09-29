@@ -567,8 +567,6 @@ Proto_Algonquian,PA:6,*a·ns‑,*aans‑
 Proto_Algonquian,PA:6,*a·nt‑,*aant‑
 Proto_Algonquian,PA:6,*a·nw(e·)‑,*aanw(ee)‑
 Proto_Algonquian,PA:6,*a·p‑,*aap‑
-Proto_Algonquian,PA:6,*a·p(es)‑,*aap(es)‑
-Proto_Algonquian,PA:6,*a·pači‑,*aapači‑
 Proto_Algonquian,PA:6,*a·pam‑,*aapam‑
 Proto_Algonquian,PA:6,*a·pat‑,*aapat‑
 Proto_Algonquian,PA:6,*a·pehtaw‑,*aapehtaw‑
@@ -687,7 +685,6 @@ Proto_Algonquian,PA:6,*ap(iw)‑,*ap(iw)‑
 Proto_Algonquian,PA:4,*apahk,*apahk
 Proto_Algonquian,PA:6,*apahkway‑,*apahkway‑
 Proto_Algonquian,PA:6,*apanšiy‑,*apanšiy‑
-Proto_Algonquian,PA:6,*apw(a·n)‑,*apw(aan)‑
 Proto_Algonquian,PA:6,*apw(aw)‑,*apw(aw)‑
 Proto_Algonquian,PA:6,*asa·ki·w‑,*asaakiiw‑
 Proto_Algonquian,PA:4,*aše:,*ašee
@@ -997,8 +994,6 @@ Proto_Algonquian,PA:4,*ka:t(e:),*kaat(ee)
 Proto_Algonquian,PA:4,*ka:te:,*kaatee
 Proto_Algonquian,PA:4,*ka:w‑,*kaaw‑
 Proto_Algonquian,PA:6,*ka·hk(aw)‑,*kaahk(aw)‑
-Proto_Algonquian,PA:6,*ka·nči‑,*kaanči‑
-Proto_Algonquian,PA:6,*ka·ns‑,*kaans‑
 Proto_Algonquian,PA:6,*ka·nt‑,*kaant‑
 Proto_Algonquian,PA:6,*ka·si·‑,*kaasii‑
 Proto_Algonquian,PA:6,*ka·sk‑,*kaask‑
@@ -1028,7 +1023,6 @@ Proto_Algonquian,PA:4,*kan‑,*kan‑
 Proto_Algonquian,PA:4,*kan‑,*kan‑
 Proto_Algonquian,PA:4,*kana:m,*kanaam
 Proto_Algonquian,PA:4,*kana:nt,*kanaant
-Proto_Algonquian,PA:6,*kana·či‑,*kanaači‑
 Proto_Algonquian,PA:6,*kana·t‑,*kanaat‑
 Proto_Algonquian,PA:6,*kanaw‑,*kanaw‑
 Proto_Algonquian,PA:4,*kanaw(e:),*kanaw(ee)
@@ -1077,7 +1071,6 @@ Proto_Algonquian,PA:6,*kelek‑,*kelek‑
 Proto_Algonquian,PA:6,*kelip‑,*kelip‑
 Proto_Algonquian,PA:6,*kemi(wan)‑,*kemi(wan)‑
 Proto_Algonquian,PA:4,*kemo:t‑,*kemoot‑
-Proto_Algonquian,PA:6,*kemo·s‑,*kemoos‑
 Proto_Algonquian,PA:6,*kemo·t,*kemoot
 Proto_Algonquian,PA:4,*ken,*ken
 Proto_Algonquian,PA:6,*kenli(w)‑,*kenli(w)‑
@@ -1143,7 +1136,6 @@ Proto_Algonquian,PA:4,*ki:šk‑,*kiišk‑
 Proto_Algonquian,PA:4,*ki:t‑,*kiit‑
 Proto_Algonquian,PA:4,*ki:w‑,*kiiw‑
 Proto_Algonquian,PA:4,*ki:wa:t‑,*kiiwaat‑
-Proto_Algonquian,PA:6,*ki·či‑,*kiiči‑
 Proto_Algonquian,PA:6,*ki·hk‑,*kiihk‑
 Proto_Algonquian,PA:6,*ki·hsa·či‑,*kiihsaači‑
 Proto_Algonquian,PA:6,*ki·hsa·t‑,*kiihsaat‑
@@ -1184,7 +1176,6 @@ Proto_Algonquian,PA:4,*ko‑,*ko‑
 Proto_Algonquian,PA:4,*ko:hpat‑,*koohpat‑
 Proto_Algonquian,PA:4,*ko:k‑,*kook‑
 Proto_Algonquian,PA:4,*ko:n‑,*koon‑
-Proto_Algonquian,PA:6,*ko·hpa·či‑,*koohpaači‑
 Proto_Algonquian,PA:6,*ko·hpa·t‑,*koohpaat‑
 Proto_Algonquian,PA:6,*ko·k‑,*kook‑
 Proto_Algonquian,PA:6,*ko·n‑,*koon‑
@@ -1307,7 +1298,6 @@ Proto_Algonquian,PA:6,*mamya·ntw‑,*mamyaantw‑
 Proto_Algonquian,PA:6,*man‑,*man‑
 Proto_Algonquian,PA:6,*maneto:,*maneto:
 Proto_Algonquian,PA:6,*maneto·‑,*manetoo‑
-Proto_Algonquian,PA:6,*maneto·w(ak)‑,*manetoow(ak)‑
 Proto_Algonquian,PA:6,*mank‑,*mank‑
 Proto_Algonquian,PA:6,*mant(a·kw)‑,*mant(aakw)‑
 Proto_Algonquian,PA:6,*masa·n‑,*masaan‑
@@ -1462,7 +1452,6 @@ Proto_Algonquian,PA:1,*namee‑,*namee‑
 Proto_Algonquian,PA:2,*nana·taw‑,*nanaataw‑
 Proto_Algonquian,PA:6,*napak‑,*napak‑
 Proto_Algonquian,PA:6,*naš,*naš
-Proto_Algonquian,PA:6,*nat(aw)‑,*nat(aw)‑
 Proto_Algonquian,PA:6,*nat(w)‑,*nat(w)‑
 Proto_Algonquian,PA:6,*nata:,*nata:
 Proto_Algonquian,PA:1,*nataw‑,*nataw‑
@@ -1485,7 +1474,6 @@ Proto_Algonquian,PA:1,*nee‑,*nee‑
 Proto_Algonquian,PA:6,*nehset(aw)‑,*nehset(aw)‑
 Proto_Algonquian,PA:6,*nehšihke·w‑,*nehšihkeew‑
 Proto_Algonquian,PA:6,*nehta·w‑,*nehtaaw‑
-Proto_Algonquian,PA:6,*nekamo‑,*nekamo‑
 Proto_Algonquian,PA:4,*neki‑,*neki‑
 Proto_Algonquian,PA:6,*nekikw‑,*nekikw‑
 Proto_Algonquian,PA:1,*nekotw‑,*nekotw‑
@@ -1494,7 +1482,6 @@ Proto_Algonquian,PA:6,*nekʷet‑,*nekʷet‑
 Proto_Algonquian,PA:6,*nekwetw‑,*nekwetw‑
 Proto_Algonquian,PA:6,*nekwetw(e·)‑,*nekwetw(ee)‑
 Proto_Algonquian,PA:6,*nen‑,*nen‑
-Proto_Algonquian,PA:6,*nen(a)w‑,*nen(a)w‑
 Proto_Algonquian,PA:6,*nenk‑,*nenk‑
 Proto_Algonquian,PA:6,*nep,*nep
 Proto_Algonquian,PA:6,*nep(e·)‑,*nep(ee)‑
@@ -1504,12 +1491,9 @@ Proto_Algonquian,PA:4,*nepe‑,*nepe‑
 Proto_Algonquian,PA:6,*nepy(iw)‑,*nepy(iw)‑
 Proto_Algonquian,PA:6,*nexk‑,*nexk‑
 Proto_Algonquian,PA:4,*neʔ‑,*neʔ‑
-Proto_Algonquian,PA:6,*neʔš‑,*neʔš‑
 Proto_Algonquian,PA:6,*neʔšiwan‑a·t‑,*neʔšiwan‑aat‑
 Proto_Algonquian,PA:6,*neʔt‑,*neʔt‑
 Proto_Algonquian,PA:6,*neʔtam‑,*neʔtam‑
-Proto_Algonquian,PA:6,*neʔθ‑,*neʔθ‑
-Proto_Algonquian,PA:4,*neʔθ‑,*neʔθ‑
 Proto_Algonquian,PA:6,*neʔθaw‑,*neʔθaw‑
 Proto_Algonquian,PA:6,*neʔθw(e·)‑,*neʔθw(ee)‑
 Proto_Algonquian,PA:6,*neθk(e:),*neθk(e:)
@@ -1618,11 +1602,9 @@ Proto_Algonquian,PA:1,*pe‑,*pe‑
 Proto_Algonquian,PA:4,*pe‑,*pe‑
 Proto_Algonquian,PA:4,*pe:nkw‑,*peenkw‑
 Proto_Algonquian,PA:4,*pe:t‑,*peet‑
-Proto_Algonquian,PA:6,*pe·či‑,*peeči‑
 Proto_Algonquian,PA:6,*pe·kw‑,*peekw‑
 Proto_Algonquian,PA:6,*pe·nk(w)‑,*peenk(w)‑
 Proto_Algonquian,PA:6,*pe·nt‑,*peent‑
-Proto_Algonquian,PA:6,*pe·s‑,*pees‑
 Proto_Algonquian,PA:6,*pe·šekw‑,*peešekw‑
 Proto_Algonquian,PA:6,*pe·t‑,*peet‑
 Proto_Algonquian,PA:6,*peči,*peči
@@ -1859,10 +1841,7 @@ Proto_Algonquian,PA:6,*te·hθ‑,*teehθ‑
 Proto_Algonquian,PA:2,*te·p‑,*teep‑
 Proto_Algonquian,PA:6,*te·p‑,*teep‑
 Proto_Algonquian,PA:6,*te·pwe·(w)‑,*teepwee(w)‑
-Proto_Algonquian,PA:6,*te·tep‑,*teetep‑
 Proto_Algonquian,PA:6,*te·w‑,*teew‑
-Proto_Algonquian,PA:6,*te·ʔtep‑,*teeʔtep‑
-Proto_Algonquian,PA:6,*tehtep‑,*tehtep‑
 Proto_Algonquian,PA:6,*telima:nkan(e:),*telima:nkan(e:)
 Proto_Algonquian,PA:6,*tely(e:),*tely(e:)
 Proto_Algonquian,PA:6,*tem‑,*tem‑
@@ -1957,7 +1936,6 @@ Proto_Algonquian,PA:6,*we·wa·t‑,*weewaat‑
 Proto_Algonquian,PA:6,*we·we·k‑,*weeweek‑
 Proto_Algonquian,PA:6,*we·wi·p‑,*weewiip‑
 Proto_Algonquian,PA:6,*we(t)‑,*we(t)‑
-Proto_Algonquian,PA:6,*weči‑,*weči‑
 Proto_Algonquian,PA:6,*weči·ʔs‑,*wečiiʔs‑
 Proto_Algonquian,PA:6,*wečipwe·‑,*wečipwee‑
 Proto_Algonquian,PA:6,*wečye:pihkw,*wečye:pihkw
