@@ -845,8 +845,8 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 769,Hewson,JH_nd-a,0005,alg,,algo1256,*a·nt-,PA:6,,,,,,"elsewhere, again, move",,initial
 771,Hewson,JH_nd-a,0006,alg,,algo1256,*a·nw(e·)-,PA:6,,,,,,"negative, fail, disbelieve, refuse",,initial
 772,Hewson,JH_nd-a,0006,alg,,algo1256,*a·p-,PA:6,,,,,,"untie, loosen",,initial
-775,Hewson,JH_nd-a,0006,alg,,algo1256,*a·p(es)-,PA:6,,,,,,"recover, return",,initial
-776,Hewson,JH_nd-a,0007,alg,,algo1256,*a·pači-,PA:6,,,,,,"use, serve",,initial
+783,Hewson,JH_nd-a,0006,alg,,algo1256,*a·p(es)-,PA:6,,,,,,"recover, return",,initial
+778,Hewson,JH_nd-a,0007,alg,,algo1256,*a·pači-,PA:6,,,,,,"use, serve",,initial
 777,Hewson,JH_nd-a,0007,alg,,algo1256,*a·pam-,PA:6,,,,,,turn,,initial
 778,Hewson,JH_nd-a,0007,alg,,algo1256,*a·pat-,PA:6,,,,,,"use, serve",,initial
 779,Hewson,JH_nd-a,0008,alg,,algo1256,*a·pehtaw-,PA:6,,,,,,half,,initial
@@ -910,7 +910,7 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 916,Hewson,JH_nd-a,0023,alg,,algo1256,*ap(iw)-,PA:6,,,,,,sit,,initial
 918,Hewson,JH_nd-a,0022,alg,,algo1256,*apahkway-,PA:6,,,,,,"reed, thatch",,initial
 919,Hewson,JH_nd-a,0023,alg,,algo1256,*apanšiy-,PA:6,,,,,,tent pole,,initial
-920,Hewson,JH_nd-a,0023,alg,,algo1256,*apw(a·n)-,PA:6,,,,,,roast,,initial
+921,Hewson,JH_nd-a,0023,alg,,algo1256,*apw(a·n)-,PA:6,,,,,,roast,,initial
 921,Hewson,JH_nd-a,0023,alg,,algo1256,*apw(aw)-,PA:6,,,,,,roast,,initial
 922,Hewson,JH_nd-a,0026,alg,,algo1256,*asa·ki·w-,PA:6,,,,,,Sauk,,initial
 924,Hewson,JH_nd-a,0026,alg,,algo1256,*ašikan(e·)-,PA:6,,,,,,sock,,initial
@@ -986,8 +986,8 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 1201,Hewson,JH_nd-a,0063,alg,,algo1256,*eθpen(aθ)-,PA:6,,,,,,"sick, assail",,initial
 1201,Hewson,JH_nd-a,0063,alg,,algo1256,*eθpene·-,PA:6,,,,,,"sick, assail",,initial
 1273,Hewson,JH_nd-a,0064,alg,,algo1256,*ka·hk(aw)-,PA:6,,,,,,dry up,,initial
-1274,Hewson,JH_nd-a,0064,alg,,algo1256,*ka·nči-,PA:6,,,,,,push,,initial
-1275,Hewson,JH_nd-a,0064,alg,,algo1256,*ka·ns-,PA:6,,,,,,push,,initial
+1276,Hewson,JH_nd-a,0064,alg,,algo1256,*ka·nči-,PA:6,,,,,,push,,initial
+1276,Hewson,JH_nd-a,0064,alg,,algo1256,*ka·ns-,PA:6,,,,,,push,,initial
 1276,Hewson,JH_nd-a,0064,alg,,algo1256,*ka·nt-,PA:6,,,,,,push,,initial
 1277,Hewson,JH_nd-a,0065,alg,,algo1256,*ka·si·-,PA:6,,,,,,"wipe, rub, wash",,initial
 1279,Hewson,JH_nd-a,0065,alg,,algo1256,*ka·šk-,PA:6,,,,,,scrape,,initial
@@ -996,7 +996,7 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 1282,Hewson,JH_nd-a,0068,alg,,algo1256,*ka·xp-,PA:6,,,,,,"scrape, crunch",,initial
 1293,Hewson,JH_nd-a,0068,alg,,algo1256,*kakwa·leʔlak-,PA:6,,,,,,frightful,,initial
 1299,Hewson,JH_nd-a,0068,alg,,algo1256,*kama·čiw-,PA:6,,,,,,scalp dance,,initial
-1306,Hewson,JH_nd-a,0068,alg,,algo1256,*kana·či-,PA:6,,,,,,still,,initial
+1307,Hewson,JH_nd-a,0068,alg,,algo1256,*kana·či-,PA:6,,,,,,still,,initial
 1307,Hewson,JH_nd-a,0068,alg,,algo1256,*kana·t-,PA:6,,,,,,still,,initial
 1308,Hewson,JH_nd-a,0069,alg,,algo1256,*kanaw-,PA:6,,,,,,"watch, tend, care, attention",,initial
 1314,Hewson,JH_nd-a,0069,alg,,algo1256,*kap(at)(e·)-,PA:6,,,,,,"out of a liquid, serve food",,initial
@@ -1019,7 +1019,7 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 1362,Hewson,JH_nd-a,0075,alg,,algo1256,*kelek-,PA:6,,,,,,mix,,initial
 1364,Hewson,JH_nd-a,0075,alg,,algo1256,*kelip-,PA:6,,,,,,"quick, clever",,initial
 1365,Hewson,JH_nd-a,0075,alg,,algo1256,*kemi(wan)-,PA:6,,,,,,rain,,initial
-1367,Hewson,JH_nd-a,0076,alg,,algo1256,*kemo·s-,PA:6,,,,,,steal,,initial
+1368,Hewson,JH_nd-a,0076,alg,,algo1256,*kemo·s-,PA:6,,,,,,steal,,initial
 1368,Hewson,JH_nd-a,0076,alg,,algo1256,*kemo·t,PA:6,,,,,,steal,,initial
 1374,Hewson,JH_nd-a,0076,alg,,algo1256,*kenči-,PA:6,,,,,,"sink, immerse",,initial
 1371,Hewson,JH_nd-a,0076,alg,,algo1256,*kenli(w)-,PA:6,,,,,,eagle,,initial
@@ -1046,7 +1046,7 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 1421,Hewson,JH_nd-a,0081,alg,,algo1256,*keʔs-,PA:6,,,,,,cold,,initial
 1423,Hewson,JH_nd-a,0082,alg,,algo1256,*keʔt-,PA:6,,,,,,"hold, seize, fasten",,initial
 1427,Hewson,JH_nd-a,0089,alg,,algo1256,*keθ(w)-,PA:6,,,,,,"forbid, control, against, talk",,initial
-1457,Hewson,JH_nd-a,0103,alg,,algo1256,*ki·či-,PA:6,,,,,,"sore, sharpen",,initial
+1481,Hewson,JH_nd-a,0103,alg,,algo1256,*ki·či-,PA:6,,,,,,"sore, sharpen",,initial
 1458,Hewson,JH_nd-a,0092,alg,,algo1256,*ki·hk-,PA:6,,,,,,"berate, injure, spite, suffer",,initial
 1459,Hewson,JH_nd-a,0093,alg,,algo1256,*ki·hsa·či-,PA:6,,,,,,trouble,,initial
 1460,Hewson,JH_nd-a,0093,alg,,algo1256,*ki·hsa·t-,PA:6,,,,,,trouble,,initial
@@ -1074,7 +1074,7 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 1490,Hewson,JH_nd-a,0096,alg,,algo1256,*ki·ʔči-,PA:6,,,,,,"uproot, yank, doff, free",,initial
 1491,Hewson,JH_nd-a,0096,alg,,algo1256,*ki·ʔs-,PA:6,,,,,,"uproot, yank, doff, free",,initial
 1492,Hewson,JH_nd-a,0096,alg,,algo1256,*ki·ʔt-,PA:6,,,,,,"uproot, yank, doff, free",,initial
-1504,Hewson,JH_nd-a,0108,alg,,algo1256,*ko·hpa·či-,PA:6,,,,,,ruin,,initial
+1505,Hewson,JH_nd-a,0108,alg,,algo1256,*ko·hpa·či-,PA:6,,,,,,ruin,,initial
 1505,Hewson,JH_nd-a,0108,alg,,algo1256,*ko·hpa·t-,PA:6,,,,,,ruin,,initial
 1506,Hewson,JH_nd-a,0108,alg,,algo1256,*ko·k-,PA:6,,,,,,immerse,,initial
 1507,Hewson,JH_nd-a,0109,alg,,algo1256,*ko·n-,PA:6,,,,,,snow,,initial
@@ -1149,7 +1149,7 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 1641,Hewson,JH_nd-a,0133,alg,,algo1256,*mamya·ntw-,PA:6,,,,,,pray,,initial
 1642,Hewson,JH_nd-a,0133,alg,,algo1256,*man-,PA:6,,,,,,"pick, gather",,initial
 1644,Hewson,JH_nd-a,0134,alg,,algo1256,*maneto·-,PA:6,,,,,,spirit,,initial
-1645,Hewson,JH_nd-a,0134,alg,,algo1256,*maneto·w(ak)-,PA:6,,,,,,spirit,,initial
+1644,Hewson,JH_nd-a,0134,alg,,algo1256,*maneto·w(ak)-,PA:6,,,,,,spirit,,initial
 1646,Hewson,JH_nd-a,0135,alg,,algo1256,*mank-,PA:6,,,,,,big,,initial
 1648,Hewson,JH_nd-a,0137,alg,,algo1256,*mant(a·kw)-,PA:6,,,,,,pleasant,,initial
 1657,Hewson,JH_nd-a,0139,alg,,algo1256,*mas-,PA:6,,,,,,"bad, evil",,initial
@@ -1271,7 +1271,7 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 1838,Hewson,JH_nd-a,0179,alg,,algo1256,*name·w-,PA:6,,,,,,fish,,initial
 1838,Hewson,JH_nd-a,0179,alg,,algo1256,*name·ʔs-,PA:6,,,,,,fish,,initial
 1841,Hewson,JH_nd-a,0180,alg,,algo1256,*napak-,PA:6,,,,,,"prone, flat",,initial
-1843,Hewson,JH_nd-a,0182,alg,,algo1256,*nat(aw)-,PA:6,,,,,,"seek, want; stir",,initial
+1844,Hewson,JH_nd-a,0182,alg,,algo1256,*nat(aw)-,PA:6,,,,,,"seek, want; stir",,initial
 1844,Hewson,JH_nd-a,0182,alg,,algo1256,*nat(w)-,PA:6,,,,,,"seek, want; stir",,initial
 1852,Hewson,JH_nd-a,0185,alg,,algo1256,*nawači-,PA:6,,,,,,"first, before; catch",,initial
 1853,Hewson,JH_nd-a,0185,alg,,algo1256,*nawas-,PA:6,,,,,,"first, before; catch",,initial
@@ -1284,24 +1284,24 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 1868,Hewson,JH_nd-a,0187,alg,,algo1256,*nehset(aw)-,PA:6,,,,,,"understand, recognize",,initial
 1869,Hewson,JH_nd-a,0187,alg,,algo1256,*nehšihke·w-,PA:6,,,,,,alone,,initial
 1870,Hewson,JH_nd-a,0187,alg,,algo1256,*nehta·w-,PA:6,,,,,,"good at, able, well",,initial
-1872,Hewson,JH_nd-a,0188,alg,,algo1256,*nekamo-,PA:6,,,,,,sing,,initial
+1832,Hewson,JH_nd-a,0188,alg,,algo1256,*nekamo-,PA:6,,,,,,sing,,initial
 1874,Hewson,JH_nd-a,0188,alg,,algo1256,*nekikw-,PA:6,,,,,,otter,,initial
 1879,Hewson,JH_nd-a,0188,alg,,algo1256,*nekwetw(e·)-,PA:6,,,,,,one,,initial
 1880,Hewson,JH_nd-a,0189,alg,,algo1256,*nen-,PA:6,,,,,,recognize,,initial
-1881,Hewson,JH_nd-a,0189,alg,,algo1256,*nen(a)w-,PA:6,,,,,,recognize,,initial
+1880,Hewson,JH_nd-a,0189,alg,,algo1256,*nen(a)w-,PA:6,,,,,,recognize,,initial
 1882,Hewson,JH_nd-a,0189,alg,,algo1256,*nenk-,PA:6,,,,,,tremble,,initial
 1884,Hewson,JH_nd-a,0190,alg,,algo1256,*nep(e·)-,PA:6,,,,,,"die, sleep",,initial
 1885,Hewson,JH_nd-a,0190,alg,,algo1256,*nepa·či-,PA:6,,,,,,"indecent, dirty, filthy, repulsive",,initial
 1886,Hewson,JH_nd-a,0190,alg,,algo1256,*nepa·t-,PA:6,,,,,,"indecent, dirty, filthy, repulsive",,initial
 1888,Hewson,JH_nd-a,0191,alg,,algo1256,*nepy(iw)-,PA:6,,,,,,"wet, liquid",,initial
 1889,Hewson,JH_nd-a,0193,alg,,algo1256,*nexk-,PA:6,,,,,,goose,,initial
-1892,Hewson,JH_nd-a,0192,alg,,algo1256,*neʔš-,PA:6,,,,,,slay,,initial
+1896,Hewson,JH_nd-a,0192,alg,,algo1256,*neʔš-,PA:6,,,,,,slay,,initial
 1895,Hewson,JH_nd-a,0191,alg,,algo1256,*neʔšiwan-a·či-,PA:6,,,,,,"ruin, confuse",,initial
 1895,Hewson,JH_nd-a,0191,alg,,algo1256,*neʔšiwan-a·s-,PA:6,,,,,,"ruin, confuse",,initial
 1895,Hewson,JH_nd-a,0191,alg,,algo1256,*neʔšiwan-a·t-,PA:6,,,,,,"ruin, confuse",,initial
 1896,Hewson,JH_nd-a,0192,alg,,algo1256,*neʔt-,PA:6,,,,,,slay,,initial
 1897,Hewson,JH_nd-a,0191,alg,,algo1256,*neʔtam-,PA:6,,,,,,first,,initial
-1899,Hewson,JH_nd-a,0192,alg,,algo1256,*neʔθ-,PA:6,,,,,,slay,,initial
+1896,Hewson,JH_nd-a,0192,alg,,algo1256,*neʔθ-,PA:6,,,,,,slay,,initial
 1900,Hewson,JH_nd-a,0192,alg,,algo1256,*neʔθaw-,PA:6,,,,,,three,,initial
 1901,Hewson,JH_nd-a,0192,alg,,algo1256,*neʔθw(e·)-,PA:6,,,,,,three,,initial
 1907,Hewson,JH_nd-a,0193,alg,,algo1256,*ni·čya·nw-,PA:6,,,,,,child,,initial
@@ -1350,11 +1350,11 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 2007,Hewson,JH_nd-a,0214,alg,,algo1256,*paw(aw)-,PA:6,,,,,,dream,,initial
 2008,Hewson,JH_nd-a,0211,alg,,algo1256,*paθ-,PA:6,,,,,,"wrong, fail",,initial
 2013,Hewson,JH_nd-a,0212,alg,,algo1256,*paθkw(e·)-,PA:6,,,,,,remove,,initial
-2018,Hewson,JH_nd-a,0215,alg,,algo1256,*pe·či-,PA:6,,,,,,slowly,,initial
+2024,Hewson,JH_nd-a,0215,alg,,algo1256,*pe·či-,PA:6,,,,,,slowly,,initial
 2019,Hewson,JH_nd-a,0214,alg,,algo1256,*pe·kw-,PA:6,,,,,,"surface, shallow",,initial
 2020,Hewson,JH_nd-a,0214,alg,,algo1256,*pe·nk(w)-,PA:6,,,,,,"dry, wipe clean",,initial
 2021,Hewson,JH_nd-a,0215,alg,,algo1256,*pe·nt-,PA:6,,,,,,hear,,initial
-2022,Hewson,JH_nd-a,0215,alg,,algo1256,*pe·s-,PA:6,,,,,,slowly,,initial
+2024,Hewson,JH_nd-a,0215,alg,,algo1256,*pe·s-,PA:6,,,,,,slowly,,initial
 2024,Hewson,JH_nd-a,0215,alg,,algo1256,*pe·t-,PA:6,,,,,,slowly,,initial
 2027,Hewson,JH_nd-a,0215,alg,,algo1256,*pehk(w)-,PA:6,,,,,,"break, uncover",,initial
 2028,Hewson,JH_nd-a,0216,alg,,algo1256,*pek-,PA:6,,,,,,to pieces,,initial
@@ -1464,10 +1464,10 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 2295,Hewson,JH_nd-a,0279,alg,,algo1256,*te·hθ-,PA:6,,,,,,"lay, surface, platform",,initial
 2297,Hewson,JH_nd-a,0279,alg,,algo1256,*te·p-,PA:6,,,,,,enough,,initial
 2300,Hewson,JH_nd-a,0281,alg,,algo1256,*te·pwe·(w)-,PA:6,,,,,,truth,,initial
-2301,Hewson,JH_nd-a,0281,alg,,algo1256,*te·tep-,PA:6,,,,,,"roll, wind",,initial
+2315,Hewson,JH_nd-a,0281,alg,,algo1256,*te·tep-,PA:6,,,,,,"roll, wind",,initial
 2302,Hewson,JH_nd-a,0283,alg,,algo1256,*te·w-,PA:6,,,,,,pain,,initial
-2303,Hewson,JH_nd-a,0281,alg,,algo1256,*te·ʔtep-,PA:6,,,,,,"roll, wind",,initial
-2304,Hewson,JH_nd-a,0281,alg,,algo1256,*tehtep-,PA:6,,,,,,"roll, wind",,initial
+2315,Hewson,JH_nd-a,0281,alg,,algo1256,*te·ʔtep-,PA:6,,,,,,"roll, wind",,initial
+2315,Hewson,JH_nd-a,0281,alg,,algo1256,*tehtep-,PA:6,,,,,,"roll, wind",,initial
 2307,Hewson,JH_nd-a,0283,alg,,algo1256,*tem-,PA:6,,,,,,"cut off; deep, tall",,initial
 2309,Hewson,JH_nd-a,0284,alg,,algo1256,*tep-,PA:6,,,,,,"equal amount, pay, measure, sell, buy",,initial
 2312,Hewson,JH_nd-a,0285,alg,,algo1256,*tepexk-,PA:6,,,,,,night,,initial
@@ -1530,7 +1530,7 @@ Component ID,Author Surname,Source Code,Page #,ISO code,Dialect,Glottocode,Form 
 2415,Hewson,JH_nd-a,0312,alg,,algo1256,*we·we·k-,PA:6,,,,,,wrap,,initial
 2416,Hewson,JH_nd-a,0312,alg,,algo1256,*we·wi·p-,PA:6,,,,,,hurry,,initial
 2417,Hewson,JH_nd-a,0313,alg,,algo1256,*we(t)-,PA:6,,,,,,"his, her (possessive)",,initial
-2418,Hewson,JH_nd-a,0330,alg,,algo1256,*weči-,PA:6,,,,,,"pull, take",,initial
+2470,Hewson,JH_nd-a,0330,alg,,algo1256,*weči-,PA:6,,,,,,"pull, take",,initial
 2419,Hewson,JH_nd-a,0315,alg,,algo1256,*weči·ʔs-,PA:6,,,,,,"burn, scorch",,initial
 2420,Hewson,JH_nd-a,0315,alg,,algo1256,*wečipwe·-,PA:6,,,,,,Ojibwa,,initial
 2422,Hewson,JH_nd-a,0315,alg,,algo1256,*wečye·kwa-,PA:6,,,,,,fisher,,initial
