@@ -63,6 +63,7 @@ This database is a web-based, open-access, centralized resource for Algonquian w
 - **Monica Macaulay**, *Project Lead* (University of Wisconsin-Madison)
 - [Hunter Thompson Lockwood][website-hunter], *Co-Project Lead* (The Myaamia Center)
 - [Daniel W. Hieber][website-danny] ("Danny"), *Data Manager*, *Lead Developer* (Chitimacha Tribe of Louisiana)
+- Celeste Dailey (University of Wisconsin-Madison)
 {.bulleted .list}
 
 ## Advisory Board {{> backlink/backlink }} {#advisory-board}
