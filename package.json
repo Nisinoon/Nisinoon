@@ -25,7 +25,7 @@
   "repository": "github:dwhieb/Nisinoon",
   "type": "module",
   "engines": {
-    "node": ">=20.12.0"
+    "node": ">=24.0.0"
   },
   "scripts": {
     "build": "node build/index.js",
@@ -43,7 +43,7 @@
     "@digitallinguistics/transliterate": "^0.4.1",
     "@eslint/js": "^9.3.0",
     "@stylistic/eslint-plugin-js": "^3.0.1",
-    "browserslist": "^4.23.0",
+    "browserslist": "^4.28.2",
     "citation-js": "^0.7.12",
     "csv-parse": "^5.5.6",
     "csv-stringify": "^6.5.0",
