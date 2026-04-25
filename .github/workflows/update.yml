@@ -5,13 +5,12 @@ name: update
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 9 * * 1'  # Runs every Monday at 9 AM UTC (4 AM CT during standard time, 3 AM CT during daylight saving time).
-
+    - cron: '0 9 * * 1' # Runs every Monday at 9 AM UTC (4 AM CT during standard time, 3 AM CT during daylight saving time).
 
 env:
   DRIVE_CREDENTIALS: ${{ secrets.DRIVE_CREDENTIALS }}
-  NODE_ENV:          CI
-  PORT:              3000
+  NODE_ENV: CI
+  PORT: 3000
 
 permissions:
   contents: write
@@ -21,35 +20,34 @@ jobs:
     runs-on: ubuntu-latest
     environment:
       name: 'Production'
-      url:  ${{ steps.deploy-to-webapp.outputs.webapp-url }}
+      url: ${{ steps.deploy-to-webapp.outputs.webapp-url }}
 
     steps:
-
       - name: Check out repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Set up Node
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v6
         with:
-          node-version: '20.x'
+          node-version: '24.x'
 
       - name: Install dependencies
-        run:  npm ci
+        run: npm ci
 
       - name: Update bibliography
-        run:  node bin/updateBibliography.js
+        run: node bin/updateBibliography.js
 
       - name: Update database
-        run:  node bin/updateDatabase.js
+        run: node bin/updateDatabase.js
 
       - name: Build app
-        run:  npm run build
+        run: npm run build
 
       - name: Check for "only" in tests
-        run:  npm run stop-only
+        run: npm run stop-only
 
       - name: Run E2E tests
-        run:  npm test
+        run: npm test
 
       - name: Commit changes
         run: |
@@ -60,7 +58,7 @@ jobs:
           git push
 
       - name: Increment version
-        run:  |
+        run: |
           npm version patch
           git push
           echo "TAG_NAME=$(git describe --tags --abbrev=0)" >> $GITHUB_ENV
@@ -75,30 +73,30 @@ jobs:
       - name: Copy release data to data branch
         uses: peaceiris/actions-gh-pages@v4
         with:
-          enable_jekyll:  true
-          github_token:   ${{ secrets.GITHUB_TOKEN }}
+          enable_jekyll: true
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: data
-          publish_dir:    release
-          tag_name:       ${{ env.TAG_NAME }}
+          publish_dir: release
+          tag_name: ${{ env.TAG_NAME }}
 
       - name: Get SHA of data branch
-        run:  echo "DATA_BRANCH_SHA=$(git rev-parse data)" >> $GITHUB_ENV
+        run: echo "DATA_BRANCH_SHA=$(git rev-parse data)" >> $GITHUB_ENV
 
       - name: Create a Zenodo release
         uses: softprops/action-gh-release@v2
         with:
-          body:             'This is a release to archive data with Zenodo.'
-          tag_name:         ${{ env.TAG_NAME }}
+          body: 'This is a release to archive data with Zenodo.'
+          tag_name: ${{ env.TAG_NAME }}
           target_commitish: ${{ env.DATA_BRANCH_SHA }}
 
       - name: Delete release folder before deployment to Azure
-        run:  rm -r release
+        run: rm -r release
 
       - name: Deploy to Azure Web App
-        id:   deploy-to-webapp
+        id: deploy-to-webapp
         uses: azure/webapps-deploy@v2
         with:
-          app-name:        nisinoon
-          slot-name:       Production
-          package:         .
+          app-name: nisinoon
+          slot-name: Production
+          package: .
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C789F3DAFFFF45EA89AA17889914203C }}
