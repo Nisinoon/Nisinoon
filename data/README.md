@@ -1,6 +1,6 @@
 # Nisinoon: The Algonquian Components Project
 
-This repository contains the data for Nisinoon: The Algonquian Components Project.
+This repository contains the data for Nisinoon: The Algonquian Components Project, and scripts used to fetch and convert that data from Google Sheets.
 
 The data are available in two formats:
 
