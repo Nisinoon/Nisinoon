@@ -8,6 +8,7 @@ credentials.json
 data/credentials.json
 downloads/
 node_modules/
+nodemon.json
 sprites.hbs
 temp.js
 temp.json
