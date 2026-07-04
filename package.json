@@ -34,6 +34,8 @@
     "start": "node index.js",
     "stop-only": "stop-only --folder pages",
     "test": "start-test http://localhost:3000 run-cypress",
+    "update-bib": "node bin/updateBibliography.js",
+    "update-db": "node bin/updateDatabase.js",
     "version": "node bin/updateDocs.js && git add ."
   },
   "devDependencies": {
