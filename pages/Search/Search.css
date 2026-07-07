@@ -310,11 +310,11 @@ search {
 
 .search-form {
 
-  gap:             0.5em;
+  gap:             1em;
   max-inline-size: 35em;
 
   & button {
-    inline-size: 5em;
+    inline-size: 7em;
   }
 
 }
