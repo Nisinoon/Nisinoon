@@ -6,7 +6,6 @@
 
 A multilingual dictionary database of Algonquian derivational morphemes {.subtitle}
 
-<!-- Commenting out general search from about page
 <search>
   <form action=/search class=search-form method=get>
     <label for=search-box>Search the Database</label>
@@ -24,7 +23,6 @@ A multilingual dictionary database of Algonquian derivational morphemes {.subtit
     >
   </form>
 </search>
--->
 
 <figure class=textile>
   <img alt='A rectangular textile hand made by Angela Waupochick for the Nisinoon project, displaying a top-down view of two trillium flowers at opposite corners of a pink square in the center, bordered by side views of two trillium flowers along the top and bottom. Photo by Rodney Schreiner.' src=/images/textile.jpg>
