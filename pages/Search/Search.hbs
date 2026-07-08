@@ -50,6 +50,7 @@
 
       <fieldset>
 
+        <!-- Commenting out search options
         <legend class=legend>Search Options</legend>
 
         <div class=checkbox-field>
@@ -71,9 +72,11 @@
           </a>
         </div>
 
+        -->
+
         <div class=search-controls>
           <button class='button green' id=quick-search-button type=submit>Search</button>
-          <button class='button blue' id=quick-reset-button type=reset>Reset</button>
+          <button class='button blue' id=quick-reset-button type=reset>Clear form</button>
         </div>
 
       </fieldset>
@@ -111,12 +114,14 @@
           {{/each}}
         </select>
 
+        <!-- Removing specificity option
         <label for=specificity-select>Specificity</label>
         <select class=text-box id=specificity-select name=specificity>
           <option {{#unless query.specificity }}selected{{/unless}} value=''>—</option>
           <option {{#if (is query.specificity 'ABSTR') }}selected{{/if}} value='ABSTR'>abstract</option>
           <option {{#if (is query.specificity 'CONCR') }}selected{{/if}} value='CONCR'>concrete</option>
         </select>
+        -->
 
         <label for=subcategory-select>Subcategory</label>
         <select class=text-box id=subcategory-select name=subcategory>
@@ -280,7 +285,7 @@
 
       <div class=search-controls>
         <button class='button green' id=advanced-search-button type=submit>Search</button>
-        <button class='button blue' id=advanced-reset-button type=reset>Reset</button>
+        <button class='button blue' id=advanced-reset-button type=reset>Clear form</button>
       </div>
 
       <p class='complex-searches help-text'>For more complex searches not supported here, we recommend exporting the data in CSV or JSON format using the download buttons at the bottom of the results table. Alternatively, you can also download the entire database <a class=link href=https://zenodo.org/doi/10.5281/zenodo.11459862>here</a>.</p>

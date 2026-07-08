@@ -60,6 +60,7 @@ describe(`Search`, function() {
       cy.get(`.num-results`).should(`include.text`, `of 2.`)
     })
 
+    /* Option has been removed
     it(`Option: Case Sensitive (checked)`, function() {
       cy.visit(`/search`)
       cy.get(`#quick-case-sensitive-box`).check()
@@ -68,6 +69,7 @@ describe(`Search`, function() {
       cy.get(`#results-info`).should(`include.text`, `No results found.`)
       cy.get(`#quick-case-sensitive-box`).should(`be.checked`)
     })
+    */
 
     it(`Option: Match Diacritics (default)`, function() {
 
@@ -83,6 +85,7 @@ describe(`Search`, function() {
 
     })
 
+    /* Option has been removed
     it(`Option: Match Diacritics (checked)`, function() {
       cy.visit(`/search`)
       cy.get(`#quick-diacritics-box`).check()
@@ -90,7 +93,9 @@ describe(`Search`, function() {
       cy.get(`#quick-search-button`).click()
       cy.get(`.num-results`).should(`include.text`, `of 2.`)
     })
+    */
 
+    /* Option has been removed
     it(`Option: Regular Expressions (checked)`, function() {
       cy.visit(`/search`)
       cy.get(`#quick-regex-box`).check()
@@ -98,6 +103,7 @@ describe(`Search`, function() {
       cy.get(`#quick-search-button`).click()
       cy.get(`.num-results`).should(`include.text`, `of 3.`)
     })
+    */
 
     it(`Form (Project)`, function() {
       cy.visit(`/search`)
@@ -165,14 +171,14 @@ describe(`Search`, function() {
 
     it(`Settings`, function() {
       cy.visit(`/search`)
-      cy.get(`#quick-case-sensitive-box`).check()
-      cy.get(`#quick-diacritics-box`).check()
-      cy.get(`#quick-regex-box`).check()
+      //cy.get(`#quick-case-sensitive-box`).check()
+      //cy.get(`#quick-diacritics-box`).check()
+      //cy.get(`#quick-regex-box`).check()
       cy.get(`#quick-language-select`).select(`Cree_East`)
       cy.reload()
-      cy.get(`#quick-case-sensitive-box`).should(`be.checked`)
-      cy.get(`#quick-diacritics-box`).should(`be.checked`)
-      cy.get(`#quick-regex-box`).should(`be.checked`)
+      //cy.get(`#quick-case-sensitive-box`).should(`be.checked`)
+      //cy.get(`#quick-diacritics-box`).should(`be.checked`)
+      //cy.get(`#quick-regex-box`).should(`be.checked`)
       cy.get(`#quick-language-select`).should(`have.value`, `Cree_East`)
     })
 
@@ -247,6 +253,7 @@ describe(`Search`, function() {
       cy.get(`.num-results`).should(`include.text`, `of 2.`)
     })
 
+    /* Option has been removed
     it(`Component: Specificity`, function() {
 
       cy.visit(`/search`)
@@ -261,6 +268,7 @@ describe(`Search`, function() {
       })
 
     })
+    */
 
     it(`Component: Subcategory`, function() {
       cy.visit(`/search`)
