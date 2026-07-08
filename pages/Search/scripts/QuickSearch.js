@@ -13,12 +13,12 @@ export default class QuickSearch {
   }
 
   listen() {
-    this.caseSensitive.addEventListener(`input`, this.save.bind(this))
-    this.diacritics.addEventListener(`input`, this.save.bind(this))
+    this.caseSensitive?.addEventListener(`input`, this.save.bind(this))
+    this.diacritics?.addEventListener(`input`, this.save.bind(this))
     this.form.addEventListener(`input`, this.resetValidity.bind(this))
     this.form.addEventListener(`submit`, this.validate.bind(this))
     this.language.addEventListener(`input`, this.save.bind(this))
-    this.regex.addEventListener(`input`, this.save.bind(this))
+    this.regex?.addEventListener(`input`, this.save.bind(this))
   }
 
   render() {
@@ -29,9 +29,9 @@ export default class QuickSearch {
     if (query.size) return
 
     // Restore search settings
-    this.caseSensitive.checked = localStorage.getItem(`caseSensitive`) === `true`
-    this.diacritics.checked    = localStorage.getItem(`diacritics`) === `true`
-    this.regex.checked         = localStorage.getItem(`regex`) === `true`
+    if (this.caseSensitive) this.caseSensitive.checked = localStorage.getItem(`caseSensitive`) === `true`
+    if (this.diacritics) this.diacritics.checked    = localStorage.getItem(`diacritics`) === `true`
+    if (this.regex) this.regex.checked         = localStorage.getItem(`regex`) === `true`
 
     const language = localStorage.getItem(`language`)
 
@@ -44,17 +44,17 @@ export default class QuickSearch {
   }
 
   save() {
-    localStorage.setItem(`caseSensitive`, this.caseSensitive.checked)
-    localStorage.setItem(`diacritics`, this.diacritics.checked)
+    if (this.caseSensitive) localStorage.setItem(`caseSensitive`, this.caseSensitive.checked)
+    if (this.diacritics) localStorage.setItem(`diacritics`, this.diacritics.checked)
     localStorage.setItem(`language`, this.language.value)
-    localStorage.setItem(`regex`, this.regex.checked)
+    if (this.regex) localStorage.setItem(`regex`, this.regex.checked)
   }
 
   validate(ev) {
 
     const q = this.search.value
 
-    if (!(q && this.regex.checked)) return
+    if (!(q && this.regex?.checked)) return
 
     try {
       new RegExp(q, `v`)
