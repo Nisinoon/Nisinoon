@@ -19,6 +19,11 @@ export default class QuickSearch {
     this.form.addEventListener(`submit`, this.validate.bind(this))
     this.language.addEventListener(`input`, this.save.bind(this))
     this.regex?.addEventListener(`input`, this.save.bind(this))
+
+    // reset button functionality
+    this.resetButton.addEventListener(`click`, this.reset.bind(this))
+
+    console.log('resetButton:', this.resetButton)
   }
 
   render() {
@@ -64,6 +69,13 @@ export default class QuickSearch {
       this.search.reportValidity()
     }
 
+  }
+
+  reset(ev) {
+    ev.preventDefault()
+    localStorage.removeItem(`language`)
+    this.search.value = ``
+    this.language.value = `all`
   }
 
 }
