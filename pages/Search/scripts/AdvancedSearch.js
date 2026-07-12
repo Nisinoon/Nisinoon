@@ -11,6 +11,7 @@ export default class AdvancedSearch {
     this.logic         = document.getElementById(`logic-select`)
     this.regex         = document.getElementById(`advanced-regex-box`)
     this.tagsBox       = document.getElementById(`tags-box`)
+    this.resetButton   = document.getElementById('advanced-reset-button')
   }
 
   listen() {
@@ -21,6 +22,11 @@ export default class AdvancedSearch {
     this.language.addEventListener(`input`, this.save.bind(this))
     this.logic.addEventListener(`input`, this.save.bind(this))
     this.regex.addEventListener(`input`, this.save.bind(this))
+
+    // reset button functionality
+    this.resetButton.addEventListener(`click`, this.reset.bind(this))
+
+    console.log('resetButton:', this.resetButton)
   }
 
   render() {
@@ -71,6 +77,30 @@ export default class AdvancedSearch {
       }
     }
 
+  }
+
+  reset(ev) {
+    ev.preventDefault()
+    localStorage.removeItem(`language`)
+    localStorage.removeItem(`logic`)
+    
+    // Reset all text/search inputs
+    const fields = document.querySelectorAll(`#advanced-search-form [type=search]`)
+    for (const field of fields) field.value = ``
+
+    // Reset checkboxes
+    this.caseSensitive.checked = false
+    this.diacritics.checked = false
+    this.regex.checked = false
+    document.getElementById(`primary-box`).checked = false
+    document.getElementById(`secondary-box`).checked = false
+
+    // Reset dropdowns to default
+    this.language.value = `all`
+    this.logic.value = `all`
+    document.getElementById(`subcategory-select`).value = ``
+    document.getElementById(`type-select`).value = ``
+    document.getElementById(`bib-select`).value = ``
   }
 
 }
