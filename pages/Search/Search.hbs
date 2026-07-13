@@ -39,7 +39,7 @@
       </div>
 
       <div>
-        <label for=quick-language-select>Language</label>
+        <label for=quick-language-select>Language(s)</label>
         <select class='language-select text-box' id=quick-language-select name=language>
           <option {{#unless query.language }}selected{{else if (is query.language 'all') }}selected{{/unless}} value=all>All languages</option>
           {{#each languages as |lang| }}
