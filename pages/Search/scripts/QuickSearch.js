@@ -22,8 +22,6 @@ export default class QuickSearch {
 
     // reset button functionality
     this.resetButton.addEventListener(`click`, this.reset.bind(this))
-
-    console.log('resetButton:', this.resetButton)
   }
 
   render() {
