@@ -27,7 +27,7 @@ A multilingual dictionary database of Algonquian derivational morphemes {.subtit
 -->
 
 <figure class=textile>
-  <img alt='A rectangular textile hand made by Angela Waupochick for the Nisinoon project, displaying a top-down view of two trillium flowers at opposite corners of a pink square in the center, bordered by side views of two trillium flowers along the top and bottom. Photo by Rodney Schreiner.' src=/images/textile.jpg>
+  <img alt='A rectangular textile hand made by Angela Waupochick for the Nisinoon project, displaying a top-down view of two trillium flowers at opposite corners of a pink square in the center, bordered by side views of two trillium flowers along the top and bottom. Photo by Rodney Schreiner.' src=/images/textile.webp>
   <figcaption class=caption>
     <span>Trillium applique by Angela Waupochick</span>
     <span>Photo by Rodney Schreiner</span>

@@ -21,9 +21,9 @@
 
 .sticky {
   align-items:     center;
-  inline-size:     100vw;
+  inline-size:     100%;
   inset-inline:    0;
-  max-inline-size: 100vw;
+  max-inline-size: 100%;
   position:        sticky;
 }
 
@@ -44,8 +44,8 @@
 
 body {
   inline-size:     fit-content !important;
-  max-inline-size: 100vw;
-  min-inline-size: 100vw;
+  max-inline-size: 100vw !important;
+  min-inline-size: 100% !important;
   overflow-x:      auto !important;
 }
 
