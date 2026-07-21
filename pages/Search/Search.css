@@ -54,6 +54,10 @@ body {
   flex-direction: row;
 }
 
+.checkbox-fields {
+  grid-column-start: 2;
+}
+
 .citation {
 
   margin:      0;
@@ -195,6 +199,18 @@ label {
 .meta-row th {
   padding:    var(--text-padding);
   text-align: center;
+}
+
+.more-search-fields {
+
+  .help-text {
+    text-align: center;
+  }
+
+  .horizontal-fields {
+    margin-block: 0.5em;
+  }
+
 }
 
 .num-results {
