@@ -12,6 +12,8 @@ export default class AdvancedSearch {
     this.regex         = document.getElementById(`advanced-regex-box`)
     this.tagsBox       = document.getElementById(`tags-box`)
     this.resetButton   = document.getElementById('advanced-reset-button')
+    this.typeSelect = document.getElementById(`type-select`)
+    this.finalFields = document.querySelector(`.checkbox-fields`)
   }
 
   listen() {
@@ -25,6 +27,9 @@ export default class AdvancedSearch {
 
     // reset button functionality
     this.resetButton.addEventListener(`click`, this.reset.bind(this))
+
+    // toggle showing component type "final" options
+    this.typeSelect.addEventListener(`input`, this.toggleFinalFields.bind(this))
   }
 
   render() {
@@ -45,6 +50,8 @@ export default class AdvancedSearch {
     if (language) this.language.value = language
     if (logic) this.logic.value = logic
 
+    // Toggle showing final type options
+    this.toggleFinalFields()
   }
 
   resetValidity() {
@@ -99,6 +106,11 @@ export default class AdvancedSearch {
     document.getElementById(`subcategory-select`).value = ``
     document.getElementById(`type-select`).value = ``
     document.getElementById(`bib-select`).value = ``
+  }
+
+  toggleFinalFields() {
+    const isFinal = this.typeSelect.value === `final`
+    this.finalFields.style.display = isFinal ? `flex` : `none`
   }
 
 }

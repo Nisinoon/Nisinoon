@@ -91,28 +91,47 @@
 
       <div class='horizontal-fields main-fields'>
 
-        <label for=form-box>Form</label>
-        <input
-          autocomplete=on
-          autocorrect=off
-          class=text-box
-          enterkeyhint=search
-          id=form-box
-          inputmode=search
-          name=form
-          placeholder='e.g. “atimw-”'
-          spellcheck=false
-          type=search
-          value='{{ query.form }}'
-        >
 
-        <label for=advanced-language-select>Language</label>
+        <label for=advanced-language-select>Language(s)</label>
         <select class='language-select text-box' id=advanced-language-select name=language>
           <option {{#unless query.language }}selected{{else if (is query.language 'all') }}selected{{/unless}} value=all>All languages</option>
           {{#each languages as |lang| }}
             <option {{#if (is ../query.language key) }} selected {{/if}} value='{{ key }}'>{{ name }}{{#if autonyms }} ({{#each autonyms }}{{ this }}{{#unless @last }}, {{/unless}}{{/each}}){{/if}}</option>
           {{/each}}
         </select>
+
+
+        <label for=source-form-box>Form</label>
+        <input
+          autocomplete=on
+          autocorrect=off
+          class=text-box
+          enterkeyhint=search
+          id=source-form-box
+          inputmode=search
+          name=sourceForm
+          placeholder='e.g. “ôben-”'
+          spellcheck=false
+          type=search
+          value='{{ query.sourceForm }}'
+        >
+
+
+        <label for=gloss-box>Definition (Gloss)</label>
+        <input
+          autocomplete=on
+          autocorrect=off
+          class=text-box
+          enterkeyhint=search
+          id=gloss-box
+          inputmode=search
+          name=gloss
+          placeholder='e.g. “-e3ee”'
+          spellcheck=true
+          type=search
+          value='{{ query.gloss }}'
+        >
+  
 
         <!-- Removing specificity option
         <label for=specificity-select>Specificity</label>
@@ -123,37 +142,7 @@
         </select>
         -->
 
-        <label for=subcategory-select>Subcategory</label>
-        <select class=text-box id=subcategory-select name=subcategory>
-          <option value=''>—</option>
-          {{#each types.subcategories as |subcategory| }}
-            <option {{#if (is ../query.subcategory subcategory) }}selected{{/if}} value='{{ subcategory }}'>{{ subcategory }}</option>
-          {{/each}}
-        </select>
-
-        <label for=tags-box>Tags</label>
-        <input
-          autocomplete=on
-          autocorrect=off
-          class=text-box
-          enterkeyhint=search
-          id=tags-box
-          inputmode=search
-          name=tags
-          placeholder='e.g. “dog”'
-          spellcheck=true
-          type=search
-          value='{{ query.tags }}'
-        >
-
-        <label for=type-select>Type</label>
-        <select class=text-box id=type-select name=type>
-          <option value=''>—</option>
-          {{#each types.types as |type| }}
-            <option {{#if (is ../query.type type) }}selected{{/if}} value='{{ type }}'>{{ type }}</option>
-          {{/each}}
-        </select>
-
+        <!--
         <label for=UR-box>UR</label>
         <input
           autocomplete=on
@@ -168,22 +157,68 @@
           type=search
           value='{{ query.UR }}'
         >
+        -->
 
       </div><!-- Main Fields -->
 
-      <fieldset class=checkbox-fields>
+      <fieldset class=more-search-fields>
 
-        <div class=checkbox-field>
-          <input {{#if query.primary }} checked {{/if}} id=primary-box name=primary type=checkbox>
-          <label for=primary-box>Final: Primary</label>
+        <legend class=legend>More Search Fields</legend>
+
+        <div class='horizontal-fields'>
+
+          <label for=type-select>Component type</label>
+          <select class=text-box id=type-select name=type>
+            <option value=''>—</option>
+            {{#each types.types as |type| }}
+              <option {{#if (is ../query.type type) }}selected{{/if}} value='{{ type }}'>{{ type }}</option>
+            {{/each}}
+          </select>
+
+          <fieldset class=checkbox-fields>
+
+            <div class=checkbox-field>
+              <input {{#if query.primary }} checked {{/if}} id=primary-box name=primary type=checkbox>
+              <label for=primary-box>Final: Primary</label>
+            </div>
+
+            <div class=checkbox-field>
+              <input {{#if query.secondary }} checked {{/if}} id=secondary-box name=secondary type=checkbox>
+              <label for=secondary-box>Final: Secondary</label>
+            </div>
+
+          </fieldset><!-- CheckBox Fields -->
+
+
+          <label for=subcategory-select>Subcategory</label>
+          <select class=text-box id=subcategory-select name=subcategory>
+            <option value=''>—</option>
+            {{#each types.subcategories as |subcategory| }}
+              <option {{#if (is ../query.subcategory subcategory) }}selected{{/if}} value='{{ subcategory }}'>{{ subcategory }}</option>
+            {{/each}}
+          </select>
+
+
+          <label for=tags-box>Semantic tag(s)</label>
+          <input
+            autocomplete=on
+            autocorrect=off
+            class=text-box
+            enterkeyhint=search
+            id=tags-box
+            inputmode=search
+            name=tags
+            placeholder='e.g. “dog”'
+            spellcheck=true
+            type=search
+            value='{{ query.tags }}'
+          >
+
         </div>
+        
 
-        <div class=checkbox-field>
-          <input {{#if query.secondary }} checked {{/if}} id=secondary-box name=secondary type=checkbox>
-          <label for=secondary-box>Final: Secondary</label>
-        </div>
+      </fieldset>
 
-      </fieldset><!-- CheckBox Fields -->
 
       <fieldset class=source-fields>
 
@@ -201,35 +236,22 @@
             {{/each}}
           </select>
 
-          <label for=source-form-box>Form</label>
+
+          <label for=form-box>Form (Proj. orthography)</label>
           <input
             autocomplete=on
             autocorrect=off
             class=text-box
             enterkeyhint=search
-            id=source-form-box
+            id=form-box
             inputmode=search
-            name=sourceForm
-            placeholder='e.g. “ôben-”'
+            name=form
+            placeholder='e.g. “atimw-”'
             spellcheck=false
             type=search
-            value='{{ query.sourceForm }}'
+            value='{{ query.form }}'
           >
 
-          <label for=gloss-box>Gloss</label>
-          <input
-            autocomplete=on
-            autocorrect=off
-            class=text-box
-            enterkeyhint=search
-            id=gloss-box
-            inputmode=search
-            name=gloss
-            placeholder='e.g. “-e3ee”'
-            spellcheck=true
-            type=search
-            value='{{ query.gloss }}'
-          >
 
           <label for=source-form-box>UR</label>
           <input
