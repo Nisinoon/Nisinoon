@@ -106,6 +106,11 @@ export default class AdvancedSearch {
     document.getElementById(`subcategory-select`).value = ``
     document.getElementById(`type-select`).value = ``
     document.getElementById(`bib-select`).value = ``
+
+    document.getElementById(`primary-box`).checked = false
+    document.getElementById(`secondary-box`).checked = false
+    document.getElementById(`type-select`).value = ``
+    this.toggleFinalFields()
   }
 
   toggleFinalFields() {
