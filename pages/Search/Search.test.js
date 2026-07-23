@@ -219,6 +219,7 @@ describe(`Search`, function() {
 
       cy.visit(`/search`)
       cy.contains(`label`, `Advanced Search`).click()
+      cy.get(`#type-select`).select(`final`)
       cy.get(`#primary-box`).check()
       cy.get(`#advanced-search-button`).click()
 
@@ -234,6 +235,7 @@ describe(`Search`, function() {
 
       cy.visit(`/search`)
       cy.contains(`label`, `Advanced Search`).click()
+      cy.get(`#type-select`).select(`final`)
       cy.get(`#secondary-box`).check()
       cy.get(`#advanced-search-button`).click()
 
@@ -308,6 +310,7 @@ describe(`Search`, function() {
 
     })
 
+    /* Option has been removed
     it(`Component: UR`, function() {
       cy.visit(`/search`)
       cy.contains(`label`, `Advanced Search`).click()
@@ -315,6 +318,7 @@ describe(`Search`, function() {
       cy.get(`#advanced-search-button`).click()
       cy.get(`.num-results`).should(`include.text`, `of 2.`)
     })
+    */
 
     it(`Sources: Bibliographic Source`, function() {
       cy.visit(`/search`)
