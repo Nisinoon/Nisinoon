@@ -10,7 +10,7 @@ import Normalizer         from './Normalizer.js'
 /**
  * NB: Return named function expressions from these methods to make debugging easier.
  */
-function createMatchers(query, normalize) {
+function createMatchers(query, normalize, langFilter) {
 
   const {
     bib,
@@ -73,7 +73,9 @@ function createMatchers(query, normalize) {
      * NB: This function only runs when the "Language" setting is not `all`.
      */
     language() {
-      return createBasicTester(`language`)
+      return function testLanguage(component) {
+        return langFilter.includes(component.language)
+      }
     },
 
     primary() {
@@ -167,13 +169,14 @@ export default class Database {
     const caseSensitive = query.get(`caseSensitive`)
     const diacritics    = query.get(`diacritics`)
     const langQuery     = query.get(`language`)
+    const langFilter    = Array.isArray(langQuery) ? langQuery : [langQuery]
     const regex         = query.get(`regex`)
     const q             = query.get(`q`)
 
     // Special case searches without a text query to improve search speed.
     if (!q) {
-      if (!langQuery || langQuery === `all`) return Array.from(this.components)
-      return Array.from(this.components).filter(({ language }) => language === langQuery)
+      if (!langQuery || langFilter.includes(`all`)) return Array.from(this.components)
+      return Array.from(this.components).filter(({ language }) => langFilter.includes(language))
     }
 
     // Conduct full search if a text query is not present.
@@ -194,7 +197,7 @@ export default class Database {
     }) {
 
       // Special case language filter to improve speed of search.
-      if (langQuery && langQuery !== `all` && language !== langQuery) return false
+      if (langQuery && !langFilter.includes(`all`) && !langFilter.includes(language)) return false
 
       return tags?.some(({ tag }) => test(normalize(tag)))
       || test(normalize(form))
@@ -218,12 +221,13 @@ export default class Database {
     const caseSensitive = query.get(`caseSensitive`)
     const diacritics    = query.get(`diacritics`)
     const language      = query.get(`language`)
+    const langFilter    = Array.isArray(language) ? language : [language]
     const logic         = query.get(`logic`) ?? `all`
 
     const normalize = new Normalizer({ caseSensitive, diacritics })
-    const matchers  = createMatchers(query, normalize)
+    const matchers = createMatchers(query, normalize, langFilter)
 
-    if (language === `all`) delete matchers.language
+    if (!language || langFilter.includes(`all`)) delete matchers.language
 
     const matchFunctions = Object.keys(matchers)
     .filter(field => query.get(field))

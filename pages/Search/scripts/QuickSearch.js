@@ -6,6 +6,9 @@ export default class QuickSearch {
     this.caseSensitive = document.getElementById(`quick-case-sensitive-box`)
     this.diacritics    = document.getElementById(`quick-diacritics-box`)
     this.form          = document.getElementById(`quick-search-form`)
+    this.languageDropdown = document.getElementById('quick-language-dropdown')
+    this.languageToggle   = document.getElementById(`quick-language-dropdown-toggle`)
+    this.languagePanel    = document.getElementById('quick-language-panel')
     this.language      = document.getElementById(`quick-language-select`)
     this.regex         = document.getElementById(`quick-regex-box`)
     this.resetButton   = document.getElementById(`quick-reset-button`)
@@ -17,11 +20,20 @@ export default class QuickSearch {
     this.diacritics?.addEventListener(`input`, this.save.bind(this))
     this.form.addEventListener(`input`, this.resetValidity.bind(this))
     this.form.addEventListener(`submit`, this.validate.bind(this))
-    this.language.addEventListener(`input`, this.save.bind(this))
+    this.languagePanel.addEventListener(`input`, this.save.bind(this))
     this.regex?.addEventListener(`input`, this.save.bind(this))
 
     // reset button functionality
     this.resetButton.addEventListener(`click`, this.reset.bind(this))
+
+    // toggle showing languages panel
+    this.languageToggle.addEventListener('click', this.open.bind(this))
+    // toggle showing languages panel when clicking off
+    document.addEventListener(`click`, (ev) => {
+      if (!this.languageDropdown.contains(ev.target)) {
+        this.languagePanel.classList.remove(`open`)
+      }
+    })
   }
 
   render() {
@@ -29,7 +41,7 @@ export default class QuickSearch {
     const url   = new URL(location.href)
     const query = url.searchParams
 
-    if (query.size) return
+    // if (query.size) return
 
     // Restore search settings
     if (this.caseSensitive) this.caseSensitive.checked = localStorage.getItem(`caseSensitive`) === `true`
@@ -38,7 +50,17 @@ export default class QuickSearch {
 
     const language = localStorage.getItem(`language`)
 
-    if (language) this.language.value = language
+    if (language) {
+      try {
+        const languages = JSON.parse(language)
+        document.querySelectorAll(`#quick-language-panel input`).forEach(el => {
+          el.checked = languages.includes(el.value)
+        })
+      } catch {
+        // Old format in localStorage, clear it
+        localStorage.removeItem(`language`)
+      }
+    }
 
   }
 
@@ -47,9 +69,14 @@ export default class QuickSearch {
   }
 
   save() {
+    // save languages
+    const checkedLanguages = Array.from(
+      document.querySelectorAll(`#quick-language-panel input:checked`)
+    ).map(el => el.value)
+    localStorage.setItem(`language`, JSON.stringify(checkedLanguages))
+
     if (this.caseSensitive) localStorage.setItem(`caseSensitive`, this.caseSensitive.checked)
     if (this.diacritics) localStorage.setItem(`diacritics`, this.diacritics.checked)
-    localStorage.setItem(`language`, this.language.value)
     if (this.regex) localStorage.setItem(`regex`, this.regex.checked)
   }
 
@@ -73,7 +100,15 @@ export default class QuickSearch {
     ev.preventDefault()
     localStorage.removeItem(`language`)
     this.search.value = ``
-    this.language.value = `all`
+
+    document.querySelectorAll(`#advanced-language-panel input`).forEach(el => el.checked = false)
+    document.querySelector(`#advanced-language-panel input[value=all]`).checked = true
   }
+
+  // Open languages panel
+  open() {
+    this.languagePanel.classList.toggle('open')
+  }
+  
 
 }

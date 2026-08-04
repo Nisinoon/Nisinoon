@@ -40,12 +40,31 @@
 
       <div>
         <label for=quick-language-select>Language(s)</label>
+        <!--
         <select class='language-select text-box' id=quick-language-select name=language>
           <option {{#unless query.language }}selected{{else if (is query.language 'all') }}selected{{/unless}} value=all>All languages</option>
           {{#each languages as |lang| }}
             <option {{#if (is ../query.language key) }} selected {{/if}} value='{{ key }}'>{{ name }}{{#if autonyms }} ({{#each autonyms }}{{ this }}{{#unless @last }}, {{/unless}}{{/each}}){{/if}}</option>
           {{/each}}
         </select>
+        -->
+        <div class=language-dropdown text-box id=quick-language-dropdown>
+          <button class='button language-dropdown-toggle' id=quick-language-dropdown-toggle type=button>
+            All languages <span>▼</span>
+          </button>
+          <div class=language-dropdown-panel id=quick-language-panel>
+            <label>
+              <input name=language type=checkbox value=all checked>
+              All languages
+            </label>
+            {{#each languages as |lang| }}
+              <label>
+                <input name=language type=checkbox value='{{ key }}'>
+                {{ name }}
+              </label>
+            {{/each}}
+          </div>
+        </div>
       </div>
 
       <fieldset>
@@ -93,12 +112,31 @@
 
 
         <label for=advanced-language-select>Language(s)</label>
-        <select class='language-select text-box' id=advanced-language-select name=language>
+        <!--
+        <select class='language-select text-box' id=advanced-language-select name=language multiple>
           <option {{#unless query.language }}selected{{else if (is query.language 'all') }}selected{{/unless}} value=all>All languages</option>
           {{#each languages as |lang| }}
             <option {{#if (is ../query.language key) }} selected {{/if}} value='{{ key }}'>{{ name }}{{#if autonyms }} ({{#each autonyms }}{{ this }}{{#unless @last }}, {{/unless}}{{/each}}){{/if}}</option>
           {{/each}}
         </select>
+        -->
+        <div class=language-dropdown text-box id=advanced-language-dropdown>
+          <button class='button language-dropdown-toggle' id=advanced-language-dropdown-toggle type=button>
+            All languages <span>▼</span>
+          </button>
+          <div class=language-dropdown-panel id=advanced-language-panel>
+            <label>
+              <input name=language type=checkbox value=all checked>
+              All languages
+            </label>
+            {{#each languages as |lang| }}
+              <label>
+                <input name=language type=checkbox value='{{ key }}'>
+                {{ name }}
+              </label>
+            {{/each}}
+          </div>
+        </div>
 
 
         <label for=source-form-box>Form</label>
@@ -167,7 +205,13 @@
 
         <div class='horizontal-fields'>
 
-          <label for=type-select>Component type</label>
+          <label for=type-select>
+            Component Type
+            <span class=tooltip>
+              <span class=info-button>ℹ</span>
+              <span class=tooltip-text>Finals are components that appear at the end of a word and determine its transitivity.</span>
+            </span>
+          </label>
           <select class=text-box id=type-select name=type>
             <option value=''>—</option>
             {{#each types.types as |type| }}
@@ -199,7 +243,7 @@
           </select>
 
 
-          <label for=tags-box>Semantic tag(s)</label>
+          <label for=tags-box>Semantic Tag(s)</label>
           <input
             autocomplete=on
             autocorrect=off
@@ -237,7 +281,7 @@
           </select>
 
 
-          <label for=form-box>Form (Proj. orthography)</label>
+          <label for=form-box>Form (Proj. Orthography)</label>
           <input
             autocomplete=on
             autocorrect=off

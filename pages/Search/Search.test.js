@@ -150,7 +150,10 @@ describe(`Search`, function() {
     it(`language filter only`, function() {
 
       cy.visit(`/search`)
-      cy.get(`#quick-language-select`).select(`Cree_East`)
+      cy.get(`#quick-language-dropdown-toggle`).click()
+      cy.get(`#quick-language-panel input[value=all]`).uncheck()
+      cy.get(`#quick-language-panel input[value=Cree_East]`).check()
+      cy.get(`#quick-language-dropdown-toggle`).click()
       cy.get(`#quick-search-button`).click()
 
       cy.get(`.num-results`)
@@ -164,22 +167,26 @@ describe(`Search`, function() {
     it(`language filter + search query`, function() {
       cy.visit(`/search`)
       cy.get(`#search-box`).type(`yi`)
-      cy.get(`#quick-language-select`).select(`Cree_East`)
+      cy.get(`#quick-language-dropdown-toggle`).click()
+      cy.get(`#quick-language-panel input[value=all]`).uncheck()
+      cy.get(`#quick-language-panel input[value=Cree_East]`).check()
+      cy.get(`#quick-language-dropdown-toggle`).click()
       cy.get(`#quick-search-button`).click()
       cy.get(`.num-results`).should(`include.text`, `of 1.`)
     })
 
     it(`Settings`, function() {
       cy.visit(`/search`)
-      //cy.get(`#quick-case-sensitive-box`).check()
-      //cy.get(`#quick-diacritics-box`).check()
-      //cy.get(`#quick-regex-box`).check()
-      cy.get(`#quick-language-select`).select(`Cree_East`)
+
+      cy.get(`#quick-language-dropdown-toggle`).click()
+      cy.get(`#quick-language-panel input[value=all]`).uncheck()
+      cy.get(`#quick-language-panel input[value=Cree_East]`).check()
+
       cy.reload()
-      //cy.get(`#quick-case-sensitive-box`).should(`be.checked`)
-      //cy.get(`#quick-diacritics-box`).should(`be.checked`)
-      //cy.get(`#quick-regex-box`).should(`be.checked`)
-      cy.get(`#quick-language-select`).should(`have.value`, `Cree_East`)
+
+      cy.get(`#quick-language-dropdown-toggle`).click()
+      cy.get(`#quick-language-panel input[value=Cree_East]`).should(`be.checked`)
+      cy.get(`#quick-language-panel input[value=all]`).should(`not.be.checked`)
     })
 
   })
@@ -204,7 +211,9 @@ describe(`Search`, function() {
 
       cy.visit(`/search`)
       cy.contains(`label`, `Advanced Search`).click()
-      cy.get(`#advanced-language-select`).select(`Cree_East`)
+      cy.get(`#advanced-language-dropdown-toggle`).click()
+      cy.get(`#advanced-language-panel input[value=all]`).uncheck()
+      cy.get(`#advanced-language-panel input[value=Cree_East]`).check()
       cy.get(`#advanced-search-button`).click()
 
       cy.get(`.num-results`)
@@ -424,17 +433,34 @@ describe(`Search`, function() {
     it(`Settings`, function() {
       cy.visit(`/search`)
       cy.contains(`label`, `Advanced Search`).click()
-      cy.get(`#advanced-language-select`).select(`Cree_East`)
+
+      cy.get(`#advanced-language-dropdown-toggle`).click()
+      cy.get(`#advanced-language-panel input[value=all]`).uncheck()
+      cy.get(`#advanced-language-panel input[value=Cree_East]`).check()
+      cy.get(`#advanced-language-dropdown-toggle`).click()
+
       cy.get(`#advanced-case-sensitive-box`).check()
       cy.get(`#advanced-diacritics-box`).check()
       cy.get(`#advanced-regex-box`).check()
       cy.get(`#logic-select`).select(`any`)
+      cy.get(`#type-select`).select(`final`)
+      cy.get(`#primary-box`).check()
+
       cy.reload()
-      cy.get(`#advanced-language-select`).should(`have.value`, `Cree_East`)
+      cy.contains(`label`, `Advanced Search`).click()
+
+      cy.get(`#advanced-language-dropdown-toggle`).click()
+      cy.get(`#advanced-language-panel input[value=Cree_East]`).should(`be.checked`)
+      cy.get(`#advanced-language-panel input[value=all]`).should(`not.be.checked`)
+      cy.get(`#advanced-language-dropdown-toggle`).click()
+
       cy.get(`#advanced-case-sensitive-box`).should(`be.checked`)
       cy.get(`#advanced-diacritics-box`).should(`be.checked`)
       cy.get(`#advanced-regex-box`).should(`be.checked`)
       cy.get(`#logic-select`).should(`have.value`, `any`)
+      cy.get(`#type-select`).should(`have.value`, `final`)
+      cy.get(`#primary-box`).should(`be.checked`)
+      cy.get(`.checkbox-fields`).should(`be.visible`) // confirms toggleFinalFields ran on restore
     })
 
   })
