@@ -25,6 +25,7 @@
   inset-inline:    0;
   max-inline-size: 100%;
   position:        sticky;
+  z-index:         1;
 }
 
 /* Cell-Specific Styles */
@@ -297,6 +298,10 @@ label:has(.tooltip) {
   text-align:         center;
   transform:          translate(50%, -50%);
   vertical-align:     middle;
+}
+
+.quick-search {
+  z-index: 2;
 }
 
 #results {

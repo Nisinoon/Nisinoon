@@ -7,8 +7,8 @@ export default class AdvancedSearch {
     this.diacritics       = document.getElementById(`advanced-diacritics-box`)
     this.form             = document.getElementById(`advanced-search-form`)
     this.formBox          = document.getElementById(`form-box`)
-    this.languageToggle   = document.getElementById(`language-dropdown-toggle`)
-    this.languageDropdown = document.getElementById('language-dropdown')
+    this.languageDropdown = document.getElementById('advanced-language-dropdown')
+    this.languageToggle   = document.getElementById(`advanced-language-dropdown-toggle`)
     this.languagePanel    = document.getElementById('advanced-language-panel')
     this.logic            = document.getElementById(`logic-select`)
     this.regex            = document.getElementById(`advanced-regex-box`)
@@ -60,18 +60,15 @@ export default class AdvancedSearch {
     this.regex.checked         = localStorage.getItem(`regex`) === `true`
 
     const language = localStorage.getItem(`language`)
-    console.log('attempting to restore languages');
     if (language) {
       try {
         const languages = JSON.parse(language)
         document.querySelectorAll(`#advanced-language-panel input`).forEach(el => {
           el.checked = languages.includes(el.value)
         })
-        console.log('languages successfully restored');
       } catch {
         // Old format in localStorage, clear it
         localStorage.removeItem(`language`)
-        console.log('languages unsuccessfully restored')
       }
     }
 
@@ -160,6 +157,7 @@ export default class AdvancedSearch {
     this.finalFields.style.display = isFinal ? `flex` : `none`
   }
 
+  // Open languages panel
   open() {
     this.languagePanel.classList.toggle('open')
   }

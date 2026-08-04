@@ -40,12 +40,31 @@
 
       <div>
         <label for=quick-language-select>Language(s)</label>
-        <select class='language-select text-box' id=quick-language-select name=language multiple>
+        <!--
+        <select class='language-select text-box' id=quick-language-select name=language>
           <option {{#unless query.language }}selected{{else if (is query.language 'all') }}selected{{/unless}} value=all>All languages</option>
           {{#each languages as |lang| }}
             <option {{#if (is ../query.language key) }} selected {{/if}} value='{{ key }}'>{{ name }}{{#if autonyms }} ({{#each autonyms }}{{ this }}{{#unless @last }}, {{/unless}}{{/each}}){{/if}}</option>
           {{/each}}
         </select>
+        -->
+        <div class=language-dropdown text-box id=quick-language-dropdown>
+          <button class='button language-dropdown-toggle' id=quick-language-dropdown-toggle type=button>
+            All languages <span>▼</span>
+          </button>
+          <div class=language-dropdown-panel id=quick-language-panel>
+            <label>
+              <input name=language type=checkbox value=all checked>
+              All languages
+            </label>
+            {{#each languages as |lang| }}
+              <label>
+                <input name=language type=checkbox value='{{ key }}'>
+                {{ name }}
+              </label>
+            {{/each}}
+          </div>
+        </div>
       </div>
 
       <fieldset>
@@ -101,8 +120,8 @@
           {{/each}}
         </select>
         -->
-        <div class=language-dropdown text-box id="language-dropdown">
-          <button class='button language-dropdown-toggle' id=language-dropdown-toggle type=button>
+        <div class=language-dropdown text-box id=advanced-language-dropdown>
+          <button class='button language-dropdown-toggle' id=advanced-language-dropdown-toggle type=button>
             All languages <span>▼</span>
           </button>
           <div class=language-dropdown-panel id=advanced-language-panel>
