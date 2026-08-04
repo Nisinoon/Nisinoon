@@ -152,7 +152,7 @@ export default class AdvancedSearch {
     this.toggleFinalFields()
   }
 
-  toggleFinalFields(status) {
+  toggleFinalFields() {
     const isFinal = this.typeSelect.value === `final`
     this.finalFields.style.display = isFinal ? `flex` : `none`
   }
@@ -160,11 +160,6 @@ export default class AdvancedSearch {
   // Open languages panel
   open() {
     this.languagePanel.classList.toggle('open')
-  }
-
-  toggleFinalFields() {
-    const isFinal = this.typeSelect.value === `final`
-    this.finalFields.style.display = isFinal ? `flex` : `none`
   }
 
 }
