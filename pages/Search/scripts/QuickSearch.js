@@ -76,4 +76,6 @@ export default class QuickSearch {
     this.language.value = `all`
   }
 
+  
+
 }
