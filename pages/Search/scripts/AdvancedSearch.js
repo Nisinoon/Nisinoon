@@ -162,4 +162,9 @@ export default class AdvancedSearch {
     this.languagePanel.classList.toggle('open')
   }
 
+  toggleFinalFields() {
+    const isFinal = this.typeSelect.value === `final`
+    this.finalFields.style.display = isFinal ? `flex` : `none`
+  }
+
 }
