@@ -16,6 +16,8 @@ export default class AdvancedSearch {
     this.resetButton      = document.getElementById('advanced-reset-button')
     this.typeSelect       = document.getElementById(`type-select`)
     this.finalFields      = document.querySelector(`.checkbox-fields`)
+    this.selectAllToggle  = document.getElementById(`advanced-select-all-toggle`)
+    this.languageToggleLabel = document.getElementById(`advanced-language-toggle-label`)
   }
 
   listen() {
@@ -23,7 +25,11 @@ export default class AdvancedSearch {
     this.diacritics.addEventListener(`input`, this.save.bind(this))
     this.form.addEventListener(`input`, this.resetValidity.bind(this))
     this.form.addEventListener(`submit`, this.validate.bind(this))
-    this.languagePanel.addEventListener(`input`, this.save.bind(this))
+    this.languagePanel.addEventListener(`input`, () => { 
+      this.updateSelectAllLabel()
+      this.updateLanguageToggleLabel()
+      this.save()
+    })
     this.logic.addEventListener(`input`, this.save.bind(this))
     this.regex.addEventListener(`input`, this.save.bind(this))
 
@@ -45,6 +51,8 @@ export default class AdvancedSearch {
     document.getElementById(`primary-box`).addEventListener(`input`, this.save.bind(this))
     document.getElementById(`secondary-box`).addEventListener(`input`, this.save.bind(this))
 
+    // toggle select/deselect all languages
+    this.selectAllToggle.addEventListener(`click`, this.toggleSelectAll.bind(this))
   }
 
   render() {
@@ -71,6 +79,7 @@ export default class AdvancedSearch {
         localStorage.removeItem(`language`)
       }
     }
+    this.updateLanguageToggleLabel()
 
     const logic    = localStorage.getItem(`logic`)
 
@@ -143,6 +152,7 @@ export default class AdvancedSearch {
     // Reset dropdowns to default
     document.querySelectorAll(`#advanced-language-panel input`).forEach(el => el.checked = false)
     document.querySelector(`#advanced-language-panel input[value=all]`).checked = true
+    this.updateLanguageToggleLabel()
     this.logic.value = `all`
     document.getElementById(`subcategory-select`).value = ``
     document.getElementById(`type-select`).value = ``
@@ -160,6 +170,42 @@ export default class AdvancedSearch {
   // Open languages panel
   open() {
     this.languagePanel.classList.toggle('open')
+  }
+
+  toggleSelectAll() {
+    const checkboxes = document.querySelectorAll(`#advanced-language-panel input`)
+    const allChecked  = Array.from(checkboxes).every(el => el.checked)
+    checkboxes.forEach(el => el.checked = !allChecked)
+    this.updateSelectAllLabel()
+    this.updateLanguageToggleLabel()
+    this.save()
+  }
+
+  updateSelectAllLabel() {
+    const checkboxes = document.querySelectorAll(`#advanced-language-panel input`)
+    const allChecked  = Array.from(checkboxes).every(el => el.checked)
+    this.selectAllToggle.textContent = allChecked ? `Deselect all` : `Select all`
+  }
+
+  updateLanguageToggleLabel() {
+    const checkboxes = Array.from(document.querySelectorAll(`#advanced-language-panel input`))
+    const checked     = checkboxes.filter(el => el.checked)
+
+    let label
+    if (checked.length === 0) {
+      label = `No languages selected`
+    } else if (checked.length === checkboxes.length) {
+      label = `All languages`
+    } else if (checked.length <= 5) {
+      // Show names directly for a small selection
+      label = checked
+        .map(el => el.closest(`label`).textContent.trim())
+        .join(`, `)
+    } else {
+      label = `${checked.length} languages selected`
+    }
+    label = label.length > 50 ? label.slice(0, 50) + "..." : label;
+    this.languageToggleLabel.textContent = label
   }
 
 }
