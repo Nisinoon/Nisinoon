@@ -151,7 +151,7 @@ describe(`Search`, function() {
 
       cy.visit(`/search`)
       cy.get(`#quick-language-dropdown-toggle`).click()
-      cy.get(`#quick-language-panel input[value=all]`).uncheck()
+      cy.get(`#quick-select-all-toggle`).click()
       cy.get(`#quick-language-panel input[value=Cree_East]`).check()
       cy.get(`#quick-language-dropdown-toggle`).click()
       cy.get(`#quick-search-button`).click()
@@ -168,7 +168,7 @@ describe(`Search`, function() {
       cy.visit(`/search`)
       cy.get(`#search-box`).type(`yi`)
       cy.get(`#quick-language-dropdown-toggle`).click()
-      cy.get(`#quick-language-panel input[value=all]`).uncheck()
+      cy.get(`#quick-select-all-toggle`).click()
       cy.get(`#quick-language-panel input[value=Cree_East]`).check()
       cy.get(`#quick-language-dropdown-toggle`).click()
       cy.get(`#quick-search-button`).click()
@@ -179,14 +179,14 @@ describe(`Search`, function() {
       cy.visit(`/search`)
 
       cy.get(`#quick-language-dropdown-toggle`).click()
-      cy.get(`#quick-language-panel input[value=all]`).uncheck()
+      cy.get(`#quick-select-all-toggle`).click()
       cy.get(`#quick-language-panel input[value=Cree_East]`).check()
 
       cy.reload()
 
       cy.get(`#quick-language-dropdown-toggle`).click()
       cy.get(`#quick-language-panel input[value=Cree_East]`).should(`be.checked`)
-      cy.get(`#quick-language-panel input[value=all]`).should(`not.be.checked`)
+      cy.get(`#quick-select-all-toggle`).should(`contain.text`, `Select all`)
     })
 
   })
@@ -212,7 +212,7 @@ describe(`Search`, function() {
       cy.visit(`/search`)
       cy.contains(`label`, `Advanced Search`).click()
       cy.get(`#advanced-language-dropdown-toggle`).click()
-      cy.get(`#advanced-language-panel input[value=all]`).uncheck()
+      cy.get(`#advanced-select-all-toggle`).click()
       cy.get(`#advanced-language-panel input[value=Cree_East]`).check()
       cy.get(`#advanced-search-button`).click()
 
@@ -435,7 +435,7 @@ describe(`Search`, function() {
       cy.contains(`label`, `Advanced Search`).click()
 
       cy.get(`#advanced-language-dropdown-toggle`).click()
-      cy.get(`#advanced-language-panel input[value=all]`).uncheck()
+      cy.get(`#advanced-select-all-toggle`).click()
       cy.get(`#advanced-language-panel input[value=Cree_East]`).check()
       cy.get(`#advanced-language-dropdown-toggle`).click()
 
@@ -451,7 +451,7 @@ describe(`Search`, function() {
 
       cy.get(`#advanced-language-dropdown-toggle`).click()
       cy.get(`#advanced-language-panel input[value=Cree_East]`).should(`be.checked`)
-      cy.get(`#advanced-language-panel input[value=all]`).should(`not.be.checked`)
+      cy.get(`#advanced-select-all-toggle`).should(`contain.text`, `Select all`)
       cy.get(`#advanced-language-dropdown-toggle`).click()
 
       cy.get(`#advanced-case-sensitive-box`).should(`be.checked`)

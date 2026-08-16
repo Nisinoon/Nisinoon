@@ -79,6 +79,7 @@ export default class AdvancedSearch {
         localStorage.removeItem(`language`)
       }
     }
+    this.updateSelectAllLabel()
     this.updateLanguageToggleLabel()
 
     const logic    = localStorage.getItem(`logic`)
@@ -152,6 +153,7 @@ export default class AdvancedSearch {
     // Reset dropdowns to default
     document.querySelectorAll(`#advanced-language-panel input`).forEach(el => el.checked = false)
     document.querySelector(`#advanced-language-panel input[value=all]`).checked = true
+    this.updateSelectAllLabel()
     this.updateLanguageToggleLabel()
     this.logic.value = `all`
     document.getElementById(`subcategory-select`).value = ``
@@ -170,6 +172,7 @@ export default class AdvancedSearch {
   // Open languages panel
   open() {
     this.languagePanel.classList.toggle('open')
+    this.updateSelectAllLabel()
   }
 
   toggleSelectAll() {

@@ -70,6 +70,7 @@ export default class QuickSearch {
         localStorage.removeItem(`language`)
       }
     }
+    this.updateSelectAllLabel()
     this.updateLanguageToggleLabel()
 
   }
@@ -112,13 +113,15 @@ export default class QuickSearch {
     this.search.value = ``
 
     document.querySelectorAll(`#quick-language-panel input`).forEach(el => el.checked = false)
-    document.querySelector(`#quick-language-panel input[value=all]`).checked = true
+
+    this.updateSelectAllLabel()
     this.updateLanguageToggleLabel()
   }
 
   // Open languages panel
   open() {
     this.languagePanel.classList.toggle('open')
+    this.updateSelectAllLabel()
   }
 
   toggleSelectAll() {
