@@ -50,16 +50,13 @@
         -->
         <div class=language-dropdown text-box id=quick-language-dropdown>
           <button class='button language-dropdown-toggle' id=quick-language-dropdown-toggle type=button>
-            All languages <span>▼</span>
+            <span id=quick-language-toggle-label>All languages</span> <span>▼</span>
           </button>
           <div class=language-dropdown-panel id=quick-language-panel>
-            <label>
-              <input name=language type=checkbox value=all checked>
-              All languages
-            </label>
+            <button class='select-all-toggle language-button' id=quick-select-all-toggle type=button>Deselect all</button>
             {{#each languages as |lang| }}
               <label>
-                <input name=language type=checkbox value='{{ key }}'>
+                <input checked name=language type=checkbox value='{{ key }}'>
                 {{ name }}
               </label>
             {{/each}}
@@ -122,16 +119,13 @@
         -->
         <div class=language-dropdown text-box id=advanced-language-dropdown>
           <button class='button language-dropdown-toggle' id=advanced-language-dropdown-toggle type=button>
-            All languages <span>▼</span>
+            <span id=advanced-language-toggle-label>All languages</span> <span>▼</span>
           </button>
           <div class=language-dropdown-panel id=advanced-language-panel>
-            <label>
-              <input name=language type=checkbox value=all checked>
-              All languages
-            </label>
+            <button class='select-all-toggle language-button' id=advanced-select-all-toggle type=button>Deselect all</button>
             {{#each languages as |lang| }}
               <label>
-                <input name=language type=checkbox value='{{ key }}'>
+                <input checked name=language type=checkbox value='{{ key }}'>
                 {{ name }}
               </label>
             {{/each}}

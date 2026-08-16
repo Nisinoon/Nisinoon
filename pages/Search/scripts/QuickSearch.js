@@ -13,6 +13,8 @@ export default class QuickSearch {
     this.regex         = document.getElementById(`quick-regex-box`)
     this.resetButton   = document.getElementById(`quick-reset-button`)
     this.search        = document.getElementById(`search-box`)
+    this.selectAllToggle = document.getElementById(`quick-select-all-toggle`)
+    this.languageToggleLabel = document.getElementById(`quick-language-toggle-label`)
   }
 
   listen() {
@@ -20,7 +22,11 @@ export default class QuickSearch {
     this.diacritics?.addEventListener(`input`, this.save.bind(this))
     this.form.addEventListener(`input`, this.resetValidity.bind(this))
     this.form.addEventListener(`submit`, this.validate.bind(this))
-    this.languagePanel.addEventListener(`input`, this.save.bind(this))
+    this.languagePanel.addEventListener(`input`, () => { 
+      this.updateSelectAllLabel()
+      this.updateLanguageToggleLabel()
+      this.save()
+    })
     this.regex?.addEventListener(`input`, this.save.bind(this))
 
     // reset button functionality
@@ -34,6 +40,9 @@ export default class QuickSearch {
         this.languagePanel.classList.remove(`open`)
       }
     })
+
+    // toggle select/deselect all languages
+    this.selectAllToggle.addEventListener(`click`, this.toggleSelectAll.bind(this))
   }
 
   render() {
@@ -61,6 +70,8 @@ export default class QuickSearch {
         localStorage.removeItem(`language`)
       }
     }
+    this.updateSelectAllLabel()
+    this.updateLanguageToggleLabel()
 
   }
 
@@ -101,13 +112,52 @@ export default class QuickSearch {
     localStorage.removeItem(`language`)
     this.search.value = ``
 
-    document.querySelectorAll(`#advanced-language-panel input`).forEach(el => el.checked = false)
-    document.querySelector(`#advanced-language-panel input[value=all]`).checked = true
+    document.querySelectorAll(`#quick-language-panel input`).forEach(el => el.checked = false)
+
+    this.updateSelectAllLabel()
+    this.updateLanguageToggleLabel()
   }
 
   // Open languages panel
   open() {
     this.languagePanel.classList.toggle('open')
+    this.updateSelectAllLabel()
+  }
+
+  toggleSelectAll() {
+    const checkboxes = document.querySelectorAll(`#quick-language-panel input`)
+    const allChecked  = Array.from(checkboxes).every(el => el.checked)
+    checkboxes.forEach(el => el.checked = !allChecked)
+    this.updateSelectAllLabel()
+    this.updateLanguageToggleLabel()
+    this.save()
+  }
+
+  updateSelectAllLabel() {
+    const checkboxes = document.querySelectorAll(`#quick-language-panel input`)
+    const allChecked  = Array.from(checkboxes).every(el => el.checked)
+    this.selectAllToggle.textContent = allChecked ? `Deselect all` : `Select all`
+  }
+  
+  updateLanguageToggleLabel() {
+    const checkboxes = Array.from(document.querySelectorAll(`#quick-language-panel input`))
+    const checked     = checkboxes.filter(el => el.checked)
+
+    let label
+    if (checked.length === 0) {
+      label = `No languages selected`
+    } else if (checked.length === checkboxes.length) {
+      label = `All languages`
+    } else if (checked.length <= 5) {
+      // Show names directly for a small selection
+      label = checked
+        .map(el => el.closest(`label`).textContent.trim())
+        .join(`, `)
+    } else {
+      label = `${checked.length} languages selected`
+    }
+    label = label.length > 65 ? label.slice(0, 65) + "..." : label;
+    this.languageToggleLabel.textContent = label
   }
   
 

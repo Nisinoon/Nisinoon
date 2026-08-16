@@ -28,6 +28,10 @@
   z-index:         1;
 }
 
+html {
+  scrollbar-gutter: stable;
+}
+
 /* Cell-Specific Styles */
 
 /* bottom border */
@@ -185,6 +189,7 @@ input[type=checkbox] {
 .issue-link {
   inset-inline-end: 0;
   position:         sticky;
+  z-index: 99;
 }
 
 label {
@@ -196,6 +201,31 @@ label:has(.tooltip) {
   flex-direction: row;
   align-items:    center;
   gap:            0.25em;
+}
+
+.language-button {
+  background:    none;
+  border:        none;
+  border-radius: 0.25em;
+  border-block-end: 1px solid #444;
+  color:         #000;
+  background-color: #d3d9de;
+  cursor:        pointer;
+  font-weight:   500;
+  font-size:     smaller;
+  padding:       0.1em;
+  text-align:    center;
+  inline-size:   100%;
+  transition: background-color 0.2s;
+}
+
+.language-button:hover {
+  background-color: #aab0b4;
+}
+
+.language-button:focus-visible {
+  outline: 2px solid #FFF;
+  outline-offset: 2px;
 }
 
 .language-dropdown {
