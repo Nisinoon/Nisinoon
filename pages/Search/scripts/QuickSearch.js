@@ -159,5 +159,6 @@ export default class QuickSearch {
     label = label.length > 65 ? label.slice(0, 65) + "..." : label;
     this.languageToggleLabel.textContent = label
   }
+  
 
 }
