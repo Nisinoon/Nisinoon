@@ -8,61 +8,51 @@
       {{> help-text/help-text }}
     </header>
 
-    <fieldset>
+    <fieldset class=basics>
       <legend class=label>Basics</legend>
       <dl>
 
-        <dt>Form</dt>
-        <dd class=txn lang='{{ ISO }}'>{{#if form }}{{ form }}{{else}}—{{/if}}</dd>
+        {{#if form }}
+          <dt>Form</dt>
+          <dd class=txn lang='{{ ISO }}'>{{ form }}</dd>
+        {{/if}}
 
-        <dt>UR</dt>
-        <dd class=txn lang='{{ ISO }}'>{{#if UR }}/{{ UR }}/{{else}}—{{/if}}</dd>
+        {{#if UR }}
+          <dt>UR</dt>
+          <dd class=txn lang='{{ ISO }}'>/{{ UR }}/</dd>
+        {{/if}}
 
         {{#unless (is language 'Proto_Algonquian') }}
-          <dt>Proto-Algonquian</dt>
-          <dd class=txn lang=alg>{{#if PA }}{{ PA }}{{else}}—{{/if}}</dd>
+          {{#if PA }}
+            <dt>Proto-Algonquian</dt>
+            <dd class=txn lang=alg>{{ PA }}</dd>
+          {{/if}}
         {{/unless}}
 
-        <dt>Tags</dt>
-        <dd>
-          {{#if tags }}
+        {{#if tags }}
+          <dt>Tags</dt>
+          <dd>
             <ul>
               {{#each tags }}
                 <li {{#if grammatical }}class=gl{{/if}}>{{ tag }}</li>
               {{/each}}
             </ul>
-          {{else}}
-            —
-          {{/if}}
-        </dd>
+          </dd>
+        {{/if}}
 
-        <dt>Component Type</dt>
-        <dd>{{#if type }}{{ type }}{{else}}—{{/if}}</dd>
+        {{#if type }}
+          <dt>Component Type</dt>
+          <dd>{{ type }}</dd>
+        {{/if}}
 
-        <dt>Subcategory</dt>
-        <dd>{{#if subcategory }}{{ subcategory }}{{else}}—{{/if}}</dd>
-
-      </dl>
-    </fieldset>
-
-    <fieldset>
-      <legend class=label>Language</legend>
-      <dl>
-
-        <dt>Language</dt>
-        <dd>{{ displayLanguage }}</dd>
-
-        <dt>Dialect</dt>
-        <dd>{{#if dialect }}{{ dialect }}{{else}}—{{/if}}</dd>
-
-        <dt>Glottocode</dt>
-        <dd>{{#if Glottocode }}<code><a class=link href='https://glottolog.org/resource/languoid/id/{{ Glottocode }}' rel='noopener noreferrer' target=_blank>{{ Glottocode }}<svg class=external-link><use href=#external-link></svg></a></code>{{else}}—{{/if}}</dd>
-
-        <dt>ISO 639-3</dt>
-        <dd>{{#if ISO }}<code><a class=link href='https://www.ethnologue.com/language/{{ ISO }}/' rel='noopener noreferrer' target=_blank>{{ ISO }}<svg class=external-link><use href=#external-link></svg></a></code>{{else}}—{{/if}}</dd>
+        {{#if subcategory }}
+          <dt>Subcategory</dt>
+          <dd>{{ subcategory }}</dd>
+        {{/if}}
 
       </dl>
     </fieldset>
+
 
     <fieldset class=sources>
       <legend class=label>Sources</legend>
@@ -92,24 +82,41 @@
       </table>
     </fieldset>
 
+    {{#if (or matches.AI matches.II matches.TA matches.TI) }}
     <fieldset>
       <legend class=label>Matches</legend>
       <dl>
 
-        <dt>AI</dt>
-        <dd class=txn lang='{{ ISO }}'>{{#if matches.AI }}{{ matches.AI }}{{else}}—{{/if}}</dd>
+        {{#if matches.AI }}
+          <dt>AI</dt>
+          <dd class=txn lang='{{ ISO }}'>{{ matches.AI }}</dd>
+        {{/if}}
 
-        <dt>II</dt>
-        <dd class=txn lang='{{ ISO }}'>{{#if matches.II }}{{ matches.II }}{{else}}—{{/if}}</dd>
+        {{#if matches.II }}
+          <dt>II</dt>
+          <dd class=txn lang='{{ ISO }}'>{{ matches.II }}</dd>
+        {{/if}}
 
-        <dt>TA</dt>
-        <dd class=txn lang='{{ ISO }}'>{{#if matches.TA }}{{ matches.TA }}{{else}}—{{/if}}</dd>
+        {{#if matches.TA }}
+          <dt>TA</dt>
+          <dd class=txn lang='{{ ISO }}'>{{ matches.TA }}</dd>
+        {{/if}}
 
-        <dt>TI</dt>
-        <dd class=txn lang='{{ ISO }}'>{{#if matches.TI }}{{ matches.TI }}{{else}}—{{/if}}</dd>
+        {{#if matches.TI }}
+          <dt>TI</dt>
+          <dd class=txn lang='{{ ISO }}'>{{ matches.TI }}</dd>
+        {{/if}}
 
       </dl>
     </fieldset>
+    {{else}}
+    <fieldset>
+      <legend class=label>Matches</legend>
+      <dl>
+        <dt>No matches found</dt>
+      </dl>
+    </fieldset>
+    {{/if}}
 
     <fieldset>
       <legend class=label>Additional Info</legend>
@@ -125,16 +132,18 @@
 
         {{#if (is type 'final') }}
 
-          <dt>Final: Concrete/Abstract</dt>
-          <dd>{{#if specificity }}{{ specificity }}{{else}}—{{/if}}</dd>
+          {{#if specificity }}
+            <dt>Final: Concrete/Abstract</dt>
+            <dd>{{ specificity }}</dd>
+          {{/if}}
 
-          <dt>Final: Primary</td>
+          <dt>Final: Primary</dt>
           <dd>
             <span class=visually-hidden>{{#if primary }}true{{else}}false{{/if}}</span>
             <input type=checkbox {{#if primary }}checked{{/if}} inert>
           </dd>
 
-          <dt>Final: Secondary</td>
+          <dt>Final: Secondary</dt>
           <dd>
             <span class=visually-hidden>{{#if secondary }}true{{else}}false{{/if}}</span>
             <input type=checkbox {{#if secondary }}checked{{/if}} inert>
@@ -259,6 +268,31 @@
         </table>
       </fieldset>
     {{/if}}
+
+    <fieldset class=language>
+      <legend class=label>Language</legend>
+      <dl>
+
+        <dt>Language</dt>
+        <dd>{{ displayLanguage }}</dd>
+
+        {{#if dialect }}
+          <dt>Dialect</dt>
+          <dd>{{ dialect }}</dd>
+        {{/if}}
+
+        {{#if Glottocode }}
+          <dt>Glottocode</dt>
+          <dd><code><a class=link href='https://glottolog.org/resource/languoid/id/{{ Glottocode }}' rel='noopener noreferrer' target=_blank>{{ Glottocode }}<svg class=external-link><use href=#external-link></svg></a></code></dd>
+        {{/if}}
+
+        {{#if ISO }}
+          <dt>ISO 639-3</dt>
+          <dd><code><a class=link href='https://www.ethnologue.com/language/{{ ISO }}/' rel='noopener noreferrer' target=_blank>{{ ISO }}<svg class=external-link><use href=#external-link></svg></a></code></dd>
+        {{/if}}
+
+      </dl>
+    </fieldset>
 
     <fieldset class=metadata>
       <legend class=label>Metadata</legend>

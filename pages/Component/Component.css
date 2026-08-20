@@ -12,7 +12,7 @@
 @import 'pre.css';
 @import 'transcription.css';
 
-:is(.metadata, .sources, .stems) {
+:is(.basics, .language, .metadata, .sources, .stems ) {
   overflow-x:      auto;
   margin-inline:   1em;
   max-inline-size: 100%;

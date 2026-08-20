@@ -1,6 +1,7 @@
 import changeParam    from './scripts/changeParam.js'
 import SortDirectives from '../../scripts/SortDirectives.js'
 import toCSV          from './scripts/toCSV.js'
+import { COLUMNS, DEFAULT_COLUMNS } from './scripts/Columns.js'
 
 const defaults = {
   limit:  100,
@@ -14,16 +15,18 @@ export function Search(req, res) {
   const query  = new Map(Object.entries(req.query))
 
   const context = {
-    advanced:      query.has(`advanced`),
-    languages:     db.languages.toJSON(),
-    numComponents: db.index.size.toLocaleString(),
-    numLanguages:  db.languages.size.toLocaleString(),
-    pageCSS:       res.app.locals.styles.Search,
-    Search:        true,
-    sources:       Object.fromEntries(db.citationKeys),
-    title:         `Search`,
-    types:         db.types,
-    url:           req.originalUrl,
+    advanced:       query.has(`advanced`),
+    columns:        COLUMNS,
+    defaultColumns: DEFAULT_COLUMNS,
+    languages:      db.languages.toJSON(),
+    numComponents:  db.index.size.toLocaleString(),
+    numLanguages:   db.languages.size.toLocaleString(),
+    pageCSS:        res.app.locals.styles.Search,
+    Search:         true,
+    sources:        Object.fromEntries(db.citationKeys),
+    title:          `Search`,
+    types:          db.types,
+    url:            req.originalUrl,
   }
 
   // No query submitted. Load default search page.
@@ -123,6 +126,12 @@ export function Search(req, res) {
       last.jump = true
     }
 
+    // Visible columns
+    const requestedColumns = query.get(`columns`)
+    const visibleColumns   = requestedColumns
+      ? COLUMNS.map(c => c.key).filter(k => requestedColumns.split(`,`).includes(k))
+      : DEFAULT_COLUMNS
+
     // Render page
 
     Object.assign(context, {
@@ -146,6 +155,7 @@ export function Search(req, res) {
       results,
       sort:         Object.fromEntries(sort),
       totalResults: numTotalResults.toLocaleString(),
+      visibleColumns,
     })
 
     res.render(`Search/Search`, context)

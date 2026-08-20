@@ -48,7 +48,7 @@
           {{/each}}
         </select>
         -->
-        <div class=language-dropdown text-box id=quick-language-dropdown>
+        <div class=language-dropdown id=quick-language-dropdown>
           <button class='button language-dropdown-toggle' id=quick-language-dropdown-toggle type=button>
             <span id=quick-language-toggle-label>All languages</span> <span>▼</span>
           </button>
@@ -117,7 +117,7 @@
           {{/each}}
         </select>
         -->
-        <div class=language-dropdown text-box id=advanced-language-dropdown>
+        <div class=language-dropdown id=advanced-language-dropdown>
           <button class='button language-dropdown-toggle' id=advanced-language-dropdown-toggle type=button>
             <span id=advanced-language-toggle-label>All languages</span> <span>▼</span>
           </button>
@@ -387,6 +387,21 @@
         {{> Search/components/pagination/pagination }}
       {{/if}}
 
+      <div class="language-dropdown" id=visible-results-fields>
+        <button class='button language-dropdown-toggle toggle-fields' id=results-fields-dropdown-toggle type=button>
+          <span id=results-toggle-label>Toggle fields</span> <span>▼</span>
+        </button>
+        <div class="language-dropdown-panel toggle-fields" id=results-fields-panel>
+          {{#each columns as |col| }}
+            <label>
+              <input {{#if (includes ../defaultColumns col.key) }}checked{{/if}} name=field type=checkbox value='{{ col.key }}'>
+              {{ col.label }}
+            </label>
+          {{/each}}
+          <button class='button green apply-button' id=results-fields-apply type=button>Apply</button>
+        </div>
+      </div>
+
       <div aria-labelledby=results-caption class='results-wrapper scroll-shadow' role=region tabindex=0>
 
         <span class=hint id=priority-hint>Priority</span>
@@ -395,22 +410,10 @@
         <table id=results>
           <caption class=visually-hidden id=results-caption><h2>Search Results</h2></caption>
           <thead>
-            <!-- Removing Component Fields and Token Fields labels for grouped results columns
-            <tr class=meta-row>
-              {{!-- Component Fields --}}
-              <th colspan=6 scope=col>
-                <span>Components</span><br><span class='help-text th-note'>(Project Orthography)</span>
-              </th>
-              {{!-- Token Fields --}}
-              <th colspan=3 scope=col>
-                <span>Sources</span><br><span class='help-text th-note'>(Original Orthographies)</span>
-              </th>
-            </tr>
             <tr>
-            -->
 
-              {{!-- Component Fields --}}
               {{#with sort }}
+              {{#if (includes ../visibleColumns 'displayLanguage') }}
               <th {{#if displayLanguage }} aria-sort='{{ displayLanguage.direction }}' {{/if}} scope=col>
                 <button aria-describedby=sort-hint class=sort-button data-field=displayLanguage>
                   <span>Language</span>
@@ -418,6 +421,9 @@
                 </button>
                 {{#if displayLanguage }}<span aria-describedby=priority-hint class=priority>{{ displayLanguage.priority }}</span>{{/if}}
               </th>
+              {{/if}}
+
+              {{#if (includes ../visibleColumns 'form') }}
               <th {{#if form }} aria-sort='{{ form.direction }}' {{/if}} scope=col>
                 <button aria-describedby=sort-hint class=sort-button data-field=form>
                   <span>Form</span>
@@ -425,6 +431,9 @@
                 </button>
                 {{#if form }}<span aria-describedby=priority-hint class=priority>{{ form.priority }}</span>{{/if}}
               </th>
+              {{/if}}
+
+              {{#if (includes ../visibleColumns 'UR') }}
               <th {{#if UR }} aria-sort='{{ UR.direction }}' {{/if}} scope=col>
                 <button aria-describedby=sort-hint class=sort-button data-field=UR>
                   <span>UR</span>
@@ -432,7 +441,9 @@
                 </button>
                 {{#if UR }}<span aria-describedby=priority-hint class=priority>{{ UR.priority }}</span>{{/if}}
               </th>
-              <th class=simple-th scope=col>Tags</th>{{!-- NB: "Tags" column is not sortable. --}}
+              {{/if}}
+
+              {{#if (includes ../visibleColumns 'type') }}
               <th {{#if type }} aria-sort='{{ type.direction }}' {{/if}} scope=col>
                 <button aria-describedby=sort-hint class=sort-button data-field=type>
                   <span>Type</span>
@@ -440,6 +451,17 @@
                 </button>
                 {{#if type }}<span aria-describedby=priority-hint class=priority>{{ type.priority }}</span>{{/if}}
               </th>
+              {{/if}}
+
+              {{#if (includes ../visibleColumns 'sourceGlosses') }}
+              <th class=simple-th scope=col>Definition</th>
+              {{/if}}
+
+              {{#if (includes ../visibleColumns 'tags') }}
+              <th class=simple-th scope=col>Tags</th>
+              {{/if}}
+
+              {{#if (includes ../visibleColumns 'subcategory') }}
               <th {{#if subcategory }} aria-sort='{{ subcategory.direction }}' {{/if}} scope=col>
                 <button aria-describedby=sort-hint class=sort-button data-field=subcategory>
                   <span>Subcategory</span>
@@ -447,21 +469,50 @@
                 </button>
                 {{#if subcategory }}<span aria-describedby=priority-hint class=priority>{{ subcategory.priority }}</span>{{/if}}
               </th>
+              {{/if}}
               {{/with}}
 
-              {{!-- Token Fields --}}
+              {{#if (includes visibleColumns 'sourceForms') }}
               <th class=simple-th scope=col>Forms</th>
+              {{/if}}
+
+              {{#if (includes visibleColumns 'sourceURs') }}
               <th class=simple-th scope=col>URs</th>
-              <th class=simple-th scope=col>Glosses</th>
+              {{/if}}
 
             </tr>
           </thead>
           <tbody>
             {{#each results as |result| }}
               <tr id='{{ ID }}'>
+
+                {{#if (includes ../visibleColumns 'displayLanguage') }}
                 <td class=language>{{ displayLanguage }}</td>
+                {{/if}}
+
+                {{#if (includes ../visibleColumns 'form') }}
                 <td class=form lang='{{ ISO }}'>{{#if form }}<a class=link href='/components/{{ ID }}'>{{ form }}</a>{{else}}—{{/if}}</td>
+                {{/if}}
+
+                {{#if (includes ../visibleColumns 'UR') }}
                 <td class=UR lang='{{ ISO }}'>{{#if UR }}<a class=link href='/components/{{ ID }}'>/{{ UR }}/</a>{{else}}—{{/if}}</td>
+                {{/if}}
+
+                {{#if (includes ../visibleColumns 'type') }}
+                <td class=component-type>{{#if type }}{{ type }}{{else}}—{{/if}}</td>
+                {{/if}}
+
+                {{#if (includes ../visibleColumns 'sourceGlosses') }}
+                <td class=source-glosses>
+                  <ul>
+                    {{#each tokens }}
+                      <li>{{#if gloss }}‘{{ gloss }}’{{else}}—{{/if}}</li>
+                    {{/each}}
+                  </ul>
+                </td>
+                {{/if}}
+
+                {{#if (includes ../visibleColumns 'tags') }}
                 <td class=tags>
                   {{#if tags }}
                     <ul>
@@ -473,8 +524,13 @@
                     —
                   {{/if}}
                 </td>
-                <td class=component-type>{{#if type }}{{ type }}{{else}}—{{/if}}</td>
+                {{/if}}
+
+                {{#if (includes ../visibleColumns 'subcategory') }}
                 <td class=subcategory>{{#if subcategory }}{{ subcategory }}{{else}}—{{/if}}</td>
+                {{/if}}
+
+                {{#if (includes ../visibleColumns 'sourceForms') }}
                 <td class=source-forms>
                   <ul>
                     {{#each tokens }}
@@ -482,6 +538,9 @@
                     {{/each}}
                   </ul>
                 </td>
+                {{/if}}
+
+                {{#if (includes ../visibleColumns 'sourceURs') }}
                 <td class=source-URs>
                   <ul>
                     {{#each tokens }}
@@ -489,13 +548,8 @@
                     {{/each}}
                   </ul>
                 </td>
-                <td class=source-glosses>
-                  <ul>
-                    {{#each tokens }}
-                      <li>{{#if gloss }}‘{{ gloss }}’{{else}}—{{/if}}</li>
-                    {{/each}}
-                  </ul>
-                </td>
+                {{/if}}
+
               </tr>
             {{/each}}
           </tbody>
