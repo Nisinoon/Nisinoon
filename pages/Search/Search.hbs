@@ -60,7 +60,6 @@
                 {{ groupData.group }}
               </label>
               {{#each groupData.languages as |lang| }}
-                <!-- TODO: render each language checkbox, same as your current <label><input>...</label> -->
                 <label>
                   <input checked name=language type=checkbox value='{{ lang.key }}'>
                   {{ lang.name }}
@@ -130,11 +129,17 @@
           </button>
           <div class=language-dropdown-panel id=advanced-language-panel>
             <button class='select-all-toggle language-button' id=advanced-select-all-toggle type=button>Deselect all</button>
-            {{#each languages as |lang| }}
+            {{#each groupedLanguages as |groupData| }}
               <label>
-                <input checked name=language type=checkbox value='{{ key }}'>
-                {{ name }}
+                <input checked name=language type=checkbox value='group:{{ groupedLangauges.group }}'>
+                {{ groupData.group }}
               </label>
+              {{#each groupData.languages as |lang| }}
+                <label class='single-language-checkbox'>
+                  <input checked name=language type=checkbox value='{{ lang.key }}'>
+                  {{ lang.name }}
+                </label>
+              {{/each}}
             {{/each}}
           </div>
         </div>
