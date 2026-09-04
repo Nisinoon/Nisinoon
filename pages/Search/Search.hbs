@@ -131,7 +131,7 @@
             <button class='select-all-toggle language-button' id=advanced-select-all-toggle type=button>Deselect all</button>
             {{#each groupedLanguages as |groupData| }}
               <label>
-                <input checked name=language type=checkbox value='group:{{ groupedLangauges.group }}'>
+                <!-- <input checked name=language type=checkbox value='group:{{ groupedLangauges.group }}'> -->
                 {{ groupData.group }}
               </label>
               {{#each groupData.languages as |lang| }}
