@@ -6,6 +6,7 @@ import Downloader     from './scripts/Downloader.js'
 import QuickSearch    from './scripts/QuickSearch.js'
 import Results        from './scripts/Results.js'
 import SearchMode     from './scripts/SearchMode.js'
+import ResultsFields from './scripts/ResultsFields.js'
 
 // Initialize button to copy citation information
 
@@ -40,6 +41,15 @@ advancedSearch.listen()
 const results = new Results
 results.initialize()
 results.render()
+
+// Initialize results fields
+
+const resultsFieldsEl = document.getElementById(`visible-results-fields`)
+if (resultsFieldsEl) {
+  const resultsFields = new ResultsFields()
+  resultsFields.listen()
+  resultsFields.render()
+}
 
 // Initialize download buttons
 

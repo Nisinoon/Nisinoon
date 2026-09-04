@@ -573,3 +573,8 @@ select {
 .tooltip:hover .tooltip-text {
   display: block;
 }
+
+#visible-results-fields {
+  inline-size: 30%;
+  align-self: center;
+}

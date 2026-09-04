@@ -11,6 +11,10 @@ const htmlOptions = {
   tag:     `li`,
 }
 
+function includes(arr, val) {
+  return Array.isArray(arr) && arr.includes(val)
+}
+
 function inlineExample(str, language) {
   const lang = language ? `lang='${ language }'` : ``
   return `<i class=inex ${ lang }>${ replaceHyphens(str) }</i>`
@@ -58,11 +62,13 @@ function section(name, opts) {
   return null
 }
 
+
 const hbs = new ExpressHandlebars({
   defaultLayout: `main/main.hbs`,
   extname:       `hbs`,
   helpers:       {
     igl:  interlinear,
+    includes,
     inex: inlineExample,
     is,
     or,
