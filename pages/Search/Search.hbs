@@ -54,11 +54,18 @@
           </button>
           <div class=language-dropdown-panel id=quick-language-panel>
             <button class='select-all-toggle language-button' id=quick-select-all-toggle type=button>Deselect all</button>
-            {{#each languages as |lang| }}
+            {{#each groupedLanguages as |groupData| }}
               <label>
-                <input checked name=language type=checkbox value='{{ key }}'>
-                {{ name }}
+                <!-- <input checked name=language type=checkbox value='{{ groupedLangauges.group }}'> -->
+                {{ groupData.group }}
               </label>
+              {{#each groupData.languages as |lang| }}
+                <!-- TODO: render each language checkbox, same as your current <label><input>...</label> -->
+                <label>
+                  <input checked name=language type=checkbox value='{{ lang.key }}'>
+                  {{ lang.name }}
+                </label>
+              {{/each}}
             {{/each}}
           </div>
         </div>
@@ -142,7 +149,7 @@
           id=source-form-box
           inputmode=search
           name=sourceForm
-          placeholder='e.g. “ôben-”'
+          placeholder='e.g. sapoht-'
           spellcheck=false
           type=search
           value='{{ query.sourceForm }}'
@@ -158,7 +165,7 @@
           id=gloss-box
           inputmode=search
           name=gloss
-          placeholder='e.g. “-e3ee”'
+          placeholder='e.g. give tobacco'
           spellcheck=true
           type=search
           value='{{ query.gloss }}'
@@ -246,7 +253,7 @@
             id=tags-box
             inputmode=search
             name=tags
-            placeholder='e.g. “dog”'
+            placeholder='e.g. tobacco'
             spellcheck=true
             type=search
             value='{{ query.tags }}'
@@ -284,7 +291,7 @@
             id=form-box
             inputmode=search
             name=form
-            placeholder='e.g. “atimw-”'
+            placeholder='e.g. sapoxt-'
             spellcheck=false
             type=search
             value='{{ query.form }}'
@@ -300,7 +307,7 @@
             id=source-UR-box
             inputmode=search
             name=sourceUR
-            placeholder='e.g. “-e3ee”'
+            placeholder='e.g. atimw-'
             spellcheck=false
             type=search
             value='{{ query.sourceUR }}'
