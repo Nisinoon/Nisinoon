@@ -157,6 +157,7 @@ export default class AdvancedSearch {
     this.syncAllGroupCheckboxes()
     this.updateSelectAllLabel()
     this.updateLanguageToggleLabel()
+
     this.logic.value = `all`
     document.getElementById(`subcategory-select`).value = ``
     document.getElementById(`type-select`).value = ``
@@ -164,6 +165,8 @@ export default class AdvancedSearch {
 
     document.getElementById(`type-select`).value = ``
     this.toggleFinalFields()
+
+    this.save()
   }
 
   // Restore languages stored inside localStorage

@@ -117,6 +117,7 @@ export default class QuickSearch {
     this.syncAllGroupCheckboxes()
     this.updateSelectAllLabel()
     this.updateLanguageToggleLabel()
+    this.save()
   }
 
   // Restore languages stored inside localStorage
@@ -198,7 +199,7 @@ export default class QuickSearch {
   }
 
   syncAllGroupCheckboxes() {
-    document.querySelectorAll(`#quickx-language-panel .language-group`).forEach(wrapper => {
+    document.querySelectorAll(`#quick-language-panel .language-group`).forEach(wrapper => {
       this.syncGroupCheckbox(wrapper.dataset.group)
     })
   }
