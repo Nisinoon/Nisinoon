@@ -3,19 +3,18 @@
 export default class QuickSearch {
 
   constructor() {
-    this.caseSensitive    = document.getElementById(`quick-case-sensitive-box`)
-    this.diacritics       = document.getElementById(`quick-diacritics-box`)
-    this.form             = document.getElementById(`quick-search-form`)
+    this.caseSensitive = document.getElementById(`quick-case-sensitive-box`)
+    this.diacritics    = document.getElementById(`quick-diacritics-box`)
+    this.form          = document.getElementById(`quick-search-form`)
     this.languageDropdown = document.getElementById('quick-language-dropdown')
     this.languageToggle   = document.getElementById(`quick-language-dropdown-toggle`)
     this.languagePanel    = document.getElementById('quick-language-panel')
-    this.language         = document.getElementById(`quick-language-select`)
-    this.regex            = document.getElementById(`quick-regex-box`)
-    this.resetButton      = document.getElementById(`quick-reset-button`)
-    this.search           = document.getElementById(`search-box`)
-    this.selectAllToggle  = document.getElementById(`quick-select-all-toggle`)
+    this.language      = document.getElementById(`quick-language-select`)
+    this.regex         = document.getElementById(`quick-regex-box`)
+    this.resetButton   = document.getElementById(`quick-reset-button`)
+    this.search        = document.getElementById(`search-box`)
+    this.selectAllToggle = document.getElementById(`quick-select-all-toggle`)
     this.languageToggleLabel = document.getElementById(`quick-language-toggle-label`)
-    this.quickOption      = document.getElementById('quick-option')
   }
 
   listen() {
@@ -28,17 +27,6 @@ export default class QuickSearch {
       this.updateLanguageToggleLabel()
       this.save()
     })
-    this.languagePanel.addEventListener(`change`, (ev) => {
-      const target = ev.target;
-      if (target.matches(`.group-checkbox`)) {
-        this.toggleGroup(target);
-      } else if (target.dataset.group) {
-        this.syncGroupCheckbox(target.dataset.group);
-      }
-      this.updateSelectAllLabel();
-      this.updateLanguageToggleLabel();
-      this.save();
-    });
     this.regex?.addEventListener(`input`, this.save.bind(this))
 
     // reset button functionality
@@ -55,8 +43,6 @@ export default class QuickSearch {
 
     // toggle select/deselect all languages
     this.selectAllToggle.addEventListener(`click`, this.toggleSelectAll.bind(this))
-
-    this.quickOption.addEventListener('click', this.restoreLanguages.bind(this))
   }
 
   render() {
@@ -71,7 +57,21 @@ export default class QuickSearch {
     if (this.diacritics) this.diacritics.checked    = localStorage.getItem(`diacritics`) === `true`
     if (this.regex) this.regex.checked         = localStorage.getItem(`regex`) === `true`
 
-    this.restoreLanguages()
+    const language = localStorage.getItem(`language`)
+
+    if (language) {
+      try {
+        const languages = JSON.parse(language)
+        document.querySelectorAll(`#quick-language-panel input`).forEach(el => {
+          el.checked = languages.includes(el.value)
+        })
+      } catch {
+        // Old format in localStorage, clear it
+        localStorage.removeItem(`language`)
+      }
+    }
+    this.updateSelectAllLabel()
+    this.updateLanguageToggleLabel()
 
   }
 
@@ -114,27 +114,6 @@ export default class QuickSearch {
 
     document.querySelectorAll(`#quick-language-panel input`).forEach(el => el.checked = false)
 
-    this.syncAllGroupCheckboxes()
-    this.updateSelectAllLabel()
-    this.updateLanguageToggleLabel()
-    this.save()
-  }
-
-  // Restore languages stored inside localStorage
-  restoreLanguages() {
-    const language = localStorage.getItem(`language`)
-    if (language) {
-      try {
-        const languages = JSON.parse(language)
-        document.querySelectorAll(`#quick-language-panel input`).forEach(el => {
-          el.checked = languages.includes(el.value)
-        })
-      } catch {
-        // Old format in localStorage, clear it
-        localStorage.removeItem(`language`)
-      }
-    }
-    this.syncAllGroupCheckboxes()
     this.updateSelectAllLabel()
     this.updateLanguageToggleLabel()
   }
@@ -146,7 +125,7 @@ export default class QuickSearch {
   }
 
   toggleSelectAll() {
-    const checkboxes = document.querySelectorAll(`#quick-language-panel input[name="language"]`)
+    const checkboxes = document.querySelectorAll(`#quick-language-panel input`)
     const allChecked  = Array.from(checkboxes).every(el => el.checked)
     checkboxes.forEach(el => el.checked = !allChecked)
     this.updateSelectAllLabel()
@@ -155,13 +134,13 @@ export default class QuickSearch {
   }
 
   updateSelectAllLabel() {
-    const checkboxes = document.querySelectorAll(`#quick-language-panel input[name="language"]`)
+    const checkboxes = document.querySelectorAll(`#quick-language-panel input`)
     const allChecked  = Array.from(checkboxes).every(el => el.checked)
     this.selectAllToggle.textContent = allChecked ? `Deselect all` : `Select all`
   }
   
   updateLanguageToggleLabel() {
-    const checkboxes = Array.from(document.querySelectorAll(`#quick-language-panel input[name="language"]:not(.group-checkbox)`))
+    const checkboxes = Array.from(document.querySelectorAll(`#quick-language-panel input`))
     const checked     = checkboxes.filter(el => el.checked)
 
     let label
@@ -179,29 +158,6 @@ export default class QuickSearch {
     }
     label = label.length > 65 ? label.slice(0, 65) + "..." : label;
     this.languageToggleLabel.textContent = label
-  }
-
-  toggleGroup(groupCheckbox) {
-    const wrapper = groupCheckbox.closest(`.language-group`)
-    const childBoxes = wrapper.querySelectorAll(`input[type=checkbox]:not(.group-checkbox)`)
-    childBoxes.forEach(el => el.checked = groupCheckbox.checked)
-  }
-
-  syncGroupCheckbox(groupName) {
-    const wrapper = document.querySelector(`#quick-language-panel .language-group[data-group="${CSS.escape(groupName)}"]`)
-    if (!wrapper) return
-    const groupCheckbox = wrapper.querySelector(`.group-checkbox`)
-    const children = Array.from(wrapper.querySelectorAll(`input[type=checkbox]:not(.group-checkbox)`))
-    const allChecked  = children.every(el => el.checked)
-    const noneChecked = children.every(el => !el.checked)
-    groupCheckbox.checked = allChecked
-    groupCheckbox.indeterminate = !allChecked && !noneChecked
-  }
-
-  syncAllGroupCheckboxes() {
-    document.querySelectorAll(`#quick-language-panel .language-group`).forEach(wrapper => {
-      this.syncGroupCheckbox(wrapper.dataset.group)
-    })
   }
   
 
