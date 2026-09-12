@@ -1,31 +1,31 @@
 /* Classes */
-@import "blockquote.css";
-@import "button.css";
-@import "citation.css";
-@import "cite.css";
-@import "gloss.css";
-@import "help-text.css";
-@import "label.css";
-@import "pre.css";
-@import "text-box.css";
+@import 'blockquote.css';
+@import 'button.css';
+@import 'citation.css';
+@import 'cite.css';
+@import 'gloss.css';
+@import 'help-text.css';
+@import 'label.css';
+@import 'pre.css';
+@import 'text-box.css';
 
 /* Components */
-@import "./components/pagination/pagination.css";
+@import './components/pagination/pagination.css';
 
 /* Utility Classes */
 
 :root {
-  --cell-border: 1px solid #ccc;
+  --cell-border:  1px solid #CCC;
   --thick-border: 2px solid black;
 }
 
 .sticky {
-  align-items: center;
-  inline-size: 100%;
-  inset-inline: 0;
+  align-items:     center;
+  inline-size:     100%;
+  inset-inline:    0;
   max-inline-size: 100%;
-  position: sticky;
-  z-index: 1;
+  position:        sticky;
+  z-index:         1;
 }
 
 html {
@@ -48,14 +48,14 @@ html {
 /* Element-Specific Styles */
 
 body {
-  inline-size: fit-content !important;
+  inline-size:     fit-content !important;
   max-inline-size: 100vw !important;
   min-inline-size: 100% !important;
-  overflow-x: auto !important;
+  overflow-x:      auto !important;
 }
 
 .checkbox-field {
-  align-items: center;
+  align-items:    center;
   flex-direction: row;
 }
 
@@ -64,12 +64,14 @@ body {
 }
 
 .citation {
-  margin: 0;
-  padding: 1em;
+
+  margin:      0;
+  padding:     1em;
 
   & blockquote {
     max-inline-size: 45em;
   }
+
 }
 
 .complex-searches {
@@ -77,34 +79,38 @@ body {
 }
 
 #download-buttons {
+
   flex-direction: row;
-  gap: 0.25em;
+  gap:            0.25em;
 
   & button {
-    align-items: center;
-    display: flex;
-    flex-direction: row;
-    gap: 0.25em;
-    inline-size: 4.5em;
+    align-items:     center;
+    display:         flex;
+    flex-direction:  row;
+    gap:             0.25em;
+    inline-size:     4.5em;
     justify-content: center;
-    margin: 0.25em;
+    margin:          0.25em;
   }
+
 }
 
 .download-icon {
   --icon-size: 1em;
-  block-size: var(--icon-size);
+  block-size:  var(--icon-size);
   inline-size: var(--icon-size);
 }
 
 /* NB: The .sticky class is applied conditionally in the footer Handlebars template. */
 .footer {
+
   align-self: flex-start;
-  display: flex;
+  display:    flex;
 
   > * {
     max-inline-size: 45em;
   }
+
 }
 
 h2 {
@@ -116,6 +122,7 @@ h2 {
 }
 
 .horizontal-fields {
+
   @media (width <= 45em) {
     label {
       margin-block-start: 0.5em;
@@ -123,38 +130,39 @@ h2 {
   }
 
   @media (width >= 45em) {
-    align-items: baseline;
-    display: grid;
-    grid-auto-rows: 2em;
+    align-items:           baseline;
+    display:               grid;
+    grid-auto-rows:        2em;
     grid-template-columns: 10em auto;
-    row-gap: 0.5em;
+    row-gap:               0.5em;
   }
+
 }
 
 hr {
-  all: revert;
-  inline-size: 80%;
+  all:              revert;
+  inline-size:      80%;
   margin-block-end: 0;
 }
 
 .info-button {
-  align-items: center;
+  align-items:      center;
   background-color: var(--berry-blue);
-  border-radius: 50%;
-  color: white;
-  cursor: pointer;
-  display: inline-flex;
-  font-size: 0.7em;
-  font-style: italic;
-  font-weight: bold;
-  block-size: 1.4em;
-  inline-size: 1.4em;
-  justify-content: center;
+  border-radius:    50%;
+  color:            white;
+  cursor:           pointer;
+  display:          inline-flex;
+  font-size:        0.7em;
+  font-style:       italic;
+  font-weight:      bold;
+  block-size:       1.4em;
+  inline-size:      1.4em;
+  justify-content:  center;
 }
 
 .info-icon {
   --icon-size: 0.75em;
-  block-size: var(--icon-size);
+  block-size:  var(--icon-size);
   inline-size: var(--icon-size);
 }
 
@@ -163,51 +171,51 @@ hr {
 }
 
 .inline-select {
-  font-size: medium;
-  inline-size: fit-content !important; /* Override rule for .text-box class. */
+  font-size:   medium;
+  inline-size: fit-content !important;  /* Override rule for .text-box class. */
 }
 
 .inline-select-field {
-  align-items: baseline;
+  align-items:    baseline;
   flex-direction: row;
 }
 
-input[type="checkbox"] {
-  all: revert;
+input[type=checkbox] {
+  all:          revert;
   accent-color: var(--berry-blue);
-  cursor: pointer;
+  cursor:       pointer;
 }
 
 .issue-link {
   inset-inline-end: 0;
-  position: sticky;
+  position:         sticky;
   z-index: 99;
 }
 
 label {
-  cursor: pointer;
+  cursor:      pointer;
   white-space: nowrap;
 }
 
 label:has(.tooltip) {
   flex-direction: row;
-  align-items: center;
-  gap: 0.25em;
+  align-items:    center;
+  gap:            0.25em;
 }
 
 .language-button {
-  background: none;
-  border: none;
+  background:    none;
+  border:        none;
   border-radius: 0.25em;
   border-block-end: 1px solid #444;
-  color: #000;
+  color:         #000;
   background-color: #d3d9de;
-  cursor: pointer;
-  font-weight: 500;
-  font-size: smaller;
-  padding: 0.1em;
-  text-align: center;
-  inline-size: 100%;
+  cursor:        pointer;
+  font-weight:   500;
+  font-size:     smaller;
+  padding:       0.1em;
+  text-align:    center;
+  inline-size:   100%;
   transition: background-color 0.2s;
 }
 
@@ -216,7 +224,7 @@ label:has(.tooltip) {
 }
 
 .language-button:focus-visible {
-  outline: 2px solid #fff;
+  outline: 2px solid #FFF;
   outline-offset: 2px;
 }
 
@@ -227,41 +235,37 @@ label:has(.tooltip) {
 
 .language-dropdown-panel {
   background-color: black;
-  border: 2px solid #ccc;
-  border-radius: 10px;
-  block-size: 15em;
-  display: none;
-  overflow-y: auto;
-  padding: 0.5em;
-  position: absolute;
-  inline-size: 100%;
+  border:           2px solid #CCC;
+  border-radius:    10px;
+  block-size:       15em;
+  display:          none;
+  overflow-y:       auto;
+  padding:          0.5em;
+  position:         absolute;
+  inline-size:      100%;
   inset-block-start: 100%;
   inset-inline-start: 0;
-  z-index: 10;
-  inline-size: 20em;
+  z-index:          10;
+  inline-size:      20em;
 }
 
 .language-dropdown-panel label {
   flex-direction: row;
-  align-items: center;
-  gap: 0.5em;
-  padding: 0.1em 0;
+  align-items:    center;
+  gap:            0.5em;
+  padding:        0.1em 0;
 }
 
 .language-dropdown-panel.open {
-  display: flex;
-  inline-size: 100%;
+  display:        flex;
+  inline-size:    100%;
   flex-direction: column;
-  gap: 0;
-}
-
-.single-language-checkbox {
-  padding-inline-start: 15px !important;
+  gap:            0;
 }
 
 .legend {
   font-weight: bold;
-  text-align: center;
+  text-align:  center;
 }
 
 .limit-select-field {
@@ -273,18 +277,19 @@ label:has(.tooltip) {
 }
 
 #main {
-  align-items: flex-start;
-  align-self: stretch;
+  align-items:     flex-start;
+  align-self:      stretch;
   max-inline-size: 100vw;
-  padding: 0;
+  padding:         0;
 }
 
 .meta-row th {
-  padding: var(--text-padding);
+  padding:    var(--text-padding);
   text-align: center;
 }
 
 .more-search-fields {
+
   .help-text {
     text-align: center;
   }
@@ -292,12 +297,13 @@ label:has(.tooltip) {
   .horizontal-fields {
     margin-block: 0.5em;
   }
+
 }
 
 .num-results {
-  font-size: x-large;
+  font-size:     x-large;
   margin-inline: auto;
-  text-align: center;
+  text-align:    center;
 }
 
 .partial-width-bb {
@@ -305,23 +311,23 @@ label:has(.tooltip) {
 }
 
 .priority {
-  align-items: center;
-  background-color: var(--pink-swan);
-  block-size: 1em;
-  border-radius: 50%;
-  color: black;
-  content: attr(data-priority);
-  display: flex;
-  font-size: small;
-  inline-size: 1em;
-  inset-block-start: 0;
+  align-items:        center;
+  background-color:   var(--pink-swan);
+  block-size:         1em;
+  border-radius:      50%;
+  color:              black;
+  content:            attr(data-priority);
+  display:            flex;
+  font-size:          small;
+  inline-size:        1em;
+  inset-block-start:  0;
   inset-inline-start: 0;
-  justify-content: center;
-  padding: 0.75em;
-  position: absolute;
-  text-align: center;
-  transform: translate(50%, -50%);
-  vertical-align: middle;
+  justify-content:    center;
+  padding:            0.75em;
+  position:           absolute;
+  text-align:         center;
+  transform:          translate(50%, -50%);
+  vertical-align:     middle;
 }
 
 .quick-search {
@@ -329,14 +335,15 @@ label:has(.tooltip) {
 }
 
 #results {
+
   border-collapse: separate; /* This is necessary for borders to stay fixed with position: sticky */
-  margin: 0;
+  margin:          0;
   min-inline-size: 100vw;
 
   & td {
     border-block-end: var(--cell-border);
-    padding: var(--text-padding);
-    word-break: keep-all;
+    padding:          var(--text-padding);
+    word-break:       keep-all;
   }
 
   /* Separator between component and sources fields */
@@ -346,35 +353,42 @@ label:has(.tooltip) {
 
   & th {
     font-weight: bold;
-    position: relative;
+    position:    relative;
   }
 
   & thead {
+
     background-color: white;
-    position: sticky;
-    top: 0;
-    z-index: 2;
+    position:         sticky;
+    top:              0;
+    z-index:          2;
 
     @media (prefers-color-scheme: dark) {
       background-color: var(--off-black);
     }
+
   }
 
   & thead tr:last-child {
+
     box-shadow: 0px 5px 5px -5px rgb(0 0 0 / 50%);
 
     @media (prefers-color-scheme: dark) {
       box-shadow: 0px 5px 5px -5px rgb(255 255 255 / 50%);
     }
+
   }
 
   & thead tr:last-child th {
+
     border-block: 1px solid black;
 
     @media (prefers-color-scheme: dark) {
       border-block: 1px solid white;
     }
+
   }
+
 }
 
 #results-info {
@@ -382,117 +396,123 @@ label:has(.tooltip) {
 }
 
 .results-wrapper {
-  inline-size: 100vw;
+  inline-size:     100vw;
   max-inline-size: 100vw;
 }
 
 search {
-  display: flex;
-  flex-direction: column;
+  display:         flex;
+  flex-direction:  column;
   max-inline-size: 30em;
-  padding-inline: 1em;
+  padding-inline:  1em;
 }
 
 .search-controls {
-  flex-direction: row;
-  flex-wrap: wrap;
-  gap: 0.5em;
+  flex-direction:  row;
+  flex-wrap:       wrap;
+  gap:             0.5em;
   justify-content: center;
-  margin: 0.5em;
+  margin:          0.5em;
 }
 
 .search-form {
-  gap: 1em;
+
+  gap:             1em;
   max-inline-size: 35em;
 
   & button {
     inline-size: 7em;
   }
+
 }
 
 .search-form .language-dropdown-toggle {
-  inline-size: 100%;
-  text-align: left;
-  display: flex;
+  inline-size:     100%;
+  text-align:      left;
+  display:         flex;
   justify-content: space-between;
-  align-items: center;
+  align-items:     center;
 }
 
 #search-mode {
-  display: flex;
-  flex-direction: row;
-  font-size: x-large;
-  gap: 0.5em;
+
+  display:         flex;
+  flex-direction:  row;
+  font-size:       x-large;
+  gap:             0.5em;
   justify-content: center;
-  padding: 1em;
+  padding:         1em;
 
   & label {
-    align-items: baseline;
+    align-items:    baseline;
     flex-direction: row;
-    padding: 0;
+    padding:        0;
   }
 
-  & [type="radio"] {
+  & [type=radio] {
     --radio-size: 1em;
-    all: revert;
+    all:          revert;
     accent-color: var(--berry-blue);
-    block-size: var(--radio-size);
-    inline-size: var(--radio-size);
+    block-size:   var(--radio-size);
+    inline-size:  var(--radio-size);
   }
+
 }
 
-#search-mode:has([value="quick"]:checked) ~ .advanced-search {
+#search-mode:has([value=quick]:checked) ~ .advanced-search {
   display: none;
 }
 
-#search-mode:has([value="advanced"]:checked) ~ .quick-search {
+#search-mode:has([value=advanced]:checked) ~ .quick-search {
   display: none;
 }
 
 select {
-  all: revert; /* Use default browser styles. */
+
+  all:           revert;                    /* Use default browser styles. */
   border-radius: var(--border-radius);
-  cursor: pointer;
-  font-family:
-    "Times New Roman", serif; /* This is necessary because the adjustments to ligatures don't apply within the <select> element. */
-  font-size: 100%;
-  line-height: 1.5;
-  padding: 0.25em;
+  cursor:        pointer;
+  font-family:   'Times New Roman', serif;  /* This is necessary because the adjustments to ligatures don't apply within the <select> element. */
+  font-size:     100%;
+  line-height:   1.5;
+  padding:       0.25em;
 
   @media (prefers-color-scheme: dark) {
     background-color: var(--off-black);
-    color: var(--off-white);
+    color:            var(--off-white);
   }
+
 }
 
 .sort-button {
-  align-items: center;
-  cursor: pointer;
-  display: flex;
+  align-items:    center;
+  cursor:         pointer;
+  display:        flex;
   flex-direction: row;
-  gap: 0.25em;
-  inline-size: 100%;
-  text-align: center;
+  gap:            0.25em;
+  inline-size:    100%;
+  text-align:     center;
 }
 
 .sort-button:hover {
   background-color: var(--martinique);
-  color: var(--off-white);
+  color:            var(--off-white);
 }
 
 :is(.sort-button, .simple-th) {
-  padding: var(--text-padding);
+  padding:     var(--text-padding);
   white-space: nowrap;
-  word-break: keep-all;
+  word-break:  keep-all;
 }
 
 .sort-icon {
   --icon-size: 0.75em;
-  block-size: var(--icon-size);
+  block-size:  var(--icon-size);
   inline-size: var(--icon-size);
 }
 
 .source-fields {
+
   .help-text {
     text-align: center;
   }
@@ -500,6 +520,7 @@ select {
   .horizontal-fields {
     margin-block: 0.5em;
   }
+
 }
 
 .source-glosses {
@@ -507,9 +528,10 @@ select {
 }
 
 .stats {
-  display: grid;
+
+  display:               grid;
   grid-template-columns: auto auto;
-  justify-content: center;
+  justify-content:       center;
 
   * {
     padding: var(--text-padding);
@@ -518,10 +540,11 @@ select {
   dt {
     font-weight: bold;
   }
+
 }
 
 .text-box {
-  block-size: 1.75em;
+  block-size:  1.75em;
   inline-size: 100%;
 }
 
@@ -531,20 +554,20 @@ select {
 
 .tooltip {
   position: relative;
-  cursor: pointer;
+  cursor:   pointer;
 }
 
 .tooltip-text {
-  display: none;
-  position: absolute;
+  display:          none;
+  position:         absolute;
   background-color: black;
-  color: white;
-  padding: 0.5em;
-  border-radius: var(--border-radius);
-  inline-size: auto;
-  inset-block-end: 1.5em;
+  color:            white;
+  padding:          0.5em;
+  border-radius:    var(--border-radius);
+  inline-size:      auto;
+  inset-block-end:  1.5em;
   inset-inline-start: 0;
-  z-index: 10;
+  z-index:          10;
 }
 
 .tooltip:hover .tooltip-text {

@@ -61,16 +61,10 @@
               </label>
               {{#each groupData.languages as |lang| }}
                 <label>
-                  <input checked class="group-checkbox" name=language type=checkbox value='group:{{ groupData.group }}'>
-                  {{ groupData.group }}
+                  <input checked name=language type=checkbox value='{{ lang.key }}'>
+                  {{ lang.name }}
                 </label>
-                {{#each groupData.languages as |lang| }}
-                  <label class='single-language-checkbox'>
-                    <input checked data-group="{{ groupData.group }}" name=language type=checkbox value='{{ lang.key }}'>
-                    {{ lang.name }}
-                  </label>
-                {{/each}}
-              </div>
+              {{/each}}
             {{/each}}
           </div>
         </div>
