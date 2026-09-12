@@ -118,17 +118,11 @@ function createMatchers(query, normalize, langFilter) {
 
     tags() {
 
-      const tests = tags
-        .split(`,`)
-        .map(t => t.trim())
-        .filter(Boolean)
-        .map(t => createSearchRegExp(normalize(cleanSearch(t)), { caseSensitive, regex }))
+      const q    = normalize(cleanSearch(tags))
+      const test = createSearchRegExp(q, { caseSensitive, regex })
 
       return function testTags(component) {
-        return component.tags?.some(({ tag }) => {
-          const normalizedTag = normalize(tag)
-          return tests.some(test => test(normalizedTag))
-        })
+        return component.tags?.some(({ tag }) => test(normalize(tag)))
       }
 
     },
