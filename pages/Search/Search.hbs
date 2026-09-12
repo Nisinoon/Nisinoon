@@ -55,7 +55,11 @@
           <div class=language-dropdown-panel id=quick-language-panel>
             <button class='select-all-toggle language-button' id=quick-select-all-toggle type=button>Deselect all</button>
             {{#each groupedLanguages as |groupData| }}
-              <div class="language-group" data-group="{{ groupData.group }}">
+              <label>
+                <!-- <input checked name=language type=checkbox value='{{ groupedLangauges.group }}'> -->
+                {{ groupData.group }}
+              </label>
+              {{#each groupData.languages as |lang| }}
                 <label>
                   <input checked class="group-checkbox" name=language type=checkbox value='group:{{ groupData.group }}'>
                   {{ groupData.group }}
@@ -132,18 +136,16 @@
           <div class=language-dropdown-panel id=advanced-language-panel>
             <button class='select-all-toggle language-button' id=advanced-select-all-toggle type=button>Deselect all</button>
             {{#each groupedLanguages as |groupData| }}
-              <div class="language-group" data-group="{{ groupData.group }}">
-                <label>
-                  <input checked class="group-checkbox" name=language type=checkbox value='group:{{ groupData.group }}'>
-                  {{ groupData.group }}
+              <label>
+                <!-- <input checked name=language type=checkbox value='group:{{ groupedLangauges.group }}'> -->
+                {{ groupData.group }}
+              </label>
+              {{#each groupData.languages as |lang| }}
+                <label class='single-language-checkbox'>
+                  <input checked name=language type=checkbox value='{{ lang.key }}'>
+                  {{ lang.name }}
                 </label>
-                {{#each groupData.languages as |lang| }}
-                  <label class='single-language-checkbox'>
-                    <input checked data-group="{{ groupData.group }}" name=language type=checkbox value='{{ lang.key }}'>
-                    {{ lang.name }}
-                  </label>
-                {{/each}}
-              </div>
+              {{/each}}
             {{/each}}
           </div>
         </div>
