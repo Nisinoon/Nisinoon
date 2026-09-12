@@ -18,6 +18,7 @@ export default class AdvancedSearch {
     this.finalFields      = document.querySelector(`.checkbox-fields`)
     this.selectAllToggle  = document.getElementById(`advanced-select-all-toggle`)
     this.languageToggleLabel = document.getElementById(`advanced-language-toggle-label`)
+    this.advancedOption   = document.getElementById('advanced-option')
   }
 
   listen() {
@@ -30,6 +31,17 @@ export default class AdvancedSearch {
       this.updateLanguageToggleLabel()
       this.save()
     })
+    this.languagePanel.addEventListener(`change`, (ev) => {
+      const target = ev.target;
+      if (target.matches(`.group-checkbox`)) {
+        this.toggleGroup(target);
+      } else if (target.dataset.group) {
+        this.syncGroupCheckbox(target.dataset.group);
+      }
+      this.updateSelectAllLabel();
+      this.updateLanguageToggleLabel();
+      this.save();
+    });
     this.logic.addEventListener(`input`, this.save.bind(this))
     this.regex.addEventListener(`input`, this.save.bind(this))
 
@@ -53,6 +65,8 @@ export default class AdvancedSearch {
 
     // toggle select/deselect all languages
     this.selectAllToggle.addEventListener(`click`, this.toggleSelectAll.bind(this))
+
+    this.advancedOption.addEventListener('click', this.restoreLanguages.bind(this))
   }
 
   render() {
@@ -67,20 +81,7 @@ export default class AdvancedSearch {
     this.diacritics.checked    = localStorage.getItem(`diacritics`) === `true`
     this.regex.checked         = localStorage.getItem(`regex`) === `true`
 
-    const language = localStorage.getItem(`language`)
-    if (language) {
-      try {
-        const languages = JSON.parse(language)
-        document.querySelectorAll(`#advanced-language-panel input`).forEach(el => {
-          el.checked = languages.includes(el.value)
-        })
-      } catch {
-        // Old format in localStorage, clear it
-        localStorage.removeItem(`language`)
-      }
-    }
-    this.updateSelectAllLabel()
-    this.updateLanguageToggleLabel()
+    this.restoreLanguages()
 
     const logic    = localStorage.getItem(`logic`)
 
@@ -153,6 +154,7 @@ export default class AdvancedSearch {
     // Reset dropdowns to default
     document.querySelectorAll(`#advanced-language-panel input`).forEach(el => el.checked = false)
     document.querySelector(`#advanced-language-panel input[value=all]`).checked = true
+    this.syncAllGroupCheckboxes()
     this.updateSelectAllLabel()
     this.updateLanguageToggleLabel()
     this.logic.value = `all`
@@ -162,6 +164,26 @@ export default class AdvancedSearch {
 
     document.getElementById(`type-select`).value = ``
     this.toggleFinalFields()
+    this.save()
+  }
+
+  // Restore languages stored inside localStorage
+  restoreLanguages() {
+    const language = localStorage.getItem(`language`)
+    if (language) {
+      try {
+        const languages = JSON.parse(language)
+        document.querySelectorAll(`#advanced-language-panel input`).forEach(el => {
+          el.checked = languages.includes(el.value)
+        })
+      } catch {
+        // Old format in localStorage, clear it
+        localStorage.removeItem(`language`)
+      }
+    }
+    this.syncAllGroupCheckboxes()
+    this.updateSelectAllLabel()
+    this.updateLanguageToggleLabel()
   }
 
   toggleFinalFields() {
@@ -176,7 +198,7 @@ export default class AdvancedSearch {
   }
 
   toggleSelectAll() {
-    const checkboxes = document.querySelectorAll(`#advanced-language-panel input`)
+    const checkboxes = document.querySelectorAll(`#advanced-language-panel input[name="language"]`)
     const allChecked  = Array.from(checkboxes).every(el => el.checked)
     checkboxes.forEach(el => el.checked = !allChecked)
     this.updateSelectAllLabel()
@@ -185,13 +207,13 @@ export default class AdvancedSearch {
   }
 
   updateSelectAllLabel() {
-    const checkboxes = document.querySelectorAll(`#advanced-language-panel input`)
+    const checkboxes = document.querySelectorAll(`#advanced-language-panel input[name="language"]`)
     const allChecked  = Array.from(checkboxes).every(el => el.checked)
     this.selectAllToggle.textContent = allChecked ? `Deselect all` : `Select all`
   }
 
   updateLanguageToggleLabel() {
-    const checkboxes = Array.from(document.querySelectorAll(`#advanced-language-panel input`))
+    const checkboxes = Array.from(document.querySelectorAll(`#advanced-language-panel input[name="language"]:not(.group-checkbox)`))
     const checked     = checkboxes.filter(el => el.checked)
 
     let label
@@ -209,6 +231,29 @@ export default class AdvancedSearch {
     }
     label = label.length > 50 ? label.slice(0, 50) + "..." : label;
     this.languageToggleLabel.textContent = label
+  }
+
+  toggleGroup(groupCheckbox) {
+    const wrapper = groupCheckbox.closest(`.language-group`)
+    const childBoxes = wrapper.querySelectorAll(`input[type=checkbox]:not(.group-checkbox)`)
+    childBoxes.forEach(el => el.checked = groupCheckbox.checked)
+  }
+
+  syncGroupCheckbox(groupName) {
+    const wrapper = document.querySelector(`#advanced-language-panel .language-group[data-group="${CSS.escape(groupName)}"]`)
+    if (!wrapper) return
+    const groupCheckbox = wrapper.querySelector(`.group-checkbox`)
+    const children = Array.from(wrapper.querySelectorAll(`input[type=checkbox]:not(.group-checkbox)`))
+    const allChecked  = children.every(el => el.checked)
+    const noneChecked = children.every(el => !el.checked)
+    groupCheckbox.checked = allChecked
+    groupCheckbox.indeterminate = !allChecked && !noneChecked
+  }
+
+  syncAllGroupCheckboxes() {
+    document.querySelectorAll(`#advanced-language-panel .language-group`).forEach(wrapper => {
+      this.syncGroupCheckbox(wrapper.dataset.group)
+    })
   }
 
 }
