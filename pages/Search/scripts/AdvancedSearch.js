@@ -153,7 +153,6 @@ export default class AdvancedSearch {
 
     // Reset dropdowns to default
     document.querySelectorAll(`#advanced-language-panel input`).forEach(el => el.checked = false)
-    document.querySelector(`#advanced-language-panel input[value=all]`).checked = true
     this.syncAllGroupCheckboxes()
     this.updateSelectAllLabel()
     this.updateLanguageToggleLabel()
