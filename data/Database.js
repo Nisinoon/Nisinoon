@@ -176,13 +176,15 @@ export default class Database {
     const caseSensitive = query.get(`caseSensitive`)
     const diacritics    = query.get(`diacritics`)
     const langQuery     = query.get(`language`)
-    const langFilter    = Array.isArray(langQuery) ? langQuery : [langQuery]
+    const langFilter    = Array.isArray(langQuery) ? langQuery : (langQuery ? [langQuery] : [])
     const regex         = query.get(`regex`)
     const q             = query.get(`q`)
 
+    const allLangsChecked    = !langQuery || langFilter.length === this.languages.size
+
     // Special case searches without a text query to improve search speed.
     if (!q) {
-      if (!langQuery || langFilter.includes(`all`)) return Array.from(this.components)
+      if (allLangsChecked) return Array.from(this.components)
       return Array.from(this.components).filter(({ language }) => langFilter.includes(language))
     }
 
@@ -204,7 +206,7 @@ export default class Database {
     }) {
 
       // Special case language filter to improve speed of search.
-      if (langQuery && !langFilter.includes(`all`) && !langFilter.includes(language)) return false
+      if (langQuery && !allLangsChecked && !langFilter.includes(language)) return false
 
       return tags?.some(({ tag }) => test(normalize(tag)))
       || test(normalize(form))
@@ -228,13 +230,16 @@ export default class Database {
     const caseSensitive = query.get(`caseSensitive`)
     const diacritics    = query.get(`diacritics`)
     const language      = query.get(`language`)
-    const langFilter    = Array.isArray(language) ? language : [language]
+    const langFilter       = Array.isArray(language) ? language : (language ? [language] : [])
     const logic         = query.get(`logic`) ?? `all`
+    const allLangsChecked  = !language || langFilter.length === this.languages.size
 
     const normalize = new Normalizer({ caseSensitive, diacritics })
     const matchers = createMatchers(query, normalize, langFilter)
+    
+    
 
-    if (!language || langFilter.includes(`all`)) delete matchers.language
+    if (allLangsChecked) delete matchers.language
 
     const matchFunctions = Object.keys(matchers)
     .filter(field => query.get(field))

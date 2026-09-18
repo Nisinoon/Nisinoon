@@ -14,8 +14,6 @@ function groupLanguages(languages) {
   const groups = new Map(); // key: group name, value: array of languages
 
   for (const lang of languages) {
-    // TODO: check if `groups` already has this lang's group.
-    // If not, create it (empty array). Either way, push `lang` into it.
     if (!groups.has(lang.group)) {
       const languageName = [];
       groups.set(lang.group, languageName);
@@ -23,8 +21,6 @@ function groupLanguages(languages) {
     groups.get(lang.group).push(lang);
   }
 
-  // TODO: convert `groups` (a Map) into the array shape:
-  // [ { group: 'Abenaki', languages: [...] }, { group: 'Cree', languages: [...] }, ... ]
   const groupedList = [];
   for (const [group_name, group] of groups) {
     groupedList.push({ group: group_name, languages: group });
