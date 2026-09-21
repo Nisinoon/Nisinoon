@@ -1,44 +1,44 @@
-{"autonyms":[],"key":"Abenaki","name":"Abenaki", "group":"Abenaki"}
-{"autonyms":["Alənαpαtəwéwαkan"],"key":"Abenaki_Eastern","name":"Eastern Abenaki", "group":"Abenaki"}
-{"autonyms":["Alnôbaôdwawôgan"],"key":"Abenaki_Western","name":"Western Abenaki", "group":"Abenaki"}
-{"autonyms":["nehirâmowin"],"key":"Cree_Atikamekw","name":"Atikamekw", "group":"Cree"}
-{"autonyms":[],"key":"Cree_East","name":"East Cree", "group":"Cree"}
-{"autonyms":["Innu-Aimun"],"key":"Cree_Innu","name":"Innu", "group":"Cree"}
-{"autonyms":[],"key":"Cree_Moose_Swampy","name":"Moose-Swampy Cree", "group":"Cree"}
-{"autonyms":["iyiyiu-Ayamiwin","ᐄᔨᔫ ᐊᔨᒨᓐ "],"key":"Cree_Northern_East","name":"Northern East Cree", "group":"Cree"}
-{"autonyms":["nêhiyawêwin","ᓀᐦᐃᔭᐍᐏᐣ","nîhiyawîwin"],"key":"Cree_Plains","name":"Plains Cree", "group":"Cree"}
-{"autonyms":["iyiniu-Ayamiwin ᐄᓅ ᐊᔨᒨᓐ"],"key":"Cree_Southern_East","name":"Southern East Cree", "group":"Cree"}
-{"autonyms":["Nêhinawêwin","ᓀᐦᐃᓇᐍᐏᐣ "],"key":"Cree_Swampy","name":"Swampy Cree", "group":"Cree"}
-{"autonyms":[],"key":"Cree_Naskapi_Western","name":"Western Naskapi", "group":"Cree"}
-{"autonyms":[],"key":"Delaware_Common","name":"Common Delaware", "group":"Delaware"}
-{"autonyms":["monsii"],"key":"Delaware_Munsee","name":"Munsee", "group":"Delaware"}
-{"autonyms":["ləná·p·e"],"key":"Delaware_Unami","name":"Unami", "group":"Delaware"}
-{"autonyms":["Omàmìwininìmowin"],"key":"Ojibwe_Algonquin","name":"Algonquin", "group":"Ojibwe"}
-{"autonyms":["Anishinaabemowin","Ojibwemowin"],"key":"Ojibwe_Common","name":"Common Ojibwe", "group":"Ojibwe"}
-{"autonyms":["Nishnaabemwin"],"key":"Ojibwe_Eastern","name":"Eastern Ojibwe", "group":"Ojibwe"}
-{"autonyms":[],"key":"Ojibwe_N_Macrogroup","name":"Northern Macro-Group (Ojibwe)", "group":"Ojibwe"}
-{"autonyms":[],"key":"Ojibwe_Nipissing","name":"Nipissing", "group":"Ojibwe"}
-{"autonyms":["Anishinaabemowin"],"key":"Ojibwe_Northern","name":"Northern Ojibwe", "group":"Ojibwe"}
-{"autonyms":[],"key":"Ojibwe_NW","name":"Northwestern Ojibwe", "group":"Ojibwe"}
-{"autonyms":["Nishnaabemwin"],"key":"Ojibwe_Odawa","name":"Odawa", "group":"Ojibwe"}
-{"autonyms":[],"key":"Ojibwe_S_Macrogroup","name":"Southern Macro-Group (Ojibwe)", "group":"Ojibwe"}
-{"autonyms":["Anishininiimowin"],"key":"Ojibwe_Severn","name":"Severn Ojibwe", "group":"Ojibwe"}
-{"autonyms":["Anishinaabemowin"],"key":"Ojibwe_SW","name":"Southwestern Ojibwe", "group":"Ojibwe"}
-{"autonyms":["Hinónoʼeitíít"],"key":"Arapaho","name":"Arapaho", "group":"Other"}
-{"autonyms":["Niitsi'powahsin"],"key":"Blackfoot","name":"Blackfoot", "group":"Other"}
-{"autonyms":["Tsėhesenėstsestotse"],"key":"Cheyenne","name":"Cheyenne", "group":"Other"}
-{"autonyms":[],"key":"Kickapoo","name":"Kickapoo", "group":"Other"}
-{"autonyms":["Oma͞eqnomenēweqnaesen","Mamāceqtaweqnaesen"],"key":"Menominee","name":"Menominee", "group":"Other"}
-{"autonyms":["Meshkwahkihaki"],"key":"Meskwaki","name":"Meskwaki", "group":"Other"}
-{"autonyms":["Miꞌkmawiꞌsimk"],"key":"Mikmaq","name":"Mi’kmaq", "group":"Other"}
-{"autonyms":["myaamia"],"key":"Miami_Illinois","name":"Miami-Illinois", "group":"Other"}
-{"autonyms":[],"key":"Narragansett","name":"Narragansett", "group":"Other"}
-{"autonyms":["skicinuwatuwewakon"],"key":"Passamaquoddy_Maliseet","name":"Passamaquoddy-Maliseet", "group":"Other"}
-{"autonyms":["Bodwéwadmimwen"],"key":"Potawatomi","name":"Potawatomi", "group":"Other"}
-{"autonyms":[],"key":"Powhatan","name":"Powhatan", "group":"Other"}
-{"autonyms":[],"key":"Proto_Algonquian","name":"Proto-Algonquian", "group":"Other"}
-{"autonyms":[],"key":"Proto_Central_Algonquian","name":"Proto-Central Algonquian", "group":"Other"}
-{"autonyms":[],"key":"Proto_Central_Eastern_Algonquian","name":"Proto-Central Eastern Algonquian", "group":"Other"}
-{"autonyms":[],"key":"Proto_Eastern_Algonquian","name":"Proto-Eastern Algonquian", "group":"Other"}
-{"autonyms":["Sawanwa","Savannah","Sewanee","Shawano"],"key":"Shawnee","name":"Shawnee", "group":"Other"}
-{"autonyms":["Wôpanâôt8âôk"],"key":"Wampanoag","name":"Wampanoag", "group":"Other"}
+{"autonyms":[],"key":"Abenaki","name":"Abenaki"}
+{"autonyms":["Alənαpαtəwéwαkan"],"key":"Abenaki_Eastern","name":"Eastern Abenaki"}
+{"autonyms":["Alnôbaôdwawôgan"],"key":"Abenaki_Western","name":"Western Abenaki"}
+{"autonyms":["nehirâmowin"],"key":"Cree_Atikamekw","name":"Atikamekw"}
+{"autonyms":[],"key":"Cree_East","name":"East Cree"}
+{"autonyms":["Innu-Aimun"],"key":"Cree_Innu","name":"Innu"}
+{"autonyms":[],"key":"Cree_Moose_Swampy","name":"Moose-Swampy Cree"}
+{"autonyms":["iyiyiu-Ayamiwin","ᐄᔨᔫ ᐊᔨᒨᓐ "],"key":"Cree_Northern_East","name":"Northern East Cree"}
+{"autonyms":["nêhiyawêwin","ᓀᐦᐃᔭᐍᐏᐣ","nîhiyawîwin"],"key":"Cree_Plains","name":"Plains Cree"}
+{"autonyms":["iyiniu-Ayamiwin ᐄᓅ ᐊᔨᒨᓐ"],"key":"Cree_Southern_East","name":"Southern East Cree"}
+{"autonyms":["Nêhinawêwin","ᓀᐦᐃᓇᐍᐏᐣ "],"key":"Cree_Swampy","name":"Swampy Cree"}
+{"autonyms":[],"key":"Cree_Naskapi_Western","name":"Western Naskapi"}
+{"autonyms":[],"key":"Delaware_Common","name":"Common Delaware"}
+{"autonyms":["monsii"],"key":"Delaware_Munsee","name":"Munsee"}
+{"autonyms":["ləná·p·e"],"key":"Delaware_Unami","name":"Unami"}
+{"autonyms":["Omàmìwininìmowin"],"key":"Ojibwe_Algonquin","name":"Algonquin"}
+{"autonyms":["Anishinaabemowin","Ojibwemowin"],"key":"Ojibwe_Common","name":"Common Ojibwe"}
+{"autonyms":["Nishnaabemwin"],"key":"Ojibwe_Eastern","name":"Eastern Ojibwe"}
+{"autonyms":[],"key":"Ojibwe_N_Macrogroup","name":"Northern Macro-Group (Ojibwe)"}
+{"autonyms":[],"key":"Ojibwe_Nipissing","name":"Nipissing"}
+{"autonyms":["Anishinaabemowin"],"key":"Ojibwe_Northern","name":"Northern Ojibwe"}
+{"autonyms":[],"key":"Ojibwe_NW","name":"Northwestern Ojibwe"}
+{"autonyms":["Nishnaabemwin"],"key":"Ojibwe_Odawa","name":"Odawa"}
+{"autonyms":[],"key":"Ojibwe_S_Macrogroup","name":"Southern Macro-Group (Ojibwe)"}
+{"autonyms":["Anishininiimowin"],"key":"Ojibwe_Severn","name":"Severn Ojibwe"}
+{"autonyms":["Anishinaabemowin"],"key":"Ojibwe_SW","name":"Southwestern Ojibwe"}
+{"autonyms":["Hinónoʼeitíít"],"key":"Arapaho","name":"Arapaho"}
+{"autonyms":["Niitsi'powahsin"],"key":"Blackfoot","name":"Blackfoot"}
+{"autonyms":["Tsėhesenėstsestotse"],"key":"Cheyenne","name":"Cheyenne"}
+{"autonyms":[],"key":"Kickapoo","name":"Kickapoo"}
+{"autonyms":["Oma͞eqnomenēweqnaesen","Mamāceqtaweqnaesen"],"key":"Menominee","name":"Menominee"}
+{"autonyms":["Meshkwahkihaki"],"key":"Meskwaki","name":"Meskwaki"}
+{"autonyms":["Miꞌkmawiꞌsimk"],"key":"Mikmaq","name":"Mi’kmaq"}
+{"autonyms":["myaamia"],"key":"Miami_Illinois","name":"Miami-Illinois"}
+{"autonyms":[],"key":"Narragansett","name":"Narragansett"}
+{"autonyms":["skicinuwatuwewakon"],"key":"Passamaquoddy_Maliseet","name":"Passamaquoddy-Maliseet"}
+{"autonyms":["Bodwéwadmimwen"],"key":"Potawatomi","name":"Potawatomi"}
+{"autonyms":[],"key":"Powhatan","name":"Powhatan"}
+{"autonyms":[],"key":"Proto_Algonquian","name":"Proto-Algonquian"}
+{"autonyms":[],"key":"Proto_Central_Algonquian","name":"Proto-Central Algonquian"}
+{"autonyms":[],"key":"Proto_Central_Eastern_Algonquian","name":"Proto-Central Eastern Algonquian"}
+{"autonyms":[],"key":"Proto_Eastern_Algonquian","name":"Proto-Eastern Algonquian"}
+{"autonyms":["Sawanwa","Savannah","Sewanee","Shawano"],"key":"Shawnee","name":"Shawnee"}
+{"autonyms":["Wôpanâôt8âôk"],"key":"Wampanoag","name":"Wampanoag"}
