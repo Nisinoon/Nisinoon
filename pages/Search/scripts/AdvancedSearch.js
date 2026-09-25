@@ -67,6 +67,10 @@ export default class AdvancedSearch {
     this.selectAllToggle.addEventListener(`click`, this.toggleSelectAll.bind(this))
 
     this.advancedOption.addEventListener('click', this.restoreLanguages.bind(this))
+
+    
+    this.form.addEventListener(`submit`, this.validate.bind(this))
+    this.form.addEventListener(`submit`, this.compressLanguageGroups.bind(this))
   }
 
   render() {
@@ -252,6 +256,32 @@ export default class AdvancedSearch {
   syncAllGroupCheckboxes() {
     document.querySelectorAll(`#advanced-language-panel .language-group`).forEach(wrapper => {
       this.syncGroupCheckbox(wrapper.dataset.group)
+    })
+  }
+
+  compressLanguageGroups(ev) {
+    if (ev.defaultPrevented) return
+
+    this.form.querySelectorAll(`input[data-group-hidden]`).forEach(el => el.remove())
+
+    document.querySelectorAll(`#advanced-language-panel .language-group`).forEach(wrapper => {
+      const groupCheckbox = wrapper.querySelector(`.group-checkbox`)
+      const groupName = groupCheckbox?.closest(`label`)?.textContent.trim()
+      if (!groupName) return // bail out, leave this group's checkboxes as individual inputs
+
+      const children = Array.from(wrapper.querySelectorAll(`input[type=checkbox]:not(.group-checkbox)`))
+      const allChecked = children.length > 0 && children.every(el => el.checked)
+
+      if (allChecked) {
+        children.forEach(el => { el.disabled = true })
+
+        const hidden = document.createElement(`input`)
+        hidden.type = `hidden`
+        hidden.name = `language`
+        hidden.value = `group:${groupName}`
+        hidden.dataset.groupHidden = `true`
+        this.form.appendChild(hidden)
+      }
     })
   }
 
