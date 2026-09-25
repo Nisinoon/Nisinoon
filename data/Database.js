@@ -171,12 +171,29 @@ export default class Database {
     this.cleanCitationKeys()
   }
 
+  expandLanguageGroups(langFilter) {
+    const expanded = new Set()
+
+    for (const entry of langFilter) {
+      if (entry?.startsWith(`group:`)) {
+        const groupName = entry.slice(6)
+        for (const lang of this.languages.values()) {
+          if (lang.group === groupName) expanded.add(lang.key)
+        }
+      } else if (entry) {
+        expanded.add(entry)
+      }
+    }
+
+    return Array.from(expanded)
+  }
+
   quickSearch(query) {
 
     const caseSensitive = query.get(`caseSensitive`)
     const diacritics    = query.get(`diacritics`)
     const langQuery     = query.get(`language`)
-    const langFilter    = Array.isArray(langQuery) ? langQuery : (langQuery ? [langQuery] : [])
+    const langFilter    = this.expandLanguageGroups(Array.isArray(langQuery) ? langQuery : (langQuery ? [langQuery] : []))
     const regex         = query.get(`regex`)
     const q             = query.get(`q`)
 
@@ -230,7 +247,7 @@ export default class Database {
     const caseSensitive = query.get(`caseSensitive`)
     const diacritics    = query.get(`diacritics`)
     const language      = query.get(`language`)
-    const langFilter       = Array.isArray(language) ? language : (language ? [language] : [])
+    const langFilter       = this.expandLanguageGroups(Array.isArray(language) ? language : (language ? [language] : []))
     const logic         = query.get(`logic`) ?? `all`
     const allLangsChecked  = !language || langFilter.length === this.languages.size
 

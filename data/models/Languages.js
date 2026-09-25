@@ -14,6 +14,7 @@ export default class Languages extends Map {
     `autonyms`,
     `dialects`,
     `notes`,
+    'group'
   ];
 
   static jsonPath = path.resolve(
@@ -38,12 +39,13 @@ export default class Languages extends Map {
     return this;
   }
 
-  convertRecord({ autonyms = ``, key, name }) {
+  convertRecord({ autonyms = ``, group, key, name }) {
     return {
       autonyms: autonyms
         .split(/,\s*/gv)
         .filter(Boolean)
         .map((autonym) => autonym.normalize()),
+      group,
       key,
       name: name.normalize(),
     };
