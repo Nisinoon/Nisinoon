@@ -1,8 +1,8 @@
-Spreadsheet Name,∃,Display Name,Lg Abbrev,ISO,GC,Alternative Exonym(s),Autonym(s),Dialect(s),Notes
-Abenaki,Y,Abenaki,AB,---,aben1250,Abnaki,,,[public] Used if Eastern or Western not specified
+Spreadsheet Name,∃,Display Name,Lg Abbrev,ISO,GC,Alternative Exonym(s),Autonym(s),Dialect(s),Notes,Group
+Abenaki,Y,Abenaki,AB,---,aben1250,Abnaki,,,[public] Used if Eastern or Western not specified,Abenaki
 Abenaki_Eastern,Y,Eastern Abenaki,AB,aaq,east2544,Eastern Abnaki,Alənαpαtəwéwαkan,"Caniba
-Penobscot: peno1243",[public] Autonym source: Wikipedia
-Abenaki_Western,Y,Western Abenaki,AB,abe,west2630,Western Abnaki,Alnôbaôdwawôgan,,[public] Autonym source: Wikipedia
+Penobscot: peno1243",[public] Autonym source: Wikipedia,Abenaki
+Abenaki_Western,Y,Western Abenaki,AB,abe,west2630,Western Abnaki,Alnôbaôdwawôgan,,[public] Autonym source: Wikipedia,Abenaki
 Albany River Ojibwe see Ojibwe_Albany_River
 Algic,,Algic,ALC,---,algi1248,,,,[public] Algic language family
 Algonquian,,Algonquian,ALQ,alg,algo1256,,,,"[public] Refers to ""Algonquian language family,"" if used generically (e.g. “In Algonquian languages…”); NOT the same as Algonquin or Proto-Algonquian"
@@ -10,7 +10,7 @@ Algonquian_Eastern,,Eastern Algonquian,,---,east2700,,,,[public] Used only if Pr
 Algonquian_Eastern_Great_Lakes,,Eastern Great Lakes Algonquian,,---,east2765,,,,[public] Subfamily; not a commonly used designation
 Algonquian_Southern_New_England,,Southern New England Algonquian,,---,sout3237,,,,[public] Subfamily; not a commonly used designation
 Algonquin see Ojibwe_Algonquin
-Arapaho,Y,Arapaho,AR,arp,arap1274,,Hinónoʼeitíít,,"[public] GL lists under Arapaho-Gros Ventre-Besawunena, [public] Autonym source: Wikipedia"
+Arapaho,Y,Arapaho,AR,arp,arap1274,,Hinónoʼeitíít,,"[public] GL lists under Arapaho-Gros Ventre-Besawunena, [public] Autonym source: Wikipedia",Other
 Arapaho-Gros Ventre-Besawunena,,Arapaho-Gros Ventre-Besawunena,AR,---,arap1280,,,,[public] Arapaho and Gros Ventre have their own codes; Besawunena does not; GL lists under Arapahoic
 Arapahoic,,Arapahoic,,---,arap1273,,,,[private] GL has this w/ Arapaho-Gros Ventre-Besawunena and Nawathinehena under it; we are unlikely to use it.
 Atikamekw see Cree_Atikamekw
@@ -20,7 +20,7 @@ Berens River Ojibwe see Ojibwe_Berens_River
 Besawunena see Arapaho-Gros Ventre-Besawunena
 Betsiamites see Cree_Innu_Southern
 Big Trout Lake Severn Ojibwe see Ojibwe_Big_Trout_Lake_Severn
-Blackfoot,Y,Blackfoot,BF,bla,siks1238,Siksika; Blackfeet (in the U.S.),Niitsi'powahsin,,"[public] David Costa's publications call it ""Miami-Illinois."" GL just calls it ""Miami."", Autonym source: Wikipedia."
+Blackfoot,Y,Blackfoot,BF,bla,siks1238,Siksika; Blackfeet (in the U.S.),Niitsi'powahsin,,"[public] David Costa's publications call it ""Miami-Illinois."" GL just calls it ""Miami."", Autonym source: Wikipedia.",Other
 Blood,,Blood,BF,---,bloo1239,,,,[public] GL: dialect of Siksika (Blackfoot)
 Border Lakes Ojibwe see Ojibwe_Border_Lakes
 Caniba see Abenaki_Eastern
@@ -28,42 +28,42 @@ Carolina_Algonquian,,Carolina Algonquian,,crr,caro1243,,,,[public] GL treats thi
 Central Eastern Southwestern Ojibwe see Ojibwe_Central_Eastern_Southwestern
 Central Minnesota Chippewa see Ojibwe_Central_Minnesota_Chippewa
 Central Ojibwe see Ojibwe_Central
-Cheyenne,Y,Cheyenne,CH,chy,chey1247,,Tsėhesenėstsestotse,,[public] Autonym source: Wikipedia
+Cheyenne,Y,Cheyenne,CH,chy,chey1247,,Tsėhesenėstsestotse,,[public] Autonym source: Wikipedia,Other
 Chippewa see Ojibwe_Chippewa
 Cowesit see Wampanoag
 Cree_Common,,Common Cree,C,cre,cree1272,,,,[public] Used only if dialect unspecified
-Cree_Atikamekw,Y,Atikamekw,C-A,atj,atik1240,,nehirâmowin,,"[public] Autonym source: Wikipedia (has tag ""citation needed"")"
+Cree_Atikamekw,Y,Atikamekw,C-A,atj,atik1240,,nehirâmowin,,"[public] Autonym source: Wikipedia (has tag ""citation needed"")",Cree
 Cree East(ern) see Cree_Southern_East or Cree_Northern_East,,,,,,,,,"[public] If used without designation of S or N, see Cree East"
-Cree_East,Y,East Cree,C-E,---,---,,,,[public] Used only if S or N East Cree not specified
-Cree_Innu,Y,Innu,C-I,moe,mont1268,"Innu-Aimun, Montagnais",Innu-Aimun
+Cree_East,Y,East Cree,C-E,---,---,,,,[public] Used only if S or N East Cree not specified,Cree
+Cree_Innu,Y,Innu,C-I,moe,mont1268,"Innu-Aimun, Montagnais",Innu-Aimun,,,Cree
 Cree_Innu_Central,,Central Innu,C-I,---,---,,,,[public] Central dialect of Innu (Montagnais)
 Cree_Innu_East,,East Innu,C-I,---,east2540,Eastern Montagnais
 Cree_Innu_Southern,,Southern Innu,C-I,---,---
 Cree_Innu_West,,West Innu,C-I,---,west2627,Western Montagnais
 Cree_Montagnais_Naskapi,,Montagnais-Naskapi,C,---,cree1271,,,,[public] Only used if treated as a group
 Cree_Moose,,Moose Cree,C,crm,moos1236,,"ililîmowin, ᐃᓕᓖᒧᐎᓐ ",,"[public] L-dialect; mutually intelligible with Swampy Cree (west coast of James Bay), [public] Autonym source: Wikipedia"
-Cree_Moose_Swampy,Y,Moose-Swampy Cree,C,---,---,,,,[public] Used only if both described together
+Cree_Moose_Swampy,Y,Moose-Swampy Cree,C,---,---,,,,[public] Used only if both described together,Cree
 Cree_Naskapi,,Naskapi,C-N,nsk,nask1242,,,,[public] Used only if E or W Naskapi not specified
 Cree_Naskapi_Eastern,,Eastern Naskapi,C-N,---,east2539
-Cree_Naskapi_Western,Y,Western Naskapi,C-N,---,west2626
+Cree_Naskapi_Western,Y,Western Naskapi,C-N,---,west2626,,,,,Cree
 Cree_Northern,,Northern Cree,C,---,---
 Cree_Northern_Alberta,,Northern Alberta Cree,C,---,nort2960,,,,[public] Dialect of Plains Cree but included here because there's a GC
-Cree_Northern_East,Y,Northern East Cree,C-NE,crl,nort1552,,"iyiyiu-Ayamiwin, ᐄᔨᔫ ᐊᔨᒨᓐ ",,[public] Autonym source: Wikipedia
-Cree_Plains,Y,Plains Cree,C-P,crk,plai1258,,"nêhiyawêwin, ᓀᐦᐃᔭᐍᐏᐣ, nîhiyawîwin",,[public] Autonym source: Wikipedia
+Cree_Northern_East,Y,Northern East Cree,C-NE,crl,nort1552,,"iyiyiu-Ayamiwin, ᐄᔨᔫ ᐊᔨᒨᓐ ",,[public] Autonym source: Wikipedia,Cree
+Cree_Plains,Y,Plains Cree,C-P,crk,plai1258,,"nêhiyawêwin, ᓀᐦᐃᔭᐍᐏᐣ, nîhiyawîwin",,[public] Autonym source: Wikipedia,Cree
 Cree_Plains_Creeic,,Plains Creeic,C,---,plai1254,,,,[private] Unlikely to ever be used!
 Cree_Plains_Nuclear,,Plains Cree Nuclear,C,---,nucl1654,,,,[public] Dialect of Plains Cree but included here because there's a GC
-Cree_Southern_East,Y,Southern East Cree,C-SE,crj,sout2978,,iyiniu-Ayamiwin ᐄᓅ ᐊᔨᒨᓐ,,[public] Autonym source: Wikipedia
-Cree_Swampy,Y,Swampy Cree,C,csw,swam1239,,"Nêhinawêwin, ᓀᐦᐃᓇᐍᐏᐣ ",,"[public] Used only if E vs. W not specified; N-dialect; mutually intelligible with Moose Cree (west coast of James Bay), [public] Autonym source: Wikipedia (has tag ""citation needed"")"
+Cree_Southern_East,Y,Southern East Cree,C-SE,crj,sout2978,,iyiniu-Ayamiwin ᐄᓅ ᐊᔨᒨᓐ,,[public] Autonym source: Wikipedia,Cree
+Cree_Swampy,Y,Swampy Cree,C,csw,swam1239,,"Nêhinawêwin, ᓀᐦᐃᓇᐍᐏᐣ ",,"[public] Used only if E vs. W not specified; N-dialect; mutually intelligible with Moose Cree (west coast of James Bay), [public] Autonym source: Wikipedia (has tag ""citation needed"")",Cree
 Cree_Swampy_Eastern,,Eastern Swampy Cree,C,---,east2541,,"ininîmowin, ᐃᓂᓃᒧᐎᓐ",,"[public] Dialect of Swampy Cree but included here because there's a GC, [public] Autonym source: Wikipedia "
 Cree_Swampy_Western,,Western Swampy Cree,C,---,west2628,,"nêhinawêwin, ᓀᐦᐃᓇᐌᐎᐣ",,"[public] Dialect of Swampy Cree but included here because there's a GC, [public] Autonym source: Wikipedia "
 Cree_Western_York,,Western York Cree,C,---,west2629,,,,[public] Dialect of Plains Cree but included here because there's a GC
 Cree_Woods,,Woods Cree,C,cwd,wood1236,"Woodland Cree, Rock (Rocky) Cree","nîhithawîwin, ᓃᐦᐃᖬᐑᐏᐣ",,[public] Autonym source: Wikipedia 
 Deer Lake Severn Ojibwe see Ojibwe_Deer_Lake_Severn
 Delawaran,,Delawaran,D,---,dela1253,,,,[public] Used only if specific Delaware language not specified. Includes Mahican.
-Delaware_Common,Y,Common Delaware,D,del,comm1246,,,,[public] Used only when Munsee or Unami/Lenape not specified
+Delaware_Common,Y,Common Delaware,D,del,comm1246,,,,[public] Used only when Munsee or Unami/Lenape not specified,Delaware
 Delaware_Munsee,,,D-M,umu,muns1251
-Delaware_Munsee,Y,Munsee,D-M,umu,muns1251,,monsii,,[public] Autonym source: Wikipedia
-Delaware_Unami,Y,Unami,D-U,unm,unam1242,Lenape,ləná·p·e,,"[public] Autonym source: IG2021, p. 1."
+Delaware_Munsee,Y,Munsee,D-M,umu,muns1251,,monsii,,[public] Autonym source: Wikipedia,Delaware
+Delaware_Unami,Y,Unami,D-U,unm,unam1242,Lenape,ləná·p·e,,"[public] Autonym source: IG2021, p. 1.",Delaware
 Eastern Abenaki see Abenaki_Eastern
 Eastern Algonquian see Algonquian_Eastern
 Eastern Great Lakes Algonquian see Algonquian_Eastern_Great_Lakes
@@ -79,7 +79,7 @@ Gros_Ventre,,Gros Ventre,AR,ats,gros1243,Atsina,Aaniiih,,[public] GL lists under
 Illinois see Myaamia
 Innu see Cree_Innu
 Innu-Aimun see Cree_Innu
-Kickapoo,Y,Kickapoo,KP,kic,kick1244
+Kickapoo,Y,Kickapoo,KP,kic,kick1244,,,,,Other
 Lac Seul Ojibwe see Ojibwe_Lac_Seul
 Lake of the Woods Ojibwe see Ojibwe_Lake_of_the_Woods
 Lenape see Delaware_Unami
@@ -92,16 +92,16 @@ Maniwaki see Ojibwe_Nipissing
 Mascouten,,Mascouten,,---,---,,,,[public] No ISO or GC for this; LinguistList gives it code qes; see Sauk-Fox-Kickapoo
 Mashteuiatsh see Cree_Innu_Southern
 Massachusett see Wampanoag
-Menominee,Y,Menominee,MN,mez,meno1252,,"Oma͞eqnomenēweqnaesen, Mamāceqtaweqnaesen"
-Meskwaki,Y,Meskwaki,ME,skc,mesk1243,"Meskwakie, Fox",Meshkwahkihaki,,[public] GL spells it “Meskwakie” and uses “Meskwaki” for “Sauk-Fox”; this code is for the single language AKA “Fox”; not when Kickapoo and/or Sauk are included.
+Menominee,Y,Menominee,MN,mez,meno1252,,"Oma͞eqnomenēweqnaesen, Mamāceqtaweqnaesen",,,Other
+Meskwaki,Y,Meskwaki,ME,skc,mesk1243,"Meskwakie, Fox",Meshkwahkihaki,,[public] GL spells it “Meskwakie” and uses “Meskwaki” for “Sauk-Fox”; this code is for the single language AKA “Fox”; not when Kickapoo and/or Sauk are included.,Other
 Meskwaki-Kickapoo_Common,,Common Meskwaki-Kickapoo,,---,foxx1245
 Miami see Myaamia
-Miami_Illinois,Y,Miami-Illinois,MY,mia,miam1252,"Myaamia, Peoria",myaamia,,"[public] This is what David Costa's publications call it. GL just calls it ""Miami."", [public] Autonym source: Wikipedia"
+Miami_Illinois,Y,Miami-Illinois,MY,mia,miam1252,"Myaamia, Peoria",myaamia,,"[public] This is what David Costa's publications call it. GL just calls it ""Miami."", [public] Autonym source: Wikipedia",Other
 Miami_Nuclear,,Nuclear Miami,MY,---,nucl1653,Myaamia,,,[public] GL distinguishes from “Peoria” (GC peor1238); ISO 639-3 does not. We are not using this.
 Miami-Illinois see Myaamia
 Michif,,Michif,,crg,mich1243,,Michif
 Micmac see Mi’kmaq
-Mikmaq,Y,Mi’kmaq,MK,mic,mikm1235,"Micmac, Mi'kmaw",Miꞌkmawiꞌsimk,,[public] Autonym source: Wikipedia
+Mikmaq,Y,Mi’kmaq,MK,mic,mikm1235,"Micmac, Mi'kmaw",Miꞌkmawiꞌsimk,,[public] Autonym source: Wikipedia,Other
 Mikmaq_Northern,,Northern Mi'kmaq,MK,---,nort2962,"Micmac, Mi'kmaw"
 Mikmaq_Southern,,Southern Mi'kmaq,MK,---,sout2979,"Micmac, Mi'kmaw"
 Minnesota Border Chippewa see Ojibwe_Minnesota_Border_Chippewa
@@ -114,7 +114,7 @@ Moose Cree see Cree_Moose
 Munsee see Delaware_Munsee
 Nanticoke,,Nanticoke,,nnt,nant1249
 Nanticoke-Conoy,,Nanticoke-Conoy,,---,nant1248
-Narragansett,Y,Narragansett,NR,xnt,narr1280
+Narragansett,Y,Narragansett,NR,xnt,narr1280,,,,,Other
 Naskapi see Cree_Naskapi
 Natick see Wampanoag
 Naugatuck see Quiripi
@@ -134,7 +134,7 @@ Nuclear Plains Cree see Cree_Plains_Nuclear
 Odawa see Ojibwe_Odawa
 Oji-Cree see Ojibwe_Severn
 Ojibwe_Albany_River,,Albany River Ojibwe,OJ,---,alba1270,Albany River Ojibwa,,,[public] GL: dialect of Northwestern Ojibwa
-Ojibwe_Algonquin,Y,Algonquin,OJ,alq,algo1255,,Omàmìwininìmowin,,"Autonym source: Wikipedia (has tag ""citation needed"")"""
+Ojibwe_Algonquin,Y,Algonquin,OJ,alq,algo1255,,Omàmìwininìmowin,,"Autonym source: Wikipedia (has tag ""citation needed"")""",Ojibwe
 Ojibwe_Algonquin_Old,,Old Algonquin,,---,---
 Ojibwe_Berens_River,,Berens River Ojibwe,OJ,---,bere1251,Berens River Ojibwa,,,[public] GL: dialect of Northwestern Ojibwa
 Ojibwe_Big_Trout_Lake_Severn,,Big Trout Lake Severn Ojibwe,OJ,---,bigt1234,Big Trout Lake Severn Ojibwa
@@ -142,31 +142,31 @@ Ojibwe_Border_Lakes,,Border Lakes Ojibwe,OJ,---,---,Border Lakes Ojibwa
 Ojibwe_Central,,Central Ojibwe,OJ,ojc,cent2136,Central Ojibwa,,,[public] GL uses as daughter of Central-Eastern-Southwestern Ojibwe
 Ojibwe_Central_Eastern_Southwestern,,Central Eastern Southwestern Ojibwe ,OJ,---,cent2252,Central Eastern Southwestern Ojibwa,,,"[public] GL uses as parent of Central Ojibwe, Chippewa, & Eastern Ojibwe; only used code if all intended"
 Ojibwe_Central_Minnesota_Chippewa,,Central Minnesota Chippewa,OJ,---,cent2135,,,,[public] Dialect of Chippewa
-Ojibwe_Common,Y,Common Ojibwe,OJ,oji,ojib1241,"Ojibwa, Chippewa","Anishinaabemowin, Ojibwemowin",,[public] Used only if dialect unspecified
+Ojibwe_Common,Y,Common Ojibwe,OJ,oji,ojib1241,"Ojibwa, Chippewa","Anishinaabemowin, Ojibwemowin",,[public] Used only if dialect unspecified,Ojibwe
 Ojibwe_Deer_Lake_Severn,,Deer Lake Severn Ojibwe,OJ,---,deer1234,Deer Lake Severn Ojibwa
-Ojibwe_Eastern,Y,Eastern Ojibwe,OJ,ojg,east2542,Eastern Ojibwa,Nishnaabemwin
+Ojibwe_Eastern,Y,Eastern Ojibwe,OJ,ojg,east2542,Eastern Ojibwa,Nishnaabemwin,,,Ojibwe
 Ojibwe_Lac_Seul,,Lac Seul Ojibwe,OJ,---,lacs1238,Lac Seul Ojibwa,,,[public] GL: dialect of Northwestern Ojibwa
 Ojibwe_Lake_of_the_Woods,,Lake of the Woods Ojibwe,OJ,---,lake1257,Lake of the Woods Ojibwa,,,[public] GL: dialect of Northwestern Ojibwa
 Ojibwe_Minnesota_Border_Chippewa,,Minnesota Border Chippewa,OJ,---,minn1250,,,,[public] Dialect of Chippewa
-Ojibwe_N_Macrogroup,Y,Northern Macro-Group (Ojibwe),OJ,---,---,,,,"[public] Category comes from Valentine 2002. He says it ""encompass[es] particularly northern Algonquin and Severn Ojibwe, but also to a varying extent varieties of Ojibwe spoken in northern Ontario, extending east across the Canadian shield."""
+Ojibwe_N_Macrogroup,Y,Northern Macro-Group (Ojibwe),OJ,---,---,,,,"[public] Category comes from Valentine 2002. He says it ""encompass[es] particularly northern Algonquin and Severn Ojibwe, but also to a varying extent varieties of Ojibwe spoken in northern Ontario, extending east across the Canadian shield.""",Ojibwe
 Ojibwe_Nipissing,Y,Nipissing,OJ,---,mini1254,,,,"[public] ""... with Mississauga Ojibwa and Odawa form the Nishnaabemwin (Eastern Ojibwa) group of the Ojibwa dialect continuum"" (Wikipedia).
-[public] ""Speakers at Maniwaki consider their language to be Southern Algonquin, though linguistically it is a dialect of Nipissing Ojibwa, which together with Mississauga Ojibwa and Odawa form the Nishnaabemwin (Eastern Ojibwa) group of the Ojibwa dialect continuum."" (Wikipedia)"
+[public] ""Speakers at Maniwaki consider their language to be Southern Algonquin, though linguistically it is a dialect of Nipissing Ojibwa, which together with Mississauga Ojibwa and Odawa form the Nishnaabemwin (Eastern Ojibwa) group of the Ojibwa dialect continuum."" (Wikipedia)",Ojibwe
 Ojibwe_Nishnaabemwin,,Nishnaabemwin,OJ,---,---
-Ojibwe_Northern,Y,Northern Ojibwe,OJ,---,---,,Anishinaabemowin,,"[public] Category comes from Valentine 2002. He describes it as ""in northern Ontario south of the Severn region."""
+Ojibwe_Northern,Y,Northern Ojibwe,OJ,---,---,,Anishinaabemowin,,"[public] Category comes from Valentine 2002. He describes it as ""in northern Ontario south of the Severn region.""",Ojibwe
 Ojibwe_Northern_Algonquin,,Northern Algonquin,OJ,---,nort3290
-Ojibwe_NW,Y,Northwestern Ojibwe,OJ,ojb,nort2961,Northwestern Ojibwa
+Ojibwe_NW,Y,Northwestern Ojibwe,OJ,ojb,nort2961,Northwestern Ojibwa,,,,Ojibwe
 Ojibwe_Northwestern_Saulteaux,,Northwestern Saulteaux Ojibwe,OJ,---,nort3181,Northwestern Saulteaux Ojibwa
 Ojibwe_Nuclear,,Nuclear Ojibwe,OJ,---,nucl1723,Nuclear Ojibwa,,,[public] GL uses as parent of Central-Eastern-Southwestern Ojibwe & Northwestern-Saulteaux Ojibwe; only used if all intended
-Ojibwe_Odawa,Y,Odawa,OJ,otw,otta1242,Ottawa,Nishnaabemwin
+Ojibwe_Odawa,Y,Odawa,OJ,otw,otta1242,Ottawa,Nishnaabemwin,,,Ojibwe
 Ojibwe_Potawatomi,,Ojibwe-Potawatomi,PO,---,ojib1240,,,,[public] Used only when both treated together; ISO does not have a single code for the combination
 Ojibwe_Rainy_River,,Rainy River Ojibwe,OJ,---,rain1239,Rainy River Ojibwa,,,[public] GL: dialect of Northwestern Ojibwa
 Ojibwe_Red_Lake_Chippewa,,Red Lake Chippewa,OJ,---,redl1238,,,,[public] Dialect of Chippewa
-Ojibwe_S_Macrogroup,Y,Southern Macro-Group (Ojibwe),OJ,---,---,,,,"[public] Category comes from Valentine 2002. He says it ""consists of the dialects found near the Great Lakes, particularly Odawa, Eastern Ojibwe, Southwestern Ojibwe, and much of Saulteaux."""
+Ojibwe_S_Macrogroup,Y,Southern Macro-Group (Ojibwe),OJ,---,---,,,,"[public] Category comes from Valentine 2002. He says it ""consists of the dialects found near the Great Lakes, particularly Odawa, Eastern Ojibwe, Southwestern Ojibwe, and much of Saulteaux.""",Ojibwe
 Ojibwe_Saulteaux,,Saulteaux,OJ,ojw,west1510,Western Ojibwe,,,[public] GL: daughter of Northwestern Saulteaux Ojibwe
-Ojibwe_Severn,Y,Severn Ojibwe,OJ,ojs,seve1240,Oji-Cree,Anishininiimowin,,[public] Autonym source: Glottolog
+Ojibwe_Severn,Y,Severn Ojibwe,OJ,ojs,seve1240,Oji-Cree,Anishininiimowin,,[public] Autonym source: Glottolog,Ojibwe
 Ojibwe_Severn_Algonquin,,Severn Algonquin Ojibwe,OJ,---,seve1242,Severn Algonquin Ojibwa
 Ojibwe_Severn_River,,Severn River Ojibwe,OJ,---,seve1241,Severn River Ojibwa
-Ojibwe_SW,Y,Southwestern Ojibwe,OJ,ciw,chip1241,Chippewa,Anishinaabemowin,,"[public] GL has several daughter languages, [public] Autonym source: Wikipedia"
+Ojibwe_SW,Y,Southwestern Ojibwe,OJ,ciw,chip1241,Chippewa,Anishinaabemowin,,"[public] GL has several daughter languages, [public] Autonym source: Wikipedia",Ojibwe
 Ojibwe_Turtle_Mountain_Chippewa,,Turtle Mountain Chippewa,OJ,---,turt1236,,,,[public] Dialect of Chippewa
 Ojibwe_Upper_Michigan_Wisconsin_Chippewa,,Upper Michigan-Wisconsin Chippewa,OJ,---,uppe1274,,,,[public] Dialect of Chippewa
 Ojibwe_Winisk_River,,Winisk River Ojibwe,OJ,---,wini1244,Winisk River Ojibwa
@@ -177,20 +177,20 @@ Passamaquoddy-Maliseet,,,P-M,pqm,male1292,"Malicite-Passamaquoddy, Passamaquoddy
 Penobscot see Abenaki_Eastern,,,,,,,,,[public] GL: under Eastern Abenaki but has own code
 Pequot see Mohegan_Pequot
 Passamaquoddy_Maliseet,Y,Passamaquoddy-Maliseet,P-M,pqm,male1292,"Malecite-Passamaquoddy, Maliseet-Passamaquoddy",skicinuwatuwewakon,"Passamaquoddy: pass1249
-Maliseet: male1293",[public] Autonym source: Wikipedia
+Maliseet: male1293",[public] Autonym source: Wikipedia,Other
 Piegan,,Piegan,BL,---,pieg1239,,,,[public] GL: dialect of Siksika (Blackfoot)
 Piscataway,,Piscataway,,psy,pisc1239,,,,[public] GL lists under Nanticoke-Conoy
 Plains Cree see Cree_Plains
 Plains Creeic see Cree_Plains_Creeic
 Pocumtuc,,Pocumtuc,,---,---,Pocumtuck,,,[public] Not in GL; not clear what it was related to (https://en.wikipedia.org/wiki/Pocomtuc)
-Potawatomi,Y,Potawatomi,POT,pot,pota1247,,Bodwéwadmimwen,,[public] Autonym source: Wikipedia 
-Powhatan,Y,Powhatan,POW,pim,powh1243,Virginia Algonquian
+Potawatomi,Y,Potawatomi,POT,pot,pota1247,,Bodwéwadmimwen,,[public] Autonym source: Wikipedia ,Other
+Powhatan,Y,Powhatan,POW,pim,powh1243,Virginia Algonquian,,,,Other
 Proto_Algic,,Proto-Algic,PALG,aql,algi1248
-Proto_Algonquian,Y,Proto-Algonquian,PA,alg,algo1256,,,,[public] This glottocode is the one that includes Blackfoot - they have it outside Algonquian proper
+Proto_Algonquian,Y,Proto-Algonquian,PA,alg,algo1256,,,,[public] This glottocode is the one that includes Blackfoot - they have it outside Algonquian proper,Other
 Proto_Arapaho_Gros_Ventre_Besawunena,,Proto-Arapaho-Gros Ventre-Besawunena,,---,arap1280
-Proto_Central_Algonquian,Y,Proto-Central Algonquian,PCA,---,---,,,,[public] Not commonly accepted as subfamily
-Proto_Central_Eastern_Algonquian,Y,Proto-Central Eastern Algonquian,PCEA,---,---
-Proto_Eastern_Algonquian,Y,Proto-Eastern Algonquian,PEA,---,---
+Proto_Central_Algonquian,Y,Proto-Central Algonquian,PCA,---,---,,,,[public] Not commonly accepted as subfamily,Other
+Proto_Central_Eastern_Algonquian,Y,Proto-Central Eastern Algonquian,PCEA,---,---,,,,,Other
+Proto_Eastern_Algonquian,Y,Proto-Eastern Algonquian,PEA,---,---,,,,,Other
 Proto_Ojibwe_Potawatomi,,Proto-Ojibwe-Potawatomi,,---,ojib1240
 Proto_SNEA,,Proto-Southern New England Algonquian,,---,sout3237,Common Southern New England Algonquian
 Quinnipiac see Quiripi
@@ -205,7 +205,7 @@ Saulteaux see Ojibwe_Saulteaux
 Severn see Ojibwe_Severn
 Severn Algonquin Ojibwe see Ojibwe_Severn_Algonquin
 Severn River Ojibwe see Ojibwe_Severn_River
-Shawnee,Y,Shawnee,SH,sjw,shaw1249,,"Sawanwa, Savannah, Sewanee, Shawano",,[public] Autonym source: Wikipedia
+Shawnee,Y,Shawnee,SH,sjw,shaw1249,,"Sawanwa, Savannah, Sewanee, Shawano",,[public] Autonym source: Wikipedia,Other
 Shinnecock-Poosepatuck see Mohegan_Pequot
 Siksika see Blackfoot
 Southern East Cree see Cree_Southern_East
@@ -220,7 +220,7 @@ Unquachog see Quiripi
 Upper Michigan-Wisconsin Chippewa see Ojibwe_Upper_Michigan_Wisconsin_Chippewa
 Virginia Algonquian see Powahatan
 Wampano see Quiripi
-Wampanoag,Y,Wampanoag,WM,wam,wamp1249,"Massachusett, Natick",Wôpanâôt8âôk,,[public] Autonym source: Wôpanâak Language Reclamation Project https://www.wlrp.org/
+Wampanoag,Y,Wampanoag,WM,wam,wamp1249,"Massachusett, Natick",Wôpanâôt8âôk,,[public] Autonym source: Wôpanâak Language Reclamation Project https://www.wlrp.org/,Other
 Western Abenaki see Abenaki_Western
 Western Montagnais see Cree_Innu_West
 Western Naskapi see Cree_Naskapi_Western
