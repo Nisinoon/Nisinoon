@@ -107,6 +107,7 @@ body {
   }
 }
 
+
 h2 {
   text-align: center;
 }
@@ -226,7 +227,7 @@ label:has(.tooltip) {
 }
 
 .language-dropdown-panel {
-  background-color: black;
+  background-color: var(--color-bg);
   border: 2px solid #ccc;
   border-radius: 10px;
   block-size: 15em;
@@ -253,6 +254,10 @@ label:has(.tooltip) {
   inline-size: 100%;
   flex-direction: column;
   gap: 0;
+}
+
+.language-group {
+  color: var(--color-text);
 }
 
 .single-language-checkbox {

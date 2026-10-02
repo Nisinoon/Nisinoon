@@ -60,6 +60,7 @@ export default class QuickSearch {
 
     this.form.addEventListener(`submit`, this.validate.bind(this))
     this.form.addEventListener(`submit`, this.compressLanguageGroups.bind(this))
+    this.form.querySelectorAll(`input, select`).forEach(el => { el.disabled = false })
   }
 
   render() {
@@ -210,25 +211,41 @@ export default class QuickSearch {
   compressLanguageGroups(ev) {
     if (ev.defaultPrevented) return
 
-    this.form.querySelectorAll(`input[data-group-hidden]`).forEach(el => el.remove())
+    const panel = document.getElementById(`quick-language-panel`)
+    const allLanguageCheckboxes = Array.from(
+      panel.querySelectorAll(`input[type=checkbox]:not(.group-checkbox)`)
+    )
+    const allChecked = allLanguageCheckboxes.length > 0 && allLanguageCheckboxes.every(el => el.checked)
+
+    if (allChecked) {
+      allLanguageCheckboxes.forEach(el => { el.disabled = true })
+      panel.querySelectorAll(`.group-checkbox`).forEach(el => { el.disabled = true })
+      return
+    }
 
     document.querySelectorAll(`#quick-language-panel .language-group`).forEach(wrapper => {
       const groupCheckbox = wrapper.querySelector(`.group-checkbox`)
-      const groupName = groupCheckbox?.closest(`label`)?.textContent.trim()
-      if (!groupName) return // bail out, leave this group's checkboxes as individual inputs
-
       const children = Array.from(wrapper.querySelectorAll(`input[type=checkbox]:not(.group-checkbox)`))
-      const allChecked = children.length > 0 && children.every(el => el.checked)
+      const childrenAllChecked = children.length > 0 && children.every(el => el.checked)
 
-      if (allChecked) {
+      if (childrenAllChecked) {
         children.forEach(el => { el.disabled = true })
+      }
+    })
+  }
 
-        const hidden = document.createElement(`input`)
-        hidden.type = `hidden`
-        hidden.name = `language`
-        hidden.value = `group:${groupName}`
-        hidden.dataset.groupHidden = `true`
-        this.form.appendChild(hidden)
+  removeEmptyFields(ev) {
+    if (ev.defaultPrevented) return
+
+    const fields = this.form.querySelectorAll(`input[name], select[name]`)
+
+    fields.forEach(field => {
+      // Skip checkboxes/radios - "empty" doesn't apply to them the same way;
+      // their inclusion is governed by `checked`, not value content.
+      if (field.type === `checkbox` || field.type === `radio`) return
+
+      if (!field.value.trim()) {
+        field.disabled = true
       }
     })
   }

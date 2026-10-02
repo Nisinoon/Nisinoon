@@ -8,8 +8,36 @@
       {{> help-text/help-text }}
     </header>
 
+    <fieldset class=sources>
+      <legend class=label>Sources</legend>
+      <table>
+        <thead>
+          <th scope=col>Form</th>
+          <th scope=col>UR</th>
+          <th scope=col>Proto-Algonquian</th>
+          <th scope=col>Gloss</th>
+          <th scope=col>Bibliography</th>
+          <th scope=col>Speaker</th>
+          <th scope=col>Notes</th>
+        </thead>
+        <tbody>
+          {{#each tokens as |token| }}
+          <tr>
+            <td class=txn lang='{{ ../ISO }}'>{{#if form }}{{ form }}{{else}}—{{/if}}</td>
+            <td class=txn lang='{{ ../ISO }}'>{{#if UR }}/{{ UR }}/{{else}}—{{/if}}</td>
+            <td class=txn lang=alg>{{#if PA }}{{ PA }}{{else}}—{{/if}}</td>
+            <td>{{#if gloss }}‘{{ gloss }}’{{else}}—{{/if}}</td>
+            <td>{{ bibliography }}</td>
+            <td>{{#if speaker }}{{ speaker }}{{else}}—{{/if}}</td>
+            <td>{{#if notes }}{{ notes }}{{else}}—{{/if}}</td>
+          </tr>
+          {{/each}}
+        </tbody>
+      </table>
+    </fieldset>
+
     <fieldset class=basics>
-      <legend class=label>Basics</legend>
+      <legend class=label>More Information</legend>
       <dl>
 
         {{#if form }}
@@ -53,35 +81,6 @@
       </dl>
     </fieldset>
 
-
-    <fieldset class=sources>
-      <legend class=label>Sources</legend>
-      <table>
-        <thead>
-          <th scope=col>Form</th>
-          <th scope=col>UR</th>
-          <th scope=col>Proto-Algonquian</th>
-          <th scope=col>Gloss</th>
-          <th scope=col>Bibliography</th>
-          <th scope=col>Speaker</th>
-          <th scope=col>Notes</th>
-        </thead>
-        <tbody>
-          {{#each tokens as |token| }}
-          <tr>
-            <td class=txn lang='{{ ../ISO }}'>{{#if form }}{{ form }}{{else}}—{{/if}}</td>
-            <td class=txn lang='{{ ../ISO }}'>{{#if UR }}/{{ UR }}/{{else}}—{{/if}}</td>
-            <td class=txn lang=alg>{{#if PA }}{{ PA }}{{else}}—{{/if}}</td>
-            <td>{{#if gloss }}‘{{ gloss }}’{{else}}—{{/if}}</td>
-            <td>{{ bibliography }}</td>
-            <td>{{#if speaker }}{{ speaker }}{{else}}—{{/if}}</td>
-            <td>{{#if notes }}{{ notes }}{{else}}—{{/if}}</td>
-          </tr>
-          {{/each}}
-        </tbody>
-      </table>
-    </fieldset>
-
     {{#if (or matches.AI matches.II matches.TA matches.TI) }}
     <fieldset>
       <legend class=label>Matches</legend>
@@ -119,7 +118,7 @@
     {{/if}}
 
     <fieldset>
-      <legend class=label>Additional Info</legend>
+      <legend class=label>Detailed Info</legend>
       <dl>
 
         {{#if (is type 'initial') }}
