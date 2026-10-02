@@ -71,6 +71,7 @@ export default class AdvancedSearch {
     
     this.form.addEventListener(`submit`, this.validate.bind(this))
     this.form.addEventListener(`submit`, this.compressLanguageGroups.bind(this))
+    this.form.addEventListener(`submit`, this.removeEmptyFields.bind(this))
   }
 
   render() {
@@ -104,6 +105,7 @@ export default class AdvancedSearch {
   resetValidity() {
     this.formBox.setCustomValidity(``)
     this.tagsBox.setCustomValidity(``)
+    this.form.querySelectorAll(`input, select`).forEach(el => { el.disabled = false })
   }
 
   save() {
@@ -281,6 +283,22 @@ export default class AdvancedSearch {
 
       if (childrenAllChecked) {
         children.forEach(el => { el.disabled = true })
+      }
+    })
+  }
+
+  removeEmptyFields(ev) {
+    if (ev.defaultPrevented) return
+
+    const fields = this.form.querySelectorAll(`input[name], select[name]`)
+
+    fields.forEach(field => {
+      // Skip checkboxes/radios - "empty" doesn't apply to them the same way;
+      // their inclusion is governed by `checked`, not value content.
+      if (field.type === `checkbox` || field.type === `radio`) return
+
+      if (!field.value.trim()) {
+        field.disabled = true
       }
     })
   }
