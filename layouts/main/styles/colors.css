@@ -21,4 +21,31 @@
   --ice-light:  hsl(var(--ice-hue) var(--ice-saturation) calc(var(--ice-lightness) + 20%));
   --plum-light: hsl(var(--plum-hue) var(--plum-saturation) calc(var(--plum-lightness) + 15%));
 
+  --color-bg: var(--off-white);
+  --color-text: var(--off-black);
+  --color-border: var(--pink-swan);
+  --color-accent: var(--plum);
+  --color-accent-light: var(--plum-light);
+  --color-link: var(--berry-blue);
+
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --color-bg: var(--off-black);
+    --color-text: var(--off-white);
+    --color-border: var(--martinique);
+    --color-accent: var(--ice-boutique);
+    --color-accent-light: var(--ice-light);
+    --color-link: var(--berry-blue);
+  }
+}
+
+:root[data-theme="dark"] {
+  --color-bg: var(--off-black);
+  --color-text: var(--off-white);
+  --color-border: var(--martinique);
+  --color-accent: var(--ice-boutique);
+  --color-accent-light: var(--ice-light);
+  --color-link: var(--berry-blue);
 }
