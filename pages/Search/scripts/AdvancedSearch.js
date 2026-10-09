@@ -68,8 +68,6 @@ export default class AdvancedSearch {
 
     this.advancedOption.addEventListener('click', this.restoreLanguages.bind(this))
 
-    
-    this.form.addEventListener(`submit`, this.validate.bind(this))
     this.form.addEventListener(`submit`, this.compressLanguageGroups.bind(this))
     this.form.addEventListener(`submit`, this.removeEmptyFields.bind(this))
   }

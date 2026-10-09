@@ -58,7 +58,6 @@ export default class QuickSearch {
 
     this.quickOption.addEventListener('click', this.restoreLanguages.bind(this))
 
-    this.form.addEventListener(`submit`, this.validate.bind(this))
     this.form.addEventListener(`submit`, this.compressLanguageGroups.bind(this))
     this.form.querySelectorAll(`input, select`).forEach(el => { el.disabled = false })
   }
