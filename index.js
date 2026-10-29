@@ -37,6 +37,7 @@ app.set(`views`, path.resolve(import.meta.dirname, `./pages`))
 app.use(helmet)
 app.use(vary)
 app.use(serveStatic(express))
+app.use(`/data/csv`, express.static(path.resolve(import.meta.dirname, `./data/csv`)))
 app.use(logger)
 app.use(issueLink)
 

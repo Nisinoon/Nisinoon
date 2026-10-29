@@ -149,7 +149,12 @@
         </div>
 
 
-        <label for=source-form-box>Form</label>
+        <label for=source-form-box>Form
+          <span class=tooltip>
+            <span class=info-button>ℹ</span>
+            <span class=tooltip-text>The component as written in the source’s own orthography, exactly as the source presents it.</span>
+          </span>
+        </label>
         <input
           autocomplete=on
           autocorrect=off
@@ -165,7 +170,12 @@
         >
 
 
-        <label for=gloss-box>Definition (Gloss)</label>
+        <label for=gloss-box>Definition (Gloss)
+          <span class=tooltip>
+            <span class=info-button>ℹ</span>
+            <span class=tooltip-text>The meaning of the component, in English.</span>
+          </span>
+        </label>
         <input
           autocomplete=on
           autocorrect=off
@@ -219,7 +229,7 @@
             Component Type
             <span class=tooltip>
               <span class=info-button>ℹ</span>
-              <span class=tooltip-text>Finals are components that appear at the end of a word and determine its transitivity.</span>
+              <span class=tooltip-text>The position the component takes in the word.</span>
             </span>
           </label>
           <select class=text-box id=type-select name=type>
@@ -234,6 +244,11 @@
             <div class=checkbox-field>
               <input {{#if query.primary }} checked {{/if}} id=primary-box name=primary type=checkbox>
               <label for=primary-box>Final: Primary</label>
+              <span class=tooltip>
+                <span class=info-button>ℹ</span>
+                <span class=tooltip-text>Finals are components that appear at the end of a word and determine its transitivity.</span>
+              </span>
+
             </div>
 
             <div class=checkbox-field>
@@ -241,6 +256,7 @@
               <label for=secondary-box>Final: Secondary</label>
             </div>
 
+            
           </fieldset><!-- CheckBox Fields -->
 
 
@@ -253,7 +269,12 @@
           </select>
 
 
-          <label for=tags-box>Semantic Tag(s)</label>
+          <label for=tags-box>Semantic Tag(s)
+            <span class=tooltip>
+              <span class=info-button>ℹ</span>
+              <span class=tooltip-text>Topic labels describing what the component relates to, such as body parts, plants, or motion.</span>
+            </span>
+          </label>
           <input
             autocomplete=on
             autocorrect=off

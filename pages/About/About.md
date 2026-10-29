@@ -55,6 +55,7 @@ This database is a web-based, open-access, centralized resource for Algonquian w
 - [Advisory Board](#advisory-board)
 - [What does Nisinoon mean?](#nisinoon-meaning)
 - [Basics of Algonquian Word Structure](#grammar)
+- [Orthographies](#orthographies)
 - [Algonquian Components Bibliography](#bibliography)
 - [How to Cite this Project](#how-to-cite)
 - [Former Team Members](#former-team-members)
@@ -90,6 +91,12 @@ This database is a web-based, open-access, centralized resource for Algonquian w
 ## Basics of Algonquian Word Structure {{> backlink/backlink }} {#grammar}
 
 [Read an overview of word structure in Algonquian languages here.](/grammar)
+
+## Orthographies {{> backlink/backlink }} {#orthographies}
+
+Compare how each source orthography writes the database's standardized symbols.
+
+<a href="/data/csv/orthographies.csv" download="nisinoon-orthographies.csv">Download the orthography data (CSV)</a>
 
 ## Algonquian Components Bibliography {{> backlink/backlink }} {#bibliography}
 
